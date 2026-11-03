@@ -35,14 +35,22 @@ What to build, in what priority, and what counts as done is in `PRD.md` (§4 fea
   or slide. Unsourced law is worse than a gap — mark it `TODO: verify`.
 - **Pre-writes (Written Papers `drp-w`, `eth-w`, `pcp-w`):** I-CRUPAC — Issue,
   Conclusion, Rule, Proof/Precedent, Application & analysis, restated Conclusion. Prose
-  only, no bullets (the exam does not allow them); about 150–300 words, so it can be
-  retyped in ~5 minutes (pasting is not allowed). In the text: cases by name in brackets
+  only, no bullets (the exam does not allow them). **Rule in full box** (PRD FR-4): the
+  Rule part stays a short, retypeable statement; straight after it, a box of `>` lines
+  gives the main rule's full text with any criteria, exceptions, powers or case factors
+  it relies on (e.g. the PD 9.1.1 powers and how to check a power is real; the *Harsha*
+  factors). In the box each limb is its own `- ` line and sub-limbs indent two spaces per
+  level; it is reference only and not retyped. Proof, Application and the restated
+  Conclusion are written out, phrased "the lawyer did / did not breach r X, which states
+  …" or "here, r X applies, which states that …". Model answers state the rules in full
+  inline. No word cap; pasting is not allowed. In the text: cases by name in brackets
   with the paragraph number where the sources give one, statutes by section. Never cite
   lecture notes or slides as authority. The `Bar Exam/` path and page go in a source
   note under the Pre-write, which is not retyped. Application is a pattern (trigger facts
   and how to apply), not a worked answer.
 - **Flowcharts (MCQ Papers):** one per Topic. Start from question cues, branch to the
-  Sub-point, end at the rule or answer with its source. Labels are text, not images, so
+  Sub-point, end at the rule or answer with its source. An end-point block that gives a
+  rule keeps its 1–2 sentence answer and adds a Rule in full box, as for Pre-writes. Labels are text, not images, so
   Ctrl-F finds them. Correct and clear beats pretty.
 - **Coverage List first:** a Subject's Topics and Sub-points are listed from its
   syllabus, learning plan and Course Materials before any Pre-write or Flowchart.

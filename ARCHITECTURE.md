@@ -124,8 +124,8 @@ flowchart TD
 
     | File | Body |
     | --- | --- |
-    | `prewrites.md` | An I-CRUPAC Pre-write with bold part labels |
-    | `flowcharts.md` | `**End point:**` followed by the rule or answer in 1–2 sentences |
+    | `prewrites.md` | An I-CRUPAC Pre-write with bold part labels, and a `>` Rule in full box after the Rule part |
+    | `flowcharts.md` | `**End point:**` followed by the rule or answer in 1–2 sentences, plus a `>` Rule in full box where it gives a rule |
     | `templates.md` | What this part of the document must contain, and the common mistakes |
 
   - **Preamble:** text before a file's first `## ` is that file's preamble and goes into the pack as is, e.g. stock opening and closing lines.

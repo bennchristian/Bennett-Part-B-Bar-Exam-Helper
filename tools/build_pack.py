@@ -109,6 +109,15 @@ def md(text, charts, where):
             out.append(charts.add(src, where) if lang == "mermaid" else f"<pre>{html.escape(src)}</pre>")
             i = j + 1
             continue
+        if ln.startswith(">"):  # a run of '>' lines is a rule box; its inside is Markdown too
+            flush()
+            j = i
+            while j < len(lines) and lines[j].startswith(">"):
+                j += 1
+            inner = [re.sub(r"^> ?", "", t) for t in lines[i:j]]
+            out.append(f"<div class='box'>{md(chr(10).join(inner), charts, where)}</div>")
+            i = j
+            continue
         h = re.match(r"(#{1,6}) +(.*)", ln)
         if h:
             flush()
@@ -366,6 +375,11 @@ td.pg{white-space:nowrap;width:4em} a{color:#003b8e;text-decoration:none}
 .secs p{margin:0 0 3px;font-size:9pt} .idx{column-count:2;column-gap:16px;font-size:8.5pt}
 .idx p{margin:0 0 2px;break-inside:avoid} .idx h4{margin:6px 0 2px}
 pre{font-size:8.5pt;white-space:pre-wrap} li.d1{margin-left:14px} li.d2{margin-left:28px}
+.box{border:1px solid #888;background:#f6f6f6;padding:4px 8px;margin:4px 0 8px;font-size:9.5pt;break-inside:auto}
+.block:has(.box){break-inside:auto}
+.kw,.box > p:first-child{break-after:avoid} .kw{break-inside:avoid} .box p,.box li{orphans:3;widows:2}
+.box p{margin:0 0 3px} .box ul,.box ol{list-style:none;padding-left:0;margin:0 0 3px}
+.box li.d0{margin-left:0} .box li.d1{margin-left:16px} .box li.d2{margin-left:32px} .box li.d3{margin-left:48px}
 """
 
 

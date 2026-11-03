@@ -7,21 +7,38 @@ feeds open ones into the tracker's `notes` for `eth-w`.
 
 ## Weak Spots (from marked work)
 
-| # | Found in | Sub-point | Gap | Fix (Pre-write / index entry) | Status |
-|---|---|---|---|---|---|
-| — | — | — | None yet: Drill 1 awaits Bennett's answer; no Practice Paper sat | — | — |
+Columns follow ARCHITECTURE's Weak Spot convention. *Kind* is `wrong law`, `missed issue`
+or `failed lookup`; *Fix* names the content ID and what changed (`keywords`, `title`,
+`body` or `new block`).
+
+| ID | Date | From | Sub-point | Kind | Gap | Fix | Status |
+|---|---|---|---|---|---|---|---|
+| — | — | — | — | — | None yet: Drill 1 and `pyp-2023` await Bennett's answers | — | — |
 
 ## Open `TODO: verify` in the Reference Pack (SM-5: none may remain at exam time)
 
 | Pre-write | Point | How to close |
 |---|---|---|
-| — | None open (all four closed 3 Nov 2026; see Resolved) | — |
+| — | None open in the pack. All 20 flagged on 3 Nov 2026 were closed the same evening from the judgments on eLitigation, Singapore Statutes Online and the Supreme Court website; pinpoints are in each Source note | — |
+
+Corrections the checks forced (3 Nov 2026):
+- *Udeh Kumar* categories are at [105]–[107], [109], not [25]–[30].
+- *Chia Choon Yang* factors are at [40]–[41], not [44]–[55].
+- *Legis Point* is a fee-cap case, not a party-and-party-costs cap.
+- *Public Trustee* [31] is about the duty to the court generally, not default judgment; the r 28 use is L6's.
+- *Perez De La Sala*'s three rules are at [137]–[140]: no supplanting the witness's evidence, no lengthy or repetitive drilling, no group preparation.
+- *Bachoo Mohan Singh* pinpoints are in [2010] SGCA 25, not [2010] 1 SLR 966.
+- *de Souza* [160]–[168], [207] is Ramesh JAD's concurrence; the majority's no-intention finding is at [91], [126].
+- *Wan Hui Hong James*: written confirmation comes from the adviser, and absent advice the lawyer declines the gift ([18]).
+- Supreme Court PD 2021 para 71 covers without-notice injunctions only; para 21(2) covers correspondence with the court.
+- ITA s 65B(2)(b) preserves privilege; CPC s 20(5) and IRDA s 334 are silent.
+
+`model-answers.md` has no open `TODO: verify` since 3 Nov 2026, 18:51.
 
 ## Known gaps (not Weak Spots yet)
 
 - **Untested Sub-points with no Pre-write:** none since 3 Nov 2026 (eth-w-0-35 to 0-70 added).
-- **Cases cited without a pinpoint**, because the sources give none: *Lim Oon Kuin*,
-  *Govindan Balan Nair*, *Naidu Priyalatha*, *Leong Pek Gan*, *Su Ah Tee*, *Thirumurthy*
+- **Cases cited without a pinpoint**, because the sources give none: *Naidu Priyalatha*, *Su Ah Tee*, *Thirumurthy*
   (2022), *Chong Wai Yen Michael*, *Kurubalan*, *Tan See Leh Jonathan*, *Yeo Siew Chye Troy*.
   Under PRD FR-4 these are not TODOs.
 - **Syllabus cases not yet read** (relevant only to item-4 Sub-points): *Ezekiel Peter

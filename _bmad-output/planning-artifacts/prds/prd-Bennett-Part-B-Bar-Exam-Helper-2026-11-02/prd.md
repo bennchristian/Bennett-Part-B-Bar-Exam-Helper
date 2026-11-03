@@ -141,8 +141,8 @@ single PDF.
 Session writes Pre-writes until every Sub-point has at least one. Each Pre-write
 follows I-CRUPAC. It cites cases by name in brackets with the paragraph relied on
 (Opening Brief slide 50), plus the statute section. It is written as prose, because the
-exam does not allow bullet points. It is short enough to retype under time pressure,
-since pasting is not allowed.
+exam does not allow bullet points. Its Rule part is short enough to retype, with the
+rule's full text in a box beside it for reference, since pasting is not allowed.
 
 #### FR-3: Pre-write coverage
 
@@ -155,7 +155,8 @@ Paper Subject, Written Advocacy excepted.
 
 #### FR-4: Pre-write form
 
-Every Pre-write follows I-CRUPAC, is written as prose, and cites its law.
+Every Pre-write follows I-CRUPAC, is written as prose, gives its rule in full in a box,
+and cites its law.
 
 **Consequences (testable):**
 - All six I-CRUPAC parts are present. Part labels are there for lookup only and are not
@@ -169,7 +170,16 @@ Every Pre-write follows I-CRUPAC, is written as prose, and cites its law.
   note is marked `TODO: verify`. A case whose paragraph number the sources don't give is
   not a TODO.
 - No Pre-write cites lecture notes or slides as authority (Opening Brief slide 50).
-- A Pre-write is roughly 150–300 words, short enough to retype in about 5 minutes.
+- **Rule part:** a short statement of the rule that Bennett can retype.
+- **Rule in full box:** straight after the Rule part, a box gives the full text of the
+  main rule, with any criteria, exceptions, powers or case factors it relies on (for
+  example, the PD 9.1.1 powers and how to check a power is real; the *Harsha* factors).
+  Each limb is on its own line and sub-limbs are indented one step. The box is for
+  reference and is not retyped; Bennett takes from it what fits the facts.
+- Proof, Application and the restated Conclusion are written in full, phrased as "the
+  lawyer did / did not breach r X, which states …" or "here, r X applies, which states
+  that …". Model answers state the rules in full inline.
+- No word cap (changed by Bennett on 3 Nov 2026; was 150–300 words).
 
 #### FR-5: Written Advocacy Templates
 
@@ -370,14 +380,14 @@ Pre-writes are finished from its outline in time left over during Block 2.
 3. How is accuracy checked beyond the author's own `TODO: verify` flags? Revisit if a
    Practice Paper turns up a wrong Pre-write or Flowchart. Owner: Main Session.
 4. Can a full written answer be retyped from Pre-writes within the 2 hours? Measure in
-   the first written Practice Paper and adjust the FR-4 length if not. Owner: Written
+   the first written Practice Paper; if not, Bennett decides what to retype less of. Owner: Written
    Paper Sessions.
 5. Exactly where should outputs live, and in what file format, under `study/<paper-id>/`?
    Owner: `bmad-architecture` / `SCHEMA.md`.
 
 ## 10. Assumptions Index
 
-None open. Confirmed by Bennett on 2 Nov 2026: Pre-writes run 150–300 words (FR-4); a
-failed lookup counts as a Weak Spot (FR-10); Pre-writes on Sub-points the past papers
+None open. Changed by Bennett on 3 Nov 2026: Pre-writes keep a short Rule part, add a
+Rule in full box, and have no word cap (FR-4). Confirmed by Bennett on 2 Nov 2026: a failed lookup counts as a Weak Spot (FR-10); Pre-writes on Sub-points the past papers
 have tested cannot be cut (§7); target of zero unresolved failed lookups (SM-4); the
 Tracker level meanings and the `full[paperId]` write (FR-11).

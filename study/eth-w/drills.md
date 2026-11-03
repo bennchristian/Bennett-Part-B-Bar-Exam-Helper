@@ -11,13 +11,16 @@ Self-study practice only — never use this for a live quiz, the Mock Exam or th
 | # | Date | Topic | Marks | Time | Result |
 |---|---|---|---|---|---|
 | 1 | 2 Nov 2026 | Drill (QB-23, tier 3): gifts to a lawyer's family, unrepresented non-client, confidentiality; confession and surety in criminal defence — Sub-points II.24, II.19, II.10, IV.10, III.15, III.8 | 30 | 36 min | Awaiting Bennett's answer |
-| PP-1 | 2 Nov 2026 | Practice Paper (PRD §7 item 3): 2023 paper (PYP23), Q1 conflicts (50) + Q2 lawyer-as-witness and publicity (50) | 100 | 120 min | Awaiting Bennett's answer |
+| PP-1 (`pyp-2023`) | 2 Nov 2026 | Practice Paper (PRD §7 item 3): 2023 paper (PYP23), Q1 conflicts (50) + Q2 lawyer-as-witness and publicity (50) | 100 | 120 min | Awaiting Bennett's answer |
 
 ## Practice Paper 1 — 2023 paper (set 2 Nov 2026)
 
-Bennett confirmed on 2 Nov that he has **not** sat any full ETH paper yet. The tracker's
-`full` entry for `eth-w` at "done" is therefore wrong; the main session should correct it,
-with Bennett's agreement.
+**ID:** `pyp-2023` (ARCHITECTURE AD-8). **Covers:** 0.
+
+Bennett confirmed on 2 Nov that he had **not** sat any full ETH paper by then. The legacy
+`full` entry for `eth-w` was removed on 2 Nov (tracker v31, read 3 Nov: `full.eth-w` is
+`[]`). Once this paper is marked, the main session asks Bennett before adding
+`{id: "pyp-2023", name: "pyp-2023 · covers 0", s: 1}`.
 
 **Paper:** `Bar Exam/Seniors Notes/Nic_s Part B Package/3. PYP/2023 PYP/EPR.pdf`, pages 2–4
 (page 1 is the cover). Two questions, 50 marks each, sub-questions 1.1–1.3 and 2.1–2.3.
