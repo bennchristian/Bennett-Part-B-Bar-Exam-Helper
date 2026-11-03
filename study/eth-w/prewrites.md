@@ -92,7 +92,7 @@ incompatible business (s 83(2)(i)).
 *Keywords: r 3, application, practising certificate, s 15 admission, regulated foreign lawyer, registered foreign lawyer, law practice, Joint Law Venture, Formal Law Alliance, Qualifying Foreign Law Practice, r 4, principles, spirit of the rules, paramount duty, access to justice, keep up to date, Then Khek Khoon*
 
 **I** The issue is whether the PCR [Part X / r X] apply to [person / law practice] and how they are read. **C** [Part X / r X] [applies / does not apply] to [person], because r 3 PCR applies Part [X] to [category].
-**R** Part 2 (rr 5–8A) applies to every
+**R** Part 2 (rules 5 to 8A) applies to every
 solicitor with a practising certificate, every person admitted under s 15 of the Legal
 Profession Act 1966 and every regulated foreign lawyer; Part 3 (practice of Singapore law and
 in Singapore courts) applies to solicitors with practising certificates and s 15 admittees,
@@ -104,26 +104,26 @@ fairness and courtesy to every person; and keeping up to date with the law (r 4(
 
 > **Rule in full**
 > - Rule 3 PCR applies.
-> - Rule 3(1) states that Part 2 (rr 5–8A: the client, other legal practitioners and other persons) applies to
+> - Rule 3(1) states that Part 2 (rules 5–8A: the client, other legal practitioners and other persons) applies to
 >   - (a) every solicitor who has in force a practising certificate or is registered under s 36F of the Act;
 >   - (b) every person admitted under s 15 of the Act; and
 >   - (c) every regulated foreign lawyer.
-> - Rule 3(2) states that Division 1 of Part 3 (rr 9–15B, the administration of justice), insofar as it relates to any relevant proceedings or relevant appeal, applies to
+> - Rule 3(2) states that Division 1 of Part 3 (rules 9–15B, the administration of justice), insofar as it relates to any relevant proceedings or relevant appeal, applies to
 >   - (a) every solicitor who has in force a practising certificate;
 >   - (b) every person admitted under s 15; and
 >   - (c) every regulated foreign lawyer registered under s 36P.
 > - Rule 3(3) states that Division 1 of Part 3, insofar as it relates to any other proceedings before a court, applies to
 >   - (a) every solicitor who has in force a practising certificate; and
 >   - (b) every person admitted under s 15.
-> - Rule 3(4) states that, except as provided in paragraphs (2) and (3), Part 3 (rr 9–34) applies to
+> - Rule 3(4) states that, except as provided in paragraphs (2) and (3), Part 3 (rules 9–34) applies to
 >   - (a) every solicitor who has in force a practising certificate or is registered under s 36F;
 >   - (b) every person admitted under s 15; and
 >   - (c) every foreign lawyer registered under s 36B.
-> - Rule 3(5) states that Division 2 of Part 3 (rr 16–26) applies
+> - Rule 3(5) states that Division 2 of Part 3 (rules 16–26) applies
 >   - (a) to every Singapore law practice; and
 >   - (b) in connection with the practice of Singapore law, to every Joint Law Venture, Formal Law Alliance, Qualifying Foreign Law Practice and licensed foreign law practice.
-> - Rule 3(6) states that Part 4 (management, rr 35–36) applies to every law practice.
-> - Rule 3(7) states that Part 5 (touting and publicity, rr 37–49) applies
+> - Rule 3(6) states that Part 4 (management, rules 35–36) applies to every law practice.
+> - Rule 3(7) states that Part 5 (touting and publicity, rules 37–49) applies
 >   - (a) to every solicitor who has in force a practising certificate or is registered under s 36F, every person admitted under s 15 and every foreign lawyer registered under s 36B;
 >   - (b) to every Singapore law practice; and
 >   - (c) in connection with the practice of Singapore law, to every Joint Law Venture, Formal Law Alliance, Qualifying Foreign Law Practice and licensed foreign law practice.
@@ -2183,8 +2183,8 @@ proceedings (GN 5.6.1 para 8).
 > - PD 5.2.1 Part C states that any fee arrangement providing for solicitor and client costs contingent on the amount of party and party costs recovered by the client breaches s 107 and r 18, because the solicitor would have an interest in the subject matter of the litigation.
 > - There is one statutory exception, which the syllabus marks non-examinable.
 > - Section 107(3AA) states that s 107 does not prevent a solicitor from entering into a conditional fee agreement that complies with Part 8A, and r 18A
->   - (1) states that rr 17 and 18 do not prevent entering into such an agreement or charging fees payable only in the circumstances it specifies; r 18A
->   - (2) keeps rr 17 and 18 applying in all other respects.
+>   - (1) states that rules 17 and 18 do not prevent entering into such an agreement or charging fees payable only in the circumstances it specifies; r 18A
+>   - (2) keeps rules 17 and 18 applying in all other respects.
 > - A "conditional fee agreement" is an agreement on the remuneration and costs of contentious proceedings that provides for them, or part of them, to be payable only in specified circumstances, and may provide for an uplift fee (s 115A(1)); it may be made only in "prescribed proceedings" (s 115B(1)), which in broad terms are international and domestic arbitration, certain SICC proceedings, and court and mediation proceedings related to them (GN 5.6.1 para 8); it must be in writing and signed by the client, and must not provide for remuneration payable as a percentage or proportion of the damages or other amounts recovered (s 115B(4)(a)–(b)).
 > - GN 5.6.1 para 6 states that contingency fee agreements, where the lawyer takes an agreed percentage of the sum recovered, continue to be prohibited.
 
@@ -2247,7 +2247,7 @@ Withdrawals over $5,000 need two solicitors' signatures, and no solicitor with l
 >   - (c) conveyancing money or anticipatory conveyancing money.
 > - A "client account" is a current or deposit account in the solicitor's name at a bank, or a deposit account with an approved finance company, with the word "client" in its title, and "solicitor" includes a Singapore law practice.
 > - Rule 3(1) states that, subject to r 9, every solicitor who holds or receives client's money shall without delay pay it into a client account.
-> - Rule 6(1) states that no money other than money which rr 3(1), 4 and 5(3) require or permit to be paid in shall be paid into a client account, and r 6(2) requires money paid in wrongly to be withdrawn without delay on discovery.
+> - Rule 6(1) states that no money other than money which rules 3(1), 4 and 5(3) require or permit to be paid in shall be paid into a client account, and r 6(2) requires money paid in wrongly to be withdrawn without delay on discovery.
 > - Rule 9 sets out the exceptions: there is no obligation to pay in client's money
 >   - (a) received in cash and paid out without delay in cash to or for the client;
 >   - (b) received as a cheque endorsed over to or for the client without passing through a bank account; or
