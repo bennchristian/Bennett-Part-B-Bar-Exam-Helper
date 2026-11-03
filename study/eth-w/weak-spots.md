@@ -13,7 +13,9 @@ or `failed lookup`; *Fix* names the content ID and what changed (`keywords`, `ti
 
 | ID | Date | From | Sub-point | Kind | Gap | Fix | Status |
 |---|---|---|---|---|---|---|---|
-| — | — | — | — | — | None yet: Drill 1 and `pyp-2023` await Bennett's answers | — | — |
+| WS-1 | 3 Nov 2026 | `pyp-2023` Q2.2 | III.12 | failed lookup | Searching "take over" found nothing useful; Bennett had to find eth-w-0-23 by hand | eth-w-0-23 `title` ("take over or act instead") and `keywords` (take over, take over conduct, taking over, colleague takes over, another lawyer in the firm, same firm, continue to act, lawyer as witness, material witness) | fixed |
+| WS-2 | 3 Nov 2026 | `pyp-2023` Q2.2 | III.12 | wrong law | The Application and Conclusion listed only three r 22(4)(a) conditions and left out (iii): if the client gets no independent advice, the firm must ensure the client does not think the firm is protecting the client's interests | eth-w-0-23 `body` (A and C now give all four, r 22(4)(a)(i)–(iv)); the same gap fixed in the `body` of eth-w-0-13 (C), 0-14 (R, C) and 0-42 (A) | fixed |
+| WS-3 | 3 Nov 2026 | Pack check while fixing WS-2 | I.1, II.19, III.12, V.2, V.4, VII.3, VII.5 | wrong law | Seven Rule in full lines were split mid-sentence, so a cross-reference showed as a separate limb: r 22(3)(a)(iv) and r 22(4)(a)(iv) ("despite" / "(i) and (ii) …"), s 83(1)(e), s 77(3), s 75D(1), r 18A(1)–(2), r 17(3)(c) | `body` (Rule in full box) of eth-w-0-35, 0-13, 0-23, 0-27, 0-65, 0-33, 0-70: lines rejoined | fixed |
 
 ## Open `TODO: verify` in the Reference Pack (SM-5: none may remain at exam time)
 

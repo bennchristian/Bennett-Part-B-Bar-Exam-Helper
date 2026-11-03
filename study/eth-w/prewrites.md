@@ -63,9 +63,7 @@ incompatible business (s 83(2)(i)).
 >   - (b) to be suspended from practice for a period not exceeding 5 years;
 >   - (c) to pay a penalty of not more than $100,000;
 >   - (d) to be censured; or
->   - (e) to suffer the penalty in
->   - (c) in addition to the punishment in
->   - (b) or (d).
+>   - (e) to suffer the penalty in (c) in addition to the punishment in (b) or (d).
 > - Section 83(2) states that due cause may be shown by proof that an advocate and solicitor
 >   - (a) has been convicted of a criminal offence, implying a defect of character which makes him or her unfit for his or her profession;
 >   - (b) has been guilty of fraudulent or grossly improper conduct in the discharge of his or her professional duty, or guilty of such a breach of
@@ -634,8 +632,7 @@ informed written consent (r 22(3)(a), (4)(a) PCR).
 >     - (i) the legal practitioner makes a full and frank disclosure of the adverse interest to the client;
 >     - (ii) the legal practitioner advises the client to obtain independent legal advice;
 >     - (iii) if the client does not obtain independent legal advice, the legal practitioner ensures that the client is not under an impression that the legal practitioner is protecting the client's interests; and
->     - (iv) despite
->     - (i) and (ii), the client gives informed consent in writing to the legal practitioner acting, or continuing to act, on the client's behalf; or
+>     - (iv) despite (i) and (ii), the client gives informed consent in writing to the legal practitioner acting, or continuing to act, on the client's behalf; or
 >   - (b) in any other case, the legal practitioner must withdraw unless
 >     - (i) the legal practitioner makes a full and frank disclosure of the interest to the client; and
 >     - (ii) despite (i), the client gives informed consent in writing to the legal practitioner acting, or continuing to act, on the client's behalf.
@@ -644,17 +641,18 @@ informed written consent (r 22(3)(a), (4)(a) PCR).
 
 **P** Where the dispute could prima facie be said to have been caused by the way the firm handled the transaction, the lawyer and his partner should have discharged themselves and advised the client to seek independent legal advice (*Ho Kon Kim v Betsy Lim Gek Kim* [2001] SGCA 64 at [61]–[63]). The rule protects the client, so it is the client, not the opponent, who must be the aggrieved party (*Then Khek Khoon v Arjun Permanand Samtani* [2012] 2 SLR 451 at [30]–[36]). A lawyer who had the client sign an unusual statutory declaration authorising payments to parties who referred clients to him put their interests and his own ahead of the client's, and was suspended for 2 years (*Law Society of Singapore v Tan Phuay Khiang* [2007] 3 SLR(R) 477). A lawyer who persuaded a client into an investment scheme and to pay money to a company he owned preferred his own interests (*Law Society of Singapore v Tan Chun Chuen Malcolm* [2020] SGHC 166). Personal and sexual relationships between solicitors and their clients are clearly wrong (*Law Society of Singapore v Singham Dennis Mahendran* [2001] 1 SLR(R) 1). Contrast *Law Society of Singapore v Udeh Kumar s/o Sethuraju* [2013] 3 SLR 875, where a lawyer appointed at a moneylender's request, who applied to court to resolve conflicting claims to the sale proceeds, was acquitted because no conflict of interests was found.
 
-**A** First, identify the interest and whose it is: [the firm's own drafting or advice is in issue / a negligence claim is threatened against a firm lawyer / the lawyer's spouse owns the counterparty / the firm wants to keep a lucrative referrer]. It belongs to [the lawyer / an immediate family member / the law practice], so r 22(3) [r 22(4)] applies. Second, is it adverse? [The firm has an interest in defending its own work and avoiding liability, which may diverge from the client's interest in the best outcome], so r 22(3)(a) applies. Third, run the four conditions: [Lawyer] [did / did not] fully and frankly disclose the interest; [did / did not] advise independent legal advice; [did / did not] make sure the client did not think [Lawyer] was protecting the client's interests; and [did / did not] get informed written consent. If the interest is not adverse, only full and frank disclosure and informed written consent are needed (r 22(3)(b)). A merely commercial wish to keep a client is not a PCR conflict, but it must not drive the advice. **C** [Lawyer/Firm] [breached r 22(2) and r 22(3)(a) by continuing to act / may continue only after disclosing the interest and getting informed written consent following advice to seek independent advice, or must withdraw].
+**A** First, identify the interest and whose it is: [the firm's own drafting or advice is in issue / a negligence claim is threatened against a firm lawyer / the lawyer's spouse owns the counterparty / the firm wants to keep a lucrative referrer]. It belongs to [the lawyer / an immediate family member / the law practice], so r 22(3) [r 22(4)] applies. Second, is it adverse? [The firm has an interest in defending its own work and avoiding liability, which may diverge from the client's interest in the best outcome], so r 22(3)(a) applies. Third, run the four conditions: [Lawyer] [did / did not] fully and frankly disclose the interest; [did / did not] advise independent legal advice; [did / did not] make sure the client did not think [Lawyer] was protecting the client's interests; and [did / did not] get informed written consent. If the interest is not adverse, only full and frank disclosure and informed written consent are needed (r 22(3)(b)). A merely commercial wish to keep a client is not a PCR conflict, but it must not drive the advice. **C** [Lawyer/Firm] [breached r 22(2) and r 22(3)(a) by continuing to act / may continue only after full and frank disclosure of the interest, advice to seek independent legal advice, ensuring that the client, if not independently advised, is not under the impression that [Lawyer/Firm] is protecting the client's interests, and the client's informed consent in writing (r 22(3)(a)(i)–(iv), (4)(a)(i)–(iv)), or must withdraw].
 
 *Source note: r 2(1) PCR p5; r 22(1)–(4) PCR p40–42; L3 p3–6; Ho Kon Kim at [61]–[63] and Then Khek Khoon at [30]–[36] SYL p6 (r 11 section; SYL p3 gives Ho Kon Kim at [63]), facts L3 p9–10; Tan Phuay Khiang L3 p8; Tan Chun Chuen Malcolm SYL p4 ([2020] SGHC 166; L3 p12 cites it as [2020] 5 SLR 946); Singham Dennis Mahendran L3 p11; Udeh Kumar L3 p7, SYL p3. Tested PYP22 (b), PYP23 Q2.2, PS1 Q2, PYP21 Q1.2.*
 
 ### eth-w-0-14 — Concealing own fault; extracting a waiver from the client
 *Keywords: waiver, release, deed, own negligence, conceal, r 22(3)(a), r 5(2)(a), r 5(2)(b), honesty, duty to inform, Govindan Balan Nair, exclusion of liability, limitation of liability, PD 7.1.2, s 112(5) LPA, independent legal advice, s 83(2)(b) LPA*
 
-**I** The issue is whether [Lawyer] acted properly in [obtaining a release from the client / continuing to act after a mistake]. **C** [Lawyer] breached r 22(3)(a) PCR, which requires a lawyer with an interest adverse to the client to withdraw unless he makes full and frank disclosure, advises independent legal advice and obtains informed written consent, and also breached r 5(2)(a) and (b) PCR.
+**I** The issue is whether [Lawyer] acted properly in [obtaining a release from the client / continuing to act after a mistake]. **C** [Lawyer] breached r 22(3)(a) PCR, which requires a lawyer with an interest adverse to the client to withdraw unless the lawyer makes full and frank disclosure, advises the client to obtain independent legal advice, ensures that the client, if not independently advised, is not under the impression that the lawyer is protecting the client's interests, and obtains the client's informed consent in writing, and also breached r 5(2)(a) and (b) PCR.
 **R** A lawyer must not act where their own interest conflicts with the client's, and
-an adverse personal interest requires full disclosure, advice to get independent legal
-advice and informed written consent (r 22(2)–(3)(a) PCR). The lawyer must be honest with
+an adverse personal interest requires full and frank disclosure, advice to get independent legal
+advice, ensuring the client does not think the lawyer is protecting the client's interests if no
+advice is taken, and informed written consent (r 22(2)–(3)(a) PCR). The lawyer must be honest with
 the client and tell them everything that may reasonably affect their interests (r 5(2)(a)–(b)
 PCR).
 
@@ -785,7 +783,7 @@ independent valuation (r 24(1)–(2) PCR).
 
 **P** Rule 24 is expressly subject to the general law on fiduciary relationships, and the conflict rules in r 22 continue to apply, so a fair price alone does not cure a failure to disclose or to advise independent advice.
 
-**A** On r 24(1), [Lawyer] agreed to buy [the client's car / flat / shares] for [$X], [below / at] the market value of [$Y], so the price [is / is not] the prevailing market price or a reasonable price. On r 24(2), an independent valuation [was / was not] obtained, and [it was practicable, since a valuer could easily be found / it was impracticable because [facts]]. On r 22(3)(a), [Lawyer] [was / was not] acting for the client in the sale, [did / did not] disclose the adverse interest, and [did / did not] advise independent legal advice and get informed written consent. **C** [The purchase complies with r 24 / [Lawyer] breached r 24(1) [and (2)] and r 22(3)(a)]; [Lawyer] should obtain an independent valuation and insist the client is separately advised.
+**A** On r 24(1), [Lawyer] agreed to buy [the client's car / flat / shares] for [$X], [below / at] the market value of [$Y], so the price [is / is not] the prevailing market price or a reasonable price. On r 24(2), an independent valuation [was / was not] obtained, and [it was practicable, since a valuer could easily be found / it was impracticable because [facts]]. On r 22(3)(a), [Lawyer] [was / was not] acting for the client in the sale, [did / did not] fully and frankly disclose the adverse interest, [did / did not] advise independent legal advice, [did / did not] ensure that the client, if not independently advised, was not under the impression that [Lawyer] was protecting the client's interests, and [did / did not] get informed written consent (r 22(3)(a)(i)–(iv)). **C** [The purchase complies with r 24 / [Lawyer] breached r 24(1) [and (2)] and r 22(3)(a)]; [Lawyer] should obtain an independent valuation and insist the client is separately advised.
 
 *Source note: r 24 PCR p46–47, L3 p19; r 22(3)(a) PCR p41; Cyril Master Notes §II.6 (secondary). No case on r 24 in the sources.*
 
@@ -1388,8 +1386,8 @@ affidavit on formal or undisputed facts (PD 1.7.1).
 
 *Source note: r 11(1), (3) PCR p21–22; PD 1.7.1 p1; r 26(6) PCR p50; Ho Kon Kim at [61]–[63] SYL p6 ([63] L4 p35), facts L4 p35; rationale L4 p34. Tested PYP22 (a), PYP23 Q2.1.*
 
-### eth-w-0-23 — Can a colleague in the same firm act instead? r 11(3)(b)
-*Keywords: r 11(3)(b), law practice may continue, colleague, partner takes over, prejudice the administration of justice, firm's own conduct in issue, Ho Kon Kim, r 22, r 22(2), r 22(4), law practice's own interest, informed consent in writing, independent legal advice*
+### eth-w-0-23 — Can a colleague in the same firm take over or act instead? r 11(3)(b)
+*Keywords: r 11(3)(b), take over, take over conduct, taking over, colleague takes over, another lawyer in the firm, same firm, law practice may continue, continue to act, lawyer as witness, material witness, colleague, partner takes over, prejudice the administration of justice, firm's own conduct in issue, Ho Kon Kim, r 22, r 22(2), r 22(4), law practice's own interest, informed consent in writing, independent legal advice*
 
 **I** The issue is whether [Firm] may continue to act through [colleague] once [Lawyer] steps aside. **C** [Firm] [may / may not] continue to act, because r 11(3)(b) PCR allows the law practice or a member of it to represent the party unless doing so would prejudice the administration of justice.
 **R** Even where a lawyer is a
@@ -1407,15 +1405,14 @@ not act where its own interests conflict with the client's (r 22(2), (4) PCR).
 >     - (i) it makes a full and frank disclosure of the adverse interest to the client;
 >     - (ii) it advises the client to obtain independent legal advice;
 >     - (iii) if the client does not obtain independent legal advice, it ensures that the client is not under an impression that the law practice is protecting the client's interests; and
->     - (iv) despite
->     - (i) and (ii), the client gives informed consent in writing to the law practice acting or continuing to act; or
+>     - (iv) despite (i) and (ii), the client gives informed consent in writing to the law practice acting or continuing to act; or
 >   - (b) in any other case, the law practice must withdraw unless
 >     - (i) it makes a full and frank disclosure of the interest to the client; and
 >     - (ii) despite that, the client gives informed consent in writing.
 
 **P** In *Ho Kon Kim v Betsy Lim Gek Kim* [2001] SGCA 64 at [61]–[63], neither the conveyancing partner nor the litigation partner should have acted: first, the conveyancing partner would be a material witness; second, the partners had an interest in the case, as it was their firm that had acted in the property transaction.
 
-**A** The question under r 11(3)(b) is whether [colleague] acting would prejudice the administration of justice. Weigh [colleague]'s independence from the witness: [never involved in the transaction / was the witness's trainee and is junior to them / small two-partner firm]. Weigh whether the firm's own conduct is attacked: if the defence says the firm misled the other party, [colleague] would be cross-examining or relying on a partner's evidence about the firm's own conduct, with an interest in vindicating the firm. That risks the appearance of justice, as in *Ho Kon Kim*, and gives the firm an interest adverse to the client under r 22(2) and r 22(4)(a), so the firm could act only after full disclosure, advice to get independent legal advice, and written informed consent. **C** On balance [Firm] [may not continue, and the client should be advised to instruct another firm / may continue only with full disclosure, advice to obtain independent legal advice, informed written consent under r 22(4)(a), and strict separation from [Lawyer]].
+**A** The question under r 11(3)(b) is whether [colleague] acting would prejudice the administration of justice. Weigh [colleague]'s independence from the witness: [never involved in the transaction / was the witness's trainee and is junior to them / small two-partner firm]. Weigh whether the firm's own conduct is attacked: if the defence says the firm misled the other party, [colleague] would be cross-examining or relying on a partner's evidence about the firm's own conduct, with an interest in vindicating the firm. That risks the appearance of justice, as in *Ho Kon Kim*, and gives the firm an interest adverse to the client under r 22(2) and r 22(4)(a), so the firm could act only if it made full and frank disclosure, advised the client to get independent legal advice, ensured that the client, if not independently advised, was not under the impression that the firm was protecting the client's interests, and obtained the client's informed consent in writing. **C** On balance [Firm] [may not continue, and the client should be advised to instruct another firm / may continue only with full and frank disclosure, advice to obtain independent legal advice, steps to ensure that the client, if not independently advised, is not under the impression that the firm is protecting the client's interests, informed consent in writing under r 22(4)(a)(i)–(iv), and strict separation from [Lawyer]].
 
 *Source note: r 11(3)(b) PCR p22; r 22(2), (4) PCR p41–42; Ho Kon Kim at [61]–[63] SYL p6, facts and two reasons at [63] L4 p35; r 11(3)(b) point L4 p34. No course source states factors for "prejudice the administration of justice"; the weighing in A is application, not a test. Tested PYP22 (b), PYP23 Q2.2.*
 
@@ -1814,8 +1811,7 @@ purport to practise as a solicitor; breach may lead to discipline (s 77(1), (3) 
 >   - (b) permit his or her name to be made use of in any such proceeding or matter upon the account or for the profit of any unauthorised person; or
 >   - (c) send any process to any unauthorised person, or do any other act enabling any unauthorised person to appear, act or practise or purport to practise in any respect as a solicitor in any such proceeding or matter.
 > - Section 77(2) states that a solicitor must not authorise any unauthorised person to operate any bank account in the name of the solicitor or the law practice maintained in connection with the practice.
-> - Section 77(3) states that disciplinary proceedings may be taken against any solicitor who has acted in contravention of subsection
->   - (1) or (2), and s 77(4) makes the enabled unauthorised person guilty of an offence.
+> - Section 77(3) states that disciplinary proceedings may be taken against any solicitor who has acted in contravention of subsection (1) or (2), and s 77(4) makes the enabled unauthorised person guilty of an offence.
 > - Under s 32(2) LPA a person is an unauthorised person unless he or she is
 >   - (a) on the roll of advocates and solicitors with a practising certificate in force; or
 >   - (b) on the roll of lawyers (NP) with a provisional practising certificate in force and, when carrying out the act in question, under the supervision of a solicitor.
@@ -1933,8 +1929,7 @@ that they are lawyers (PD 3.5.2).
 > - PD 3.5.2 states that the Council has approved these designations for Singapore advocates and solicitors: sole proprietor, partner, senior partner, managing partner, founding partner, legal assistant, associate, senior associate, consultant, senior consultant, counsel, director, managing director, senior executive director, executive director, senior associate director, associate director, chairman, adviser and senior adviser; that from 12 January 2001 the calling cards of directors of a law corporation must carry the description "advocate and solicitor" after their designation; that calling cards given to support staff employed in an executive capacity must contain
 >   - (a) the name of the person for whose use the card is provided; and
 >   - (b) the designation, stated in a manner as not to give the impression that he is a legal practitioner; and that the legal practitioner who provides the card must ensure the staff member does not use it without the firm's authority or in circumstances that breach the PCR.
-> - Section 75D
->   - (1) LPA adds that a solicitor must not take or use the title of consultant unless he or she has, for not less than 10 years in the aggregate, been a solicitor in practice, a relevant legal officer, a full-time member of the academic staff of the law faculty or school of NUS, SMU or SUSS, or any combination of these; breach is an offence (s 75D(2)).
+> - Section 75D(1) LPA adds that a solicitor must not take or use the title of consultant unless he or she has, for not less than 10 years in the aggregate, been a solicitor in practice, a relevant legal officer, a full-time member of the academic staff of the law faculty or school of NUS, SMU or SUSS, or any combination of these; breach is an offence (s 75D(2)).
 
 **P** The rule prevents the public being misled about who is qualified; an unauthorised person who takes or uses any name, title or description implying that he or she is qualified to act as an advocate or solicitor commits an offence (s 33(1)(b) LPA). **A** Here [X] is described as ["specialist", "legal adviser", "senior lawyer"], which is not within r 33(1)(a)–(e) and is not on the approved list (only "adviser" and "senior adviser" are); or [a lawyer of 6 years' standing calls himself "consultant"], which breaches s 75D(1) though "consultant" is an approved designation; or [a law corporation director's card omits "advocate and solicitor"]; or [a paralegal's card reads "Legal Executive" with nothing to show she is not a lawyer], which risks the impression PD 3.5.2 forbids. **C** [The description] [breaches / does not breach] [r 33 / PD 3.5.2 / s 75D LPA] and should be changed to an approved designation.
 
@@ -2182,9 +2177,7 @@ proceedings (GN 5.6.1 para 8).
 >   - (b) except to the extent permitted by any applicable scale of costs, for remuneration proportionate to the amount which may be recovered by the client in the proceedings.
 > - PD 5.2.1 Part C states that any fee arrangement providing for solicitor and client costs contingent on the amount of party and party costs recovered by the client breaches s 107 and r 18, because the solicitor would have an interest in the subject matter of the litigation.
 > - There is one statutory exception, which the syllabus marks non-examinable.
-> - Section 107(3AA) states that s 107 does not prevent a solicitor from entering into a conditional fee agreement that complies with Part 8A, and r 18A
->   - (1) states that rules 17 and 18 do not prevent entering into such an agreement or charging fees payable only in the circumstances it specifies; r 18A
->   - (2) keeps rules 17 and 18 applying in all other respects.
+> - Section 107(3AA) states that s 107 does not prevent a solicitor from entering into a conditional fee agreement that complies with Part 8A, and r 18A(1) states that rules 17 and 18 do not prevent entering into such an agreement or charging fees payable only in the circumstances it specifies; r 18A(2) keeps rules 17 and 18 applying in all other respects.
 > - A "conditional fee agreement" is an agreement on the remuneration and costs of contentious proceedings that provides for them, or part of them, to be payable only in specified circumstances, and may provide for an uplift fee (s 115A(1)); it may be made only in "prescribed proceedings" (s 115B(1)), which in broad terms are international and domestic arbitration, certain SICC proceedings, and court and mediation proceedings related to them (GN 5.6.1 para 8); it must be in writing and signed by the client, and must not provide for remuneration payable as a percentage or proportion of the damages or other amounts recovered (s 115B(4)(a)–(b)).
 > - GN 5.6.1 para 6 states that contingency fee agreements, where the lawyer takes an agreed percentage of the sum recovered, continue to be prohibited.
 
@@ -2384,8 +2377,7 @@ must explain that a larger amount may be claimed and allowed (r 17(6)).
 > - Rule 17(3) PCR states that a legal practitioner must
 >   - (a) inform the client of the basis on which fees for professional services will be charged, and of the manner in which those fees and disbursements (if any) are to be paid;
 >   - (b) inform the client of any other reasonably foreseeable payments that the client may have to make, either to the legal practitioner or to any other party, and of the stages at which those payments are likely to be required;
->   - (c) to the extent reasonably practicable and if requested by the client, provide estimates of the fees and other payments in
->   - (a) and (b); and
+>   - (c) to the extent reasonably practicable and if requested by the client, provide estimates of the fees and other payments in (a) and (b); and
 >   - (d) ensure that the actual amounts do not vary substantially from those estimates, unless the client has been informed in writing of any changed circumstances.
 > - Rule 17(4) states that the legal practitioner must explain to the client, at the beginning of a contentious matter and at other appropriate stages,
 >   - (a) that in any event the client is personally responsible for paying the client's own solicitor and client costs in full, regardless of any order for costs made against any other party;

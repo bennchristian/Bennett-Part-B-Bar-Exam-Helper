@@ -13,6 +13,11 @@ Matt's and Cyril's practice-session notes (`Modules/…/Matt_s Notes/`, `Cyril -
 3. Ethics…/Practice Sessions/`) are bullet-point class notes, not model answers, so they
 were used only as a cross-check.
 
+**Rules stated (Bennett, 3 Nov 2026):** each answer sets out, in the rule's own words, only the
+rule and the limbs it actually relies on, not the whole provision. Limb letters are kept, so
+"(b) … ; or (d) …" means the skipped limbs are not engaged. The full text is in the matching
+Pre-write's Rule in full box.
+
 Each model answer is written to show the I-CRUPAC shape: for each issue, the Issue and a
 one-line Conclusion, then the Rule, Proof (cases, PDs), Application to the facts, and a
 restated Conclusion. In the exam, retype the matching Pre-write and adapt it.
@@ -53,12 +58,8 @@ few points the key does not make (marked *beyond the key*). Pre-writes used: 0-1
 
 ### 1.1 Can Archie act for L? (18 marks)
 
-Rule 4(a) PCR states that a legal practitioner has a paramount duty to the court, which
-takes precedence over the legal practitioner's duty to the legal practitioner's client.
-Rule 4(b) PCR states that a legal practitioner's duty to the legal practitioner's client is
-subject only to the legal practitioner's duty to the court, and must at all times be
-fulfilled in a manner that upholds the standing and integrity of the Singapore legal system
-and the legal profession in Singapore. Here, r 21 PCR applies. In my view Archie may act for
+The issue is whether Archie may act for L against his long-standing client RPL. Here, r 21
+PCR applies. In my view Archie may act for
 L only with RPL's informed written consent under r 21(3) PCR. Without it, adequate safeguards
 under r 21(4) PCR would be very hard to achieve, because Archie himself holds RPL's
 confidential information.
@@ -70,9 +71,7 @@ If RPL still instructs him or Tate Law (TL) on other matters, it is a current cl
 for a bidder against it on the sale of its main asset would then also engage the firm's duty
 of loyalty under r 20(1) PCR, which makes the case for declining stronger still.
 
-**The r 21(2) test.** Rule 21(1) PCR states the guiding principle that the duties of
-loyalty and confidentiality owed by a legal practitioner, and by a law practice, to a client
-continue after the termination of the retainer. Rule 21(2) PCR states that, subject to
+**The r 21(2) test.** Rule 21(2) PCR states that, subject to
 paragraphs (3), (4) and (5), a legal practitioner or law practice must decline to represent,
 or must withdraw from representing, a client (called in the rule the current client) in a
 matter, if (a) the legal practitioner or the law practice holds confidential information
@@ -180,13 +179,8 @@ dealing with the relevant parties' divergent interests competently, evenly and c
 transaction, or on the risks of all or any of the relevant parties being jointly represented
 in the matter or transaction by the legal practitioner or law practice; and (iv) to ascertain
 precisely the intentions of that relevant party; (b) in the case of a transaction that is
-ostensibly or potentially disadvantageous to a particular relevant party, must also
-communicate directly with the relevant party (i) to explain the relevant party's position
-before the transaction, and how the relevant party's position will or may be altered to the
-relevant party's detriment by the transaction; (ii) to verify whether any instructions
-purportedly given on behalf of the relevant party do in fact reflect the relevant party's
-intentions; and (iii) to remove any doubt as to whether the relevant party may have been
-misled by, or may be acting under the undue influence of, another person; (c) must advise each
+ostensibly or potentially disadvantageous to a particular relevant party, must take further
+steps with that party; (c) must advise each
 relevant party to obtain independent legal advice; (d) if a particular relevant party does not
 obtain independent legal advice, must obtain a written confirmation from the relevant party,
 or maintain a written record, that the relevant party declines to do so; and (e) must obtain
@@ -327,12 +321,8 @@ Question: PYP23 p3–4 (handwritten corrections on the scan: 2.1 and 2.2 ask abo
 
 ### 2.1 Should Y cease to act for R? (18 marks)
 
-Rule 4(a) PCR states that a legal practitioner has a paramount duty to the court, which
-takes precedence over the legal practitioner's duty to the legal practitioner's client.
-Rule 4(b) PCR states that a legal practitioner's duty to the legal practitioner's client is
-subject only to the legal practitioner's duty to the court, and must at all times be
-fulfilled in a manner that upholds the standing and integrity of the Singapore legal system
-and the legal profession in Singapore. In my view Y should cease to act for R and apply to be
+The issue is whether Y may go on acting for R now that B's Defence attacks Y's own conduct.
+In my view Y should cease to act for R and apply to be
 discharged. Y will breach r 11(3)(a) PCR if he continues, because he is now a material
 witness on contested issues, and Y's and SP's own conduct is in issue under r 22 PCR. Before
 reaching that, it is necessary to rule out the more absolute bar that would apply if B had
@@ -360,26 +350,18 @@ point is itself a disputed question of fact. That leads to the decisive problem.
 material to a contested issue. He will, so he must apply to be discharged. Here, r 11(3) PCR
 applies, which states that in any case where it is known or it appears that a legal
 practitioner will be required to give evidence which is material to the determination of any
-contested issue before a court or tribunal, (a) the legal practitioner (i) must not accept
-instructions from any party to that case; and (ii) must, if the legal practitioner was acting
-for any party to that case, discharge himself or herself, or, where the legal practitioner
-has represented that party in any proceedings relating to that case, apply to be discharged,
-from acting further for that party; but (b) the law practice in which the legal practitioner
-practises, or a member of that law practice, may represent or continue to represent any
-party to that case, unless doing so would prejudice the administration of justice. PD 1.7.1
+contested issue before a court or tribunal, (a) the legal practitioner (ii) must, if the
+legal practitioner was acting for any party to that case, discharge himself or herself, or,
+where the legal practitioner has represented that party in any proceedings relating to that
+case, apply to be discharged, from acting further for that party. PD 1.7.1
 states that a legal practitioner shall not represent any party in any case in which he or she
 has reason to believe that he or she will be a witness in respect of a material and disputed
 question of fact, and if while appearing in a case it becomes apparent that he or she will
 be such a witness, he or she should discharge himself or herself and, in so doing, take all
 reasonable steps to ensure that he or she does not jeopardise the client's interests. It
-also states that a legal practitioner shall not appear before an appellate tribunal if, in
-the case under appeal, he or she has been a witness on a material and disputed question of
-fact in the court below, and that nothing in the PD prevents a legal practitioner from
-swearing an affidavit as to formal or undisputed facts in matters in which he or she acts or
-appears. The rule rests on the principle in r 11(1) PCR that a legal practitioner's duty to
-advance the interests of the client, and to present the client's best possible case, is
-subject to the legal practitioner's duties as an officer of the court and to assist in the
-administration of justice. The witness's duty to tell the whole
+also states that nothing in the PD prevents a legal practitioner from swearing an affidavit
+as to formal or undisputed facts in matters in which he or she acts or appears. The
+witness's duty to tell the whole
 truth and the advocate's duty to present the client's best case should not be combined in
 one person. In *Ho Kon Kim v Betsy Lim Gek Kim* [2001] SGCA 64 at [61]–[63], the solicitor
 whose account of the transaction would be contested should not have acted. Here the
@@ -415,10 +397,7 @@ the client does not obtain independent legal advice, the legal practitioner ensu
 client is not under an impression that the legal practitioner is protecting the client's
 interests; and (iv) despite sub-paragraphs (i) and (ii), the client gives the client's
 informed consent in writing to the legal practitioner acting, or continuing to act, on the
-client's behalf; or (b) in any other case, the legal practitioner must withdraw unless (i) the
-legal practitioner makes a full and frank disclosure of the interest to the client; and (ii)
-despite sub-paragraph (i), the client gives the client's informed consent in writing to the
-legal practitioner acting, or continuing to act, on the client's behalf. Rule 22(4)(a) PCR
+client's behalf. Rule 22(4)(a) PCR
 imposes the same four conditions, in the same words, on a law practice that has an adverse
 interest in a matter entrusted to it by its client. In *Ho Kon Kim* at [61]–[63], the firm
 whose handling of the transaction was itself in issue should not have acted. In *Then Khek
@@ -460,16 +439,10 @@ exists between R and SP.
 
 **How to withdraw.** Here, r 26(5)(f) PCR applies, which states that a legal practitioner
 may withdraw from representing a client in a case or matter if the withdrawal is necessary to
-avoid a contravention by the legal practitioner of (i) the Act; (ii) these Rules or any other
-subsidiary legislation made under the Act; (iii) any practice directions, guidance notes and
-rulings issued under section 71(6) of the Act; (iv) any practice directions, guidance notes
+avoid a contravention by the legal practitioner of (ii) these Rules or any other
+subsidiary legislation made under the Act; or (iv) any practice directions, guidance notes
 and rulings (relating to professional practice, etiquette, conduct and discipline) issued by
-the Council or the Society; or (v) if the legal practitioner is duly authorised or registered
-to practise law in any state or territory other than Singapore, any practice directions,
-guidance notes and rulings (relating to professional practice, etiquette, conduct and
-discipline) issued by (A) the foreign authority having the function conferred by law of
-authorising or registering persons to practise law in that state or territory; or (B) any
-relevant professional body of that state or territory. Withdrawal is necessary to avoid a
+the Council or the Society. Withdrawal is necessary to avoid a
 contravention of r 11(3)(a) (head (ii)) and of PD 1.7.1 (head (iv)). Rule 26(6) PCR states
 that where a legal practitioner withdraws from representing a client in a case or matter,
 the legal practitioner must (a) take reasonable care to avoid foreseeable harm to the client,
@@ -480,10 +453,7 @@ legal practitioner; and (b) abide by the client's decision on whether to appoint
 legal practitioner, and who to appoint, to take over the case or matter, if not completed.
 Rule 5(2)(b) PCR also requires a legal practitioner, when advising the client, to inform the
 client of all information known to the legal practitioner that may reasonably affect the
-interests of the client in the matter, other than (i) any information that the legal
-practitioner is precluded, by any overriding duty of confidentiality, from disclosing to the
-client; and (ii) any information that the client has agreed in writing need not be disclosed
-to the client. So Y should explain to R in writing why he must stop, apply to court to be
+interests of the client in the matter. So Y should explain to R in writing why he must stop, apply to court to be
 discharged, preserve the file and the attendance notes and hand them over, cooperate with
 R's new solicitors, abide by R's choice of them, and make himself available as R's witness.
 Withdrawing now, at the pleadings stage, causes R the least harm.
@@ -556,10 +526,7 @@ independent firm, with SP cooperating in the handover as r 26(6)(a)(iii) PCR req
 ### 2.3 Are the statements on KP's website permissible? (14 marks)
 
 The issue is whether KP's website statements comply with Part 5 of the PCR. Neither does:
-the KP lawyers breached r 43 and r 44 PCR. Here, r 42, r 43 and r 44 PCR apply. Rule 42(1)
-PCR states that a legal practitioner must ensure that any publicity relating to the legal
-practitioner's practice complies with these Rules, whether that publicity is by the legal
-practitioner or by any other person on the legal practitioner's behalf. Rule 42(2) PCR states
+the KP lawyers breached r 43 and r 44 PCR. Here, r 42, r 43 and r 44 PCR apply. Rule 42(2) PCR states
 that where a legal practitioner becomes aware of any impropriety in any publicity relating to
 the legal practitioner's practice or the practice of a law practice of which the legal
 practitioner is a director or a partner, the legal practitioner must use the legal
@@ -568,34 +535,24 @@ and to prevent the recurrence of the impropriety. Rule 43(1) PCR states that whe
 practitioner publicises the legal practitioner's practice or the practice of a law practice
 of which the legal practitioner is a director, a partner or an employee, the legal
 practitioner must ensure that (a) any claim to expertise or specialisation can be justified;
-(b) the publicity does not make any direct or indirect mention of (i) any past case in
-which, or any client for whom, the legal practitioner, the law practice or any member of the
-law practice had acted, if the provision of any such information will result in a breach of
-any duty of confidentiality owed to a client or former client of the legal practitioner or
-law practice; or (ii) the success rate of
-the legal practitioner, the law practice or any member of the law practice; and (c) the
-publicity does not make any comparison or criticism in relation to the fees charged, or the
-quality of the services provided, by any other legal practitioner or law practice. Rule 43(2)
-PCR states that, for the purposes of paragraph (1)(a), the following factors may be taken
-into account in justifying any claim to expertise or specialisation: (a) academic
-qualifications; (b) experience; (c) proportion of working time involved; (d) level of
-success achieved; (e) complexity of law and practice; (f) significance of the matters
-involving the legal practitioner or the law practice; and (g) assessment by peers. Rule 44(1)
+and (c) the publicity does not make any comparison or criticism in relation to the fees
+charged, or the quality of the services provided, by any other legal practitioner or law
+practice. Rule 43(2) PCR states that, for the purposes of paragraph (1)(a), the factors that
+may be taken into account in justifying any claim to expertise or specialisation include
+(b) experience and (c) proportion of working time involved. Rule 44(1)
 PCR states that a legal practitioner must not publicise the legal practitioner's practice,
 or the practice of the law practice of which the legal practitioner is a director, a partner
 or an employee, in a manner which (a) is likely to diminish public confidence in the legal
-profession or to otherwise bring the legal profession into disrepute; (b) may reasonably be
-regarded as being misleading, deceptive, inaccurate, false or unbefitting the dignity of the
-legal profession; or (c) the Council may determine to be an undesirable manner of
-publicising the practice of a legal practitioner or law practice. Rule 44(2) PCR states that
-publicity is misleading, deceptive, inaccurate or false if (a) it contains a material
-misrepresentation; (b) it omits to state a material fact; (c) it contains any information
-which cannot be verified; or (d) it is likely to create an unjustified expectation about the
+profession or to otherwise bring the legal profession into disrepute; or (b) may reasonably
+be regarded as being misleading, deceptive, inaccurate, false or unbefitting the dignity of
+the legal profession. Rule 44(2) PCR states that publicity is misleading, deceptive,
+inaccurate or false if (c) it contains any information which cannot be verified; or (d) it
+is likely to create an unjustified expectation about the
 results that can be achieved by the legal practitioner or the law practice.
 
 **Statement (i).** "We are the best of the best because unlike other lawyers, we never give
 up fighting for our clients for ten years at least" is not permissible. "Best of the best"
-claims superiority over every other practice. No r 43(2) factor could justify it, and it
+claims superiority over every other practice. No factor, experience or anything else, could justify it, and it
 cannot be verified (r 43(1)(a), r 44(2)(c)). "Unlike other lawyers, we never give up" is an
 express comparison with other lawyers, and implies they do give up, which criticises the
 quality of their services. This is the very thing r 43(1)(c) forbids. "Fighting … for ten
@@ -681,27 +638,14 @@ client is subject only to the duty to the court (L1 p3).
 
 **(a) Priya's conduct in Part A (15 marks)**
 
-Rule 4(a) PCR states that a legal practitioner has a paramount duty to the court, which
-takes precedence over the legal practitioner's duty to the legal practitioner's client.
-Rule 4(b) PCR states that a legal practitioner's duty to the legal practitioner's client is
-subject only to the legal practitioner's duty to the court, and must at all times be
-fulfilled in a manner that upholds the standing and integrity of the Singapore legal system
-and the legal profession in Singapore. Priya breached r 25, r 22, r 6 and r 8(2) PCR.
+The issue is whether Priya acted properly on Mr Goh's will and in her call with Kelvin. She
+did not: Priya breached r 25, r 22, r 6 and r 8(2) PCR.
 
 *Gift to Mei.* The first issue is whether Priya could draft a will leaving $300,000 to her
 own daughter. She could not: Priya breached r 25(2) PCR. Here, r 25 PCR applies. Rule 25(1)
 PCR states that paragraph (2) applies (a) where a client of a legal practitioner intends to
 make a significant gift, whether by will or while the client is alive, or in any other
-manner, to (i) the legal practitioner; (ii) the sole proprietor, or any partner, director,
-consultant or employee, of the law practice in which the legal practitioner practises;
-(iii) any immediate family member of (A) the legal practitioner; or (B) the sole proprietor,
-or any partner, director, consultant or employee, of the law practice in which the legal
-practitioner practises; or (iv) the law practice in which the legal practitioner practises;
-or (b) where a client of a law practice intends to make a significant gift, whether by will
-or while the client is alive, or in any other manner, to (i) the law practice; (ii) the sole
-proprietor, or any partner, director, consultant or employee, of the law practice; or
-(iii) any immediate family member of the sole proprietor, or any partner, director,
-consultant or employee, of the law practice. Rule 25(2) PCR states that the legal
+manner, to (iii) any immediate family member of (A) the legal practitioner. Rule 25(2) PCR states that the legal
 practitioner or law practice (a) must not act for the client in relation to the gift; and
 (b) must advise the client to obtain independent legal advice in relation to the gift. Under
 r 2(1) PCR, "immediate family member" means a spouse, child, grandchild, sibling, sibling's
@@ -734,10 +678,7 @@ the client does not obtain independent legal advice, the legal practitioner ensu
 client is not under an impression that the legal practitioner is protecting the client's
 interests; and (iv) despite sub-paragraphs (i) and (ii), the client gives the client's
 informed consent in writing to the legal practitioner acting, or continuing to act, on the
-client's behalf; or (b) in any other case, the legal practitioner must withdraw unless (i) the
-legal practitioner makes a full and frank disclosure of the interest to the client; and (ii)
-despite sub-paragraph (i), the client gives the client's informed consent in writing to the
-legal practitioner acting, or continuing to act, on the client's behalf. In *Law Society of
+client's behalf. In *Law Society of
 Singapore v Lee Suet Fern* [2020] 5 SLR 1151, a lawyer whose husband was a significant
 beneficiary took part in the preparation and execution of her father-in-law's will, and her
 conduct was found to show patently divided loyalties. Mei, an immediate family member,
@@ -766,22 +707,10 @@ confidential to his or her client; and (b) is acquired by the legal practitioner
 from the client or from any other person) in the course of the legal practitioner's
 engagement. Rule 6(3) PCR states that a legal practitioner may disclose such information if
 (a) the client authorises the disclosure; (b) the legal practitioner is permitted or is
-required by law, by an order of court, or by a tribunal to make the disclosure; (c) the legal
-practitioner discloses the information in confidence, for the sole purpose of obtaining
-advice in connection with the legal practitioner's legal or ethical obligations; (d) the
-legal practitioner discloses the information in confidence to a provider or broker of the
-legal practitioner's professional indemnity insurance, in connection with any claim or
-potential claim, or any complaint or potential complaint, by any person against the legal
-practitioner; or (e) the legal practitioner discloses the information for the sole purpose
-of responding to or defending any charge or complaint, relating to the legal practitioner's
-conduct or professional behaviour, brought against the legal practitioner in court, before a
-Review Committee, an Inquiry Committee or a Disciplinary Tribunal, before a complaints
-committee appointed under section 36S(5) of the Act, or before any relevant professional
-disciplinary body of a state or territory (other than Singapore) in which the legal
-practitioner is duly authorised or registered to practise law. On limb (a), the contents of a
+required by law, by an order of court, or by a tribunal to make the disclosure. On limb (a), the contents of a
 living client's will are confidential to him. On limb (b), Priya learned them in the course
-of her engagement to draft the will. Mr Goh did not authorise disclosure, and none of the
-other exceptions comes close. Telling Kelvin that "your share is only a bit smaller"
+of her engagement to draft the will. Mr Goh did not authorise disclosure (r 6(3)(a)), and no law
+or order required it (r 6(3)(b)). Telling Kelvin that "your share is only a bit smaller"
 disclosed them, in breach of r 6(2).
 
 *Kelvin as an unrepresented person.* The fourth issue is whether Priya dealt properly with
@@ -846,8 +775,8 @@ confesses to any offence to the legal practitioner, the legal practitioner (a) m
 to represent the accused person; but (b) must not adduce any evidence or make any
 submission which is inconsistent with the confession by the accused person. The confession
 is information confidential to Arun and acquired in the course of Priya's engagement, so
-r 6(2) PCR (set out in part (a)) bars its disclosure, and none of the r 6(3) exceptions set
-out there applies: Arun has not authorised disclosure, and no law or order requires it.
+r 6(2) PCR (set out in part (a)) bars its disclosure, and neither r 6(3) exception set out
+there applies: Arun has not authorised disclosure, and no law or order requires it.
 Applying limb (a), Priya may continue to put the prosecution to proof, for example by
 testing whether its evidence establishes each element of cheating. Applying limb (b), she
 cannot suggest that Arun did not take the money, by calling evidence or in submissions. This follows from r 14(2) PCR, which states that a lawyer representing an accused must pursue every reasonable defence, and raise every favourable factor, on the accused's behalf in accordance with law, read with the limit in r 14(4)(b), which applies only to *inconsistent* evidence or submissions.
@@ -855,26 +784,21 @@ cannot suggest that Arun did not take the money, by calling evidence or in submi
 *(iii) Conduct of the trial and Arun's wish to testify.* The issue is what Priya must do if
 Arun insists on giving evidence that he never took the money. Here, r 14(5) PCR applies,
 which states that a legal practitioner (a) must advise an accused person he or she
-represents on (i) whether to plead guilty, or to claim trial, to a charge; and (ii) whether
-to give evidence or to remain silent in the accused person's defence; and (b) must abide by
+represents on (ii) whether to give evidence or to remain silent in the accused person's defence; and (b) must abide by
 the decision of the accused person. Rule 10(2) PCR states that a legal practitioner whose
 client is a party to any proceedings before a court or tribunal must inform the client of
 the client's responsibilities to the court or tribunal, and to every other party to those
-proceedings, including the client's duties (a) to be truthful towards the court or
-tribunal; and (b) to comply with every legal requirement concerning the conduct and
-presentation of the client's case. This creates a tension, because under r 4(a) and (b)
-(set out in part (a)) her duty to the client is subject to her paramount duty to the court.
+proceedings, including the client's duty (a) to be truthful towards the court or
+tribunal. This creates a tension, resolved by r 4 PCR: r 4(a) states that a legal
+practitioner has a paramount duty to the court, which takes precedence over the legal
+practitioner's duty to the legal practitioner's client, and r 4(b) states that the duty to
+the client is subject only to the legal practitioner's duty to the court.
 Rule 10(3) PCR states that, to the extent that a legal practitioner is able, the legal
 practitioner must prevent his or her client from, must not be a party to, and must not
-assist the client in, doing either or both of the following: (a) suppressing evidence; (b)
-giving false evidence or false information to a court or tribunal. Rule 9(2)(a) PCR states
+assist the client in, (b) giving false evidence or false information to a court or tribunal. Rule 9(2)(a) PCR states
 that when conducting any proceedings before a court or tribunal on behalf of a client, a
-legal practitioner must not knowingly mislead or attempt to mislead in any way, whether by
-doing anything referred to in sub-paragraph (b) (fabricating any fact or evidence) or (c)
-(including in any document any statement of fact known to be false) or otherwise, (i) the
-court or tribunal; (ii) any
-staff of the court or tribunal; (iii) any other legal practitioner; or (iv) any witness in,
-or any other person involved in or associated with, those proceedings. All solicitors, as
+legal practitioner must not knowingly mislead or attempt to mislead in any way (i) the
+court or tribunal. All solicitors, as
 officers of the court, have an absolute and overriding duty to the court to ensure the
 proper and efficient administration of justice, and should never mislead the court either
 actively or passively (*Public Trustee v By Products Traders Pte Ltd* [2005] 3 SLR(R) 449 at
@@ -894,16 +818,8 @@ r 10(4)(b) without perpetuating the falsehood, and she must cease to act under r
 
 Withdrawal is justified under r 26(5)(f) PCR, which states that a legal practitioner may
 withdraw from representing a client in a case or matter if the withdrawal is necessary to
-avoid a contravention by the legal practitioner of (i) the Act; (ii) these Rules or any
-other subsidiary legislation made under the Act; (iii) any practice directions, guidance
-notes and rulings issued under section 71(6) of the Act; (iv) any practice directions,
-guidance notes and rulings (relating to professional practice, etiquette, conduct and
-discipline) issued by the Council or the Society; or (v) if the legal practitioner is duly
-authorised or registered to practise law in any state or territory other than Singapore, any
-practice directions, guidance notes and rulings (relating to professional practice,
-etiquette, conduct and discipline) issued by (A) the foreign authority having the function
-conferred by law of authorising or registering persons to practise law in that state or
-territory; or (B) any relevant professional body of that state or territory. Withdrawal is
+avoid a contravention by the legal practitioner of (ii) these Rules or any
+other subsidiary legislation made under the Act. Withdrawal is
 necessary to avoid contravening r 9(2)(a), r 10(3) and r 14(4)(b) (head (ii)). Rule 26(6)
 PCR states that where a legal practitioner withdraws from representing a client in a case or
 matter, the legal practitioner must (a) take reasonable care to avoid foreseeable harm to the
@@ -942,12 +858,7 @@ Q3 30 (5 × 6). No official answer exists. Pre-writes used: 0-1, 0-5, 0-6, 0-7, 
 
 ### Q1.1 Liability for the loan two years ago (12 marks)
 
-Here, r 4 PCR applies, which sets out the principles that guide the interpretation of the
-Rules. Rule 4(a) states that a legal practitioner has a paramount duty to the court, which
-takes precedence over the legal practitioner's duty to the client, and r 4(b) states that the
-legal practitioner's duty to the client is subject only to the duty to the court, and must at
-all times be fulfilled in a manner that upholds the standing and integrity of the Singapore
-legal system and the legal profession in Singapore. Neither Andy nor Beth is likely to have
+The issue is whether Andy or Beth breached any rule in the loan transaction. Neither Andy nor Beth is likely to have
 breached any rule in relation to the loan.
 
 **Beth: competence and diligence.** The first issue is whether Beth should have discovered
@@ -1069,18 +980,10 @@ client.
 **Beth's need to give a reason.** Beth would breach r 6(2) PCR if she gave the reason. The
 fact that Andy acts for Xavier, and anything about Xavier's interest in Delta Tech, is
 confidential to Xavier and was acquired in the course of the firm's engagement. The ACRA
-results are public, but linking them to the firm's client is not. Rule 6(3) PCR states that
-a legal practitioner may disclose such information if (a) the client authorises the
-disclosure; (b) the legal practitioner is permitted or is required by law, by an order of
-court, or by a tribunal to make the disclosure; (c) the legal practitioner discloses the
-information in confidence, for the sole purpose of obtaining advice in connection with the
-legal practitioner's legal or ethical obligations; (d) the legal practitioner discloses the
-information in confidence to a provider or broker of the legal practitioner's professional
-indemnity insurance, in connection with any claim or potential claim, or any complaint or
-potential complaint, against the legal practitioner; or (e) the legal practitioner
-discloses the information for the sole purpose of responding to or defending any charge or
-complaint relating to the legal practitioner's conduct. Only r 6(3)(a) could help, and
-Xavier has not authorised disclosure. Beth may only tell Vega Bank that the firm is unable
+results are public, but linking them to the firm's client is not. Rule 6(3)(a) PCR states
+that a legal practitioner may disclose such information if the client authorises the
+disclosure. It is the only exception that could help, and Xavier has not authorised
+disclosure. Beth may only tell Vega Bank that the firm is unable
 to act. She must not explain why without Xavier's consent.
 
 **Beth's alternative: Andy for Xavier, Beth and Clara for Vega Bank.** Here, r 20(2) PCR,
@@ -1089,33 +992,12 @@ matter between whom a diversity of interests plainly exists. Vega Bank wants to 
 against Delta Tech, and Xavier, who controls it, wants to protect his businesses and assets.
 Rule 20(3) PCR states that, before accepting any instructions from any relevant party, the
 firm (a) must communicate directly with each relevant party (i) to explain to that party
-(A) how the interests of all or any of the relevant parties diverge or may diverge; (B) how
-the firm may be prevented from disclosing to a relevant party information obtained from
-another relevant party, despite the relevance of the information to the matter; and (C) how
-the firm may be prevented from giving to a relevant party any advice that is prejudicial to
-another relevant party; (ii) to inform that party that the firm must cease to act if, in the
-course of the retainer, it has difficulty in advising on and dealing with the relevant
-parties' divergent interests competently, evenly and consistently; (iii) to receive and
-deal with any queries which that party may have on the matter, or on the risks of the
-parties being jointly represented by the firm; and (iv) to ascertain precisely the
-intentions of that party; (b) in the case of a transaction that is ostensibly or
-potentially disadvantageous to a particular party, must also communicate directly with that
-party (i) to explain its position before the transaction, and how its position will or may
-be altered to its detriment by the transaction; (ii) to verify whether any instructions
-purportedly given on its behalf do in fact reflect its intentions; and (iii) to remove any
-doubt as to whether it may have been misled by, or may be acting under the undue influence
-of, another person; (c) must advise each relevant party to obtain independent legal advice;
-(d) if a particular relevant party does not obtain independent legal advice, must obtain a
-written confirmation from that party, or maintain a written record, that it declines to do
-so; and (e) must obtain each relevant party's informed consent in writing to the firm acting
-for all relevant parties, despite their divergent interests. Rule 20(4) PCR states that the
-firm (a) must throughout the retainer (i) continue to be vigilant of any conflict or
-potential conflict between the interests of any of the relevant parties; and (ii) inform
-each relevant party of any conflict or potential conflict that arises or may arise; and
-(b) must cease to act if, in the course of the retainer, it has difficulty in advising on
+(A) how the interests of all or any of the relevant parties diverge or may diverge; and
+(e) must obtain each relevant party's informed consent in writing to the firm acting for
+all relevant parties, despite their divergent interests. Rule 20(4)(b) PCR states that the
+firm must cease to act if, in the course of the retainer, it has difficulty in advising on
 and dealing with the relevant parties' divergent interests competently, evenly and
-consistently. Rule 20(6) PCR imposes the same duties where the diversity of interests arises
-during the retainer. Consent must be genuinely informed (*Mahidon Nichiar bte Mohd Ali v
+consistently. Consent must be genuinely informed (*Mahidon Nichiar bte Mohd Ali v
 Dawood Sultan Kamaldin* [2015] SGCA 36 at [63]–[80]; *Kuek Siang Wei v Kuek Siew Chew*
 [2015] 5 SLR 357, on the steps required to obtain informed consent). The standard of skill
 and care owed to each of several clients must be at least equivalent to that owed to a
@@ -1125,8 +1007,8 @@ evenly and consistently ought to discharge himself (*Lie Hendri Rusli v Wong Tan
 Lim* [2004] 4 SLR(R) 594 at [48]–[50]). A solicitor acting for more than one client must
 identify and disclose any actual or potential conflict, obtain informed consent from all
 clients, and remain impartial (*Law Society of Singapore v Uthayasurian Sidambaram* [2009]
-4 SLR(R) 674 at [34]–[53]). If the firm then has to cease to act under r 20(4)(b) or
-r 20(6)(b), r 20(7) PCR states that it may continue to act for one relevant party only if
+4 SLR(R) 674 at [34]–[53]). If the firm then has to cease to act under r 20(4)(b),
+r 20(7) PCR states that it may continue to act for one relevant party only if
 (a) it ceases to act for all other relevant parties whose interests diverge from that
 party's; and (b) all of those other relevant parties give their informed consent in writing
 for the firm to continue to act. So a firm that mismanages the conflict risks losing both
@@ -1136,9 +1018,8 @@ Here the firm could not even meet r 20(3)(a)(i)(A), because explaining how the i
 diverge would reveal each client's confidential position to the other, contrary to r 6(2).
 Without that explanation, no consent under r 20(3)(e) could be informed. An information
 barrier would not cure the problem. The adequacy of the steps taken to prevent disclosure
-depends on factors such as (1) the nature of the work done for the former client, (2) the
-timing of the creation of the information barrier, (3) the size of the law firm, (4) the
-physical locations of departments within the firm, and (5) the number and seniority of
+depends on factors that include (1) the nature of the work done for the former client, (2) the
+timing of the creation of the information barrier, and (5) the number and seniority of
 tainted lawyers (*Harsha Rajkumar Mirpuri v Shanti Shewakram Samtani* [2018] 5 SLR 894 at
 [68]). On factor (5), Andy is a partner who already holds exactly the asset-protection
 information Vega Bank would want, and Clara has already researched the corporate chain. On
@@ -1169,10 +1050,7 @@ the client to obtain independent legal advice; (iii) if the client does not obta
 independent legal advice, the legal practitioner ensures that the client is not under an
 impression that the legal practitioner is protecting the client's interests; and
 (iv) despite sub-paragraphs (i) and (ii), the client gives the client's informed consent in
-writing to the legal practitioner acting, or continuing to act, on the client's behalf; or
-(b) in any other case, the legal practitioner must withdraw unless (i) the legal
-practitioner makes a full and frank disclosure of the interest to the client; and
-(ii) despite that disclosure, the client gives informed consent in writing. In *Law Society
+writing to the legal practitioner acting, or continuing to act, on the client's behalf. In *Law Society
 of Singapore v Govindan Balan Nair* [2020] SGHC 174, a lawyer who hid his own negligence and
 kept acting preferred his own interests to the client's. A deed releasing all claims against
 the firm benefits only Andy and the firm. It takes away rights Xavier might have and is
@@ -1228,8 +1106,7 @@ Here, r 4(a) PCR applies, which states that a legal practitioner has a paramount
 the court, which takes precedence over the legal practitioner's duty to the client.
 Section 82(1) of the Legal Profession Act 1966 states that the following persons are
 officers of the Supreme Court: (a) a person duly admitted as a lawyer (NP) or an advocate
-and solicitor; (b) a Judicial Service Officer; (c) a Legal Service Officer; and (d) a PD
-Officer. Fiona breached her duty to the court at every stage: in taking on and running the
+and solicitor. Fiona breached her duty to the court at every stage: in taking on and running the
 application, in the affidavit, and in her answer to the judge.
 
 **Failing to advise Gary.** The first issue is whether Fiona should have told Gary her
@@ -1245,9 +1122,8 @@ enable the client to make an informed decision about how to act in the matter, a
 r 10(2) PCR, which states that a legal practitioner whose client is a party to any
 proceedings before a court or tribunal must inform the client of the client's
 responsibilities to the court or tribunal, and to every other party to those proceedings,
-including the client's duties (a) to be truthful towards the court or tribunal; and (b) to
-comply with every legal requirement concerning the conduct and presentation of the client's
-case. A lawyer who fails to explain material risks breaches this duty (*Su Ah Tee v
+including the client's duty (b) to comply with every legal requirement concerning the
+conduct and presentation of the client's case. A lawyer who fails to explain material risks breaches this duty (*Su Ah Tee v
 Allister Lim and Thrumurgam* [2014] SGHC 159). Fiona believed that Singapore law required
 disclosure of the UK and HK proceedings, and she saw no evidence of a real risk of
 dissipation. Both points reasonably affected Gary's interests, and neither exception in
@@ -1301,12 +1177,10 @@ states that, when conducting proceedings, a legal practitioner must disclose to 
 tribunal, and to every other person involved in or associated with those proceedings,
 (i) every fact, item of evidence, item of information and other matter which the legal
 practitioner is required by law to disclose in those proceedings to the court or tribunal
-and to that other person, respectively; and (ii) any procedural irregularity of which the
-legal practitioner is aware. She also breached r 10(3) PCR, which states that, to the extent
-that a legal practitioner is able, the legal practitioner must prevent his or her client
-from, must not be a party to, and must not assist the client in, doing either or both of
-the following: (a) suppressing evidence; (b) giving false evidence or false information to
-a court or tribunal. An applicant without notice must make full and frank disclosure of all material facts to the court; an inadvertent or negligent failure to do so breaches that duty, but r 10(3)(a) needs more (*Law Society of Singapore v de Souza Christopher James* [2023] SGHC 318 at [88]). Suppressing evidence requires (1) a wrongful
+and to that other person, respectively. She also breached r 10(3) PCR, which states that,
+to the extent that a legal practitioner is able, the legal practitioner must prevent his or
+her client from, must not be a party to, and must not assist the client in, (a) suppressing
+evidence. An applicant without notice must make full and frank disclosure of all material facts to the court; an inadvertent or negligent failure to do so breaches that duty, but r 10(3)(a) needs more (*Law Society of Singapore v de Souza Christopher James* [2023] SGHC 318 at [88]). Suppressing evidence requires (1) a wrongful
 non-disclosure, which means identifying the litigant's duty to disclose, having regard to
 the nature and purpose of the proceedings and the relevant law; and (2) a deliberate
 non-disclosure, made with a subjective intention to prevent the court or the other party from learning of the information (*de Souza* at [163]–[165], per Ramesh JAD; and for the majority at [75]–[76], [83]). Making some disclosure does not discharge the
@@ -1323,11 +1197,8 @@ r 9(3)(b) and r 10(3)(a).
 
 **The answer to the judge.** The fourth issue is whether Fiona misled the court. She did.
 Fiona breached r 9(2)(a) PCR, which states that, when conducting proceedings, a legal
-practitioner must not knowingly mislead or attempt to mislead in any way, whether by
-fabricating facts or evidence, by including a statement of fact known to be false, or
-otherwise, (i) the court or tribunal; (ii) any staff of the court or tribunal; (iii) any
-other legal practitioner; or (iv) any witness in, or any other person involved in or
-associated with, those proceedings. Solicitors should never mislead the court either
+practitioner must not knowingly mislead or attempt to mislead in any way (i) the court or
+tribunal. Solicitors should never mislead the court either
 actively or passively, nor consciously furnish to the court erroneous or incomplete
 information (*Public Trustee* at [35]). To make out a breach of the duty not to mislead the
 court, it must be shown that a false statement was made to the court by a solicitor
@@ -1351,14 +1222,8 @@ tribunal, the legal practitioner must (a) cease to act for the client; or (b) if
 practitioner continues to act for the client, conduct the client's case in a manner that
 does not perpetuate the falsehood. Applying r 10(4) by analogy, Fiona must cease to act.
 Rule 26(5)(f) PCR permits that, as it states that a legal practitioner may withdraw if the
-withdrawal is necessary to avoid a contravention by the legal practitioner of (i) the Act;
-(ii) these Rules or any other subsidiary legislation made under the Act; (iii) any practice
-directions, guidance notes and rulings issued under section 71(6) of the Act; (iv) any
-practice directions, guidance notes and rulings (relating to professional practice,
-etiquette, conduct and discipline) issued by the Council or the Society; or (v) where the
-legal practitioner is also authorised to practise in another state or territory, the
-practice directions, guidance notes and rulings of that jurisdiction's authorising
-authority or professional body. On withdrawing she must not reveal Gary's confidences
+withdrawal is necessary to avoid a contravention by the legal practitioner of (ii) these
+Rules or any other subsidiary legislation made under the Act. On withdrawing she must not reveal Gary's confidences
 (r 6(2) PCR), except where she is permitted or required by law, by an order of court, or by
 a tribunal to make the disclosure (r 6(3)(b) PCR).
 
@@ -1376,12 +1241,8 @@ grossly improper conduct.
 
 ### Q3 Terms of engagement (5 × 6 marks)
 
-Here, r 4 PCR applies. Rule 4(a) states that a legal practitioner has a paramount duty to
-the court, which takes precedence over the legal practitioner's duty to the client, and
-r 4(b) states that the duty to the client is subject only to the duty to the court, and must
-at all times be fulfilled in a manner that upholds the standing and integrity of the
-Singapore legal system and the legal profession in Singapore. Each of the five terms is
-objectionable.
+The issue is whether the five terms of counsel's engagement letter are permissible. Each of
+the five terms is objectionable.
 
 **3.1 The $4 million agreed fee.** The issue is whether a $4 million fee to defend a
 $6 million goods claim, payable even on early settlement, is overcharging. It likely is.
@@ -1398,9 +1259,7 @@ subject to any other written law, a solicitor may make an agreement in writing w
 client respecting the amount and manner of payment for the whole or any part of the costs
 in respect of contentious business done or to be done, either by a gross sum or otherwise,
 and at either the same rate as or a greater or a lesser rate than that at which the
-solicitor would otherwise be entitled to be remunerated, and s 111(2) states that every such
-agreement must be signed by the client and is subject to the provisions and conditions in
-that Part. Section 113(4) LPA states that if the terms of the agreement are deemed by the
+solicitor would otherwise be entitled to be remunerated. Section 113(4) LPA states that if the terms of the agreement are deemed by the
 court or Judge to be unfair or unreasonable, the agreement may be declared void. PD 5.2.2
 states that s 111 does not give solicitors a carte blanche to agree to an unreasonable fee,
 that overcharging a client, whether in a bill of costs or otherwise, may amount to
@@ -1421,8 +1280,7 @@ Act 1966 applies, which states that a solicitor must not enter into any agreemen
 he or she is retained or employed to prosecute any suit or action or other contentious
 proceeding which stipulates for or contemplates payment only in the event of success in
 that suit, action or proceeding. Rule 18 PCR states that a legal practitioner or law
-practice must not enter into any negotiations with a client (a) for an interest in the
-subject matter of litigation or of any other contentious proceedings; or (b) except to the
+practice must not enter into any negotiations with a client (b) except to the
 extent permitted by any applicable scale of costs, for remuneration proportionate to the
 amount which may be recovered by the client in the proceedings. The prohibition exists
 because one of the key elements in effectively representing a client's interest is the
@@ -1463,27 +1321,13 @@ an unrestricted right to terminate with immediate effect. He may not. Here, r 26
 applies, which states that, except as otherwise provided in the rule, a legal practitioner
 must complete the work which he or she agreed to undertake pursuant to the client's
 instructions. Rule 26(5) PCR states that a legal practitioner may withdraw from representing
-a client in a case or matter only if (a) the legal practitioner gives reasonable notice of
-the withdrawal to the client; (b) the withdrawal will not cause any significant harm to the
-client's interests, the client is fully informed of the consequences of the withdrawal, and
-the client voluntarily assents to the withdrawal; (c) the legal practitioner reasonably
-believes that continued engagement is likely to have a serious adverse effect on the legal
-practitioner's health; (d) the client (i) fails to pay the legal practitioner's invoice
-within the stipulated period; or (ii) otherwise breaches an agreement with the legal
-practitioner regarding (A) fees or expenses to be paid by the client; or (B) the client's
-conduct; (e) the client makes material misrepresentations about the facts of the case or
-matter to the legal practitioner; (f) the withdrawal is necessary to avoid a contravention
-by the legal practitioner of the Act, the Rules or other subsidiary legislation, or the
-practice directions, guidance notes and rulings issued under s 71(6) of the Act or by the
-Council or the Society (or, for a lawyer authorised elsewhere, by that jurisdiction's
-authorities); (g) there is a serious loss of confidence between the legal practitioner and
-the client; or (h) any other good cause exists. Rule 26(6) PCR states that a legal
-practitioner who withdraws must (a) take reasonable care to avoid foreseeable harm to the
-client, including, where the circumstances permit, (i) by giving reasonable notice of the
-withdrawal to the client; (ii) by giving the client a reasonable amount of time to engage
-another legal practitioner to take over the case or matter; and (iii) by cooperating with
-the client's new legal practitioner; and (b) abide by the client's decision on whether to
-appoint another legal practitioner, and who to appoint. PD 7.4.2 states that difficulty in
+a client in a case or matter only on one of the grounds in r 26(5)(a)–(h), which include
+(a) the legal practitioner gives reasonable notice of the withdrawal to the client; and
+(h) any other good cause exists. Rule 26(6) PCR states that a legal practitioner who
+withdraws must (a) take reasonable care to avoid foreseeable harm to the client, including,
+where the circumstances permit, (i) by giving reasonable notice of the withdrawal to the
+client; and (ii) by giving the client a reasonable amount of time to engage another legal
+practitioner to take over the case or matter. PD 7.4.2 states that difficulty in
 terminating a retainer may be averted by a reservation in the warrant to act or letter of
 engagement to the effect that the legal practitioner may at any time discharge himself
 based on the grounds set out in r 26(5), while observing the obligation in r 26(6) to take
@@ -1491,7 +1335,7 @@ reasonable care to avoid foreseeable harm to the client. It warns that, without 
 reservation, a lawyer who obtains his discharge may be exposed to a claim for damages if the
 withdrawal leads to the dismissal of the client's claim or judgment against the client when
 there is a valid defence. A clause allowing termination "with immediate effect for any reason
-and at any stage" goes beyond every r 26(5) ground, including "any other good cause" in
+and at any stage" needs no ground at all, so it goes beyond even "any other good cause" in
 r 26(5)(h), and would permit withdrawal on the eve of trial with no notice. That contradicts
 r 26(5)(a) and r 26(6)(a)(i)–(ii). The clause should be limited to the r 26(5) grounds with
 reasonable notice, as PD 7.4.2 recommends.
@@ -1527,15 +1371,11 @@ discipline may be shown by proof that an advocate and solicitor has tendered or 
 consented to retention, out of any fee payable to him or her for his or her services, of any
 gratification for having procured the employment in any legal business of himself or
 herself or of any other advocate and solicitor. Rule 44(1) PCR states that a legal
-practitioner must not publicise the practice in a manner which (a) is likely to diminish
-public confidence in the legal profession or to otherwise bring the legal profession into
-disrepute; (b) may reasonably be regarded as being misleading, deceptive, inaccurate, false
-or unbefitting the dignity of the legal profession; or (c) the Council may determine to be an
-undesirable manner of publicising the practice. Rule 44(2) PCR states that publicity is
-misleading, deceptive, inaccurate or false if (a) it contains a material misrepresentation;
-(b) it omits to state a material fact; (c) it contains any information which cannot be
-verified; or (d) it is likely to create an unjustified expectation about the results that
-can be achieved. A fee discount is consideration out of the lawyer's fees, given in return
+practitioner must not publicise the practice in a manner which (b) may reasonably be
+regarded as being misleading, deceptive, inaccurate, false or unbefitting the dignity of
+the legal profession. Rule 44(2) PCR states that publicity is misleading, deceptive,
+inaccurate or false if (b) it omits to state a material fact; or (c) it contains any
+information which cannot be verified. A fee discount is consideration out of the lawyer's fees, given in return
 for promoting the firm to obtain further work, which is a gratification retained out of fees
 under s 83(2)(d) and leads to a reasonable inference of touting under r 39(1). A
 "favourable" review bought with a discount is also misleading publicity under r 44(1)(b),
@@ -1581,11 +1421,7 @@ paper has no MCQ section anyway. No official answer exists. Pre-writes used: 0-1
 
 ### (a) Can Luna and Marci act for Davion in the New Suit? (12 marks)
 
-Here, r 4 PCR applies. Rule 4(a) states that a legal practitioner has a paramount duty to
-the court, which takes precedence over the legal practitioner's duty to the client, and
-r 4(b) states that the duty to the client is subject only to the duty to the court, and must
-at all times be fulfilled in a manner that upholds the standing and integrity of the
-Singapore legal system and the legal profession in Singapore. Neither Luna nor Marci can
+The issue is whether Luna and Marci may act for Davion in the New Suit. Neither Luna nor Marci can
 act, because both will be material witnesses on contested issues.
 
 **Was Ricky also a client?** It is worth ruling out the absolute bar first. Rule 20(8) PCR
@@ -1620,9 +1456,8 @@ about independent advice does not cure oral assurances.
 evidence material to a contested issue. They will, so they must not act. Here, r 11(3) PCR
 applies, which states that in any case where it is known or it appears that a legal
 practitioner will be required to give evidence which is material to the determination of
-any contested issue before a court or tribunal, (a) the legal practitioner (i) must not
-accept instructions from any party to that case; and (ii) must, if the legal practitioner
-was acting for any party to that case, discharge himself or herself, or, where the legal
+any contested issue before a court or tribunal, (a) the legal practitioner (ii) must, if
+the legal practitioner was acting for any party to that case, discharge himself or herself, or, where the legal
 practitioner has represented that party in any proceedings relating to that case, apply to
 be discharged, from acting further for that party; but (b) the law practice in which the
 legal practitioner practises, or a member of that law practice, may represent or continue
@@ -1632,14 +1467,9 @@ in which he or she has reason to believe that he or she will be a witness in res
 material and disputed question of fact, and if while appearing in a case it becomes apparent
 that he or she will be such a witness, he or she should discharge himself or herself, taking
 all reasonable steps to ensure that he or she does not jeopardise the client's interests. It
-adds that a legal practitioner shall not appear before an appellate tribunal if he or she
-was a witness on a material and disputed question of fact in the court below, and that
-nothing in the PD prevents a legal practitioner from swearing an affidavit as to formal or
-undisputed facts. Rule 11(1) PCR states the principle that a legal practitioner's duty to
-advance the client's interests, and to present the client's best possible case, is subject
-to the legal practitioner's duties as an officer of the court and to assist in the
-administration of justice, so the roles of witness and advocate should not be combined in
-one person (*Ho Kon Kim v Betsy Lim Gek Kim* [2001] SGCA 64 at [61]–[63]). Whether Luna made
+adds that nothing in the PD prevents a legal practitioner from swearing an affidavit as to
+formal or undisputed facts. The roles of witness and advocate should not be combined in one
+person (*Ho Kon Kim v Betsy Lim Gek Kim* [2001] SGCA 64 at [61]–[63]). Whether Luna made
 the Representations is the central contested issue: Ricky pleads them and Davion denies
 them. Only four people were at the meeting. Davion's case relies on Marci's typed attendance
 notes, and Marci signed the agreement as a witness. Luna and Marci are the people best
@@ -1650,31 +1480,16 @@ pleadings. Luna also has a personal interest in being cleared of a r 8(2) breach
 not match Davion's interests. Rule 22(2) PCR states that, except as otherwise permitted by the
 rule, a legal practitioner or law practice must not act for a client if there is, or may
 reasonably be expected to be, a conflict between (a) the duty to serve the best interests of
-the client; and (b) the interests of the legal practitioner or law practice. Rule 22(3)(a)
-PCR states that where the legal practitioner, an immediate family member or the law practice
-has an interest in the matter that is adverse to the client's interests, the legal
-practitioner must withdraw unless (i) the legal practitioner makes a full and frank
-disclosure of the adverse interest to the client; (ii) the legal practitioner advises the
-client to obtain independent legal advice; (iii) if the client does not obtain independent
-legal advice, the legal practitioner ensures that the client is not under an impression that
-the legal practitioner is protecting the client's interests; and (iv) despite (i) and (ii),
-the client gives informed consent in writing to the legal practitioner acting, or continuing
-to act.
+the client; and (b) the interests of the legal practitioner or law practice. That conflict
+is a further reason for Luna not to act.
 
 In conclusion, Luna and Marci must not act and, having filed the New Suit, must apply to be
 discharged under r 11(3)(a)(ii). They may withdraw under r 26(5)(f) PCR, which states that a
 legal practitioner may withdraw if the withdrawal is necessary to avoid a contravention by
-the legal practitioner of (i) the Act; (ii) these Rules or any other subsidiary legislation
-made under the Act; (iii) any practice directions, guidance notes and rulings issued under
-section 71(6) of the Act; (iv) any practice directions, guidance notes and rulings (relating
-to professional practice, etiquette, conduct and discipline) issued by the Council or the
-Society; or (v) for a lawyer also authorised elsewhere, those of that jurisdiction's
-authorities. Rule 26(6) PCR states that on withdrawal they must (a) take reasonable care to
-avoid foreseeable harm to the client, including, where the circumstances permit, (i) by
-giving reasonable notice of the withdrawal to the client; (ii) by giving the client a
-reasonable amount of time to engage another legal practitioner to take over the case or
-matter; and (iii) by cooperating with the client's new legal practitioner; and (b) abide by
-the client's decision on whether to appoint another legal practitioner, and who to appoint.
+the legal practitioner of (ii) these Rules or any other subsidiary legislation made under
+the Act, here r 11(3)(a). Rule 26(6) PCR states that on withdrawal they must (a) take
+reasonable care to avoid foreseeable harm to the client; and (b) abide by the client's
+decision on whether to appoint another legal practitioner, and who to appoint.
 
 ### (b) Can Mid Law continue through Chen? (14 marks)
 
@@ -1742,10 +1557,7 @@ exercise a lien for unpaid legal costs over any document of the client, (a) wher
 legal practitioner (B) is acting for the client, A must release that document to B, and
 offer such assistance as may be necessary to enable B to take over the matter, if (i) B
 undertakes to hold that document subject to the lien, and provides reasonable security for
-A's unpaid costs; or (ii) B offers to pay, or to enter into an agreement with the client to
-obtain payment of, A's costs upon the completion of the matter, and A accepts B's offer; or
-(b) in any other case, A must release that document to the client if A receives reasonable
-security for A's unpaid costs. Luna also breached r 5(2)(b) PCR, which states that a legal
+A's unpaid costs. Luna also breached r 5(2)(b) PCR, which states that a legal
 practitioner must, when advising the client, inform the client of all information known to
 the legal practitioner that may reasonably affect the interests of the client in the matter,
 other than (i) any information that the legal practitioner is precluded, by any overriding
@@ -1793,11 +1605,7 @@ Cross-checked against Cyril's and Matt's PS2 notes.*
 Question: PS1 (`Modules/…/3. Practice Sessions - Question Papers/ETH_Practice_Session_1_…
 .pdf`), Q2. Not mark-weighted. Pre-writes used: 0-9, 0-11, 0-10, 0-12, 0-13, 0-6, 0-22.
 
-Here, r 4 PCR applies. Rule 4(a) states that a legal practitioner has a paramount duty to
-the court, which takes precedence over the legal practitioner's duty to the client, and
-r 4(b) states that the duty to the client is subject only to the duty to the court, and must
-at all times be fulfilled in a manner that upholds the standing and integrity of the
-Singapore legal system and the legal profession in Singapore. In my view CT Law may continue
+The issue is whether CT Law may continue to act for Lennard now that Emily objects. In my view CT Law may continue
 to act for Lennard, but only with real safeguards: a documented information barrier around
 Howwie, notice to Emily, and Lennard's informed consent after full disclosure.
 
@@ -1813,9 +1621,7 @@ allegation that Howwie acted for "LRPL and all the shareholders" is contradicted
 engagement terms and by Emily paying the invoice personally.
 
 **Rule 21: Emily as Howwie's former client.** The second issue is whether CT Law must
-decline because Howwie holds Emily's confidential information. Rule 21(1) PCR states the
-principles that the duties of loyalty and confidentiality owed by a legal practitioner, and
-by a law practice, to a client continue after the termination of the retainer. Rule 21(2)
+decline because Howwie holds Emily's confidential information. Rule 21(2)
 PCR states that, subject to paragraphs (3), (4) and (5), a legal practitioner or law
 practice must decline to represent, or must withdraw from representing, a client (the
 current client) in a matter if (a) the legal practitioner or the law practice holds
@@ -1843,10 +1649,10 @@ from acting, or continuing to act, if (a) there are adequate safeguards in place
 the former client's confidential information; and (b) the firm has made reasonable efforts
 to notify the former client (i) of those safeguards; and (ii) that the firm will act, or
 continue to act, for the current client. The adequacy of the steps taken to prevent
-disclosure depends on factors such as (1) the nature of the work done for the former client,
-(2) the timing of the creation of the information barrier, (3) the size of the law firm,
-(4) the physical locations of departments within the firm, and (5) the number and seniority
-of tainted lawyers (*Harsha Rajkumar Mirpuri v Shanti Shewakram Samtani* [2018] 5 SLR 894 at
+disclosure depends on factors that include (1) the nature of the work done for the former
+client, (2) the timing of the creation of the information barrier, (4) the physical
+locations of departments within the firm, and (5) the number and seniority of tainted
+lawyers (*Harsha Rajkumar Mirpuri v Shanti Shewakram Samtani* [2018] 5 SLR 894 at
 [68]). On factor (1), the work was limited and long ago. On factor (5), only one lawyer,
 Howwie, is tainted, and he is new and not on Lennard's matter. On factors (2) and (4), a
 barrier set up now, with written undertakings from Howwie and the team, separate files and
@@ -1879,12 +1685,7 @@ be expected to be, a conflict between (a) the duty to serve the best interests o
 client; and (b) the interests of the legal practitioner or law practice. Rule 22(4) PCR
 states that where a law practice has an interest in any matter entrusted to it by its
 client, (a) where the interest is adverse to the client's interests, the law practice must
-withdraw unless (i) it makes a full and frank disclosure of the adverse interest to the
-client; (ii) it advises the client to obtain independent legal advice; (iii) if the client
-does not obtain independent legal advice, it ensures that the client is not under an
-impression that the law practice is protecting the client's interests; and (iv) despite (i)
-and (ii), the client gives informed consent in writing to the law practice acting, or
-continuing to act; or (b) in any other case, the law practice must withdraw unless (i) it
+withdraw unless it meets four stricter conditions; or (b) in any other case, the law practice must withdraw unless (i) it
 makes a full and frank disclosure of the interest to the client; and (ii) despite (i), the
 client gives informed consent in writing. The conflict rules protect the client, and the
 client must be the aggrieved party, so it is Lennard's position that matters, not Emily's
@@ -1928,8 +1729,7 @@ Question: PS2, Q1. Not mark-weighted. Pre-writes used: 0-21, 0-5, 0-17, 0-18, 0-
 
 Section 82(1) of the Legal Profession Act 1966 states that the following persons are
 officers of the Supreme Court: (a) a person duly admitted as a lawyer (NP) or an advocate
-and solicitor; (b) a Judicial Service Officer; (c) a Legal Service Officer; and (d) a PD
-Officer. Rule 4(a) PCR states that a legal practitioner has a paramount duty to the court,
+and solicitor. Rule 4(a) PCR states that a legal practitioner has a paramount duty to the court,
 which takes precedence over the legal practitioner's duty to the client. Zapp breached that
 duty repeatedly.
 
@@ -1942,8 +1742,8 @@ practitioner must not knowingly assist or permit his or her client (a) to mislea
 tribunal; or (b) to do any other thing which the legal practitioner considers to be
 dishonest. Rule 10(3) PCR states that, to the extent that a legal practitioner is able, the
 legal practitioner must prevent his or her client from, must not be a party to, and must not
-assist the client in, doing either or both of the following: (a) suppressing evidence;
-(b) giving false evidence or false information to a court or tribunal. Barbara had undertaken
+assist the client in, (b) giving false evidence or false information to a court or
+tribunal. Barbara had undertaken
 to the court not to dispose of her assets anywhere. Causing her Momcorp shares to be replaced
 by shares issued to her lover in the Caribbean would breach that undertaking and put assets
 beyond Hermes' reach. That is an unlawful purpose under r 10(5), and a dishonest one under
@@ -2001,11 +1801,8 @@ practitioner knows to be false, and the affidavit would be exactly that if filed
 **Misleading the court.** The fourth issue is Zapp's statement at the hearing that his
 "instructions are that Barbara certainly has not disposed of any assets". Zapp breached
 r 9(2)(a) PCR, which states that, when conducting proceedings, a legal practitioner must not
-knowingly mislead or attempt to mislead in any way, whether by fabricating facts or
-evidence, by including a statement of fact known to be false, or otherwise, (i) the court or
-tribunal; (ii) any staff of the court or tribunal; (iii) any other legal practitioner; or
-(iv) any witness in, or any other person involved in or associated with, those proceedings.
-Solicitors should never mislead the court either actively or passively, nor consciously
+knowingly mislead or attempt to mislead in any way (i) the court or tribunal. Solicitors
+should never mislead the court either actively or passively, nor consciously
 furnish to the court erroneous or incomplete information (*Public Trustee v By Products
 Traders Pte Ltd* [2005] 3 SLR(R) 449 at [26]–[36], especially [35]). A statement that implies
 something the lawyer knows to be untrue is dishonest (*Loh Der Ming Andrew v Koh Tien Hua*
@@ -2060,10 +1857,7 @@ Cross-checked against Matt's and Cyril's PS2 notes.*
 
 Question: PS3, Q2. Not mark-weighted. Pre-writes used: 0-26, 0-27, 0-34, 0-31, 0-28.
 
-Here, r 4(b) PCR applies, which states that a legal practitioner's duty to the client is
-subject only to the duty to the court, and must at all times be fulfilled in a manner that
-upholds the standing and integrity of the Singapore legal system and the legal profession in
-Singapore. Donnie has let an unauthorised person practise under his name and shared fees
+The issue is whether Donnie has run Mega Law properly. He has not. Donnie has let an unauthorised person practise under his name and shared fees
 with her, which is serious misconduct.
 
 **Qualification to practise as a sole proprietor.** Here, s 75C(1) of the Legal Profession
@@ -2072,9 +1866,7 @@ a solicitor on his or her own account or in partnership, or as a director of a l
 corporation, unless he or she (a) has successfully completed such legal practice management
 course within such time as the Council may by rules prescribe; and (b) has, since being
 admitted as a solicitor, been employed for not less than 3 continuous years or 3 years out
-of a continuous period of 5 years in a Singapore law practice; or (c) has been employed as a
-relevant legal officer for not less than 3 continuous years or 3 years out of a continuous
-period of 5 years. Section 75C(5) makes a contravention an offence. Donnie has 6 years'
+of a continuous period of 5 years in a Singapore law practice. Section 75C(5) makes a contravention an offence. Donnie has 6 years'
 standing and worked in a firm before starting Mega Law. He probably meets limb (b), but the
 facts don't say whether he completed the course under limb (a), and he should confirm that
 he has.
@@ -2097,10 +1889,8 @@ merely copied on emails or signs when asked. Being copied is not the "constant s
 that GN 3.7.1 para 4(a) requires. Donnie breached r 32.
 
 **Enabling an unauthorised person to practise.** Donnie contravened s 77(1) of the Legal
-Profession Act 1966, which states that a solicitor must not (a) wilfully and knowingly act as
-agent for any unauthorised person in any legal proceeding of any kind or in any matter which
-under the Act can be done only by a solicitor who has in force a practising certificate;
-(b) permit his or her name to be made use of in any such proceeding or matter upon the
+Profession Act 1966, which states that a solicitor must not wilfully and knowingly (b) permit
+his or her name to be made use of in any such proceeding or matter upon the
 account or for the profit of any unauthorised person; or (c) send any process to any
 unauthorised person, or do any other act enabling any unauthorised person to appear, act or
 practise or purport to practise in any respect as a solicitor in any such proceeding or
@@ -2150,40 +1940,21 @@ It breaches r 39(2)(b) and s 83(2)(d).
 accept any executive appointment associated with any of the following businesses: (a) any
 business which detracts from, is incompatible with, or derogates from the dignity of, the
 legal profession; (b) any business which materially interferes with (i) the legal
-practitioner's primary occupation of practising as a lawyer; (ii) the legal practitioner's
-availability to those who may seek the legal practitioner's services as a lawyer; or
-(iii) the representation of the legal practitioner's clients; (c) any business which is
-likely to unfairly attract business in the practice of law; (d) any business which involves
-the sharing of the legal practitioner's fees with, or the payment of a commission to, any
-unauthorised person for legal work performed by the legal practitioner; (e) any business set
-out in the First Schedule, namely a housing or estate agency business or a debt collection
-business; or (f) any business which is prohibited by the Act, the Rules or other subsidiary
-legislation, or the practice directions, guidance notes and rulings issued under s 71(6) of
-the Act or by the Council or the Society. Rule 34(9) defines "executive appointment" as a
+practitioner's primary occupation of practising as a lawyer; (c) any business which is
+likely to unfairly attract business in the practice of law; or (e) any business set out in
+the First Schedule, namely a housing or estate agency business or a debt collection
+business. Rule 34(9) defines "executive appointment" as a
 position associated with a business, or in a business entity or Singapore law practice,
 which entitles the holder of the position to perform executive functions in relation to the
 business, business entity or Singapore law practice, but excludes any non-executive director
 or independent director. Rule 34(4) states that, subject to paragraph (1), a legal
 practitioner (not being a locum solicitor) may accept an executive appointment in a business
 entity which does not provide any legal services or law-related services, if all of the
-conditions set out in the Second Schedule are satisfied. Those conditions are that (1) the
-business of the entity must not jeopardise the professional integrity, independence or
-competence of the legal practitioner, and must not detract from the standing and dignity of
-the legal profession; (2) the entity must not be held out or described so as to suggest that
-it is a law practice, or that any legal practitioner in it provides services, carries on
-business or is employed as a regulated legal practitioner; (3) the legal practitioner's
-involvement in the entity must not impair, and must not conflict with, the legal
-practitioner's duties in the law practice or to any client of the law practice; (4) the
-entity's files, records and accounts must be kept separate from and independent of those of
-the law practice; (5) where a client of the law practice deals with, or is referred to, the
-entity, the legal practitioner must make full and frank disclosure to the client of the
-relationship between the entity and the law practice and its lawyers, their financial or
-other interests in the entity, and the fact that statutory protections for clients of a law
-practice may not be available to a customer of the entity; (6) the law practice's client
-account and other accounts holding client money must not be used to hold money for the entity
-or its customers; (7) the entity's accounts must not be used to hold money for the law
-practice or its clients; and (8) the entity must conduct its business at an address separate
-and distinct from that of the law practice, although both may be in the same building.
+conditions set out in the Second Schedule are satisfied. Those conditions include that
+(4) the entity's files, records and accounts must be kept separate from and independent of
+those of the law practice; (6) the law practice's client account and other accounts holding
+client money must not be used to hold money for the entity or its customers; and (7) the
+entity's accounts must not be used to hold money for the law practice or its clients.
 Donnie is a director but takes no part in operations. If his role is non-executive, it is not
 an "executive appointment" under r 34(9) and r 34 is not engaged. If it is executive, a small
 café does not detract from the dignity of the profession under r 34(1)(a), does not
@@ -2236,18 +2007,13 @@ of confidentiality owed to a client or former client; or (ii) the success rate o
 practitioner, the law practice or any member of the law practice; and (c) the publicity does
 not make any comparison or criticism in relation to the fees charged, or the quality of the
 services provided, by any other legal practitioner or law practice. Rule 43(2) PCR states
-that the following factors may be taken into account in justifying any claim to expertise or
-specialisation: (a) academic qualifications; (b) experience; (c) proportion of working time
-involved; (d) level of success achieved; (e) complexity of law and practice;
-(f) significance of the matters involving the legal practitioner or the law practice; and
-(g) assessment by peers. Rule 44(1) PCR states that a legal practitioner must not publicise
-the practice in a manner which (a) is likely to diminish public confidence in the legal
-profession or to otherwise bring the legal profession into disrepute; (b) may reasonably be
-regarded as being misleading, deceptive, inaccurate, false or unbefitting the dignity of the
-legal profession; or (c) the Council may determine to be an undesirable manner of publicising
-the practice. Rule 44(2) PCR states that publicity is misleading, deceptive, inaccurate or
-false if (a) it contains a material misrepresentation; (b) it omits to state a material fact;
-(c) it contains any information which cannot be verified; or (d) it is likely to create an
+that the factors that may be taken into account in justifying any claim to expertise or
+specialisation include (b) experience. Rule 44(1) PCR states that a legal practitioner must
+not publicise the practice in a manner which (b) may reasonably be regarded as being
+misleading, deceptive, inaccurate, false or unbefitting the dignity of the legal profession.
+Rule 44(2) PCR states that publicity is misleading, deceptive, inaccurate or false if (a) it
+contains a material misrepresentation; (c) it contains any information which cannot be
+verified; or (d) it is likely to create an
 unjustified expectation about the results that can be achieved by the legal practitioner or
 the law practice.
 

@@ -11,7 +11,7 @@ Self-study practice only — never use this for a live quiz, the Mock Exam or th
 | # | Date | Topic | Marks | Time | Result |
 |---|---|---|---|---|---|
 | 1 | 2 Nov 2026 | Drill (QB-23, tier 3): gifts to a lawyer's family, unrepresented non-client, confidentiality; confession and surety in criminal defence — Sub-points II.24, II.19, II.10, IV.10, III.15, III.8 | 30 | 36 min | Awaiting Bennett's answer |
-| PP-1 (`pyp-2023`) | 2 Nov 2026 | Practice Paper (PRD §7 item 3): 2023 paper (PYP23), Q1 conflicts (50) + Q2 lawyer-as-witness and publicity (50) | 100 | 120 min | Awaiting Bennett's answer |
+| PP-1 (`pyp-2023`) | 2 Nov 2026 | Practice Paper (PRD §7 item 3): 2023 paper (PYP23), Q1 conflicts (50) + Q2 lawyer-as-witness and publicity (50) | 100 | 120 min | Sat 3 Nov; self-marked by Bennett; WS-1, WS-2 |
 
 ## Practice Paper 1 — 2023 paper (set 2 Nov 2026)
 
@@ -42,7 +42,11 @@ Don't open `model-answers.md` before sitting the paper.
 
 ### Bennett's answer and marks
 
-TODO: paste the answer and the failed-lookup log here.
+Sat 3 Nov 2026 with the 24-page pack. Bennett marked it himself against the official key
+(SQ p109–113) and `model-answers.md`; marks are not recorded here. His notes became WS-1
+(failed lookup "take over", Q2.2) and WS-2 (r 22(4)(a)(iii) missing from eth-w-0-23), both
+fixed 3 Nov 2026. He also asked that model answers state only the rules and limbs they rely
+on; done in `model-answers.md` the same day.
 
 ---
 
