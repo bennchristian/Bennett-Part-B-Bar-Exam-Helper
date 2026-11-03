@@ -32,10 +32,10 @@ a Weak Spot (PRD FR-10) and leads to a contents or index fix.
 
 **Also note** whether retyping from Pre-writes fitted in the time (PRD §9 Q4).
 
-**Marking:** Q1 against the official answer key (SQ p109–113) and Pre-writes eth-w-0-6,
-0-7, 0-8, 0-10, 0-11. Q2 against eth-w-0-12, 0-13, 0-22, 0-23, 0-25, 0-29, 0-30 and
-the rules they cite (no official answer exists for Q2). Marked on I-CRUPAC structure,
-accuracy and Sub-point coverage.
+**Marking:** Q1 against the official answer key (SQ p109–113), its prose version in
+`model-answers.md`, and Pre-writes eth-w-0-6, 0-7, 0-8, 0-10, 0-11. Q2 against the own model answer in `model-answers.md` (no official
+answer exists for Q2). Marked on I-CRUPAC structure, accuracy and Sub-point coverage.
+Don't open `model-answers.md` before sitting the paper.
 
 ### Bennett's answer and marks
 
@@ -86,40 +86,8 @@ principles and/or case law.
 
 ---
 
-### Marker's guide — don't read until you've answered
-
-Marks are indicative. Credit any sound point properly sourced; the INTRO2 p25 checklist
-applies (issue, rule, cases, competing considerations, application, conclusion on breach).
-
-**(a) Part A — 15 marks**
-
-| Issue | Rule / authority | Points for application | Marks |
-|---|---|---|---|
-| Significant gift to the lawyer's immediate family | r 25(1)(a)(iii)(A), r 25(2) (PCR p47); *Wan Hui Hong James* (L3 p21–22) | Mei is Priya's immediate family. $300k is a third of a modest estate → "significant" relative to Mr Goh's means and other beneficiaries' expectations. Priya **must not act** on the gift and **must advise** independent advice. "You may want to … not necessary" discourages it — not advice. Drafting the will = acting "in relation to the gift". Apply the *Wan Hui Hong* steps: explain why, client nominates a lawyer, written confirmation, decline the gift if no independent advice. **Breach.** | 6 |
-| Lawyer's own (family) interest vs client | r 22(2)–(3)(a) (PCR p41–42); *Lee Suet Fern* "patent divided loyalties" (L3 p25) | Immediate family's interest is adverse to Mr Goh's (and his estate's). Needed full disclosure + independent advice + written informed consent; none obtained. Continuing on the flat sale is fine only if that matter is unaffected. | 2 |
-| Elderly client — capacity and influence | r 5(4), r 5(2)(k) (PCR p11); *Low Ah Cheow*, *Chee Mu Lin Muriel* (L1 p9) | 81, recently bereaved, dependent on Mei's visits → extra caution: capacity check, see him alone, attendance notes. Credit spotting undue-influence risk. | 2 |
-| Disclosing the will to Kelvin | r 6(2) (PCR p12); exceptions r 6(3) (PCR p12–13) | Contents of Mr Goh's will ("only a bit smaller") are confidential and acquired in the engagement; no exception applies; Mr Goh is alive and didn't authorise it. **Breach.** | 2 |
-| Unrepresented person with adverse interests | r 8(2)(a)–(b) (PCR p15); *Ganesan Krishnan* (L2 p13); *Ahmad Khalis* (L7 p24–25); r 8(1)(a), r 8(3)(b) | Kelvin's interest is adverse (he lost out to Mei). Priya must decline to advise him beyond "get independent advice" and must take steps so he doesn't think she protects him — "I'm looking after the whole family's interests" does the opposite. "Fair to everyone" is also misleading given her daughter benefits. **Breach.** | 2 |
-| Conclusion and remedy | — | Breaches of r 25, r 22, r 6, r 8(2). Should stop, tell Mr Goh to see another firm about the will and gift, and correct Kelvin's impression without revealing the will. | 1 |
-
-**(b) Part B — 15 marks**
-
-| Issue | Rule / authority | Points for application | Marks |
-|---|---|---|---|
-| Bail | r 14(3)(a) (PCR p25); rationale L4 p37 | Absolute prohibition. Personal financial stake in the client's attendance; conflicts with duty to client; remanded client can't give real consent. Long friendship with the family doesn't help — if anything it raises r 11(2)(a) independence concerns. **Must not.** | 3 |
-| May she keep acting after the confession? | r 14(4)(a)–(b) (PCR p26) | Yes, she may continue, but must not adduce evidence or make submissions inconsistent with the confession. She can still put the prosecution to proof and test its evidence (the r 14(4)(b) limit is only on *inconsistent* evidence/submissions — credit this reasoning; TODO: no slide states the "put to proof" gloss expressly). | 3 |
-| Confidentiality of the confession | r 6(2)–(3) (PCR p12–13) | Can't disclose the confession — to the court or anyone — including when withdrawing; no r 6(3) exception applies. | 2 |
-| Advising on giving evidence | r 14(5) (PCR p26); r 10(2) (PCR p20) | Must advise him whether to testify and must abide by his decision; must tell him of his duty to be truthful to the court. | 2 |
-| If he insists on testifying falsely | r 10(3)–(4) (PCR p20–21); r 9(2)(a)–(b), (g) (PCR p17–18); r 14(4)(b); *Public Trustee* at [35] (L4 p5) | She can't call evidence she knows is false or that contradicts the confession, so in practice she can't "continue without perpetuating the falsehood" — she must cease to act (r 10(4)(a)). | 3 |
-| How to withdraw | r 26(5)(f) (PCR p49); r 26(6) (PCR p50); r 14(3)(c)–(d) (PCR p25) | Withdrawal is justified to avoid breaching the PCR. Give reasonable notice, avoid foreseeable harm, let him instruct new counsel; apply to the court for discharge; say only that there are professional reasons, without revealing the confession. | 2 |
-
-**I-CRUPAC structure (credit throughout):** each issue opens with the Issue and a
-one-line Conclusion, then the Rule, Proof/Precedent, Application to these facts, and a
-restated Conclusion on breach. No bullets. Deduct for a bare rule list without application.
-
-**What a top answer adds:** frames the tension (r 14(5) abide by the client's choice vs
-r 9/r 10 duty to the court) and resolves it with r 4(b): duty to the client is subject only
-to the duty to the court (L1 p3).
+Marker's guide and model answer: `model-answers.md`, Drill 1. Don't open it until
+you've answered.
 
 ### Bennett's answer and marks
 

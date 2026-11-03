@@ -476,7 +476,10 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-  C["CUES: CII, essential service, Commissioner of Cybersecurity"] --> L1["0-46 Designation of CII"]
+  C["CUES: CII, essential service, Commissioner of Cybersecurity, third-party-owned, temporary concern"] --> D{"Who owns it, and for how long?"}
+  D -- "the essential-service provider" --> L1["0-46 Designation of CII"]
+  D -- "a third party" --> L2["0-69 Third-party-owned CII — designated provider (s 16A)"]
+  D -- "any owner, short-term high risk" --> L3["0-70 System of temporary cybersecurity concern (s 17)"]
 ```
 
 **Owner duties**
@@ -503,25 +506,59 @@ flowchart TD
 ```
 
 ### clk-m-0-46 — Designation of CII
-*Keywords: critical information infrastructure, CII, designation, essential service, 5 years, Cybersecurity Act s 7, First Schedule*
+*Keywords: critical information infrastructure, CII, provider-owned CII, designation, essential service, 5 years, outside Singapore, Cybersecurity Act s 7, s 7(1A), First Schedule*
 
-**End point:** A computer system is designated CII if it is necessary for the continuous delivery of an essential service whose loss would be debilitating, and is located wholly or partly in Singapore; designation lasts 5 years, and ownership or place of incorporation is not a criterion.
+**End point:** A computer system is designated CII (called "provider-owned CII" since 31 Oct 2025) if two conditions are met (s 7(1)):
+- it is necessary for the continuous delivery of an essential service, and its loss would be debilitating; and
+- it is located wholly or partly in Singapore.
 
-*Source note: CYSA p13-15 (s 7), p69-71 (First Sch); DP-2 p18-21. Conflict: DP-2 p20 says "located in Singapore"; the Act says wholly or partly.*
+A system wholly outside Singapore can also be designated if it would otherwise have qualified (s 7(1A)). Designation lasts 5 years, and ownership or place of incorporation is not a criterion. If the essential-service provider does not own the system, see clk-m-0-69.
+
+*Source note: SSO-CYSA s 7; CYSA p13-15 (s 7), p69-71 (First Sch); DP-2 p18-21. Conflict: DP-2 p20 says "located in Singapore"; the Act says wholly or partly, and since 31 Oct 2025 s 7(1A) also reaches systems wholly outside Singapore.*
+
+### clk-m-0-69 — Third-party-owned CII — designated provider (s 16A)
+*Keywords: third-party-owned critical information infrastructure, designated provider, provider of essential service, not owned by the provider, outside Singapore, 5 years, Cybersecurity Act s 16A, Part 3A*
+
+**End point:** A system may be necessary for an essential service (its loss would be debilitating) but not owned by the essential-service provider. The Commissioner may then designate the provider as responsible for that system's cybersecurity, whether the system is in or outside Singapore (s 16A(1)). The designation lasts 5 years (s 16A(3)). The provider then has duties that mirror a CII owner's (ss 16E-16L):
+- furnishing information;
+- meeting prescribed standards;
+- following directions;
+- reporting ownership changes and incidents;
+- audits and risk assessments;
+- notifying material changes to its legally binding commitment;
+- taking part in exercises.
+
+*Source note: SSO-CYSA ss 16A, 16E-16L (Part 3A, inserted by Act 19 of 2024, in force 31 Oct 2025); DP-Plan p5. The library's CYSA (2022) and the DPCR slides do not cover Part 3A.*
+
+### clk-m-0-70 — System of temporary cybersecurity concern (s 17)
+*Keywords: system of temporary cybersecurity concern, temporary, high risk, limited period, one year, national security, Cybersecurity Act s 17, Part 3B*
+
+**End point:** The Commissioner may designate a system that is located wholly or partly in Singapore as a system of temporary cybersecurity concern if, for a limited period, both of these hold (s 17(1)):
+- there is a high risk of a cybersecurity threat or incident against the system; and
+- its loss or compromise would seriously harm Singapore's national security, defence, foreign relations, economy, public health, public safety or public order.
+
+The designation lasts at most one year (s 17(2)(d)). The owner must then furnish information, comply with written directions and report incidents (ss 17D-17F).
+
+*Source note: SSO-CYSA ss 17, 17D-17F (Part 3B, inserted by Act 19 of 2024, in force 31 Oct 2025); DP-Plan p5. The library's CYSA (2022) and the DPCR slides do not cover Part 3B; in the 2022 text s 17 was the appeal section.*
 
 ### clk-m-0-47 — Reporting changes — 30 days and 7 days
 *Keywords: material change, change in ownership, 30 days, 7 days, Cybersecurity Act s 10, s 13*
 
 **End point:** A CII owner must furnish information on request and report material changes within 30 days (s 10), and report a change in beneficial or legal ownership within 7 days (s 13).
 
-*Source note: CYSA p17-18 (s 10), p20 (s 13)*
+*Source note: SSO-CYSA ss 10(5), 13; CYSA p17-18 (s 10), p20 (s 13)*
 
 ### clk-m-0-48 — Reporting cybersecurity incidents
-*Keywords: cybersecurity incident, prescribed incident, detection mechanisms, Cybersecurity Act s 14*
+*Keywords: cybersecurity incident, prescribed incident, interconnected system, supplier, detection mechanisms, Cybersecurity Act s 14*
 
-**End point:** The owner must report prescribed cybersecurity incidents (and any others the Commissioner specifies) within the prescribed period and keep mechanisms to detect them.
+**End point:** Within the prescribed period, the owner must report prescribed cybersecurity incidents affecting any of these (s 14(1)):
+- the CII;
+- any system under the owner's control, whether or not it is interconnected with the CII;
+- a supplier's system that is interconnected with the CII.
 
-*Source note: CYSA p20-21 (s 14); DP-2 p25*
+The owner must also report any other incident the Commissioner specifies, and keep mechanisms to detect incidents (s 14(2)).
+
+*Source note: SSO-CYSA s 14; CYSA p20-21 (s 14); DP-2 p25. Conflict: DP-2 p25 (the 2022 text) covers only the CII and interconnected systems under the owner's control; since 31 Oct 2025, s 14(1)(ba)-(bb) add the owner's other systems and suppliers' interconnected systems.*
 
 ### clk-m-0-49 — Codes of practice and directions
 *Keywords: code of practice, standards of performance, no legislative effect, waiver, directions, Cybersecurity Act s 11, s 12*
@@ -531,18 +568,18 @@ flowchart TD
 *Source note: CYSA p19-20 (ss 11-12); DP-2 p24*
 
 ### clk-m-0-50 — Cybersecurity exercises and appeals
-*Keywords: cybersecurity exercise, appeal to Minister, Cybersecurity Act s 16, s 17*
+*Keywords: cybersecurity exercise, appeal to Minister, 30 days, Cybersecurity Act s 16, s 35B*
 
-**End point:** A CII owner must take part in a cybersecurity exercise when directed (s 16), and may appeal designations and directions to the Minister (s 17).
+**End point:** A CII owner must take part in a cybersecurity exercise when directed (s 16). Designations (including under ss 16A and 17), written directions and codes of practice can be appealed to the Minister within 30 days (s 35B).
 
-*Source note: CYSA p24-25 (ss 16-17). Conflict: DP-2 p27 and Cyril-Exam DP §2.2.1 cite s 15(7)-(8) for the exercise offence; it is s 16(3).*
+*Source note: SSO-CYSA ss 16, 35B; CYSA p24-25 (ss 16-17). Conflict: DP-2 p27 and Cyril-Exam DP §2.2.1 cite s 15(7)-(8) for the exercise offence; it is s 16(3). The library's 2022 CYSA puts appeals in s 17; since 31 Oct 2025 they are in s 35B, and s 17 designates systems of temporary cybersecurity concern.*
 
 ### clk-m-0-51 — Audits and risk assessments
 *Keywords: audit, risk assessment, once every 2 years, once a year, 30 days, Cybersecurity Act s 15*
 
 **End point:** A CII owner must have an audit at least once every 2 years and a risk assessment at least once a year, and give the reports to the Commissioner within 30 days of completion.
 
-*Source note: CYSA p22 (s 15); DP-2 p26*
+*Source note: SSO-CYSA s 15; CYSA p22 (s 15); DP-2 p26*
 
 ### clk-m-0-52 — Running the essential service is not a duty
 *Keywords: essential service, not an obligation, CII owner*
@@ -589,18 +626,26 @@ flowchart TD
 ```
 
 ### clk-m-0-55 — Intentionally causing harassment, alarm or distress (s 3)
-*Keywords: intentional harassment, doxxing, identity information, POHA s 3*
+*Keywords: intentional harassment, humiliation, sexual or indecent, doxxing, identity information, related person, POHA s 3*
 
-**End point:** Intending to cause harassment, alarm or distress by threatening, abusive or insulting words or behaviour, or by publishing identity information, and causing it, is punishable by a fine up to $5,000 and/or up to 6 months.
+**End point:** It is an offence to cause harassment, alarm, distress or humiliation, intending to do so, by any of these:
+- threatening, abusive, insulting, sexual or indecent words, behaviour or communication;
+- publishing identity information of the target or a related person.
 
-*Source note: POHA p8-9 (s 3); DP-3 p8-9*
+The penalty is a fine up to $5,000 and/or up to 6 months. Reasonable conduct is a defence.
+
+*Source note: SSO-POHA s 3; POHA p8-9 (s 3); DP-3 p8-9. Conflict: DP-3 and the Go Pack copy predate Act 23 of 2025 (in force 29 Jun 2026), which added "humiliation" and sexual or indecent conduct; the penalty is unchanged.*
 
 ### clk-m-0-56 — Harassment likely to be caused (s 4) — fine only
-*Keywords: harassment, likely to cause, fine only, entity, POHA s 4*
+*Keywords: harassment, likely to cause, humiliation, sexual or indecent, legitimate purpose, science, medicine, education, art, fine only, entity, POHA s 4*
 
-**End point:** Threatening, abusive or insulting conduct likely to cause harassment, alarm or distress to a person who perceives it is punishable by a fine up to $5,000 only; it binds individuals and entities.
+**End point:** Threatening, abusive, insulting, sexual or indecent words, behaviour or communication is an offence if perceived by a person likely to be caused harassment, alarm, distress or humiliation.
+- The penalty is a fine up to $5,000 only.
+- It binds individuals and entities.
+- Sexual or indecent material with a legitimate purpose related to science, medicine, education or art is excluded (s 4(1A)).
+- Defences: the accused had no reason to believe it would be perceived, or the conduct was reasonable.
 
-*Source note: POHA p10 (s 4); DP-3 p10. Conflict: Cyril-Exam DP §3.2.2 and Nic-DP p11 add up to 6 months' imprisonment; the Act provides a fine only.*
+*Source note: SSO-POHA s 4; POHA p10 (s 4); DP-3 p10. Conflict: Cyril-Exam DP §3.2.2 and Nic-DP p11 add up to 6 months' imprisonment; the Act provides a fine only. DP-3 and the Go Pack copy predate Act 23 of 2025 (in force 29 Jun 2026), which added "humiliation", sexual or indecent conduct and the s 4(1A) exception.*
 
 ### clk-m-0-57 — Fear or provocation of violence (s 5)
 *Keywords: fear of violence, provocation, POHA s 5*
@@ -610,32 +655,45 @@ flowchart TD
 *Source note: POHA p11-12 (s 5). Conflict: Cyril-Exam DP §3.2.3 applies that defence to all of s 5.*
 
 ### clk-m-0-58 — Conduct towards public servants (s 6)
-*Keywords: public servant, public service worker, POHA s 6*
+*Keywords: public servant, public service worker, sexual or indecent, doxxing, identity information, deter from duty, POHA s 6, s 6(1A)*
 
-**End point:** Threatening, abusive or insulting conduct towards a public servant or public service worker in relation to their duties, where the accused knew or ought to have known their capacity, is punishable by a fine up to $5,000 and/or up to 12 months.
+**End point:** There are two offences, both punishable by a fine up to $5,000 and/or up to 12 months:
+- threatening, abusive, insulting, sexual or indecent conduct towards a public servant or public service worker in relation to their duties (s 6(1));
+- since 17 Aug 2026, publishing identity information of a public servant or worker (or a related person) with intent to cause harassment, alarm, distress or humiliation, and either to deter them from their duty or because of their lawful discharge of it (s 6(1A)).
 
-*Source note: POHA p13 (s 6)*
+For both, the accused must know or ought reasonably to know the victim's capacity.
+
+*Source note: SSO-POHA s 6; POHA p13 (s 6). Conflict: the Go Pack copy predates Act 23 of 2025 (sexual or indecent conduct, 29 Jun 2026) and Act 21 of 2025 (s 6(1A), 17 Aug 2026).*
 
 ### clk-m-0-59 — Unlawful stalking (s 7)
-*Keywords: unlawful stalking, course of conduct, POHA s 7*
+*Keywords: unlawful stalking, course of conduct, online stalking, online location, humiliation, POHA s 7*
 
-**End point:** A course of conduct amounting to stalking that causes harassment, alarm or distress is punishable by a fine up to $5,000 and/or up to 12 months; reasonable conduct is a defence.
+**End point:** Unlawful stalking is a course of conduct associated with stalking that both:
+- causes harassment, alarm, distress or humiliation; and
+- is intended to, or the accused knows or ought reasonably to know is likely to, have that effect.
 
-*Source note: POHA p15-17 (s 7); DP-Plan p5. Conflict: Cyril-Exam DP omits s 7; it is core.*
+Since 29 Jun 2026 the examples include online activity in places the victim visits, and making a presence felt online (s 7(3)(ca)-(cb)). The penalty is a fine up to $5,000 and/or up to 12 months; reasonable conduct is a defence.
+
+*Source note: SSO-POHA s 7; POHA p15-17 (s 7); DP-Plan p5. Conflict: Cyril-Exam DP omits s 7; it is core. The Go Pack copy predates Act 23 of 2025, which added "humiliation" and the online examples.*
 
 ### clk-m-0-60 — Statutory tort and abolition of the common-law tort
-*Keywords: statutory tort, damages, common-law tort of harassment abolished, POHA s 11, s 14*
+*Keywords: statutory tort, damages, enhanced damages, online activity, written request, common-law tort of harassment abolished, POHA s 11, s 11A, s 14*
 
-**End point:** A victim of ss 3, 4, 5 or 7 may sue for damages under the s 11 statutory tort; the common-law tort of harassment is abolished (s 14).
+**End point:** A victim of ss 3, 4, 5 or 7 may sue for damages under the s 11 statutory tort; the common-law tort of harassment is abolished (s 14). Since 29 Jun 2026 the court may also award enhanced damages under s 11A when all three of these hold:
+- the conduct is wholly or partly online;
+- the victim made a reasonable written request to address it;
+- the respondent, without reasonable excuse, failed to do so within a reasonable time.
 
-*Source note: POHA p23 (s 11), p36 (s 14); DP-3 p16*
+Enhanced damages are separate from punitive and aggravated damages.
+
+*Source note: SSO-POHA ss 11, 11A, 14; POHA p23 (s 11), p36 (s 14); DP-3 p16. s 11A was inserted by Act 23 of 2025 and is not listed in DP-Plan p5.*
 
 ### clk-m-0-61 — Protection orders
 *Keywords: protection order, likely to continue, just and equitable, Exempt Class of Persons Order, POHA s 12*
 
 **End point:** The court may grant a protection order if satisfied of a contravention of ss 3 to 7, that it is likely to continue or be repeated, and that an order is just and equitable (deemed on conviction or voluntarily causing hurt); none lies against passive network or search providers (non-core Order).
 
-*Source note: POHA p24-26 (s 12); DP-3 p17, p24*
+*Source note: SSO-POHA s 12; POHA p24-26 (s 12); DP-3 p17, p24. Since 29 Jun 2026 a protection order can also require the respondent to stop publishing an offending communication (s 12(2B)(b)).*
 
 ## 0.IX False statements — POHA orders and POFMA
 
@@ -651,6 +709,7 @@ flowchart TD
   I -- "block access" --> L3["0-64 Disabling order (s 15C)"]
   I -- "notify viewers" --> L4["0-65 Targeted correction order (s 15D)"]
   W -- "prescribed respondent" --> L5["0-66 General correction order (s 15E)"]
+  W -- "administrator of the online location" --> L6["0-71 Administrator orders (ss 15CA, 15CB)"]
 ```
 
 **Requirements and POFMA**
@@ -664,9 +723,20 @@ flowchart TD
 ### clk-m-0-62 — Stop publication order (s 15A)
 *Keywords: stop publication order, publisher, POHA s 15A*
 
-**End point:** The court may order the publisher (an individual or entity) to stop publishing the false statement and any substantially similar statement; "publishing" excludes intermediary, telco and access services.
+**End point:** The court may order the respondent publisher, or any other individual or entity, to stop publishing the false statement and not to publish any similar (including identical) statement, by a specified time. "Publishing" excludes intermediary, telco, internet-access and computing resource services.
 
-*Source note: POHA p38-40 (s 15A); DP-3 p19-20*
+*Source note: SSO-POHA s 15A; POHA p38-40 (s 15A); DP-3 p19-20. Conflict: the Go Pack copy and DP-3 predate Act 23 of 2025 (in force 29 Jun 2026), which widened s 15A(3) from "substantially similar" to "similar" statements, including identical ones (s 15A(5)).*
+
+### clk-m-0-71 — Administrator orders (ss 15CA, 15CB)
+*Keywords: administrator, online location, chat group, channel, forum, social media page, group admin, stop publication (administrator) order, correction (administrator) order, POHA s 15CA, s 15CB*
+
+**End point:** Since 29 Jun 2026 the court may make two kinds of order against the administrator of an online location (a website, chat group, channel, forum, social media page, etc.) where the false statement has been published:
+- stop its publication in Singapore, including similar copies (s 15CA);
+- publish a correction notice (s 15CB).
+
+An administrator is whoever develops, maintains or manages the location, controls membership or access, or has editorial control. It does not include an internet intermediary or an internet-access provider (s 2). The usual requirements apply (clk-m-0-67).
+
+*Source note: SSO-POHA ss 2, 15, 15CA, 15CB (inserted by Act 23 of 2025, in force 29 Jun 2026). Not in DP-3 or the Go Pack copy.*
 
 ### clk-m-0-63 — Correction order (s 15B)
 *Keywords: correction order, correction notice, POHA s 15B*
@@ -701,7 +771,7 @@ flowchart TD
 
 **End point:** The applicant must show on a balance of probabilities a false statement of fact about them, published by the respondent, and that an order is just and equitable; the respondent need not know it is false, and orders may issue even if it was amended or taken down. There is no "specific correction order".
 
-*Source note: POHA p37-38 (ss 15, 15A(2)); SampleQs p89 Q3, key p130*
+*Source note: SSO-POHA ss 15, 15A(2); POHA p37-38 (ss 15, 15A(2)); SampleQs p89 Q3, key p130. Since 29 Jun 2026, s 15(1) also applies these rules to the two administrator orders (clk-m-0-71).*
 
 ### clk-m-0-68 — POFMA (non-core)
 *Keywords: POFMA, ministerial direction, correction direction, stop communication direction, access blocking order, declared online location*
@@ -951,11 +1021,16 @@ flowchart TD
 *Source note: LT-4 p4, p6; Nic-ETA p10-11*
 
 ### clk-m-1-24 — Excluded matters
-*Keywords: wills, trusts, immovable property, negotiable instruments, First Schedule, ETA s 4*
+*Keywords: wills, trusts, power of attorney, lasting power of attorney, immovable property, negotiable instruments, bills of lading, First Schedule, ETA s 4, electronic transferable records, Part 2A*
 
-**End point:** The ETA carves out wills, certain trusts and powers of attorney, and immovable property (s 4 and First Schedule). TODO: verify the post-2021 First Schedule, as amendments added electronic transferable records.
+**End point:** The ETA's Part 2 rules on electronic records and signatures do not apply to the First Schedule matters (s 4):
+- making a will;
+- indentures, declarations of trust and powers of attorney, but not implied, constructive or resulting trusts, or a lasting power of attorney;
+- the sale or conveyance of immovable property.
 
-*Source note: LT-4 p4, p9; Nic-ETA p9, p32-33 (2011 Rev Ed)*
+The slides summarise this as wills, trusts and real property. Negotiable instruments and bills of lading are no longer excluded. Since the 2021 amendments that adopted the Model Law on Electronic Transferable Records, they can exist as electronic transferable records under Part 2A.
+
+*Source note: SSO-ETA s 4, First Sch, s 16A; LT-4 p4, p9; Nic-ETA p9, p32-33 (2011 Rev Ed); Cyril-Exam LT §2.4. The Go Pack's 2011 text still lists negotiable instruments and documents of title. Act 5 of 2021 removed them, and Act 16 of 2021 added the lasting power of attorney exception from 14 Nov 2022.*
 
 ### clk-m-1-25 — Network service providers
 *Keywords: network service provider, third-party material, adopt, ETA s 26*
@@ -1777,9 +1852,9 @@ flowchart TD
 ### clk-m-2-44 — Thailand — the lawyer may refuse
 *Keywords: Thailand, no legal professional privilege, lawyer may refuse, court can compel, in-house counsel, police*
 
-**End point:** There is no legal professional privilege: the lawyer (not the client) may refuse to disclose, but the court can compel if refusal is unreasonable; per the official key, a Thai in-house counsel cannot claim privilege and the police can access the documents. TODO: verify against Guide p10-11, which says in-house protection is unclear and only a court can compel.
+**End point:** There is no legal professional privilege. The lawyer (not the client) may refuse to disclose a confidential document or fact, but the court can compel disclosure if the refusal is unreasonable. In-house lawyers are generally not bound by the confidentiality obligation. So in the exam, a Thai in-house counsel cannot claim privilege, and the police can access the documents (official key).
 
-*Source note: Guide p8-11; SampleQs p98 Q3, key p130. Conflict: the 2019 Guide says disclosure can only be compelled by the court; the official key says the police can access.*
+*Source note: Cmp-4 p9; Guide p8-11; SampleQs p98 Q3, key p130; Cyril-Exam CMP §4.4.2. Conflict: the 2019 Guide says that only a court can compel disclosure to enforcement authorities (p10 Q13), and that licensed in-house lawyers may arguably be protected (p11 Q16). The slides and the official key say in-house lawyers are generally not protected and the police can access the documents, so follow the slides and the key.*
 
 ### clk-m-2-45 — Grounds for withholding documents
 *Keywords: withhold documents, external counsel, trade secrets, relevance*
@@ -1914,9 +1989,9 @@ flowchart TD
 ### clk-m-3-13 — Limitation — Foreign Limitation Periods Act
 *Keywords: limitation, Foreign Limitation Periods Act 2012, FLPA s 3, s 4, lex causae*
 
-**End point:** Limitation is now mostly governed by the lex causae (FLPA ss 3-4); the official sample key applies a shorter foreign limitation period under s 3. TODO: verify the FLPA detail, as the slides give only this pointer.
+**End point:** Limitation is an exception to the procedure rule: it is now mostly governed by the lex causae (FLPA ss 3-4). Where foreign law governs the claim, its limitation period applies under s 3. In the official sample, a 2-year foreign period bars a contract claim brought in Singapore after 3 years, even though Singapore's period is 6 years.
 
-*Source note: CoL-2 p22; SampleQs p103 Q4, key p131*
+*Source note: CoL-2 p22; CoL-Plan p4; SampleQs p103 Q4, key p131; Isabel p5. The library gives no FLPA detail beyond this pointer to ss 3-4 and the sample key, so do not go further than they do.*
 
 ### clk-m-3-14 — Forum mandatory rules
 *Keywords: forum mandatory rule, overriding statute, regulatory, protective, JIO Minerals*

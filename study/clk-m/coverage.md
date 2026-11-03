@@ -12,12 +12,15 @@ conflicts are recorded in the Source notes in `flowcharts.md`).
 
 Source aliases are defined in `outline.md` → "Source key".
 
-**Status (2 Nov 2026):** every Topic except 0.X has a Flowchart. 220 of 223 Sub-points are
-covered. The 3 `TODO` rows are DPCR AI regulation: the library has no slides for it.
+**Status (3 Nov 2026):** every Topic except 0.X has a Flowchart. 223 of 226 Sub-points are
+covered. The 3 `TODO` rows are DPCR AI regulation: the library has no slides for it. Three rows
+were added on 3 Nov:
+- 0.VII.10–11, for CYSA ss 16A and 17 [DP-Plan p5; SSO-CYSA];
+- 0.IX.8, for the POHA administrator orders [SSO-POHA].
 
 | Subject | Topics | Rows | Covered by an ID | TODO |
 |---|---|---|---|---|
-| 0 Data Protection & Cyber Regulation | 10 | 71 | 68 | 3 |
+| 0 Data Protection & Cyber Regulation | 10 | 74 | 71 | 3 |
 | 1 Law & Technology | 10 | 61 | 61 | 0 |
 | 2 Comparative Laws | 8 | 45 | 45 | 0 |
 | 3 Conflict of Laws | 10 | 46 | 46 | 0 |
@@ -112,6 +115,8 @@ covered. The 3 `TODO` rows are DPCR AI regulation: the library has no slides for
 | 0.VII.7 | Running the essential service is not a duty | — | clk-m-0-52 |
 | 0.VII.8 | Code of Practice — governance | — | clk-m-0-53 |
 | 0.VII.9 | Investigation and serious-incident powers (Part 4) | — | clk-m-0-54 |
+| 0.VII.10 | Third-party-owned CII — designated provider (s 16A) | — | clk-m-0-69 |
+| 0.VII.11 | System of temporary cybersecurity concern (s 17) | — | clk-m-0-70 |
 
 ### 0.VIII POHA — offences and civil remedies
 
@@ -136,6 +141,7 @@ covered. The 3 `TODO` rows are DPCR AI regulation: the library has no slides for
 | 0.IX.5 | General correction order (s 15E) | — | clk-m-0-66 |
 | 0.IX.6 | Requirements common to the false-statement orders | — | clk-m-0-67 |
 | 0.IX.7 | POFMA (non-core) | — | clk-m-0-68 |
+| 0.IX.8 | Administrator orders (ss 15CA, 15CB) | — | clk-m-0-71 |
 
 ### 0.X AI regulation
 

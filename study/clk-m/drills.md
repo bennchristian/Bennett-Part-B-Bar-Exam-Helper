@@ -171,7 +171,7 @@ D. Only the access and correction rights apply.
 | DP12 | **D** | "Reasonable" arrangements; includes loss of storage media; contextual factors [PDPA s 24; DP-2 p40–43] | A: "all necessary" is the official sample's distractor. C: no mandated standard. B: intermediaries are bound too [DP-2 p44] |
 | DP13 | **A** | s 3 needs intent plus resulting distress [POHA p8–9]; s 11 tort; s 12 protection order [POHA p23–26] | B: s 4 is fine only. C: the common-law tort is abolished (s 14). D: POHA covers communications by any means |
 | DP14 | **A** | s 15A stop publication order against the publisher; s 15C disabling order against the intermediary [POHA p38–41] | B: no such order. C: ministerial directions are POFMA (non-core), not POHA. D: a general correction order needs a *prescribed* respondent and serious harm (s 15E) |
-| DP15 | **B** | Ownership or incorporation isn't a criterion [CYSA s 7 p13] | A, D, C are the s 7 criteria |
+| DP15 | **B** | Ownership or incorporation isn't a criterion [CYSA s 7 p13] | A, D, C are the s 7(1) criteria. On C: since 31 Oct 2025, s 7(1A) also lets a system wholly outside Singapore be designated if it would otherwise qualify. B is still the answer [SSO-CYSA s 7] |
 | DP16 | **C** | s 4(4): for someone dead 10 years or less, disclosure and s 24 only; for more than 10 years, the Act doesn't apply [PDPA p14] | A: "never" is wrong. B: the 100-year figure is about records. D: wrong set of provisions |
 
 </details>

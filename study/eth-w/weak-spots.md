@@ -15,15 +15,11 @@ feeds open ones into the tracker's `notes` for `eth-w`.
 
 | Pre-write | Point | How to close |
 |---|---|---|
-| eth-w-0-33 | Does a success bonus on top of a fixed fee (PYP21 Q3.2) fall within s 107(1)(b) LPA / r 18? "Payment *only* in the event of success" is not a literal fit. | Check Pinsler's commentary on r 18 or ask at the End of Course Lecture (~10 Nov). |
+| — | None open (all four closed 3 Nov 2026; see Resolved) | — |
 
 ## Known gaps (not Weak Spots yet)
 
-- **Untested Sub-points with no Pre-write** — 35 rows marked "item 4" in `coverage.md`.
-  Next to write, by likely value: II.24 gifts (r 25), III.15 criminal defence (r 14),
-  III.6 generative AI (new in the 2026 syllabus), II.22 borrowing (r 23), IV.2
-  represented persons (r 7(3)), IV.8 allegations against lawyers (r 29), IV.11 letters of
-  demand and threats (r 8(4)–(5)), VII.1 client money.
+- **Untested Sub-points with no Pre-write:** none since 3 Nov 2026 (eth-w-0-35 to 0-70 added).
 - **Cases cited without a pinpoint**, because the sources give none: *Lim Oon Kuin*,
   *Govindan Balan Nair*, *Naidu Priyalatha*, *Leong Pek Gan*, *Su Ah Tee*, *Thirumurthy*
   (2022), *Chong Wai Yen Michael*, *Kurubalan*, *Tan See Leh Jonathan*, *Yeo Siew Chye Troy*.
@@ -39,3 +35,15 @@ feeds open ones into the tracker's `notes` for `eth-w`.
 - PD 5.2.2, 9.1.1, 9.1.2, 1.6.1, 1.6.2 were thought missing on 2 Nov; they are in
   `Materials for Ethics/`. PD 5.2.2 and 1.6.1 are now used in eth-w-0-32 and eth-w-0-20.
 - Whether the 2026 paper has an MCQ section: no (PRD §3, Opening Brief slide 45).
+- 3 Nov 2026, closed from primary sources:
+  - **0-33** success bonus: caught by s 107(1)(b). An uplift on success is lawful only in a
+    Part 8A conditional fee agreement (s 107(3AA), s 115A(1) LPA), which is limited to
+    prescribed proceedings (arbitration, certain SICC proceedings and related court and mediation
+    proceedings); GN 5.6.1 para 8 and its illustration treat a discounted fee plus uplift as a
+    conditional fee agreement. No case decides the point directly.
+  - **0-45** *Tajudin* [2025] SGHCR 33 at [52], [54], [93], [101] ($800 personal costs) and
+    *Tan Hai Peng* [2026] SGHC 49 at [32], [44], [46], [66] ($5,000 each against two
+    solicitors), read on eLitigation.
+  - **0-52** *Re Parti Liyani* [2020] SGHC 227 at [38]–[39], read on eLitigation.
+  - **0-62 / 0-54** *Rai Vijay Kumar* [2025] SGHC 159: r 7(3) and r 8(3)(a)–(b) breaches upheld
+    (at [29]–[30], [38], [40]–[42]); application to set aside dismissed (at [44]).

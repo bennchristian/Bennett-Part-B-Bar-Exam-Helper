@@ -99,6 +99,15 @@ number. Paths are under `Bar Exam/`.
 | SampleQs | `Sample Questions/20260806_Part_B_Course_Session_2_Sample_Questions.pdf` |
 | PYP-CLK | `Seniors Notes/Nic_s Part B Package/3. PYP/2023 PYP/CLK - Instruction Sheet.pdf` (the 2023 CLK paper itself is not in the library) |
 
+**Outside the library** (Bennett approved on 3 Nov 2026; used only where the library's statute copy is out of date)
+
+| Key | Source |
+|---|---|
+| SSO-ETA | Singapore Statutes Online, Electronic Transactions Act 2010, current version as at 3 Nov 2026 (sso.agc.gov.sg/Act/ETA2010). Cited by section, not page |
+| SSO-CYSA | Singapore Statutes Online, Cybersecurity Act 2018, current version as at 3 Nov 2026, including Act 19 of 2024 in force 31 Oct 2025 (sso.agc.gov.sg/Act/CA2018). Cited by section, not page |
+| SSO-PDPA | Singapore Statutes Online, Personal Data Protection Act 2012, current version as at 3 Nov 2026 (sso.agc.gov.sg/Act/PDPA2012). Cited by section |
+| SSO-POHA | Singapore Statutes Online, Protection from Harassment Act 2014, current version as at 3 Nov 2026, including Act 23 of 2025 (in force 29 Jun 2026) and Act 21 of 2025 (in force 17 Aug 2026) (sso.agc.gov.sg/Act/PHA2014). Cited by section |
+
 ## Where seniors' notes conflict with the module (the module wins)
 
 **DPCR**
@@ -110,8 +119,17 @@ number. Paths are under `Bar Exam/`.
 - Nic gives POHA s 4 an imprisonment term. It is **fine only** [Nic-DP p11; POHA p10].
 - Nic uses POFMA labels for the POHA orders [Nic-DP p14–15].
 - The DPCR slides mislabel the s 15B and s 15C orders. Use the statute's names [DP-3 p21–22].
-- The DPCR plan lists CYSA ss 16A and 17 (Parts 3A and 3B). The Go Pack's 2022 copy has no such
-  Parts. **TODO: verify** against the current Act [DP-Plan p5; CYSA p2].
+- The DPCR plan lists CYSA ss 16A and 17 (Parts 3A and 3B) [DP-Plan p5]. The Go Pack's 2022 copy
+  and the DPCR slides predate the Cybersecurity (Amendment) Act 2024 (Act 19 of 2024, in force
+  31 Oct 2025). Checked against the current Act on 3 Nov 2026 [SSO-CYSA]:
+  - s 16A designates an essential-service provider as responsible for third-party-owned CII;
+  - s 17 designates a system of temporary cybersecurity concern;
+  - appeals moved from s 17 to s 35B;
+  - s 7(1A) now reaches CII located wholly outside Singapore;
+  - s 14 incident reporting now extends to the owner's other systems and suppliers'
+    interconnected systems.
+
+  See clk-m-0-46, 0-48, 0-50, 0-69 and 0-70.
 
 **Law & Tech**
 - Nic says Lessig wanted a "new field of law". The module's position is narrower: specialised
@@ -136,14 +154,30 @@ number. Paths are under `Bar Exam/`.
 - PDPA Parts 1–6, 6A, 9B–9D, 10, and Schedules 1, 2, 11;
 - the Breach Notification Regulations 2021;
 - PDP Regulations 2021 Parts 2–4;
-- the Cybersecurity Act (CYSA) Parts 1, 3, 4 and Schedule 1;
+- the Cybersecurity Act (CYSA) Parts 1, 3, 4, ss 16A and 17, and Schedule 1;
 - POHA ss 3–7, 11, 12, 15, 15A–15E [DP-Plan p5].
 
 **Non-core:** POFMA, the POHA subsidiary orders, and the Online Safety (Relief and Accountability)
 Bill 2025 [DP-Plan p6].
 
 Statute page references are to the Go Pack copies: PDPA in force from 1/10/2022, CYSA from
-11/4/2022, POHA from 1/5/2023. TODO: verify there have been no later amendments.
+11/4/2022, POHA from 1/5/2023. All three were checked against SSO on 3 Nov 2026:
+- **CYSA:** amended (see above).
+- **PDPA:** only two minor changes since the Go Pack copy, neither affecting a block:
+  - s 48C was amended for public-agency data sharing (Act 2 of 2026, from 16 Oct 2026);
+  - Second Sch Part 3 para 3(a) was deleted (Act 19 of 2025).
+
+  Data portability (Part 6B) is still not in force [SSO-PDPA].
+- **POHA:** substantially amended by Act 23 of 2025 (from 29 Jun 2026) and Act 21 of 2025
+  (s 6(1A), from 17 Aug 2026). The changes are:
+  - "humiliation" and sexual or indecent conduct added to ss 3, 4, 6 and 7, with a
+    legitimate-purpose exception in s 4(1A);
+  - online stalking examples (s 7);
+  - doxxing of public servants (s 6(1A));
+  - enhanced damages (s 11A);
+  - administrator orders (ss 15CA, 15CB).
+
+  Penalties are unchanged. See clk-m-0-55 to 0-62, 0-67 and 0-71 [SSO-POHA].
 
 ### 1.1 PDPA — scope and personal data
 
@@ -334,7 +368,8 @@ Statute page references are to the Go Pack copies: PDPA in force from 1/10/2022,
   - carry out an **audit at least once every 2 years** and a **risk assessment at least once a
     year** (s 15);
   - take part in **cybersecurity exercises** when directed (s 16);
-  - appeals go to the **Minister** (s 17).
+  - appeals go to the **Minister**: s 17 in the Go Pack copy, now **s 35B**, within 30 days
+    [SSO-CYSA].
   - **Running the essential service is NOT a CII-owner duty** [official key: SampleQs p89 Q2].
 - **Code of Practice s 3 (governance)** — board and senior management must include a member with
   cybersecurity knowledge; there must be a risk framework and register, policies reviewed
@@ -481,7 +516,9 @@ Statute page references are to the Go Pack copies: PDPA in force from 1/10/2022,
   - ss 6–8 give electronic records, writing and signatures functional equivalence;
   - ss 11–16 say contract formation is not undermined solely because it is electronic,
     including automated message systems;
-  - carve-outs (wills, trusts, real property) are in s 4.
+  - carve-outs (wills, trusts, real property) are in s 4. Bills of lading and negotiable
+    instruments are no longer carved out (removed in 2021; see clk-m-1-24) [SSO-ETA First
+    Sch].
 - Its roots are the UN Model Law on E-Commerce (1996). Principles: non-discrimination,
   functional equivalence, technology neutrality. The Model Law on Electronic Transferable
   Records was adopted recently [LT-4 p9].
@@ -500,8 +537,10 @@ Statute page references are to the Go Pack copies: PDPA in force from 1/10/2022,
 - **SM Integrated Transware v Schenker [2005] 2 SLR(R) 651**: the ETA's exclusion of Civil Law
   Act s 6 matters does not mean electronic means can't satisfy s 6. Construing CLA s 6(d)
   itself, the emails were "in writing" [85] [LT-4 p12].
-- **ETA provisions worth knowing** — citing the 2011 Rev Ed; TODO: verify current numbering
-  after the 2021 amendments that added electronic transferable records:
+- **ETA provisions worth knowing.** These cite the 2011 Rev Ed. On 3 Nov 2026 the section
+  numbers (ss 4, 6–8, 13–16, 26) were checked against the current Act and are unchanged; the
+  2021 amendments inserted Part 2A (ss 16A onward) on electronic transferable records
+  [SSO-ETA]:
   - **s 13**: an email is received when it can be retrieved at a designated address; at an
     undesignated address, only when it can be retrieved **and** the addressee is aware of it
     [Nic-ETA p14–15];
@@ -774,7 +813,9 @@ other codes) with nothing on Indonesia or Thailand. Use them only for generic ci
     between lawyers are inadmissible [Guide p5–7].
   - **Thailand**: no legal professional privilege. The **lawyer** (not the client) may refuse
     under the Penal Code / procedure codes, but the **court can compel** if refusal is
-    unreasonable. In-house protection is unclear [Guide p8–11]. TODO: verify — the official
+    unreasonable. The slides say in-house lawyers are generally not bound by the
+    confidentiality obligation [Cmp-4 p9]; Cyril agrees [Cyril-Exam CMP §4.4.2]. Checked
+    3 Nov 2026, resolved for the slides and the key; the conflict is recorded in clk-m-2-44. The official
     sample key says a Thai in-house counsel *cannot* claim privilege and the police *can*
     access the documents [SampleQs p98, key p130], while the 2019 Guide says disclosure "can only
     be compelled by the court" [Guide p10]. Go with the key in the exam; ask at the contact
@@ -842,7 +883,8 @@ precise *issues*, not whole claims or disputes [CoL-2 p5].
 - *Procedure* → lex fori only. Includes evidence (admissibility, weight, presumptions) and
   availability of certain remedies (Goh Suan Hee) [CoL-2 p21–22]. **Limitation** is "now mostly
   governed by the lex causae" (Foreign Limitation Periods Act 2012 ss 3–4) [CoL-2 p22].
-  TODO: verify — the slides give no FLPA detail beyond that pointer; the official sample key
+  Checked 3 Nov 2026: no library source gives FLPA detail beyond that pointer (CoL-Plan p4 and
+  the seniors' notes repeat it), so stop at what the slides and key say; the official sample key
   treats a foreign 2-year period as barring a claim under FLPA s 3 [SampleQs p103, key p131].
 - *Forum mandatory rules*: choice of law rules are common law, so a statute can override them,
   expressly (rare) or impliedly where it performs a **"regulatory" or "protective"** function
