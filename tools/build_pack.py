@@ -479,8 +479,9 @@ def find_pages(pdf):
 QTAG = re.compile(r"\*\*(Q[\w-]+)\*\* · (.+)")
 OPTION = re.compile(r"(?:[A-H]|[IVX]+)\. ")
 QCSS = """
-.q{break-inside:avoid;border-top:1px solid #ccc;padding-top:4px;margin:0 0 10px}
-.q h4{margin:0 0 2px} .q p{margin:0 0 3px}
+.q{break-inside:avoid;border-top:1px solid #ccc;padding-top:4px;margin:0 0 10px} .q.long{break-inside:auto}
+.q h4{margin:0 0 2px} .q p{margin:0 0 3px} .q h4,.q .kw{break-after:avoid}
+.facts{margin:0 0 8px} .tocq{column-count:2;column-gap:16px}
 .ans{border-left:3px solid #888;background:#f6f6f6;padding:3px 8px;margin:4px 0 0}
 .toc{margin:0 0 2px 14px;font-size:9pt}
 """
@@ -499,7 +500,7 @@ def parse_questions(text):
             continue
         elif line.startswith("### "):
             n_topics += 1
-            topic, q = dict(title=line[4:].strip(), anchor=f"topic-{n_topics}", qs=[]), None
+            topic, q = dict(title=line[4:].strip(), anchor=f"topic-{n_topics}", qs=[], intro=[]), None
             subj["topics"].append(topic)
         elif m := QTAG.match(line):
             if topic is None:
@@ -513,33 +514,41 @@ def parse_questions(text):
             topic["qs"].append(q)
         elif q is not None:
             q["lines"].append(line)
+        elif topic is not None:
+            topic["intro"].append(line)  # a written paper's hypothetical facts
     return subjects
 
 
-def question_html(q, topic, subs, kws, charts):
-    """One question: tag line, Keywords, the question, then its answer boxed directly below."""
+def question_html(q, topic, subs, kws, charts, written=False):
+    """One question: tag line, Keywords, the question, then its answer boxed directly below.
+
+    MCQ: the Keywords are the file's Topic, the Sub-points and the end-point blocks' Keywords.
+    Written: the coverage Topics and Sub-points of its Keys and the titles of its Pre-writes, since a
+    written answer cites many Pre-writes and their full Keywords would swamp the line."""
     body = "\n".join(q["lines"]).strip()
     cut = body.find("**Answer")
     ask, ans = (body, "") if cut < 0 else (body[:cut], body[cut:])
     if not ans:
         WARNINGS.append(f"model-questions.md:{q['line']}: {q['id']} has no '**Answer' line")
     ask = "\n".join("\n" + ln if OPTION.match(ln) else ln for ln in ask.splitlines())  # one option per line
-    terms = [topic["title"]] + [f"{k} {subs[k]}" for k in q["keys"] if k in subs]
+    terms = ([] if written else [topic["title"]]) + list(dict.fromkeys(subs[k][0] for k in q["keys"] if k in subs and written))
+    terms += [f"{k} {subs[k][1]}" for k in q["keys"] if k in subs]
     for k in q["keys"]:
         if k not in subs:
             WARNINGS.append(f"model-questions.md:{q['line']}: {q['id']} names Key {k}, which is not in coverage.md")
     for i in q["ids"]:
         if i not in kws:
             WARNINGS.append(f"model-questions.md:{q['line']}: {q['id']} points at {i}, which has no block")
-        terms += [t for t in kws.get(i, []) if t not in terms]
+        title, words = kws.get(i, ("", []))
+        terms += [t for t in ([title] if written and title else [] if written else words) if t not in terms]
     ends = ", ".join(re.sub(r"^\w+-\w+-", "", i) for i in q["ids"])
-    return (f"<div class='q' id='q-{q['id']}'><h4>{q['id']} · {inline(q['source'])}"
+    return (f"<div class='q{' long' if written else ''}' id='q-{q['id']}'><h4>{q['id']} · {inline(q['source'])}"
             + (f" · end point {ends}" if ends else "") + "</h4>"
             f"<p class='kw'>Keywords: {inline(', '.join(terms))}</p>{md(ask, charts, q['id'])}"
             + (f"<div class='ans'>{md(ans, charts, q['id'])}</div>" if ans else "") + "</div>")
 
 
-def questions_html(paper, subjects, rendered, built, pages):
+def questions_html(paper, subjects, rendered, built, pages, facts, by_topic=None):
     name = PAPERS[paper][0]
     pg = lambda key: str(pages.get(key, "000"))
     total = sum(len(t["qs"]) for s in subjects for t in s["topics"])
@@ -547,20 +556,37 @@ def questions_html(paper, subjects, rendered, built, pages):
            f"<style>{CSS.replace('PAPER_NAME', name + ' model questions')}{QCSS}</style></head><body>",
            f"<h1>{html.escape(name)} Model Questions</h1>",
            f"<p class='stamp'>Built {built} from study/{paper}/model-questions.md: {total} questions by "
-           "Subject and Topic, each answer directly below its question. If you fixed anything since then, "
+           f"{'paper (contents by Topic)' if by_topic is not None else 'Subject and Topic'}, each answer directly below its question. If you fixed anything since then, "
            "rebuild and copy this file again.</p>",
            "<p>Find a question by Ctrl-F on its Keywords (Topic, Sub-point, terms, sections, cases), or by the "
            "Contents below. \"End point\" names the block in the Reference Pack that holds the rule.</p>",
            "<h2>Contents</h2><div class='secs'>"]
-    for s in subjects:
-        out.append(f"<p><b>{inline(s['title'])}</b></p>")
-        out += [f"<p class='toc'><a href='#{t['anchor']}'>{inline(t['title'])}</a> · {len(t['qs'])} questions"
-                f" · p <a href='#{t['anchor']}'>{pg(t['anchor'])}</a></p>" for t in s["topics"]]
+    if by_topic is not None:  # Written: questions under each coverage Topic their Keys fall in, then papers
+        groups = {q["id"]: t["title"] for s in subjects for t in s["topics"] for q in t["qs"]}
+        for topic in dict.fromkeys(v[0] for v in by_topic.values()):
+            qs = [q for s in subjects for t in s["topics"] for q in t["qs"]
+                  if any(by_topic.get(k, ("",))[0] == topic for k in q["keys"])]
+            if not qs:
+                continue
+            out.append(f"<p><b>{inline(topic)}</b> · {len(qs)} question{'s' * (len(qs) != 1)}</p><div class='tocq'>")
+            out += [f"<p class='toc'><a href='#q-{q['id']}'>{q['id']}</a> {inline(q['source'])} · "
+                    f"{inline(groups[q['id']].split(' — ')[0].split(' · ')[0])} · p <a href='#q-{q['id']}'>{pg('q-' + q['id'])}</a></p>"
+                    for q in qs]
+            out.append("</div>")
+        out.append("<p><b>By paper</b></p>")
+        out += [f"<p class='toc'><a href='#{t['anchor']}'>{inline(t['title'])}</a> · {len(t['qs'])} question{'s' * (len(t['qs']) != 1)}"
+                f" · p <a href='#{t['anchor']}'>{pg(t['anchor'])}</a></p>" for s in subjects for t in s["topics"]]
+    else:
+        for s in subjects:
+            out.append(f"<p><b>{inline(s['title'])}</b></p>")
+            out += [f"<p class='toc'><a href='#{t['anchor']}'>{inline(t['title'])}</a> · {len(t['qs'])} questions"
+                    f" · p <a href='#{t['anchor']}'>{pg(t['anchor'])}</a></p>" for t in s["topics"]]
     out.append("</div>")
     for s in subjects:
         out.append(f"<div class='part'><h2>{inline(s['title'])}</h2>")
         for t in s["topics"]:
-            out.append(f"<section><h3 id='{t['anchor']}'>{inline(t['title'])}</h3>{''.join(rendered[t['anchor']])}</section>")
+            intro = f"<div class='facts'>{facts[t['anchor']]}</div>" if facts[t["anchor"]].strip() else ""
+            out.append(f"<section><h3 id='{t['anchor']}'>{inline(t['title'])}</h3>{intro}{''.join(rendered[t['anchor']])}</section>")
         out.append("</div>")
     out.append("</body></html>")
     return "\n".join(out)
@@ -574,27 +600,30 @@ def build_questions(paper, d):
         return 1
     subs = {}
     if (d / "coverage.md").exists():
-        subs = {r["key"]: r["sub"] for r in parse_coverage((d / "coverage.md").read_text(), paper, len(PAPERS[paper][2]))}
+        rows = parse_coverage((d / "coverage.md").read_text(), paper, len(PAPERS[paper][2]))
+        subs = {r["key"]: (r["topic"] or "", r["sub"]) for r in rows}
     kws = {}
     for f in CONTENT_FILES:
         if (d / f).exists():
-            for m in re.finditer(r"^### (\S+) — .*\n\*Keywords: (.+)\*$", (d / f).read_text(), re.M):
-                kws[m.group(1)] = [k.strip() for k in m.group(2).split(",") if k.strip()]
+            for m in re.finditer(r"^### (\S+) — (.*)\n\*Keywords: (.+)\*$", (d / f).read_text(), re.M):
+                kws[m.group(1)] = (m.group(2).strip(), [k.strip() for k in m.group(3).split(",") if k.strip()])
     subjects = parse_questions(src.read_text())
     if not subjects:
         ERRORS.append("model-questions.md: no '## <n> · Subject' sections found")
     charts = Charts()
-    rendered = {t["anchor"]: [question_html(q, t, subs, kws, charts) for q in t["qs"]]
+    written = paper.endswith("-w")
+    rendered = {t["anchor"]: [question_html(q, t, subs, kws, charts, written) for q in t["qs"]]
                 for s in subjects for t in s["topics"]}
+    facts = {t["anchor"]: md("\n".join(t["intro"]), charts, t["title"]) for s in subjects for t in s["topics"]}
     if charts.src:
         ERRORS.append("model-questions.md has a mermaid chart; the questions PDF does not render charts")
     tmp = Path(tempfile.mkdtemp(prefix=f"build_pack-{paper}-questions-"))
     try:
         built, pdf, pages, stable = datetime.now().strftime("%-d %b %Y %H:%M"), tmp / "pack.pdf", {}, False
-        targets = set(rendered)
+        targets = set(rendered) | ({f"q-{q['id']}" for s in subjects for t in s["topics"] for q in t["qs"]} if written else set())
         for _ in range(3 if not ERRORS else 0):
             try:
-                print_pdf(questions_html(paper, subjects, rendered, built, pages), pdf, tmp)
+                print_pdf(questions_html(paper, subjects, rendered, built, pages, facts, subs if written else None), pdf, tmp)
             except (RuntimeError, subprocess.TimeoutExpired) as e:
                 ERRORS.append(f"Chrome could not print the questions: {e}")
                 break
