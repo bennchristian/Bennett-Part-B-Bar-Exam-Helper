@@ -33,8 +33,21 @@ restated Conclusion. In the exam, retype the matching Pre-write and adapt it.
 | PS2 Q1 | not yet set | [below](#ps2-q1--zapp-and-barbaras-undertaking) | Own |
 | PS3 Q2 | not yet set | [below](#ps3-q2--donnie-melany-and-mega-law) | Own |
 | PS3 Q3 | not yet set | [below](#ps3-q3--brenner-laws-proposed-advertisements) | Own |
+| 2018 Q1 (a)–(c) | not yet set | [below](#2018-q1--joyce-duffer-hawkins-and-wheelers-condition) | Own; (c) = PS3 Q3 |
+| 2018 Q2 (a)–(c) | not yet set | [below](#2018-q2--pawnee-llp-the-ypl-bidders-and-lex-sweetums) | Own |
+| 2019 Q1 | not yet set | [below](#2019-q1--buffy-spike-and-dru) | Own |
+| 2019 Q2 | — | [issues only](#2019-q2--archie-veronica-and-cheryl-questions-missing) | Questions on the missing pp 5–6; no answer |
+| 2020 Q1 (a)–(c) | not yet set | [below](#2020-q1--caitlyn-yasuo-and-teemo) | Own |
+| 2020 Q2 (a)–(c) | not yet set | [below](#2020-q2--donnie-mega-law-mcp-and-joey) | Own; PS3 Q2 is part of it |
+| 2025 Q1–Q2 (100) | not yet set; may be sat unseen | last in the file, under its own spoiler line | Own |
 
 PS1 Q1, PS2 Q2 and PS3 Q1 are the same questions as 2021 Q1, 2022 Section B and 2021 Q3.
+PS3 Q3 is 2018 Q1(c), and PS3 Q2 is paras 1, 3 and 4 of 2020 Q2.
+
+The 2018–2020 papers (added 4 Nov 2026, from `3. PYP/`) are in the old format: two questions,
+each to be passed, with recommended times instead of marks. They are answered on the 2026 law,
+with a one-line note where the law has changed since. The 2025 paper is in the 2026 format and
+is the last section, under its own spoiler line, so it can be sat unseen.
 
 **Checked against the official key (3 Nov 2026).** The course's only published ETH answer (SQ
 p109–113) sets the standard. For each sub-question it: names the rule and sets out its limbs;
@@ -2063,3 +2076,1651 @@ improper conduct or misconduct unbefitting an advocate and solicitor, which is d
 discipline under s 83(2)(b) and (h).
 
 *Source note: r 17(2)(e), 42–44 PCR (PCR p31, p63–66); s 83(2)(b), (h) LPA p217–218.*
+
+---
+
+## 2018 Q1 — Joyce, Duffer, Hawkins and Wheeler's Condition
+
+Question: `3. PYP/2018 PYP/EPR 2018 Paper.pdf` p2–3 (scan pp 1R–2L). Format: two questions,
+each to be passed; no marks, only recommended times: (a) 24 minutes, (b) 12 minutes, (c) 24
+minutes. Pre-writes used: 0-7, 0-8, 0-6, 0-4, 0-11, 0-40, 0-33, 0-13, 0-15.
+
+*Older law.* The paper was set under the PCR 2015 before the 1 April 2022 amendments (S
+240/2022) and before conditional fee agreements were allowed (s 107(3AA), Part 8A LPA, r 18A
+PCR, in force 4 May 2022). Neither change alters the answers below. The LPA is now cited as
+the Legal Profession Act 1966 (formerly Cap 161).
+
+### (a) Joyce acting for Hawkins against Max and other creditors (24 minutes)
+
+The issue is whether Joyce could act for Hawkins in defending claims by its other creditors
+while she was still acting for Duffer, Hawkins' creditor, in Duffer's own winding-up
+application against Hawkins. In my view she could not. Duffer remains a current client, the
+two clients' interests are directly opposed, and Joyce took none of the steps r 20 PCR
+requires. She must now cease to act for Hawkins, and she may have to cease to act for both.
+
+**Duffer is a current client.** Duffer's winding-up application has been stayed, not
+discontinued. It will be discontinued only after Hawkins pays the third and final
+instalment, and none has yet fallen due. Joyce "continues to advise Duffer on the matter".
+So the retainer for Duffer is live, and Joyce would be acting for the debtor while acting for
+its creditor in pending proceedings against that debtor. Neither client is a former client,
+so this is not a r 21 case; the governing rule is r 20.
+
+**Rule 20 applies.** Rule 20(2) PCR states that paragraphs (3), (4) and (7) apply where
+(a) a legal practitioner or law practice intends to act for 2 or more different parties
+(each called a relevant party) to a matter or transaction; and (b) a diversity of interests
+exists, or may reasonably be expected to exist, between those parties. On limb (a), Duffer
+and Hawkins are parties to one matter in substance: Hawkins' debts to its creditors and the
+winding-up proceedings over its solvency. Duffer's settlement, Max's winding-up application
+and the other creditors' statutory demands are all claims on one limited pool of Hawkins'
+money. Joyce's carve-out ("I cannot act against Duffer") does not take Duffer out of the
+matter, because every instalment Joyce negotiates for Max competes with Duffer's instalments.
+On limb (b), a diversity of interests plainly exists. Duffer wants to be paid first and in
+full, and to be free to restore its winding-up application if Hawkins defaults. Hawkins wants
+to spread its cash among all its creditors and to avoid any winding-up order.
+
+**What Joyce had to do first.** Rule 20(3) PCR states that, before accepting any
+instructions from any relevant party in relation to the matter or transaction, the legal
+practitioner or law practice (a) must communicate directly with each relevant party (i) to
+explain to that relevant party (A) how the interests of all or any of the relevant parties
+diverge or may diverge; (B) how the legal practitioner or law practice may be prevented from
+disclosing to a relevant party information obtained from another relevant party, despite the
+relevance of the information to the matter or transaction; and (C) how the legal practitioner
+or law practice may be prevented from giving to a relevant party any advice that is
+prejudicial to another relevant party; (ii) to inform that relevant party that the legal
+practitioner or law practice must cease to act in the matter or transaction if, in the course
+of the retainer, the legal practitioner or law practice has difficulty in advising on and
+dealing with the relevant parties' divergent interests competently, evenly and consistently;
+… (c) must advise each relevant party to obtain independent legal advice; (d) if a particular
+relevant party does not obtain independent legal advice, must obtain a written confirmation
+from the relevant party, or maintain a written record, that the relevant party declines to do
+so; and (e) must obtain each relevant party's informed consent in writing to the legal
+practitioner or law practice acting for all relevant parties, despite the relevant parties'
+divergent interests. Joyce obtained Hawkins' agreement, but nothing else r 20(3) requires.
+She never communicated with Duffer at all, so
+Duffer neither knew of nor consented to the second retainer (limbs (a) and (e)). Her email to
+Hawkins explained none of the matters in limb (a)(i), did not warn that she must cease to
+act if she could not advise both evenly (limb (a)(ii)), and did not advise independent legal
+advice (limb (c)). Hawkins' reply, "We agree, please proceed", is agreement to an unexplained
+proposal, not informed consent. Consent is only informed if the client has been told the
+risks of joint representation and has been advised to obtain independent advice (*Mahidon
+Nichiar bte Mohd Ali v Dawood Sultan Kamaldin* [2015] SGCA 36 at [71]; *Kuek Siang Wei v
+Kuek Siew Chew* [2015] 5 SLR 357).
+
+**The representation is unworkable, consent or not.** Even if Joyce had taken every r 20(3)
+step, she could not advise both clients competently, evenly and consistently. Rule 20(6)
+PCR states that the legal practitioner or law practice (a) must, for the remainder of the
+retainer, (i) continue to be vigilant of any conflict or potential conflict between the
+interests of any of the relevant parties; and (ii) inform each relevant party of any
+conflict or potential conflict that arises or may arise; and (b) must cease to act in the
+matter or transaction if it has difficulty in advising on and dealing with the relevant
+parties' divergent interests competently, evenly and consistently. Rule 20(4) imposes the
+same duties where, as here, the diversity existed from the start. Three features make
+Joyce's position impossible. First, in advising Hawkins on its statutory demands and on the
+Max settlement, Joyce must advise Hawkins how to allocate scarce cash among its creditors,
+which is advice prejudicial to Duffer. Second, Joyce now holds Hawkins' confidential
+information about its finances and other creditors. Rule 6(2) PCR states that a legal
+practitioner must not knowingly disclose any information which (a) is confidential to his or
+her client; and (b) is acquired by the legal practitioner (whether from the client or from
+any other person) in the course of the legal practitioner's engagement. Yet r 5(2)(b) PCR
+states that a legal practitioner must, when advising the client, inform the client of all
+information known to the legal practitioner that may reasonably affect the interests of the
+client in the matter, other than (i) any information that the legal practitioner is
+precluded, by any overriding duty of confidentiality, from disclosing to the client.
+Hawkins' exposure to other creditors may reasonably affect whether Duffer should accept
+instalments or press on with its winding-up application. Exception (i) relieves Joyce of the
+duty to tell Duffer, but it leaves Duffer advised by a lawyer who knows more than she can say.
+Third, if Hawkins misses an instalment, Duffer will instruct Joyce to restore its winding-up
+application, and she would then be acting against her own client in the very matter she is
+defending for it. The standard of care owed to each of several clients must be at least that
+owed to a single client, and a solicitor who reaches the crossroads where he has difficulty
+in advising and dealing with multiple clients competently, evenly and consistently ought to
+discharge himself (*Lie Hendri Rusli v Wong Tan & Molly Lim* [2004] 4 SLR(R) 594 at
+[48]–[50]). The practice directions take the same view of a firm acting on both sides of a
+winding-up. PD 7.2.2 states that when a firm is acting for the applicant creditors and the
+court appoints a provisional liquidator for the company pending the outcome of the
+winding-up application, it is undesirable for the lawyers for the applicant creditors to act
+also on behalf of the provisional liquidator. Acting for the company itself is a stronger
+case still.
+
+**What Joyce must do now.** She must tell both clients that a conflict has arisen
+(r 20(6)(a)(ii)) without disclosing either client's confidential information, and cease to
+act for Hawkins (r 20(6)(b)). Rule 20(7) PCR states that, despite paragraphs (4)(b) and
+(6)(b), the legal practitioner or law practice may continue to act for a relevant party if
+(a) the legal practitioner or law practice ceases to act for all other relevant parties whose
+interests diverge from the interests of that relevant party; and (b) all of those other
+relevant parties give their informed consent in writing for the legal practitioner or law
+practice to continue to act. So Joyce may keep Duffer only with Hawkins' informed written
+consent. Without it, Hawkins becomes a former client whose confidential financial
+information is material to Duffer's claim. Rule 21(2) PCR states that, subject to paragraphs
+(3), (4) and (5), a legal practitioner or law practice must decline to represent, or must
+withdraw from representing, a client (the current client) in a matter if (a) the legal
+practitioner or the law practice holds confidential information relating to a former client
+that is protected by rule 6; (b) the current client has an interest that is, or may
+reasonably be expected to be, adverse to an interest of the former client; and (c) that
+information may reasonably be expected to be material to the representation of the current
+client in that matter. All three limbs are likely met, so Joyce may have to withdraw from
+Duffer's matter too. In withdrawing, r 26(6)(a) PCR requires her to take reasonable care to
+avoid foreseeable harm to the client, including, where the circumstances permit, by giving
+reasonable notice of the withdrawal, giving the client a reasonable time to engage another
+legal practitioner, and cooperating with the new legal practitioner.
+
+In conclusion, Joyce did breach r 20(3) PCR, which states that before accepting instructions
+from any relevant party the lawyer must explain the divergence to, advise independent legal
+advice to, and obtain the informed written consent of each relevant party. Even with consent
+she would have to cease to act under r 20(4)(b) and (6)(b), because she cannot advise a
+creditor and its debtor evenly on the debtor's payments to its creditors.
+
+### (b) Can BL agree to Wheeler's Condition? (12 minutes)
+
+The issue is whether BL may accept a panel condition that limits its solicitor-and-client
+costs to the party-and-party costs recovered from the other side, and waives them entirely
+if none are recovered. In my view it may not. The Condition is a contingency fee arrangement
+prohibited by s 107(1) of the Legal Profession Act 1966 and r 18 PCR, and the Law Society has
+ruled on this exact clause.
+
+**The rule.** Section 107(1) LPA states that a solicitor must not (a) purchase or agree to
+purchase the interest, or any part of the interest, of his or her client or of any party in
+any suit, action or other contentious proceeding brought or to be brought or maintained; or
+(b) enter into any agreement by which he or she is retained or employed to prosecute any suit
+or action or other contentious proceeding which stipulates for or contemplates payment only
+in the event of success in that suit, action or proceeding. Section 107(3) adds that a
+solicitor is subject to the law of maintenance and champerty like any other person. Rule 18
+PCR states that a legal practitioner or law practice must not enter into any negotiations
+with a client (a) for an interest in the subject matter of litigation or of any other
+contentious proceedings; or (b) except to the extent permitted by any applicable scale of
+costs, for remuneration proportionate to the amount which may be recovered by the client in
+the proceedings.
+
+**The practice direction on this clause.** PD 5.2.1 Part C records that a client set a
+billing guideline that solicitor-and-client costs and disbursements would be limited to
+whatever party-and-party costs and disbursements are recovered from the other party, and that
+if no costs are recovered, solicitor-and-client costs will be waived and only disbursements
+billed. The Council held that such an arrangement is improper because any fee arrangement
+that provides for payment of solicitor-and-client costs contingent on the amount of
+party-and-party costs recovered by a client would put the solicitor in breach of s 107 and
+r 18, as the solicitor would have an interest in the subject matter of the litigation or be
+purchasing an interest in the client; and that any solicitor acting under it would be liable
+for professional misconduct under s 83(2) LPA. Wheeler's Condition is that guideline almost
+word for word.
+
+**Authorities.** Contingency arrangements are prohibited because they tempt the lawyer to
+subvert the course of justice, and effective representation needs the lawyer to keep enough
+detachment to discharge his duty to the court (*Law Society of Singapore v Kurubalan s/o
+Manickam Rengaraju* [2013] 4 SLR 91 at [42], [45]). In *Legis Point LLC v Tay Choon Ai*
+[2017] SGHC 325 at [51]–[56], a cap on the firm's fees that applied whether the client won or
+lost did not contravene s 107(1)(b) or r 18, and the court contrasted it with an improper
+arrangement that limits fees to the costs recovered from the other side. The *Kurubalan*
+exception for impecunious clients (at [2]), noted in PD 5.2.1, does not help: Wheeler is a
+large insurer that is imposing the term on its panel, not a litigant who could not otherwise
+afford a lawyer.
+
+**Application.** First, the Condition covers "all litigation matters", which are contentious
+proceedings. Second, BL is paid nothing beyond disbursements unless costs are recovered from
+the adverse party, which in practice happens only if Wheeler (or its insured) succeeds. That
+stipulates for payment only in the event of success under s 107(1)(b). Third, even where
+Wheeler wins, the fee is set by the amount of costs recovered, so BL acquires an interest in
+the subject matter of the litigation under r 18(a). Fourth, the arrangement also gives BL an
+interest of its own that may conflict with Wheeler's. A settlement on the terms that each
+party bears its own costs, which might be in Wheeler's best interests, would leave BL unpaid.
+Rule 22(2) PCR states that, except as otherwise permitted by the rule, a legal practitioner or
+law practice must not act for a client if there is, or may reasonably be expected to be, a
+conflict between (a) the duty to serve the best interests of the client; and (b) the interests
+of the legal practitioner or law practice. *Today*, the conditional fee agreement regime (s
+107(3AA), s 115A–115B LPA; r 18A PCR, which the syllabus marks non-examinable) does not
+rescue the Condition: it is limited to prescribed proceedings, broadly arbitration, certain
+SICC proceedings and related court proceedings (GN 5.6.1 para 8), not "all litigation
+matters".
+
+**What BL can offer instead.** BL may agree a fixed or capped fee, or a fee equal to the
+likely party-and-party scale, so long as payment is not contingent on recovery. That is the
+*Legis Point* position, and PD 5.2.1 Part B(a) takes the same line for default judgments.
+
+In conclusion, BL cannot accept the Condition. Doing so would breach s 107(1)(b) LPA and
+r 18(a) PCR, as PD 5.2.1 Part C rules, and would be due cause for discipline under s 83(2)
+LPA. Joyce should advise the managing partner to decline it or propose a fee that is payable
+whether or not costs are recovered.
+
+### (c) DPL's proposed advertising statements (24 minutes)
+
+These are the same facts as PS3 Q3, and the model answer there applies without change:
+[PS3 Q3 — Brenner Law's proposed advertisements](#ps3-q3--brenner-laws-proposed-advertisements).
+In short, BL may use only a factual description of the managing partner's 25 years of
+disputes experience (with the link to the list of matters) and "cost-effective solutions".
+The rest of the statements breach r 43(1)(b)(ii), r 43(1)(c) and r 44(1)–(2) PCR, and Joyce
+must have DPL withdraw them under r 42(2).
+
+In conclusion on Q1, Joyce breached r 20(3) PCR in taking on Hawkins, and BL would breach
+s 107(1)(b) LPA and r 18 PCR by accepting Wheeler's Condition. Section 83(2) of the Legal
+Profession Act 1966 states that due cause for discipline may be shown by proof that an
+advocate and solicitor (b) has been guilty of fraudulent or grossly improper conduct in the
+discharge of his or her professional duty, or guilty of such a breach of any usage or rule of
+conduct made by the Professional Conduct Council under section 71 or by the Council under the
+Act as amounts to improper conduct or practice as an advocate and solicitor; or (h) has been
+guilty of such misconduct unbefitting an advocate and solicitor as an officer of the Supreme
+Court or as a member of an honourable profession. Such breaches may amount to that improper
+conduct or misconduct.
+
+*Source note: r 5(2)(b), r 6(2) PCR p10–12; r 18 PCR p34; r 20(2)–(7) PCR p35–38; r 21(2) PCR
+p39; r 22(2) PCR p40; r 26(6) PCR p50; s 83(2)(b), (h) LPA p217–218; s 107 LPA p265–266;
+s 115A–115B LPA p275–277; PD 5.2.1 Parts B–C p1–2; PD 7.2.2 p1; GN 5.6.1 para 8; Lie Hendri
+Rusli L2 p9; Mahidon at [71] and Kuek Siang Wei as used in Pre-write 0-7 and 2023 Q1.2 above;
+Kurubalan L10 p45–47; Legis Point [51]–[56] as read for Pre-write 0-33. Amendment dates from
+the PCR's own notes (S 240/2022 wef 1 Apr 2022; r 18A S 334/2022 wef 4 May 2022).*
+
+---
+
+## 2018 Q2 — Pawnee LLP, the YPL bidders and Lex Sweetums
+
+Question: `3. PYP/2018 PYP/EPR 2018 Paper.pdf` p4–5 (scan pp 2R–3L). Recommended times:
+(a) 20 minutes, (b) 20 minutes, (c) 20 minutes. Pre-writes used: 0-7, 0-6, 0-10, 0-8, 0-31,
+0-66, 0-37. Parts (a) and (b) are the same pattern as 2023 Q1.2 and Q1.3 (rival bidders,
+then the regulator who can veto the sale); the reasoning below is set out in full so the
+answer stands alone.
+
+### (a) Can Ben act for E while April acts for K? (20 minutes)
+
+The issue is whether Pawnee LLP (PL) may act for E through Ben while acting for K through
+April, when both are bidding for YPL's business and assets. In my view PL may do so only if,
+before Ben accepts E's instructions, it completes every step in r 20(3) PCR, obtains K's
+consent before revealing E's interest (and E's before revealing K's), and puts an effective
+information barrier in place.
+
+**Rule 20 applies.** Rule 20(2) PCR states that paragraphs (3), (4) and (7) apply where (a) a
+legal practitioner or law practice intends to act for 2 or more different parties (each
+called a relevant party) to a matter or transaction; and (b) a diversity of interests exists,
+or may reasonably be expected to exist, between those parties. On limb (a), PL is one law
+practice, so K and E would both be PL's clients in one transaction, the sale of YPL's
+business, even though different partners act. On limb (b), K and E are rival bidders for the
+same assets. Each wants to win at the lowest price, and the bids are sealed and confidential,
+so a diversity of interests plainly exists. This is a conflict under the PCR, not a mere
+commercial conflict between competitors in different matters.
+
+**Steps before acting.** Rule 20(3) PCR states that, before accepting any instructions from
+any relevant party in relation to the matter or transaction, the legal practitioner or law
+practice (a) must communicate directly with each relevant party (i) to explain to that
+relevant party (A) how the interests of all or any of the relevant parties diverge or may
+diverge; (B) how the legal practitioner or law practice may be prevented from disclosing to a
+relevant party information obtained from another relevant party, despite the relevance of the
+information to the matter or transaction; and (C) how the legal practitioner or law practice
+may be prevented from giving to a relevant party any advice that is prejudicial to another
+relevant party; (ii) to inform that relevant party that the legal practitioner or law
+practice must cease to act in the matter or transaction if, in the course of the retainer, the
+legal practitioner or law practice has difficulty in advising on and dealing with the
+relevant parties' divergent interests competently, evenly and consistently; (iii) to receive
+and deal with any queries which that relevant party may have on the matter or transaction, or
+on the risks of all or any of the relevant parties being jointly represented in the matter or
+transaction by the legal practitioner or law practice; and (iv) to ascertain precisely the
+intentions of that relevant party; … (c) must advise each relevant party to obtain
+independent legal advice; (d) if a particular relevant party does not obtain independent
+legal advice, must obtain a written confirmation from the relevant party, or maintain a
+written record, that the relevant party declines to do so; and (e) must obtain each relevant
+party's informed consent in writing to the legal practitioner or law practice acting for all
+relevant parties, despite the relevant parties' divergent interests. Here April must explain
+to K, and Ben to E, that their interests diverge as rival bidders; that PL may be unable to
+pass on what it learns from the other, such as the other's price; that PL may be unable to
+advise one how to beat the other; and that PL must cease to act if it cannot advise both
+evenly. Each must be advised to take independent legal advice, a refusal must be recorded,
+and each must consent in writing. Limb (b) (an ostensibly disadvantageous transaction) is not
+engaged by arm's-length bidding.
+
+**Consent before disclosure.** Before Ben can ask E to consent, PL must reveal to E that it
+acts for another bidder, and to K that E has approached the firm. Each fact is confidential.
+Rule 6(2) PCR states that a legal practitioner must not knowingly disclose any information
+which (a) is confidential to his or her client; and (b) is acquired by the legal practitioner
+(whether from the client or from any other person) in the course of the legal practitioner's
+engagement, and r 6(3)(a) PCR permits disclosure only if the client authorises it. Ben knows
+that April acts for K, and he must not tell E that unless K authorises it. April must first
+obtain K's authority before PL can explain the position to E, and Ben needs E's authority
+before K is told that E is bidding. Ben's 24-hour holding reply to E was therefore right:
+he could not accept E's instructions on the spot.
+
+**Authorities.** The standard of care owed to each of several clients must be at least that
+owed to a single client, and the solicitor cannot prefer one client's interests to another's
+(*Lie Hendri Rusli v Wong Tan & Molly Lim* [2004] 4 SLR(R) 594 at [48]–[50]). A solicitor may
+act for more than one client in a commercial deal, but must identify and disclose actual or
+potential conflicts, obtain informed consent from all, remain impartial, and keep proper
+records; a firm that fails to manage the conflict risks being disqualified from acting for
+all of them (*Law Society of Singapore v Uthayasurian Sidambaram* [2009] 4 SLR(R) 674 at
+[34]–[53]). Consent must be genuinely informed (*Mahidon Nichiar bte Mohd Ali v Dawood Sultan
+Kamaldin* [2015] SGCA 36 at [71]; *Kuek Siang Wei v Kuek Siew Chew* [2015] 5 SLR 357).
+Preferring one client's interests over another's led to suspension in *Law Society of
+Singapore v Ezekiel Peter Latimer* [2019] SGHC 92.
+
+**Safeguards.** Rule 20(4) PCR states that the legal practitioner or law practice (a) must
+throughout the course of the retainer (i) continue to be vigilant of any conflict or potential
+conflict between the interests of any of the relevant parties; and (ii) inform each relevant
+party of any conflict or potential conflict that arises or may arise; and (b) must cease to
+act if it has difficulty in advising on and dealing with the relevant parties' divergent
+interests competently, evenly and consistently. April and Ben are partners in the same
+corporate department, so PL needs a barrier set up before Ben does any work. The adequacy of
+a barrier depends on (1) the nature of the work done for the client; (2) the timing of the
+creation of the information barrier; (3) the size of the law firm; (4) the physical locations
+of departments within the firm; and (5) the number and seniority of tainted lawyers (*Harsha
+Rajkumar Mirpuri v Shanti Shewakram Samtani* [2018] SGHC 155 at [68]). Here April holds K's
+bid strategy, which is core commercial information (factor 1); the barrier must be in place
+before Ben starts (factor 2); and two partners in one department, presumably sharing staff
+and premises, are a weak starting point (factors 4 and 5). The barrier should therefore
+include separate teams and staff, physical and IT separation of files, written instructions
+and signed acknowledgements from everyone involved, and monitoring. If the department is too
+small to separate the teams, PL should decline E.
+
+In conclusion, Ben may act for E only if PL first obtains K's and E's authority to disclose
+each other's interest, completes the r 20(3) explanations, advice and informed written
+consents, and puts an adequate barrier in place. Acting without these steps would breach
+r 20(3) and risk r 6(2). If any difficulty in advising both evenly later emerges, PL must
+cease to act under r 20(4)(b).
+
+### (b) Can Chris act for the PRA? (20 minutes)
+
+The issue is whether PL may also act for the PRA on the same sale, given that April acts for
+K and Ben may act for E. In my view Chris should decline. Even with consents and barriers,
+PL could not advise the regulator and the bidders competently, evenly and consistently.
+
+**Rule 20 applies.** Taking the r 20(2) limbs set out in (a), the PRA is a party to the
+transaction, because the lease cannot be transferred, novated or assigned without its
+approval, so it can effectively veto any sale (limb (a)). Its interests diverge from each
+bidder's (limb (b)). All the r 20(3) steps in (a) would be needed before Chris accepted the
+PRA's instructions, including the PRA's informed written consent and K's and E's. The decisive
+question is the one in r 20(3)(a)(ii) and r 20(4)(b): whether PL could advise on and deal with
+all three parties' divergent interests competently, evenly and consistently. If it cannot, it
+must not act, or must cease to act. A solicitor who reaches that "crossroads" ought to
+discharge himself (*Lie Hendri Rusli* at [48]–[50]).
+
+**Why the representation is unworkable.** The PRA has two concerns, and each sets it against
+the bidders. First, it must be satisfied that a buyer will run the park in the public interest
+and meet its tourism benchmarks. E runs bars and clubs, not amusement parks, so the PRA may
+well doubt E's capability; K is a property investment fund, so the PRA may doubt whether K
+means to run a park at all. Second, the PRA requires the successful bidder to give a $5
+million on-demand performance bond. Chris's job would be to advise the PRA whether to approve
+each bidder and on what bond terms. April and Ben would need to advise their clients how to
+satisfy, negotiate with, or even challenge the PRA's discretion. If the PRA takes a position
+against K or E, PL's bidder teams would be advising against PL's own client, and Chris would
+be advising the PRA how to maintain that position. Information barriers protect confidential
+information; they cannot cure the inability of one firm to advise opposite sides evenly. The
+same r 20(3)(a)(ii) warning would have to be given to K and E, and no well-advised bidder
+would consent to its own lawyers' firm advising the regulator that can veto its bid.
+
+**Confidentiality.** Chris already knows that April acts for K and that E has approached Ben.
+Those facts are confidential to K and E under r 6(2), and Chris cannot tell the PRA without
+their authority under r 6(3)(a). Yet the PRA's assessment of the bidders is exactly where that
+knowledge would matter, and its use would compromise both bidders.
+
+In conclusion, Chris should decline to act for the PRA. If PL had already accepted the PRA's
+instructions, it would have to cease to act under r 20(4)(b). Rule 20(7) PCR states that,
+despite paragraphs (4)(b) and (6)(b), the legal practitioner or law practice may continue to
+act for a relevant party in the matter or transaction if (a) the legal practitioner or law
+practice ceases to act for all other relevant parties whose interests diverge from the
+interests of that relevant party; and (b) all of those other relevant parties give their
+informed consent in writing. PL could therefore keep only one of K, E and the PRA, and only
+with the others' informed written consent.
+
+### (c) Which of LS's proposed clauses can PL agree to? (20 minutes)
+
+The issue is whether PL may join LS's online directory and referral arrangement on the two
+proposed clauses. In my view PL may not agree to Clause 1 as drafted, because the extra
+$1,000 fee rewards LS for referrals. The fixed listing fee on its own, and Clause 2, can be
+agreed with safeguards.
+
+**Clause 1: listing fee and the $1,000 surcharge.** A listing in a third party's directory is
+permitted publicity. Rule 46 PCR states that, subject to the Act and the Rules, the practice
+of a legal practitioner or law practice may be publicised in, or in conjunction with, the
+publicity of any third party, whether or not a client. A flat $500 a month for a listing of
+the firm's name and practice areas is a payment for advertising, and the listing must comply
+with r 43 and r 44. The surcharge is different. PL must pay a further $1,000 in any month in
+which LS puts more than five new contacts in touch with it, so the payment rises with the
+work LS sends. Rule 39(1) PCR states that a legal practitioner or law practice must not tout
+for business or do anything which is likely to lead to a reasonable inference that it was done
+for the purpose of touting. Rule 39(2) states that, where there is reason to believe that a
+client is referred by any other person, the legal practitioner or law practice (a) must
+maintain the independence and integrity of the profession by not permitting the referror to
+undermine its professional independence; (b) must not reward the referror by the payment of
+any commission or other form of consideration; … (f) must ensure that the referror does not
+influence any decision on the nature, style or extent of its practice; and (g) must
+communicate directly with the client to obtain or confirm instructions. Section 83(2)(e) LPA
+makes it due cause that an advocate and solicitor has, directly or indirectly, procured or
+attempted to procure his or her employment through any person to whom any remuneration for
+obtaining such employment has been given or agreed or promised to be given. GN 6.1.1 para 35
+states that participation in any Internet referral scheme which requires the law practice to
+pay a fee or share fees paid for legal services referred would be a breach of the LPA, and
+para 36 that, even if no fees are paid, participation in an online introduction or referral
+service carried out so as to "unfairly attract work" would be improper under s 83(2)(b) or
+(h). An agreement to pay a referral fee is in substance no different from touting (*Wong Keng
+Leong Rayney v Law Society of Singapore* [2006] 4 SLR(R) 934), and paying gratification to a
+company that procured conveyancing work is serious misconduct (*Law Society of Singapore v
+Chong Wai Yen Michael* [2012] 2 SLR 113). The surcharge is consideration for referrals, so
+agreeing to it would breach r 39(2)(b) and fall within s 83(2)(e). The exclusion of
+conveyancing does not cure this; it only means r 40 (written conveyancing referral
+agreements) is not engaged. PL could agree to a flat listing fee that does not vary with the
+contacts LS passes on.
+
+**Clause 2: the $100 introductory consultation.** The $100 is PL's own fee, paid by the client
+directly to PL, and LS takes no share, so there is no fee-sharing and no reward to LS. PL keeps
+the right to run conflict and know-your-client checks, to agree the basis of later charging,
+and to decline. A modest fixed fee for an initial consultation is not of itself touting. Three
+cautions apply. First, the obligation to give every referred contact a consultation must not
+let LS dictate the nature, style or extent of PL's practice (r 39(2)(a), (f)); PL should keep
+an express right to refuse any contact. Second, PL must verify the client's identity under
+the anti-money-laundering rules before advising, as PD 7.4.3 requires, and must communicate
+directly with the client (r 39(2)(g)). Third, at the end of the consultation PL must tell the
+client the basis of its charges. Rule 17(3)(a) PCR states that a legal practitioner must
+inform the client of the basis on which fees for professional services will be charged, and
+of the manner in which those fees and disbursements (if any) are to be paid. A 45-minute
+telephone call must still meet r 5(2)(c), reasonable diligence and competence, so PL should
+make clear what can and cannot be advised in that time.
+
+In conclusion, PL may agree to Clause 2 and to a flat listing fee, but not to the $1,000
+referral-linked surcharge in Clause 1, which would breach r 39(2)(b) PCR and s 83(2)(e) LPA.
+Section 83(2) of the Legal Profession Act 1966 states that due cause for discipline may be
+shown by proof that an advocate and solicitor (b) has been guilty of such a breach of any rule
+of conduct made under section 71 as amounts to improper conduct or practice as an advocate and
+solicitor; or (h) has been guilty of such misconduct unbefitting an advocate and solicitor as
+an officer of the Supreme Court or as a member of an honourable profession. Any breach of r 20
+in (a) or (b) or of r 39 in (c) may amount to such improper conduct or misconduct.
+
+*Source note: r 5(2)(c), r 6(2)–(3) PCR p10–13; r 17(3)(a) PCR p32; r 20(2)–(7) PCR p35–38;
+r 39 PCR p61–62; r 46 PCR p67; s 83(2)(b), (e), (h) LPA p217–218; GN 6.1.1 paras 33–37 p4; PD
+7.4.3 Part D para 1(a) p2; Lie Hendri Rusli L2 p9; Uthayasurian L2 p10–11; Mahidon, Kuek Siang
+Wei and Latimer [2019] as in 2023 Q1.2 above; Harsha factors at [68] SQ p110; Wong Keng Leong
+Rayney and Chong Wai Yen Michael SYL p11, L9 p20–21. Model reasoning for (a)–(b): SQ p110–113.*
+
+---
+
+## 2019 Q1 — Buffy, Spike and Dru
+
+Question: `3. PYP/2019 PYP/EPR 2019 Paper (pp 5-6 missing).pdf` p2–3 (scan pp 1R–2L). One
+open question: "Discuss and evaluate Buffy's professional and ethical conduct", 60 minutes,
+no marks. Pre-writes used: 0-3, 0-5, 0-33, 0-13, 0-48, 0-63, 0-21, 0-38, 0-4, 0-54, 0-61,
+0-32, 0-70, 0-35.
+
+*Older law.* Rule 17(7)–(8) PCR (overcharging) and r 17(2)(c)–(d) (explaining proposals of
+amicable resolution) are in their present form from 1 April 2022 (S 240/2022), after this
+paper; the answer applies the current text. Rule 8A (conduct in ADR) has applied since
+1 March 2017, so it applied in 2019. Rules 15A–15B (family proceedings) also bear on a
+divorce, but the syllabus marks them non-examinable, so they are not relied on here.
+
+### Q1 Buffy's conduct (60 minutes)
+
+The issue is whether Buffy, a civil and criminal litigator, acted properly from the moment she
+took Spike's divorce to the moment she billed him. In my view she did not, at almost every
+stage. Her conduct falls into eight issues, taken in time order. Together they show dishonesty
+towards her client, the mediator and the opposing party, a prohibited contingency fee, and a
+threat of criminal reports to extract a settlement. That is likely to lead to her being struck
+off.
+
+**1. How Buffy won the retainer.** The first issue is whether Buffy misrepresented her
+experience and Spike's prospects. She did. She told Spike she was "an experienced family
+lawyer", although her practice is civil and criminal litigation, and that he had "a good
+case" before she had reviewed any facts, because she was "keen ... and hoping to impress"
+him. Rule 5(2)(a) PCR states that a legal practitioner must be honest in all the legal
+practitioner's dealings with his or her client. Rule 8(1)(a) PCR states the principle that a
+legal practitioner who deals with any person must be honest and courteous, and behave in a
+manner befitting the legal practitioner's professional standing, so the duty does not wait
+for the retainer to begin. Rule 5(2)(d) PCR states that a legal practitioner must ensure that
+the legal practitioner has the relevant knowledge, skills and attributes required for each
+matter undertaken on behalf of the client, and apply them in a manner appropriate to that
+matter. Division of matrimonial assets is a specialised area, and the test is what a
+reasonably competent solicitor would have done (*Law Society of Singapore v K Jayakumar Naidu*
+[2012] 4 SLR 1232 at [85]–[91]). Inexperience is no mitigation for dishonesty (*Law Society of
+Singapore v Ng Chee Sing* [2000] 1 SLR(R) 466). Buffy breached r 5(2)(a), which states that a
+legal practitioner must be honest in all dealings with the client, and must make sure under
+r 5(2)(d) that she has the family-law knowledge the matter needs.
+
+**2. The 30% fee.** The second issue is whether a fee fixed at 30% of the matrimonial assets
+awarded or obtained by settlement is lawful. It is not. Section 107(1) of the Legal
+Profession Act 1966 states that a solicitor must not (a) purchase or agree to purchase the
+interest, or any part of the interest, of his or her client in any suit, action or other
+contentious proceeding; or (b) enter into any agreement by which he or she is retained or
+employed to prosecute any suit or action or other contentious proceeding which stipulates for
+or contemplates payment only in the event of success in that suit, action or proceeding.
+Rule 18 PCR states that a legal practitioner must not enter into any negotiations with a
+client (a) for an interest in the subject matter of litigation or of any other contentious
+proceedings; or (b) except to the extent permitted by any applicable scale of costs, for
+remuneration proportionate to the amount which may be recovered by the client in the
+proceedings. Divorce proceedings are contentious. If Spike recovers nothing, Buffy is paid
+nothing, so the agreement stipulates for payment only on success (s 107(1)(b)). The fee is a
+share of what Spike recovers, so it is remuneration proportionate to the recovery and an
+interest in the subject matter (r 18(a)–(b)). In *Law Society of Singapore v Kurubalan s/o
+Manickam Rengaraju* [2013] 4 SLR 91 at [2], an agreement giving the lawyer 30% or 40% of the
+amount recovered was a prohibited contingency fee, because such arrangements tempt the lawyer
+to subvert the course of justice and erode the detachment the lawyer needs to discharge the
+duty to the court (at [42], [45]). A fee of 20% of damages was likewise a contingency fee in
+*Law Society of Singapore v Lau See Jin Jeffrey* [2017] SGHC 30. *Kurubalan* at [2] allows a
+lawyer to act for an impecunious client knowing that fees will likely be paid only out of a
+successful recovery, but that is not an agreement for a share of the recovery, and Spike in
+any case had a considerable sum of his own in the overseas account. The conditional fee agreement regime does not apply to family
+proceedings (GN 5.6.1 para 8), and in any case it forbids a percentage of the amount recovered
+(s 115B(4)(b) LPA); it is non-examinable in any event. Buffy breached s 107(1)(b) LPA and
+r 18 PCR by entering the Letter of Engagement.
+
+**3. The romantic relationship.** The third issue is whether Buffy could keep acting once she
+and Spike began a romantic relationship. She could not, at least without stepping back from
+appearing in court. Personal and sexual relationships between solicitors and their clients
+are clearly wrong (*Law Society of Singapore v Singham Dennis Mahendran* [2001] 1 SLR(R) 1).
+Rule 11(2) PCR states that a legal practitioner must not appear before a court or tribunal in
+a matter where (a) it would be difficult for the legal practitioner to maintain the legal
+practitioner's professional independence by reason of any commercial, family, personal or
+other relationship between the legal practitioner and his or her client. Rule 22(2) PCR states
+that, except as otherwise permitted by the rule, a legal practitioner or law practice must not
+act for a client if there is, or may reasonably be expected to be, a conflict between (a) the
+duty to serve the best interests of the client; and (b) the interests of the legal
+practitioner or law practice. Buffy's personal interest in her relationship with Spike, and
+her financial interest in the size of his award under the 30% fee, both cut across the
+detached advice he needs on settlement and on his own disclosure obligations. The rest of the
+facts show exactly that loss of detachment. She should have referred Spike to another lawyer
+and withdrawn with reasonable care for his interests under r 26(6) PCR. By continuing, she
+breached r 22(2) and, in appearing for him, r 11(2)(a).
+
+**4. The mediation.** The fourth issue is whether Buffy's advice before the mediation was
+proper. It was not. Rule 8A PCR states that (1) a legal practitioner must always be respectful
+of the alternative dispute resolution process and the adjudicator, mediator or other person
+conducting the process; (3) a legal practitioner must act in good faith throughout the
+alternative dispute resolution process; and (5) a legal practitioner must not knowingly assist
+or permit his or her client to mislead an adjudicator, a mediator or other person conducting
+the alternative dispute resolution process. Rule 17(2)(e) PCR states that a legal practitioner
+must, in an appropriate case, together with his or her client (i) evaluate whether any
+consequence of a matter involving the client justifies the expense of, or the risk involved
+in, pursuing the matter; and (ii) evaluate the use of alternative dispute resolution
+processes. Telling Spike the mediation was "a waste of time" and need not be taken seriously
+is the opposite of evaluating ADR with him, and is disrespect for the process and a want of
+good faith (r 8A(1), (3)). It is true that Spike is "under no obligation to settle", but it is
+not the whole of the advice r 17(2)(e) requires. Far worse, Buffy advised Spike to "convince
+the mediator that you are a poor starving artist", knowing that he had quietly moved a
+considerable sum from the joint account into an overseas account in his own name. Rule 10(5)
+PCR states that a legal practitioner must not render to his or her client any advice which
+the legal practitioner knows or has reasonable grounds to believe is sought by the client for
+any dishonest, fraudulent or unlawful purpose, and r 10(6) PCR states that a legal
+practitioner must not knowingly assist or permit the client (b) to do any other thing which
+the legal practitioner considers to be dishonest. She went beyond permitting Spike to mislead
+the mediator: she proposed it. Buffy breached r 8A(1), (3) and (5) and r 10(5)–(6).
+
+The same knowledge bears on the court proceedings. A party to divorce proceedings must
+disclose his assets, and PD 1.6.2 records the Council's guidance that a lawyer acting in a
+divorce is bound to disclose all the facts within his or her knowledge in the petition. Rule
+10(2) PCR states that a legal practitioner whose client is a party to proceedings must inform
+the client of the client's responsibilities to the court, including (a) to be truthful towards
+the court, and r 10(3) PCR states that, to the extent that the legal practitioner is able, the
+legal practitioner must prevent the client from, must not be a party to, and must not assist
+the client in (a) suppressing evidence; or (b) giving false evidence or false information to a
+court or tribunal. Buffy had to advise Spike that the overseas money must be disclosed, and
+cease to act if he refused (r 10(4)).
+
+**5. The private investigator.** The fifth issue is whether Buffy could hire an investigator
+abroad, at a cost of $30,000, without telling Spike. She could not. Rule 5(2) PCR states that
+a legal practitioner must (e) keep the client reasonably informed of the progress of the
+client's matter; and (i) follow all lawful, proper and reasonable instructions that the client
+is competent to give. Rule 17(3)(b) PCR states that a legal practitioner must inform the client
+of any other reasonably foreseeable payments that the client may have to make, either to the
+legal practitioner or to any other party, and of the stages at which those payments are
+likely to be required. Buffy had no instructions to investigate Dru, gave Spike no warning of
+the cost, and then secured his payment of a large invoice by assuring him the exercise had
+"been worth it" while saying only that she had found "interesting material" and that he
+should "leave it to me". Rule 5(2)(b) PCR states that a legal practitioner must, when advising
+the client, inform the client of all information known to the legal practitioner that may
+reasonably affect the interests of the client in the matter. What the investigator found, and
+what Buffy meant to do with it, plainly affected Spike's interests. PD 8.8.1 Part B states
+that the client, not the lawyer, is responsible for the fees of non-lawyer agents engaged on
+the client's behalf, but that presupposes the client authorised the engagement. Buffy breached
+r 5(2)(b), (e) and (i) and r 17(3)(b).
+
+**6. The tea with Dru.** The sixth issue is whether Buffy could meet Dru alone and threaten to
+circulate the corruption evidence unless Dru agreed to give Spike 70%. This is the gravest
+breach. First, Dru was represented by her own lawyer. Rule 7(3) PCR states that a legal
+practitioner (A) must not communicate, about a matter in respect of which A represents a
+client, with any person whom A knows to be represented in the matter by another legal
+practitioner (B) unless (a) A has the prior consent (whether express or implied) of B to
+communicate directly with that person; (b) A has taken reasonable steps to notify B of A's
+intention and B does not respond within a reasonable time, there being a reasonable basis for
+direct communication; (c) the interests of A's client will be severely prejudiced if the
+communication is delayed; or (d) A is authorised to communicate directly with that person by
+law or by an order of a court or tribunal. None applies: Buffy deliberately did not tell Dru's
+lawyer, and asked Dru to come alone. Second, Spike's claim to matrimonial assets was an
+unsatisfied civil claim. Rule 8(5) PCR states that where any civil claim made against a person,
+by a client of a legal practitioner, remains unsatisfied, the legal practitioner must not
+threaten the institution of any criminal or disciplinary proceedings against the person. PD
+9.1.2 adds that the disclosure of an offence is no justification for pressure to recover a
+civil claim, and that it is improper to threaten criminal proceedings to achieve any stated
+objective. A threat to send the evidence "to the relevant authorities in both Singapore and
+the other country" is a threat to set criminal proceedings in motion. Third, Rule 8(3) PCR
+states that a legal practitioner (a) must not take unfair advantage of any person; and (b) must
+not act towards any person in a way which is fraudulent, deceitful or otherwise contrary to the
+legal practitioner's position as a member of an honourable profession. Getting the opposing
+party alone, away from her lawyer, and threatening her with exposure to the authorities and
+the media is both. Letters
+threatening criminal proceedings were misconduct in *Law Society of Singapore v Terence Tan
+Bian Chye* [2007] SGDSC 10, and here the threat was made in person to secure a 70% split.
+Buffy had no duty to report the corruption (PD 1.6.2: a lawyer is under no obligation to lay
+information of an offence discovered in a divorce), but having no duty to report does not
+make it proper to trade silence for a settlement. Such a threat may itself be a criminal
+offence, and a conviction implying a defect of character is separate due cause under
+s 83(2)(a) LPA. Fourth, Buffy did all this without Spike's instructions and told him only
+afterwards. Agreeing a settlement on his behalf without instructions breached r 5(2)(i), and
+the partial account she gave him breached r 5(2)(b). Buffy breached r 7(3), r 8(3) and
+r 8(5) PCR and PD 9.1.2.
+
+**7. The consent judgment.** The seventh issue is the consent judgment for 70%. It rests on
+an agreement extracted by the threat. Rule 10(1)(c) PCR states the principle that a legal
+practitioner must not engage in any conduct which would be unlawful, unethical or otherwise
+improper, whether or not it would promote the client's cause, and r 9(1)(a) PCR that a legal
+practitioner has a duty to assist in the administration of justice and must act honourably in
+its interests. Placing before the court, as a consent order, an agreement Buffy knew was
+procured by her own threat used the court's process to give effect to that impropriety, and
+exposes Spike to an application by Dru to set the judgment aside. Buffy's duty was to tell
+Spike the truth about how the agreement was reached (r 5(2)(b)) so that he could take
+independent advice.
+
+**8. The $3 million bill.** The eighth issue is the bill for 15% of the award. It is a second
+contingency fee and is very likely overcharging. The bill is calculated as a percentage of
+the amount awarded, so it is remuneration proportionate to the recovery, contrary to r 18(b)
+PCR and s 107(1)(b) LPA, whatever the percentage. Rule 17(7) PCR states that a legal
+practitioner must not charge any fee or disbursements, or render a bill for an amount, which
+constitutes overcharging, even if there is a fee agreement that permits it. Rule 17(8) states
+that there is overcharging if a reasonable legal practitioner cannot in good faith charge the
+fee, taking into account all of (a) the legal practitioner's standing and experience; (b) the
+nature of the legal work concerned; (c) the time necessary to undertake the legal work;
+(d) the instructions and requirements of the client concerned; and (e) any other relevant
+circumstances. A fee fixed as a percentage of value, with no correlation to complexity, time
+or documents prepared, was overcharging in *Law Society of Singapore v Ang Chin Peng* [2013] 1
+SLR 946. In assessing gravity the court looks at the extent of the overcharging, the
+solicitor's intention, her conduct afterwards, and other offender-specific factors (*Law
+Society of Singapore v Syn Kok Kay* [2023] SGHC 7 at [38]). Here (a) Buffy is a 12-year
+litigator but not a family practitioner; (b) the matter ended early in a consent judgment
+after one failed mediation; (c) the time spent cannot remotely justify $3 million; and (d)
+nothing in Spike's instructions called for exceptional work. The romantic relationship also
+gives Buffy an interest in how Spike is billed and what he queries (r 22(2)). Spike's
+willingness to pay does not cure it: under s 113(7) LPA the court may, within 12 months after
+payment and if special circumstances require it, reopen the agreement, order assessment and
+order repayment. Buffy breached r 17(7) and r 18 PCR and s 107(1)(b) LPA.
+
+**Sanction.** Misconduct involving dishonesty will almost invariably lead to striking off
+where it reveals a character defect, including where the dishonesty violated the relationship
+of trust and confidence inherent in the solicitor-client relationship (*Law Society of
+Singapore v Udeh Kumar s/o Sethuraju* [2017] SGHC 141 at [105]–[107]). Buffy deceived Spike
+about her experience, induced him to pay an unauthorised $30,000 invoice, settled without
+instructions, coached him to deceive the mediator, and threatened his wife. That is a pattern,
+not a lapse, and striking off is the likely outcome.
+
+In conclusion, Buffy breached r 5(2)(a), (b), (d), (e) and (i), r 7(3), r 8(3), r 8(5),
+r 8A(1), (3) and (5), r 10(5)–(6), r 11(2)(a), r 17(3)(b), r 17(7), r 18 and r 22(2) PCR,
+s 107(1)(b) LPA and PD 9.1.2. Section 83(2) of the Legal Profession Act 1966 states that due
+cause for discipline may be shown by proof that an advocate and solicitor (b) has been guilty
+of fraudulent or grossly improper conduct in the discharge of his or her professional duty,
+or guilty of such a breach of any usage or rule of conduct made by the Professional Conduct
+Council under section 71 or by the Council under the Act as amounts to improper conduct or
+practice as an advocate and solicitor; or (h) has been guilty of such misconduct unbefitting
+an advocate and solicitor as an officer of the Supreme Court or as a member of an honourable
+profession. Buffy's conduct is due cause under both limbs.
+
+*Source note: r 5(2) PCR p10–11; r 7(3) PCR p13–14; r 8(1), (3), (5) PCR p15–16; r 8A PCR p16
+(S 69/2017 wef 1 Mar 2017); r 9(1)(a) PCR p17; r 10 PCR p20–21; r 11(2) PCR p21; r 17(2)(e),
+(3)(b), (7)–(8) PCR p31–33 (r 17(7) S 240/2022 wef 1 Apr 2022); r 18 PCR p34; r 22(2) PCR p40;
+s 83(2) LPA p217–218; s 107 LPA p265–266; s 113(7) LPA p272; s 115B(4) LPA p277; GN 5.6.1
+para 8; PD 1.6.2 p1; PD 8.8.1 Part B p1; PD 9.1.2 p1; Jayakumar Naidu SYL p2; Ng Chee Sing L1
+p21; Kurubalan L10 p45–47; Lau See Jin Jeffrey L10 p48; Singham Dennis Mahendran L3 p11, SYL
+p4; Terence Tan L7 p30, SYL p9; Ang Chin Peng SYL p12; Syn Kok Kay at [38] as read for
+Pre-write 0-32; Udeh Kumar 2017 at [105]–[107] as read for Pre-write 0-3.*
+
+## 2019 Q2 — Archie, Veronica and Cheryl (questions missing)
+
+Question: `3. PYP/2019 PYP/EPR 2019 Paper (pp 5-6 missing).pdf` p4 (scan p2R). The scan
+stops at p4; pp 5–6, which hold the rest of the facts (if any) and the questions asked, are
+missing. No model answer is written. The facts on p4 raise these issues:
+
+- TODO: questions missing — Cheryl as a former prospective client: Archie took her account of the investment, Reggie and Veronica's introduction at the intake meeting, so acting for Betty against her engages the *Harsha* test and the court's power to restrain (Pre-write 0-12).
+- TODO: questions missing — acting for Betty against Cheryl in the very claim Cheryl consulted him about, using what she told him (r 6, r 21 by analogy; Lim Oon Kuin) (0-11, 0-12).
+- TODO: questions missing — Archie's dependence on Veronica (about 75% of his work, $1.5m of revenue, and his promotion) as a personal and firm interest that affects his independence (r 22, r 39(2)(c), (e)) (0-13, 0-31).
+- TODO: questions missing — telling Cheryl the firm could not act against Veronica or Betty without first running a conflict check, and without telling her of the possible claims against Mantle, its directors and Veronica (r 6 on what he could say; r 8(2) duties to a non-client) (0-6, 0-25).
+- TODO: questions missing — Veronica as a former client (the closed Mantle advice file): Archie holds her confidential concerns about Mantle's viability, which may be material if Betty's defence or Cheryl's claim turns on what Veronica knew (r 21) (0-11).
+- TODO: questions missing — acting for Betty while Veronica remains a client with a potentially divergent interest (Cheryl invested on Veronica's personal recommendation, so Betty may want to point at Veronica) (r 20) (0-7, 0-8).
+- TODO: questions missing — taking Betty's instructions from Veronica: authority of an agent and the need to communicate directly with Betty (r 5(5), PD 7.4.3, r 39(2)(g)) (0-37).
+- TODO: questions missing — Archie knows Veronica sometimes invests in Betty's name, which may bear on who the true investor and proper defendant is, and on what he may disclose (r 6) (0-6).
+
+*Source note: facts only; no answer given. Pre-write numbers are where each issue's rules are.*
+
+---
+
+## 2020 Q1 — Caitlyn, Yasuo and Teemo
+
+Question: `3. PYP/2020 PYP/EPR 2020 Paper.pdf` p2–3 (scan pp 1R–2L). Recommended times:
+(a) paras 2–3, 20 minutes; (b) paras 4–5, 20 minutes; (c) para 6, 20 minutes. No marks.
+Pre-writes used: 0-7, 0-8, 0-11, 0-13, 0-31, 0-51, 0-21, 0-18, 0-33, 0-49, 0-26, 0-35.
+
+*Older law.* Rule 12(2) and (7) PCR were reworded on 1 April 2022 (S 240/2022): "leave"
+became "permission" and "subpoena" became "order to attend court". The substance is
+unchanged, and the current wording is used below.
+
+### (a) Paragraphs 2 and 3: acting for both Yasuo and Teemo (20 minutes)
+
+The issue is whether Caitlyn could act for both co-accused, with Yasuo paying both bills, and
+whether she can go on doing so after what they told Sona. In my view she should not have
+accepted both retainers without the r 20(3) steps, and after paragraph 3 she must cease to act
+for both.
+
+**Rule 20 applies from the start.** Rule 20(2) PCR states that paragraphs (3), (4) and (7)
+apply where (a) a legal practitioner or law practice intends to act for 2 or more different
+parties (each called a relevant party) to a matter or transaction; and (b) a diversity of
+interests exists, or may reasonably be expected to exist, between those parties. On limb (a),
+Yasuo and Teemo are co-accused on linked corruption charges arising from the same acts. On
+limb (b), a diversity of interests could reasonably be expected from the first meeting, even
+though both protested their innocence. Teemo is charged with paying the bribes; Yasuo is
+charged on the basis of his supervision, knowledge and control of Teemo. If either is guilty,
+each has an obvious interest in blaming the other: Teemo by saying he acted on Yasuo's
+encouragement, Yasuo by saying Teemo acted alone. Teemo may also be offered a reduced charge
+or a lighter sentence for giving evidence against Yasuo, which would make him a witness
+against his co-client.
+
+**Rule 20(3) was not followed.** Rule 20(3) PCR states that, before accepting any instructions
+from any relevant party in relation to the matter or transaction, the legal practitioner or
+law practice (a) must communicate directly with each relevant party (i) to explain to that
+relevant party (A) how the interests of all or any of the relevant parties diverge or may
+diverge; (B) how the legal practitioner or law practice may be prevented from disclosing to a
+relevant party information obtained from another relevant party, despite the relevance of the
+information to the matter or transaction; and (C) how the legal practitioner or law practice
+may be prevented from giving to a relevant party any advice that is prejudicial to another
+relevant party; (ii) to inform that relevant party that the legal practitioner or law
+practice must cease to act in the matter or transaction if, in the course of the retainer, the
+legal practitioner or law practice has difficulty in advising on and dealing with the
+relevant parties' divergent interests competently, evenly and consistently; … (c) must advise
+each relevant party to obtain independent legal advice; (d) if a particular relevant party
+does not obtain independent legal advice, must obtain a written confirmation from the
+relevant party, or maintain a written record, that the relevant party declines to do so; and
+(e) must obtain each relevant party's informed consent in writing to the legal practitioner
+or law practice acting for all relevant parties, despite the relevant parties' divergent
+interests. Caitlyn agreed to act for both at a single joint meeting, at their employer's
+office and in the presence of Teemo's boss. Each signed only the firm's standard engagement
+letter. There was no explanation of how their interests might diverge, no warning that she
+must stop if a conflict arose, no advice to take independent advice and no informed written
+consent to joint representation. Consent obtained that way is not informed (*Mahidon Nichiar
+bte Mohd Ali v Dawood Sultan Kamaldin* [2015] SGCA 36 at [71]). Caitlyn breached r 20(3).
+
+**Yasuo paying Teemo's fees, and SPL.** A third party may pay a client's fees, but the client
+remains Teemo, and his instructions, confidences and interests are the only ones that count in
+his defence. Yasuo also brought Teemo to the firm. Rule 39(2) PCR states that, where there is
+reason to believe that a client is referred by any other person, the legal practitioner or law
+practice (a) must maintain the independence and integrity of the profession by not permitting
+the referror to undermine its professional independence; … (c) must not allow the referral to
+affect in any way the advice given to the client; (d) must advise the client impartially and
+independently; (e) must ensure that any wish to avoid offending the referror does not affect
+the advice; and (g) must communicate directly with the client to obtain or confirm
+instructions. SPL is a regular client of the firm, and Yasuo is its managing director, so the
+firm has its own commercial interest in keeping Yasuo content. Rule 22(2) PCR states that,
+except as otherwise permitted by the rule, a legal practitioner or law practice must not act
+for a client if there is, or may reasonably be expected to be, a conflict between (a) the duty
+to serve the best interests of the client; and (b) the interests of the legal practitioner or
+law practice. At the outset that interest was a risk to be managed by keeping Teemo's defence
+independent; paragraph 4 shows it was not.
+
+**Paragraph 3: the conflict crystallises.** Teemo has now told Sona that he paid the bribes,
+that Yasuo knew, and that Yasuo encouraged it. Yasuo says he knew nothing and would have
+stopped it. Their accounts are irreconcilable on the central issue in Yasuo's case. Rule 20(6)
+PCR (which r 20(4) mirrors where, as here, the diversity existed from the outset) states that
+the legal practitioner or law practice (a) must (i) continue to be vigilant of any conflict or
+potential conflict, and (ii) inform each relevant party of any conflict or potential conflict
+that arises; and (b) must cease to act in the matter or transaction if it has difficulty in
+advising on and dealing with the relevant parties' divergent interests competently, evenly and
+consistently. Caitlyn can no longer advise both evenly. What Teemo said is confidential to him.
+Rule 6(2) PCR states that a legal practitioner must not knowingly disclose any information
+which (a) is confidential to his or her client; and (b) is acquired by the legal practitioner
+(whether from the client or from any other person) in the course of the legal practitioner's
+engagement. Yet that information is plainly material to Yasuo's defence, and r 5(2)(b) PCR
+would otherwise require Caitlyn to tell Yasuo of all information known to her that may
+reasonably affect his interests. She cannot advise Teemo on a plea that implicates Yasuo
+without prejudicing Yasuo, nor run Yasuo's defence without undermining Teemo. A solicitor who
+reaches that crossroads ought to discharge himself (*Lie Hendri Rusli v Wong Tan & Molly Lim*
+[2004] 4 SLR(R) 594 at [48]–[50]).
+
+**Can she keep one client?** Rule 20(7) PCR states that, despite paragraphs (4)(b) and (6)(b),
+the legal practitioner or law practice may continue to act for a relevant party if (a) the
+legal practitioner or law practice ceases to act for all other relevant parties whose
+interests diverge from the interests of that relevant party; and (b) all of those other
+relevant parties give their informed consent in writing. Even with consent, keeping Yasuo
+would leave the firm holding Teemo's confession, which is material and adverse to Teemo if
+Teemo becomes a prosecution witness. Rule 21(2) PCR states that, subject to paragraphs (3),
+(4) and (5), a legal practitioner or law practice must decline to represent, or must withdraw
+from representing, a client in a matter if (a) it holds confidential information relating to
+a former client that is protected by rule 6; (b) the current client has an interest that is,
+or may reasonably be expected to be, adverse to an interest of the former client; and (c) that
+information may reasonably be expected to be material to the representation of the current
+client in that matter. All three limbs would be met. Keeping Teemo alone is more feasible, but
+only with Yasuo's informed written consent, and only if Yasuo stops directing Teemo's defence.
+
+In conclusion, Caitlyn breached r 20(3) by accepting both retainers without an explanation,
+advice to take independent advice, or informed written consent. After paragraph 3 she must tell both
+clients that a conflict has arisen, without revealing what either said, and cease to act under
+r 20(6)(b). In practice the firm should cease to act for both and help each find separate
+counsel, withdrawing with reasonable care for their interests under r 26(6).
+
+### (b) Paragraphs 4 and 5: the plan for Teemo, and the fee discount (20 minutes)
+
+The issue is whether Caitlyn's plan for Teemo's plea and evidence, and the fee terms she
+agreed with Yasuo, were proper. In my view the plan was grossly improper: it put the firm's
+and Yasuo's interests ahead of Teemo's and amounted to procuring false evidence. The discount
+term is very probably a prohibited contingency arrangement.
+
+**Advice driven by the paymaster.** Caitlyn's words, "Remember who is paying our bills", show
+that the advice to Teemo was shaped by the firm's interest in keeping SPL and Yasuo, not by
+Teemo's interests. That is the conflict r 22(2) forbids (set out in (a)). Where the firm has
+an interest adverse to the client, r 22(3)(a) and r 22(4)(a) PCR state that the legal
+practitioner must withdraw unless (i) the legal practitioner makes a full and frank disclosure
+of the adverse interest to the client; (ii) advises the client to obtain independent legal
+advice; (iii) if the client does not obtain independent legal advice, ensures that the client
+is not under an impression that the legal practitioner is protecting the client's interests;
+and (iv) the client gives informed consent in writing. None was done. It also breaches
+r 39(2)(c) and (e) (set out in (a)): the referror's wishes affected the advice. A lawyer who
+put the interests of those who referred clients ahead of the client's was suspended for two
+years in *Law Society of Singapore v Tan Phuay Khiang* [2007] 3 SLR(R) 477.
+
+**The guilty plea.** Rule 14(5) PCR states that a legal practitioner who represents an
+accused person (a) must advise the accused on (i) whether to plead guilty, or to claim trial,
+to a charge; and (ii) whether to give evidence or to remain silent; and (b) must abide by the
+accused's decision. Advice to plead guilty is not improper in itself, since Teemo has admitted
+the offence, and Sona's explanation of the sentencing discount for an early plea was accurate
+advice. But the advice must be given for Teemo's benefit, impartially, and the decision must be
+his. Here the plea was part of a plan for Yasuo's benefit, presented at a joint meeting with
+Yasuo present, and Teemo agreed "reluctantly" only after Yasuo promised to look after his
+family while he was in prison. Caitlyn let Yasuo make that inducement in her office. Rule 10(6)
+PCR states that a legal practitioner must not knowingly assist or permit the client (b) to do
+any other thing which the legal practitioner considers to be dishonest.
+
+**The false account.** The plan was for Teemo to "take the position that he acted alone, and
+to give evidence that Yasuo and SPL were unaware of the corrupt acts". Teemo had told the firm
+the opposite: that Yasuo knew and encouraged it. Rule 14(4) PCR states that where the accused
+confesses to any offence to the legal practitioner, the legal practitioner (a) may continue to
+represent the accused; but (b) must not adduce any evidence or make any submission which is
+inconsistent with the confession. Rule 10(3) PCR states that, to the extent that the legal
+practitioner is able, the legal practitioner must prevent the client from, must not be a party
+to, and must not assist the client in (a) suppressing evidence; or (b) giving false evidence or
+false information to a court or tribunal. Rule 10(5) PCR states that a legal practitioner must
+not render to his or her client any advice which the legal practitioner knows or has
+reasonable grounds to believe is sought by the client for any dishonest, fraudulent or
+unlawful purpose. Caitlyn did more than fail to prevent false evidence: she devised it. In
+*Narindar Singh s/o Malagar Singh v Public Prosecutor* [1996] 3 SLR(R) 318 at [48]–[53], a
+lawyer who acted with his client to obtain money from a co-accused's family in exchange for
+the client exonerating the co-accused was convicted and struck off. Here the trade runs the
+other way (financial support from Yasuo for Teemo's false exoneration of Yasuo), but it is the
+same corruption of the evidence. Caitlyn breached r 10(3)(b), r 10(5), r 10(6) and r 14(4)(b).
+
+**Paragraph 5: the 35% discount.** Yasuo asked, and Caitlyn agreed, that each final bill be
+discounted by 35% if that accused contests the charges and is convicted, with no discount on
+an early plea. So the firm earns its full fee on an acquittal or a guilty plea, and loses 35%
+only if the client fights and loses. Section 107(1)(b) LPA states that a solicitor must not
+enter into any agreement by which he or she is retained or employed to prosecute any suit or
+action or other contentious proceeding which stipulates for or contemplates payment only in
+the event of success in that suit, action or proceeding. A criminal trial is contentious, and
+35% of each fee is payable only if the defence succeeds (or is never run). A fixed base fee
+does not save a success component (see 2021 Q3.2 above), and contingency arrangements are
+prohibited because they erode the detachment the lawyer needs to discharge the duty to the
+court (*Law Society of Singapore v Kurubalan s/o Manickam Rengaraju* [2013] 4 SLR 91 at [42],
+[45]). No case decides a discount payable on failure, but GN 5.6.1 paras 11–13 settle how it
+is treated: a "no win, less fee" agreement, under which a discounted professional fee is
+payable if the specified circumstances are not met, is a form of conditional fee agreement,
+because part of the fee is payable only in specified circumstances (s 115A(1) LPA). Such an
+agreement escapes s 107 only if it complies with Part 8A (s 107(3AA)), and criminal
+proceedings are not prescribed proceedings (GN 5.6.1 para 8). So the 35% is a part of the
+fee payable only on success, and the term breaches s 107(1)(b). Whatever the answer on s 107, the term gives the
+firm a financial reason to prefer a guilty plea to a contested trial it might lose, which is a
+conflict between its interest and Teemo's under r 22(2), and it was agreed as a condition of
+keeping SPL's business. Teemo was not party to the terms on which his own lawyer would be
+paid. The conditional fee agreement regime never extends to criminal proceedings (GN 5.6.1
+para 8; non-examinable).
+
+In conclusion, Caitlyn breached r 10(3)(b), r 10(5), r 10(6), r 14(4)(b), r 22(2) and r 39(2)
+PCR, and s 107(1)(b) LPA. Procuring false evidence in a criminal trial is among
+the most serious breaches a lawyer can commit.
+
+### (c) Paragraph 6: preparing Teemo's evidence (20 minutes)
+
+The issue is whether Caitlyn could give Teemo a 20-page script of questions and answers,
+rehearse him in it for an afternoon with Yasuo present and interjecting, and then let Teemo
+give evidence consistent with Yasuo's version. She could not. This is witness coaching,
+fabrication of evidence and misleading the court.
+
+**Witness preparation.** Rule 12(1) PCR states the principles that a legal practitioner
+(a) must act consistently with the administration of justice when dealing with any witness,
+regardless of the effect of the witness's evidence; and (b) must exercise their own judgment
+as to the substance and form of questions put or statements made to a witness. A practice run
+is not wrong in itself, but three rules of thumb apply: (1) in preparing a witness, the lawyer
+must not allow anyone, including himself or herself, to supplant or supplement the witness's
+own evidence; (2) preparation must not be too lengthy or repetitive; and (3) preparation must
+not be done in groups or together with other involved persons (*Ernest Ferdinand Perez De La
+Sala v Compania De Navegacion Palomar, SA* [2018] SGCA 16 at [137]–[140]). Caitlyn broke all
+three. Scripted "suggested answers" to be memorised replace Teemo's evidence with hers (rule
+1). An afternoon of drilling through 20 pages is lengthy and repetitive (rule 2). Yasuo, the
+accused whose trial Teemo was to give evidence at, sat in and told Teemo what to say "with a
+view to maintaining consistency with Yasuo's version" (rule 3). The court in *Perez De La Sala*
+warned that intentional wrongdoing may lead to severe professional sanctions (at [141]–[142]).
+
+**Fabricated and false evidence.** Rule 9(2) PCR states that when conducting any proceedings
+before a court or tribunal on behalf of a client, a legal practitioner must not (a) knowingly
+mislead or attempt to mislead in any way the court or tribunal; (b) fabricate any fact or
+evidence in any communication with, or representation or submission to, the court or tribunal;
+or (g) concoct any evidence or contrive any fact, whether or not that evidence or fact will
+assist in advancing the client's case. The script was built to support Yasuo's account, which
+Caitlyn knew Teemo had contradicted in confidence. That is concocting evidence (r 9(2)(g)), and
+presenting it at Yasuo's trial was knowingly misleading the court (r 9(2)(a)). It also breaches
+r 10(3)(b) (set out in (b)): Teemo is still Caitlyn's client, awaiting sentence. A false
+statement made to the court knowing it is false, or without belief in its truth, or recklessly
+breaches the duty not to mislead (*Law Society of Singapore v Seah Zhen Wei Paul* [2024] SGHC
+224 at [69]).
+
+**If Teemo was the prosecution's witness.** If Teemo was called by the prosecution, Caitlyn,
+as Yasuo's counsel, was entitled to interview him, but r 12(7) PCR states that if the legal
+practitioner is aware that the witness has been called to appear in a court or has been issued
+an order to attend court by another party or by the prosecution, the legal practitioner must
+inform the prosecution of the intention to interview or take statements from the witness.
+Nothing suggests she did.
+
+**The continuing conflict.** At this point Caitlyn was preparing her own client, Teemo, to give
+evidence for the benefit of her other client, Yasuo, at Teemo's own expense: Teemo's interests
+at sentencing (candour, remorse, possible cooperation) are opposed to protecting Yasuo. That is
+the r 20(6)(b) position described in (a), now acted on.
+
+**Sona.** Caitlyn must exercise proper supervision over the staff working under her (r 32
+PCR). Drawing a junior associate into a scheme of this kind is the reverse of supervision.
+Sona has her own duties under r 9 and r 10 and should not keep silent: she may seek advice in
+confidence on her obligations, which r 6(3)(c) PCR permits, and should refuse to take part.
+
+**Sanction.** Dealing fraudulently with the court is one of the categories in which dishonesty
+almost invariably leads to striking off (*Law Society of Singapore v Udeh Kumar s/o Sethuraju*
+[2017] SGHC 141 at [105]–[107], [109]).
+
+In conclusion, Caitlyn breached r 9(2)(a), (b) and (g), r 10(3)(b), r 12(1) and probably
+r 12(7) PCR. Section 83(2) of the Legal Profession Act 1966 states that due cause for
+discipline may be shown by proof that an advocate and solicitor (b) has been guilty of
+fraudulent or grossly improper conduct in the discharge of his or her professional duty, or
+guilty of such a breach of any usage or rule of conduct made by the Professional Conduct
+Council under section 71 or by the Council under the Act as amounts to improper conduct or
+practice as an advocate and solicitor; or (h) has been guilty of such misconduct unbefitting
+an advocate and solicitor as an officer of the Supreme Court or as a member of an honourable
+profession. Caitlyn's conduct in (a) to (c) is due cause, and striking off is the likely
+sanction.
+
+*Source note: r 5(2)(b), r 6(2)–(3) PCR p10–13; r 9(2) PCR p17–19 (r 9(2)(g) read from the PCR
+text); r 10 PCR p20–21; r 12(1), (7) PCR p22–23 (S 240/2022 wef 1 Apr 2022); r 14(4)–(5) PCR
+p24–26; r 20(2)–(7) PCR p35–38; r 21(2) PCR p39; r 22(2)–(4) PCR p40–42; r 32 PCR p53; r 39(2)
+PCR p61; s 83(2) LPA p217–218; s 107 LPA p265–266; GN 5.6.1 para 8; Mahidon at [71] as in 2023
+Q1.2 above; Lie Hendri Rusli L2 p9; Tan Phuay Khiang L3 p8; Narindar Singh SYL p6, L4 p24;
+Kurubalan L10 p45–47; Perez De La Sala [136]–[142] as read for Pre-write 0-49; Seah Zhen Wei
+Paul at [69] L4 p21; Udeh Kumar 2017 as read for Pre-write 0-3.*
+
+---
+
+## 2020 Q2 — Donnie, Mega Law, MCP and Joey
+
+Question: `3. PYP/2020 PYP/EPR 2020 Paper.pdf` p4–5 (scan pp 2R–3L). Recommended times:
+(a) para 2, 22 minutes; (b) para 3, 14 minutes; (c) paras 4–7, 24 minutes. No marks.
+Pre-writes used: 0-29, 0-30, 0-65, 0-27, 0-26, 0-34, 0-31, 0-28, 0-41, 0-13, 0-33, 0-42,
+0-25, 0-17.
+
+*Overlap.* PS3 Q2 is a cut-down version of this question (paras 1, 3 and 4 only); its answer
+is at [PS3 Q2 — Donnie, Melany and Mega Law](#ps3-q2--donnie-melany-and-mega-law). Part (b)
+below relies on it and adds only what the 2020 facts add. Parts (a) and (c) are new.
+
+### (a) Paragraph 2: the Facebook statements (22 minutes)
+
+The issue is whether Donnie's two Facebook posts comply with Part 5 of the PCR. In my view
+almost none of either statement can stand. A post on the firm's Facebook page is
+"publicity", which r 2(1) PCR defines to include any form of advertisement communicated
+through or retrievable from the Internet, and Donnie posted it himself.
+
+**The rules.** Rule 43(1) PCR states that when a legal practitioner publicises his or her
+practice, the legal practitioner must ensure that (a) any claim to expertise or
+specialisation can be justified; (b) the publicity does not make any direct or indirect
+mention of (ii) the success rate of the legal practitioner, the law practice or any member of
+the law practice; and (c) the publicity does not make any comparison or criticism in relation
+to the fees charged, or the quality of the services provided, by any other legal practitioner
+or law practice. Rule 43(2) states that, in justifying a claim to expertise or specialisation,
+factors including (a) academic qualifications, (b) experience and (c) the proportion of
+working time involved may be taken into account. Rule 44(1) PCR states that a legal
+practitioner must not publicise his or her practice in a manner which (a) is likely to
+diminish public confidence in the legal profession or otherwise bring it into disrepute; or
+(b) may reasonably be regarded as being misleading, deceptive, inaccurate, false or unbefitting
+the dignity of the legal profession. Rule 44(2) states that publicity is misleading,
+deceptive, inaccurate or false if (a) it contains a material misrepresentation; (b) it omits to
+state a material fact; (c) it contains any information which cannot be verified; or (d) it is
+likely to create an unjustified expectation about the results that can be achieved by the
+legal practitioner or the law practice.
+
+**Statement 1.** "Man with a big firm lawyer gets a $5,000 fine; man with small firm lawyer
+goes to jail for 4 weeks" refers to a real case in which both men were fined $5,000, with one
+month's imprisonment in default, and the second man went to prison only because he did not
+pay. The statement implies that the second man's lawyer caused his imprisonment, which is a
+material misrepresentation that omits the material fact of non-payment (r 44(2)(a)–(b)), and it
+criticises the quality of other lawyers' services (r 43(1)(c)). "What is the price of justice?
+Big law may not act for you because you can't afford it, but I will" compares other lawyers'
+fees (r 43(1)(c)) and suggests that outcomes in the courts can be bought, which is likely to
+diminish public confidence in the profession and the administration of justice (r 44(1)(a)).
+"Expert big firm defence counsel" cannot be justified under r 43(1)(a) and r 43(2): Donnie has
+made four pro bono mitigation pleas in his first two years, has never conducted a criminal
+trial or appeal, practises general and commercial litigation, and his previous firm had three
+lawyers, so "big firm" is also false (r 44(2)(a)). "At a small firm price" is another fee
+comparison (r 43(1)(c)). "You won't even have to pay a fine!" is likely to create an
+unjustified expectation about results (r 44(2)(d)). PD 6.2.1 Part D gives as an example of an
+unjustified expectation a commercial saying the practice will recover party-and-party costs; a
+promise of no fine is a stronger case. No part of Statement 1 can be used.
+
+**Statement 2.** "Mega Law is now a full service law firm" is false: Mega Law is a sole
+proprietorship whose only lawyer does litigation (r 44(2)(a)). "My new Partner-in-crime,
+Melany, has years of experience in the corporate and real estate department in a big law
+firm" holds out as a partner, and as a lawyer able to handle corporate and real estate work, a
+person who had not yet accepted a job as a paralegal and had not held a practising
+certificate since 2017. That is a material misrepresentation (r 44(2)(a)). "Partner" is a
+description the Council has approved for advocates and solicitors under r 33(1)(f) PCR and PD
+3.5.2, and PD 3.5.2 requires support staff to be described in a way that does not give the
+impression that they are legal practitioners. Holding Melany out in this way also does an act
+enabling an unauthorised person to purport to practise, contrary to s 77(1)(c) LPA (set out in
+PS3 Q2). "Partner-in-crime", posted by a firm offering criminal defence, is unbefitting the
+dignity of the profession (r 44(1)(b)). "Your one-stop shop for your every legal or even
+extra-legal need" is unverifiable and misleading for a one-lawyer litigation practice
+(r 44(2)(a), (c)). "We guarantee 100% success at all costs" mentions a success rate, which is
+prohibited outright (r 43(1)(b)(ii)), creates an unjustified expectation (r 44(2)(d)), and "at
+all costs" suggests Donnie will act regardless of his duty to the court, which is likely to
+bring the profession into disrepute (r 44(1)(a)). The duty to the client is subject only to
+the paramount duty to the court (r 4(a)–(b) PCR). No part of Statement 2 can be used except,
+once Melany has joined, a factual statement that she has joined as a paralegal.
+
+**Responsibility and competence.** Rule 42(2) PCR states that a legal practitioner who becomes
+aware of any impropriety in any publicity relating to the practice must use his or her best
+endeavours to procure its rectification or withdrawal and to prevent the recurrence of the
+impropriety. Donnie must take both posts down. If his advertising brings in criminal trials,
+r 5(2)(d) PCR also requires him to have the relevant knowledge, skills and attributes for each
+matter he takes on.
+
+In conclusion, Donnie breached r 43(1)(a), (b)(ii) and (c) and r 44(1)(a)–(b) read with
+r 44(2)(a)–(d) PCR, and Statement 2 also contravenes s 77(1)(c) LPA.
+
+### (b) Paragraph 3: Melany's non-contentious work (14 minutes)
+
+The issue is whether Donnie may let Melany run non-contentious work under the firm's name,
+split fees with her, and pay her referrer. He may not. The answer to PS3 Q2 sets out the rules
+in full: Donnie breached r 32 PCR (no constant supervision under GN 3.7.1 para 4(a)), s 77(1)(b)–(c)
+LPA and PD 3.11.2 (lending his name to documents she prepares), r 19(1)–(2) PCR (the 50/50
+split; *Law Society of Singapore v Tan See Leh Jonathan* [2020] SGHC 102), and r 39(2)(b) PCR
+and s 83(2)(d) LPA (the 5% to her contact). Three points are added by the 2020 facts.
+
+First, Melany was formerly a lawyer, but she has not renewed her practising certificate since
+2017. Section 32(2) LPA states that a person is an unauthorised person unless he or she is
+(a) a person whose name is on the roll of advocates and solicitors and who has in force a
+practising certificate. Melany is therefore an unauthorised person, and *Tan See Leh Jonathan*
+holds that the law makes no distinction between types of unauthorised persons, including one
+whose certificate has lapsed. Her past experience does not make supervision less necessary;
+it makes it more tempting to let her practise in substance, which is what s 77 forbids. If she
+remains on the roll, she is also personally answerable: a lawyer without a valid practising
+certificate was disciplined in *Law Society of Singapore v Chia Chwee Imm Helen* [2022] SGHC 214.
+
+Second, she signs letters and emails as "Mega Law" without saying she is a paralegal. PD
+3.11.1 states that, generally, only a practising solicitor may sign the name of the law
+practice in a professional communication, and that an unauthorised person can sign on behalf
+of a law practice so long as he or she does not sign in the name of the law practice, using his
+or her own name and proper designation. Her sign-off breaches PD 3.11.1 and implies she is
+qualified, which is an offence for her under s 33(1)(b) LPA.
+
+Third, the work includes conveyancing for her own contacts. Section 33(2)(a) LPA makes it an
+offence for an unauthorised person, directly or indirectly, to draw or prepare any document
+or instrument relating to any movable or immovable property, unless the act was not done for
+or in expectation of any fee, gain or reward; she prepares them for half the fees.
+
+In conclusion, Donnie breached r 32, r 19 and r 39(2)(b) PCR, s 77(1) LPA and PD 3.11.1 and
+3.11.2. He must take over the clients and the work, require Melany to sign in her own name as
+a paralegal, and end the fee split and the referral payments.
+
+### (c) Paragraphs 4 to 7: MCP, the loan and Joey's shares (24 minutes)
+
+The issue is whether Donnie's role in MCP, and MCP's loan to his client Joey secured on Joey's
+JCB shares, were proper. In my view the directorship alone was permissible, but the loan was
+not. It put Donnie in a direct conflict with his client, gave him an interest in the outcome of
+the appeal, and ended with his firm acting against Joey.
+
+**The directorship.** As the PS3 Q2 answer explains, a non-executive role in a small café is
+not an "executive appointment" under r 34(9) PCR, and an executive one would be permitted
+under r 34(4) if the Second Schedule conditions are met. The loan changes that. Paragraph 6
+shows Donnie suggesting MCP's loan, agreeing its terms, and keeping the share transfer form at
+Mega Law, which is executive involvement in MCP's business. The Second Schedule conditions
+include that (1) the business must not jeopardise the professional integrity, independence or
+competence of the legal practitioner; (3) the legal practitioner's involvement must not impair,
+and must not be in conflict with, the legal practitioner's duties to any client of the law
+practice; (4) the entity's files, records and accounts must be kept separate from and
+independent of the law practice's; and (5) where a client of the law practice deals with the
+entity, the legal practitioner must make full and frank disclosure to the client of (a) the
+relationship between the entity and the law practice, (b) their financial or other interests
+in the entity, and (c) that the statutory protection for clients of a law practice may not be
+available to the entity's customers. Lending to Mega Law's own litigation client breaches
+conditions (1) and (3); keeping MCP's security document in Mega Law's files breaches (4); and
+Joey knew only that Donnie and Melany were shareholders, not the rest of what condition (5)
+requires.
+
+**Lending to a litigation client.** GN 7.4.2 para 2 states that lending money to clients will
+put a lawyer in a position of personal conflict of interest, as the lawyer will have a
+creditor/debtor relationship with the client and the debt would be repaid only if the client's
+case was settled or paid, and that if the matter is pending litigation, allegations of
+maintenance and champerty could be made against the practice. The loan is made through a
+company Donnie half owns, but the conflict is the same. Rule 22(3) PCR states that where a
+legal practitioner, any immediate family member of the legal practitioner, or the law practice
+has an interest in any matter entrusted to the legal practitioner by a client, (a) in any case
+where the interest is adverse to the client's interests, the legal practitioner must withdraw
+from representing the client unless (i) the legal practitioner makes a full and frank
+disclosure of the adverse interest to the client; (ii) the legal practitioner advises the
+client to obtain independent legal advice; (iii) if the client does not obtain independent
+legal advice, the legal practitioner ensures that the client is not under an impression that
+the legal practitioner is protecting the client's interests; and (iv) the client gives
+informed consent in writing. Through MCP, Donnie is Joey's creditor and holds security over
+Joey's shares, and his own fees are paid out of the loan: 70% of it went straight to Donnie.
+That interest is adverse to Joey's. Joey was told only that Donnie and Melany owned MCP. He was
+not advised to take independent advice, he plainly believed Donnie was protecting him ("he
+trusts them"), and he gave no informed written consent. A lawyer who persuaded a client to pay
+money to a company he owned preferred his own interests (*Law Society of Singapore v Tan Chun
+Chuen Malcolm* [2020] SGHC 166). Donnie breached r 22(3)(a).
+
+**Unrepresented on the loan.** Joey had no lawyer on the loan itself, and Donnie and Melany
+negotiated it for MCP. Rule 8(2) PCR states that a legal practitioner, when dealing on behalf of
+his or her client with any person who is not represented by another legal practitioner,
+(a) must decline to give to the person any legal advice (other than advice to obtain
+independent legal advice), if the legal practitioner knows or ought reasonably to know that
+the interests of the person are adverse, or potentially adverse, to the interests of the
+client; and (b) must take reasonable steps to ensure that the person is not under the
+impression that the person's interests are protected by the legal practitioner. Donnie did the
+opposite of (b).
+
+**The security and the outcome of the appeal.** The minority oppression suit is about JCB, and
+the High Court has ordered Joey to buy out Bing's shares. MCP's security is 10% of Joey's JCB
+shares, valued at $1 million, for a $100,000 loan, enforceable if Joey cannot repay within a
+month of the appeal's outcome. Joey can realistically repay only if the appeal succeeds. So
+Donnie, through MCP, stands to gain an interest in the very company whose shares are the
+subject of the litigation if the appeal fails, and to be repaid if it succeeds. Section 107(1)
+LPA states that a solicitor must not (a) purchase or agree to purchase the interest, or any
+part of the interest, of his or her client or of any party in any suit, action or other
+contentious proceeding brought or to be brought or maintained, and s 107(3) states that a
+solicitor is subject to the law of maintenance and champerty like any other person. Rule 18
+PCR states that a legal practitioner or law practice must not enter into any negotiations with
+a client (a) for an interest in the subject matter of litigation or of any other contentious
+proceedings. PD 5.1.1 Part A states that an agreement where the acquiring of shares is
+contingent on the outcome of a contentious matter, or where the shares are themselves the
+subject matter of the litigation, would amount to a contingency fee arrangement under s 107.
+The loan was a funding arrangement rather than equity in lieu of fees, and it is held through
+MCP, but 70% of it paid Donnie's fees, so in substance Donnie's fees were to be satisfied in
+shares if the appeal failed. That falls within the mischief of s 107 and r 18(a), and the
+security worth ten times the loan suggests the terms were not fair to Joey (compare r 24 PCR,
+which allows a lawyer to buy assets from a client only at the prevailing market price or a
+reasonable price). PD 5.1.1 Part B adds that a vehicle holding equity taken in lieu of fees
+must be wholly owned by practising lawyers; MCP is half owned by Melany, an unauthorised
+person, so the benefit would also be shared with her, contrary to the policy behind r 19.
+
+**Donnie's eagerness for the appeal.** Donnie was "extremely eager" to argue his first Court of
+Appeal case and proposed the loan two days before the filing deadline. His personal interest
+must not affect his advice on whether an appeal is worth its cost and risk. Rule 17(2)(e) PCR
+states that a legal practitioner must, in an appropriate case, together with his or her client
+(i) evaluate whether any consequence of a matter involving the client justifies the expense
+of, or the risk involved in, pursuing the matter; and (ii) evaluate the use of alternative
+dispute resolution processes. All solicitors must carefully assess the merits before engaging
+in court proceedings (*Zhou Tong v Public Prosecutor* [2010] 4 SLR 534 at [19]–[21]). Donnie
+says he advised on the merits; whether that advice was detached is doubtful once he had
+arranged to be paid out of a loan secured on the client's shares (r 22(2)).
+
+**Melany's role.** Melany prepared the loan agreement. As a director of MCP she may deal with
+MCP's own documents, but if Mega Law presented the agreement to Joey, Donnie was again letting
+an unauthorised person prepare a legal document in his firm's matter (s 33(2)(a), s 77(1) LPA).
+
+**Paragraph 7: enforcing against Joey.** Mega Law told Joey that "it" would be exercising its
+rights to take his shares. Mega Law has no rights; MCP does. By acting for MCP against its own
+client, on a loan made in the course of its retainer, Mega Law breached r 22(2) (and r 20 if it
+treats itself as acting for both MCP and Joey on the loan), used its position as Joey's lawyer
+against him, and blurred the line between the firm and the business, contrary to Second
+Schedule condition (2), that the entity must not be held out so as to suggest that it is a law
+practice. Joey has just lost his appeal and owes Bing costs; he needs independent advice now.
+
+In conclusion, Donnie breached r 22(2)–(3) and r 8(2) PCR, the Second Schedule conditions
+under r 34(4), and GN 7.4.2, and the security over Joey's JCB shares falls within s 107(1)(a)
+and (3) LPA and r 18(a) PCR. Mega Law must not enforce the security; Donnie should advise Joey
+in writing to take independent advice, and should cease to act for him. Section 83(2) of the
+Legal Profession Act 1966 states that due cause for discipline may be shown by proof that an
+advocate and solicitor (b) has been guilty of fraudulent or grossly improper conduct in the
+discharge of his or her professional duty, or guilty of such a breach of any usage or rule of
+conduct made by the Professional Conduct Council under section 71 or by the Council under the
+Act as amounts to improper conduct or practice as an advocate and solicitor; or (h) has been
+guilty of such misconduct unbefitting an advocate and solicitor as an officer of the Supreme
+Court or as a member of an honourable profession. Donnie's conduct in (a) to (c) may amount to
+such improper conduct or misconduct.
+
+*Source note: r 2(1) "publicity" PCR p5; r 4 PCR p9; r 5(2)(d) PCR p10; r 8(2) PCR p15; r 17(2)(e)
+PCR p31; r 18 PCR p34; r 19 PCR p35; r 22(2)–(3) PCR p40–41; r 24 PCR p46–47; r 32 PCR p53; r 33
+PCR; r 34(4), (9) and Second Schedule PCR p55–56, p70–72; r 39(2)(b) PCR p61; r 42–44
+PCR p63–66; s 32(2), s 33 LPA p92–94; s 77 LPA p202–203; s 83(2) LPA p217–218; s 107 LPA
+p265–266; GN 3.7.1 para 4(a); GN 7.4.2 para 2; PD 3.5.2; PD 3.11.1 p1; PD 3.11.2 p1; PD 5.1.1
+Parts A(b)(i) and B p1–3; PD 6.2.1 Part D; Tan See Leh Jonathan L8 p19, SYL p10, L10 p54; Chia
+Chwee Imm Helen L3 p18, SYL p4; Tan Chun Chuen Malcolm SYL p4; Zhou Tong at [19]–[21] SYL p5.*
+
+---
+
+> **Spoiler line: 2025 paper.** Everything below this line answers the 2025 ETH paper
+> (`3. PYP/2025 PYP/EPR 2025 Paper.pdf`), the most recent paper and the only one in this file
+> in the 2026 format (two 50-mark questions, two hours). If you mean to sit it unseen as a
+> Practice Paper, stop here.
+
+## 2025 Q1 — Lumi, Kira and Hun Ter Law
+
+Question: `3. PYP/2025 PYP/EPR 2025 Paper.pdf` p2–3. Marks: 1.1 35, 1.2 15. No official answer
+is held. Pre-writes used: 0-1, 0-12, 0-10, 0-11, 0-6, 0-37, 0-4, 0-29, 0-30, 0-17, 0-70.
+
+### 1.1 Can K act for R and R's sister against B? Should K refrain? (35 marks)
+
+The issue is whether K, a litigation partner in HTL, may act for R and R's sister in B's
+action against them, when HTL's Head of Litigation, L, and his partner, J, received B's
+documents and an account of B's case three months earlier. In my view no rule of the PCR bars
+K, because B never became HTL's client. But the court could restrain HTL under its supervisory
+jurisdiction, and the risk is real because the "tainted" lawyer is the Head of the very
+department K works in. K may act only if HTL can show a robust information barrier and R makes
+an informed choice; if L has any oversight of K's work, K should refrain.
+
+**1. Was B ever HTL's client?** The first issue is whether a retainer arose between HTL and B,
+which would make B a former client and engage r 21 PCR. It did not. A retainer may be implied
+where, on an objective consideration of all the circumstances, an intention to enter into such
+a contractual relationship ought fairly and properly to be imputed to all the parties, and the
+implication must be so clear that the solicitor ought to have appreciated it (*Law Society of
+Singapore v Ahmad Khalis bin Abdul Ghani* [2006] 4 SLR(R) 308 at [64], [66]); express advice
+that is neither perfunctory nor non-committal points to one (at [67]). Here the contact was a
+"cold call" from V. L's reply said HTL would not review the documents "until we confirm we are
+able to act and our appointment is confirmed", and that J's chat was "solely for the purpose
+of getting a basic understanding of B's case". J listened and gave no advice ("Thank you for
+the explanation. I will update L"). L then declined in writing and told V the documents had
+been permanently deleted. No fee, engagement letter or advice was given. B was at most a
+*former prospective client*. Nor were the instructions properly B's: they came from V, who
+claimed to be B's foreign lawyer. Rule 5(5) PCR states that when a legal practitioner is given
+instructions purportedly on behalf of his or her client, the legal practitioner must (a) ensure
+that the person giving those instructions has the authority to give those instructions on
+behalf of the client; or (b) if there is no evidence of such authority, obtain the client's
+confirmation of those instructions within a reasonable time after receiving them. HTL never
+reached that stage, which also points away from any retainer.
+
+**2. The PCR position.** Rule 21(2) PCR states that, subject to paragraphs (3), (4) and (5), a
+legal practitioner or law practice must decline to represent, or must withdraw from
+representing, a client (the current client) in a matter if (a) the legal practitioner or the
+law practice holds confidential information relating to a former client that is protected by
+rule 6; (b) the current client has an interest that is, or may reasonably be expected to be,
+adverse to an interest of the former client; and (c) that information may reasonably be
+expected to be material to the representation of the current client in that matter. Rule 6
+protects information acquired "in the course of the legal practitioner's engagement". On my
+view of point 1, B is not a former client and no engagement began, so r 21 is not engaged.
+If a court did find an implied retainer, r 21(2) would apply squarely: L and J hold B's
+confidential information, R's interests are directly adverse to B's in the same dispute, and
+the information is material. HTL could then act only with B's informed written consent after
+advice to take independent legal advice (r 21(3)), which B will not give, or, where that fails
+despite reasonable efforts, under r 21(4), which states that the lawyer may still act if
+(a) there are adequate safeguards in place to protect the former client's confidential
+information; and (b) the lawyer has made reasonable efforts to notify the former client (i) of
+those safeguards; and (ii) that the lawyer will act, or continue to act, for the current
+client. L's notice to V tracks r 21(4)(b), but HTL never sought B's consent first, so the r 21(4)
+precondition is not met.
+
+**3. The court's power to restrain: the *Harsha* test.** Apart from the PCR, the court may
+restrain a firm from acting. For a former prospective client, who only sought advice and never
+retained the firm, the firm will be restrained only if it is shown that (a) the firm was in
+possession of information which was confidential to him and to the disclosure of which he had
+not consented; (b) the information was or might be relevant to the new matter, in which the
+interest of the other client was or might be adverse to his own; and (c) there was a risk that
+the information would come into the possession of those now acting for the other client
+(*Harsha Rajkumar Mirpuri v Shanti Shewakram Samtani* [2018] SGHC 155 at [47]). B bears the
+burden on each limb, and even if it is met the court may restrain only the use of the
+information (at [47]–[48]).
+
+*Limb (a): confidential information.* L received V's email describing B's position, the
+correspondence between B and R "which R absolutely cannot deny", and V's written opinion on
+B's causes of action. J then heard V's explanation that the "loan" was structured as a purchase
+of shares from R's sister, with the price paid as a loan to R and B keeping the shares if R
+defaulted. V's opinion is legal advice to B and is confidential (and likely privileged), and so
+is B's account of how it sees the transaction. HTL will say L did not review the attachments,
+did not forward them to J, and deleted them; and that B has since put its case on the record in
+the Singapore action and the freezing-injunction application, so much of what V described is
+no longer confidential. Those points reduce limb (a) but do not remove it: L read the covering
+email, J heard the explanation, and V's opinion on causes of action and B's litigation
+strategy are not in any public filing. Marking material "privileged and confidential" puts the
+recipient on notice of its nature (*HT S.R.L. v Wee Shuo Woon* [2016] SGHC 15), and nothing
+suggests B consented to its use against it.
+
+*Limb (b): relevance and adversity.* This is the same dispute. B's claim against R and R's
+sister for fraud is exactly what V and J discussed, and R's interests are directly adverse to
+B's. Limb (b) is plainly met.
+
+*Limb (c): risk of the information reaching K's team.* This is the decisive limb. Whether the
+safeguards are adequate depends on (1) the nature of the work done for the former client;
+(2) the timing of the creation of the information barrier; (3) the size of the law firm;
+(4) the physical locations of departments within the firm; and (5) the number and seniority of
+tainted lawyers (*Harsha* [2018] 5 SLR 894 at [68]). On (1), the information is B's own theory
+of the case and its foreign lawyer's opinion, which is the most useful kind to an opponent. On
+(2), HTL says it has put a barrier in place, apparently when R was referred and before K began
+acting, which is in its favour; but it must be documented, and it came three months after the
+information arrived. On (3), we are not told HTL's size. On (4), L, J and K are all in the
+Litigation department, presumably on the same floor and sharing support staff and systems. On
+(5), there are two tainted lawyers, and one of them is L, the **Head of Litigation**, with J
+put "in-charge of all L's matters". A barrier is weakest where the tainted lawyer is senior
+enough to supervise the acting team; L's ordinary role gives him authority over K's
+department. It is also unhelpful that L himself steered R to K at a social event, although
+he rightly told R at once that he would not be involved. Effective barriers include
+(a) physical separation; (b) instructions and reminders to lawyers and staff, with signed
+acknowledgements; and (c) internal monitoring.
+
+**4. The wider test.** The court's jurisdiction is invoked where a fair-minded, reasonably
+informed member of the public would conclude that the proper administration of justice
+requires that the legal practitioners be restrained from acting, in the interests of the
+protection of the integrity of the judicial process and the due administration of justice,
+including the appearance of justice (*Lim Oon Kuin v Rajah & Tann Singapore LLP* [2022] SGCA
+29 at [65]). The test is objective, the jurisdiction is exceptional, and due weight must be
+given to a litigant's interest in keeping the lawyer of his choice (at [65]). That case
+concerned a former client, but the test is framed around the appearance of justice. A
+fair-minded observer would note that B shared its case with the firm's Head of Litigation, and
+that the same department now acts against B in that very dispute. That observer may well be
+uneasy unless the barrier is shown to be robust and L has no line of authority over K.
+
+**5. Should K refrain? The relevant considerations.** First, *R's interests*. R and R's sister
+face a freezing injunction and need continuity of counsel. If K acts and HTL is later
+restrained, R loses time and pays twice, at a critical stage. Rule 5(2)(b) PCR states that a
+legal practitioner must, when advising the client, inform the client of all information known
+to the legal practitioner that may reasonably affect the interests of the client in the
+matter. K must tell R in writing of B's demand, the risk of a restraining application and its
+cost, so R can decide whether to stay with HTL. Second, *HTL's own interest*. HTL's wish to keep
+the work must not drive the advice. Rule 22(2) PCR states that, except as otherwise permitted
+by the rule, a legal practitioner or law practice must not act for a client if there is, or may
+reasonably be expected to be, a conflict between (a) the duty to serve the best interests of
+the client; and (b) the interests of the legal practitioner or law practice. Third, *the
+strength of the barrier*. HTL should document it now: L and J (and their staff) excluded from
+the matter and from all departmental reporting on it, separate IT permissions and files,
+written undertakings from L, J and their teams, a record that the attachments were deleted
+unread and that J kept no notes (or that any notes are sealed), and monitoring. Fourth, *R's
+confidentiality*. L told V that another HTL team would act for R and its sister. K should
+confirm that R authorised that disclosure (r 6(3)(a) PCR). Fifth, *the response to B's
+lawyers*. HTL should reply courteously, explaining that B was never a client, that no documents
+were reviewed and all were deleted, and the barrier's terms. An opponent cannot dictate a
+party's choice of counsel, but the reply should be one HTL can stand behind in court.
+
+In conclusion, K is not barred by r 21 PCR, because B never retained HTL, and B bears the
+burden under *Harsha*. But limb (c) is a real risk because L, who received B's information, is
+the Head of K's own department. K can act if HTL documents an adequate barrier that removes L
+and J from any oversight of the matter and R, fully informed of the risk, chooses to continue.
+If L cannot be removed from any supervisory line over K's work, K should refrain and R should
+instruct another firm now rather than after a restraining order.
+
+### 1.2 Which of the proposed advertising statements can J use? (15 marks)
+
+The issue is which parts of the media agency's script for J's video clip comply with Part 5 of
+the PCR. In my view almost none of it can be used. J is responsible for what the agency writes.
+Rule 42(1) PCR states that a legal practitioner must ensure that any publicity relating to his
+or her practice complies with these Rules, whether that publicity is by the legal practitioner
+or by any other person on the legal practitioner's behalf. A video clip is publicity, which r
+2(1) PCR defines to include any advertisement communicated through or retrievable from any
+mass medium or the Internet. PD 6.2.1 Part B states that press and television advertisements
+are not, of themselves, touting or unbefitting the dignity of the profession, so a video is
+permissible in principle; the problem is its content.
+
+**The rules.** Rule 43(1) PCR states that when a legal practitioner publicises his or her
+practice, the legal practitioner must ensure that (b) the publicity does not make any direct or
+indirect mention of (ii) the success rate of the legal practitioner, the law practice or any
+member of the law practice; and (c) the publicity does not make any comparison or criticism in
+relation to the fees charged, or the quality of the services provided, by any other legal
+practitioner or law practice. Rule 44(1) PCR states that a legal practitioner must not
+publicise his or her practice in a manner which (a) is likely to diminish public confidence in
+the legal profession or otherwise bring it into disrepute; or (b) may reasonably be regarded as
+being misleading, deceptive, inaccurate, false or unbefitting the dignity of the legal
+profession. Rule 44(2) states that publicity is misleading, deceptive, inaccurate or false if
+(a) it contains a material misrepresentation; (b) it omits to state a material fact; (c) it
+contains any information which cannot be verified; or (d) it is likely to create an
+unjustified expectation about the results that can be achieved.
+
+**Line 1 (actor as client): "Many lawyers will tell you about their experience – blah, blah,
+blah, says the boomer. Experience is overrated."** This criticises the quality of other, more
+senior lawyers' services (r 43(1)(c)) and mocks them as "boomers", which is unbefitting the
+dignity of the profession (r 44(1)(b)) and likely to diminish public confidence in it
+(r 44(1)(a)). An actor speaking as a client, with no indication that this is a dramatisation,
+also suggests a real client's view, which risks a material misrepresentation (r 44(2)(a)).
+It cannot be used.
+
+**Line 2 (J): "as a young lawyer under-30, I think differently from the senior lawyers. That
+is why I may only have 4 years' standing and still won 100% of the cases in which I am the
+lead counsel ... it is beyond my control if I am not the lead counsel."** "100% of the cases"
+is a direct mention of a success rate, which r 43(1)(b)(ii) prohibits outright. It is also
+misleading, because J has been lead counsel in only one case, so it omits a material fact and
+creates an unjustified expectation (r 44(2)(b), (d)). "I think differently from the senior
+lawyers" implies a comparison of quality (r 43(1)(c)), and "beyond my control if I am not the
+lead counsel" implies that cases J did not lead were lost by others. Only the bare fact that J
+is a young lawyer with four years' standing could be used.
+
+**Line 3 (actor as client): "When I want revenge, I do not want my lawyer to tell me to calm
+down, to weigh the pros and cons, or to settle. I want a lawyer who is only on my side, and
+does what makes me happy."** This presents litigation as a tool for revenge and invites clients
+to expect a lawyer who will not advise them. A lawyer must give that advice. Rule 17(2) PCR
+states that a legal practitioner (c) must explain clearly and properly to his or her client a
+proposal of amicable resolution, or any other offer or position taken by any other party,
+which affects the client; and (e) must, in an appropriate case, together with his or her client
+(i) evaluate whether any consequence of a matter involving the client justifies the expense of,
+or the risk involved in, pursuing the matter; and (ii) evaluate the use of alternative dispute
+resolution processes. Counsel are not the mere mouthpieces of their clients and must counsel
+them on what is permissible, because they owe a paramount duty to the court (*BOI v BOJ*
+[2018] 2 SLR 1156 at [3]–[4]). Publicity promising the opposite is misleading about what the
+lawyer will do (r 44(2)(a)) and is likely to bring the profession into disrepute (r 44(1)(a)).
+It cannot be used.
+
+**Line 4 (J): "I understand how you feel. I am always on my client's side. It is my duty to act
+in the interests of my client. You should not have to consider settlement, if you do not want
+to. I will never ask my client to consider anything that makes them unhappy."** The last two
+sentences endorse Line 3. They misstate J's duties: r 4(a)–(b) PCR states that a legal
+practitioner has a paramount duty to the court, which takes precedence over the duty to the
+client, and that the duty to the client is subject only to the duty to the court; and r 5(2)(b)
+and r 17(2)(c) and (e) require J to tell clients unwelcome things, including about settlement.
+A promise never to raise anything that makes the client unhappy is a material
+misrepresentation of the service (r 44(2)(a)), may create an unjustified expectation (r 44(2)(d)),
+and is unbefitting the profession's dignity (r 44(1)(b)). GN 7.1.2 para 3 strongly encourages
+practitioners to explain the alternatives to litigation to every client, which is the opposite
+of what J promises. "I understand how you feel" and "It is my duty to act in the interests of my
+client" are true and unobjectionable on their own. "I am always on my client's side" is
+acceptable only if it does not suggest that J will put the client above the court, which in
+this script it does.
+
+**What J must do.** Rule 42(2) PCR states that a legal practitioner who becomes aware of any
+impropriety in any publicity relating to the practice must use his or her best endeavours to
+procure its rectification or withdrawal and to prevent the recurrence of the impropriety. J
+should reject the script and have it rewritten in factual, verifiable terms. As a partner of
+only four years who will be the face of the firm's publicity, J should also have it cleared
+within HTL.
+
+In conclusion, J can use only the neutral fragments: that he is a young lawyer with four years'
+standing, that he understands how clients feel, and that it is his duty to act in the client's
+interests. Everything else breaches r 43(1)(b)(ii) or (c) or r 44(1)–(2) PCR.
+
+*Source note: r 2(1) "publicity" PCR p5; r 4 PCR p9; r 5(2)(b), (5) PCR p10–12; r 6(2)–(3) PCR
+p12–13; r 17(2)(c), (e) PCR p31 (r 17(2)(c) S 240/2022); r 21(2)–(4) PCR p39–40; r 22(2) PCR
+p40; r 42–44 PCR p63–66; GN 7.1.2 para 3; PD 6.2.1 Part B p1; Ahmad Khalis at [64], [66]–[67]
+as read for 2023 Q2.1 above; Harsha [47]–[48] L2 p21 and [68] SQ p110; Lim Oon Kuin at [65] L2
+p22; Wee Shuo Woon L1 p28; BOI v BOJ at [3]–[4] L4 p8.*
+
+## 2025 Q2 — Skott, Xiao and Lone Wolf Law
+
+Question: `3. PYP/2025 PYP/EPR 2025 Paper.pdf` p4–5. Marks: 2.1 25, 2.2 25. No official answer
+is held. Pre-writes used: 0-26, 0-5, 0-38, 0-3, 0-4, 0-18, 0-53, 0-45, 0-17, 0-35.
+
+*Note.* A's and N's appeal is in matrimonial proceedings. Rules 15A–15B PCR (family
+proceedings) apply to it but are non-examinable, so they are not relied on.
+
+### 2.1 S's conduct at paragraphs 3–4 (25 marks)
+
+The issue is whether S properly supervised the appeal submissions, and whether he could seek
+an extension of time on the strength of an exaggerated account of X's illness. In my view he
+failed to supervise X and to act diligently, and then deceived his client, opposing counsel and
+the court. The deception of the court is the most serious and puts S at risk of being struck
+off.
+
+**1. Supervision and diligence.** S gave a first-year associate the whole of A's written
+submissions in an appeal, left the next day for a 10-day holiday, and did not answer her
+questions. Rule 32 PCR states that a legal practitioner must, regardless of the legal
+practitioner's designation in a law practice, exercise proper supervision over the staff
+working under the legal practitioner in the law practice. Rule 5(2) PCR states that a legal
+practitioner must (c) act with reasonable diligence and competence in the provision of
+services to the client. Rule 17(2)(b) PCR states that a legal practitioner must, at all times,
+use the legal practitioner's best endeavours to complete any work for his or her client as soon
+as is reasonably possible. A two-week deadline in an appeal is not a task to leave entirely to
+the most junior associate while the sole proprietor is unreachable. S could have arranged
+supervision by himself remotely, or reassigned the work to one of the two second-year
+associates. Pressure of practice is no excuse, and the test is what a reasonably competent
+solicitor would have done (*Law Society of Singapore v K Jayakumar Naidu* [2012] 4 SLR 1232 at
+[85]–[91]). A total absence of supervision drew the maximum suspension in *Law Society of
+Singapore v Dhanwant Singh* [2025] SGHC 175 at [32], [36], [38], [55], although that case
+involved misappropriation; here the failure is one of diligence. S breached r 32 and r 5(2)(c).
+
+**2. The false Statement to A.** S told A that X had "recently recovered from a serious case of
+pneumonia" which left her bedridden and unable to work for a week. In fact X had a fever and a
+cough, a two-day medical certificate, worked from home throughout and recovered quickly; the
+real causes of the delay were S's absence and the firm's other work. S said it because he was
+"worried about how A might react". Rule 5(2)(a) PCR states that a legal practitioner must be
+honest in all the legal practitioner's dealings with his or her client. Rule 5(2)(b) PCR states
+that a legal practitioner must, when advising the client, inform the client of all information
+known to the legal practitioner that may reasonably affect the interests of the client in the
+matter. The real reason for the delay bears on whether A should keep S and on any complaint she
+might have, and A agreed to the extension on a false basis. Misconduct involving dishonesty
+that violates the relationship of trust and confidence inherent in the solicitor-client
+relationship is a category in which striking off will almost invariably follow (*Law Society of
+Singapore v Udeh Kumar s/o Sethuraju* [2017] SGHC 141 at [105]–[107]). Outside the categories
+the court weighs the nature of the deception, its motive, any benefit to the lawyer and any harm
+(*Law Society of Singapore v Chia Choon Yang* [2018] SGHC 174 at [40]). S's motive was to cover
+his own lapse, which tells against him. He breached r 5(2)(a) and (b).
+
+**3. Repeating the Statement to C.** S repeated the Statement to N's lawyer, C, to obtain N's
+consent to the extension. Rule 9(2) PCR states that when conducting any proceedings before a
+court or tribunal on behalf of a client, a legal practitioner must not (a) knowingly mislead or
+attempt to mislead in any way, whether by doing anything referred to in sub-paragraph (b) or (c)
+or otherwise, (iii) any other legal practitioner. Rule 7(1)(b) PCR states the principle that a
+legal practitioner must deal with another legal practitioner in good faith. C's consent was
+obtained by deception. S breached r 9(2)(a)(iii).
+
+**4. The affidavit.** S drafted and signed an affidavit for the extension application that
+repeated the Statement, exhibited his correspondence with C to show N's consent, and did not
+exhibit X's medical certificate. Rule 9(2) PCR (continuing from above) states that the legal
+practitioner must not (a) knowingly mislead or attempt to mislead in any way (i) the court or
+tribunal; (b) fabricate any fact or evidence in any communication with, or representation or
+submission to, the court or tribunal; or (c) include, in any document used for those
+proceedings, any statement of fact which the legal practitioner knows to be false. S knew the
+Statement was false, so the affidavit breached limbs (a), (b) and (c). Leaving out the medical
+certificate, which would have shown two days rather than a week of bedridden illness, was
+deliberate concealment: solicitors must never mislead the court either actively or passively,
+nor consciously furnish to the court erroneous or incomplete information (*Public Trustee v By
+Products Traders Pte Ltd* [2005] 3 SLR(R) 449 at [35]). The court granted the extension without
+a hearing in reliance on the affidavit, and N's consent, which S exhibited, was itself obtained
+by the same falsehood. In *Law Society of Singapore v Chung Ting Fai* [2006] 4 SLR(R) 587 at
+[48], a solicitor drafted a false affidavit to support an application for an extension of time,
+and the court held that more than a censure was needed to impress on the profession not to put
+words into the mouths of clients to mislead the court or to state untruths not borne out by the
+evidence. S is worse: he swore the false facts himself. Dealing fraudulently with the court is
+the third *Udeh Kumar* category (at [105]–[107]), where striking off follows save in the most
+exceptional circumstances (at [109]).
+
+**5. X's discomfort and "advancing the client's interests".** X objected; S told her "don't
+worry, because we are doing our best to advance the client's interests". That reverses the
+order of duties. Rule 4(a) PCR states that a legal practitioner has a paramount duty to the
+court, which takes precedence over the duty to the client, and r 4(b) that the duty to the
+client is subject only to the duty to the court. Supervision under r 32 includes not drawing a
+junior into misconduct and listening when she raises it. X, for her part, should not take any
+part in using the affidavit and may seek advice in confidence on her own position (r 6(3)(c)
+PCR).
+
+**6. What S should have done, and must do now.** There was a true basis for an extension: S's
+absence, a short illness, and the press of other matters. S could have explained that honestly
+to A and C and to the court. Now that the false affidavit has been acted on, S must correct it.
+Rule 9(5) PCR covers only a lawyer who contravened r 9 unknowingly, so it does not excuse S; his
+duty not to mislead the court requires him to disclose the truth to the court and C before the
+appeal is heard, and to tell A the true position under r 5(2)(b).
+
+In conclusion, S breached r 32 and r 5(2)(c) in leaving X unsupervised, r 5(2)(a)–(b) in
+deceiving A, r 9(2)(a)(iii) in deceiving C, and r 9(2)(a)(i), (b) and (c) in the affidavit. The
+affidavit alone is likely to lead to striking off.
+
+### 2.2 S's conduct at paragraphs 5–6 (25 marks)
+
+The issue is whether S was responsible for the fictitious case in A's submissions, and whether
+he handled its discovery properly. In my view he was responsible because he did not check the
+submissions he filed, and he then compounded it by re-filing without permission and telling
+the court a falsehood about why.
+
+**1. The fictitious case.** X used a free, publicly available generative AI tool, and a case
+that does not exist went into the final submissions after S asked her to add authorities. S
+reviewed the final version only cursorily. Rule 9(2) PCR states that when conducting any
+proceedings before a court or tribunal on behalf of a client, a legal practitioner must not
+(b) fabricate any fact or evidence in any communication with, or representation or submission
+to, the court or tribunal; or (f) knowingly or recklessly cite the law out of context, interpret
+the law in a manner calculated to mislead the court or tribunal, or otherwise advance any
+submission, opinion or proposition which the legal practitioner knows or ought reasonably to
+know is contrary to the law. Rule 5(2) PCR states that a legal practitioner must (c) act with
+reasonable diligence and competence in the provision of services to the client. Rule 32 PCR
+(set out in 2.1) requires proper supervision of the associate who drafted it. A lawyer has a
+professional, non-delegable duty to ensure that every authority cited exists and is accurate;
+it is impermissible to delegate research or drafting to generative AI without independently
+verifying the output, and blaming a junior is no answer, since the lawyer must supervise
+(*Tajudin bin Gulam Rasul v Suriaya bte Haja Mohideen* [2025] SGHCR 33 at [52], [54], [93],
+[101]). In *Tan Hai Peng Micheal v Tan Cheong Joo* [2026] SGHC 49 at [32], [44], [46], [66], the
+counsel who signed the submissions and the solicitor who let a paralegal draft them were each
+ordered to pay $5,000 personally; how the fake case arose was immaterial. The Guide on the Use
+of Generative AI Tools by Court Users (Registrar's Circular No 1 of 2024) does not prohibit
+generative AI, but the user assumes full responsibility for the output (para 3(3)); lawyers must
+ensure that material put before the court is independently verified, accurate, true and
+appropriate (para 3(2)(a)); and users must verify that cited cases actually exist and stand for
+the propositions attributed to them (para 5(3)). Filing a submission without checking that its
+authorities exist is at least reckless under r 9(2)(f), and presenting a non-existent case as
+real is a fabrication within r 9(2)(b). S also had his own reason to check: the case was added
+only at the "final turn" of the draft, at his instruction. S breached r 9(2)(f), r 5(2)(c) and
+r 32. A free public tool may also keep what is typed into it, so S should check whether any of
+A's confidential information was entered (r 6(2) PCR).
+
+**2. Re-filing without permission.** When C raised the point, S amended and re-filed the
+submissions and bundle through eLitigation and served them on C, without the court's
+permission and without telling the court why. Rule 9(5) PCR states that, subject to rule 6,
+where a legal practitioner unknowingly contravenes any provision of r 9, the legal practitioner
+must, as soon as practicable after becoming aware of the contravention, disclose the
+contravention to each person affected by it, and take reasonable steps to remedy it. Removing
+the case was a step to remedy the breach, but r 9(5) also required disclosure, and the person
+most affected was the court. A solicitor's duties to the court extend beyond the express rules;
+unilaterally departing from a procedural requirement without the court's leave, and without
+telling the Registry, was a disregard of the duty to assist the efficient and proper
+administration of justice (*Zhou Tong v Public Prosecutor* [2010] 4 SLR 534 at [17]–[18]).
+S should have written to the court and C at once, explaining that the original submissions
+cited a case that does not exist, withdrawing it, and seeking permission to file corrected
+submissions. He breached r 9(5).
+
+**3. "To rectify some typographical and formatting errors".** Asked by the court why he had
+filed revised submissions, S gave an answer he knew was false, and admitted the truth only
+after C objected and the court asked again. Rule 9(2)(a)(i) PCR (set out in 2.1) forbids
+knowingly misleading the court in any way. The mental element is made out if a false statement
+is made to the court knowing it is false, without belief in its truth, or recklessly (*Law
+Society of Singapore v Seah Zhen Wei Paul* [2024] SGHC 224 at [69]). A statement that implies
+something the lawyer knows is untrue is dishonest, and a lawyer who told the court he had been
+"unable" to obtain instructions, implying an attempt he never made, was suspended for three
+years (*Loh Der Ming Andrew v Koh Tien Hua* [2022] SGHC 84 at [64], [66]). S's answer was
+directly false, not merely misleading by implication. Coming after the false affidavit in 2.1,
+it shows a pattern of dishonesty towards the court, which is the third *Udeh Kumar* category
+(*Law Society of Singapore v Udeh Kumar s/o Sethuraju* [2017] SGHC 141 at [105]–[107], [109]).
+His eventual admission, and the submission that the case be disregarded, were right but came
+too late to be candour.
+
+**4. Consequences and the client.** The court may order costs against a lawyer personally for
+citing fictitious authorities, as in *Tajudin* ($800 under O 21 r 6 of the Rules of Court 2021)
+and *Tan Hai Peng Micheal*, and the Guide warns that breach may lead to personal costs, the
+material being disregarded, and disciplinary action (para 9). Here the court made no costs
+order against S, but A must not bear any cost caused by the re-filing. Rule 5(2)(b) PCR (set out
+in 2.1) requires S to tell A what happened, including the court's disapproval and the risk of a
+referral, and r 5(2)(a) requires him to do so honestly. X's own conduct also fell short of
+r 9(2)(f) and r 5(2)(c), but as the supervising sole proprietor who filed the documents, S
+carries the responsibility (*Tajudin* at [101]).
+
+In conclusion, S breached r 9(2)(b) and (f), r 5(2)(c) and r 32 PCR in filing the fictitious
+case, r 9(5) in re-filing without disclosure or permission, and r 9(2)(a)(i) in his answer to
+the court. Section 83(2) of the Legal Profession Act 1966 states that due cause for discipline
+may be shown by proof that an advocate and solicitor (b) has been guilty of fraudulent or
+grossly improper conduct in the discharge of his or her professional duty, or guilty of such a
+breach of any usage or rule of conduct made by the Professional Conduct Council under section
+71 or by the Council under the Act as amounts to improper conduct or practice as an advocate
+and solicitor; or (h) has been guilty of such misconduct unbefitting an advocate and solicitor
+as an officer of the Supreme Court or as a member of an honourable profession. S's conduct in
+2.1 and 2.2, taken together, is due cause, and his repeated dishonesty to the court makes
+striking off the likely sanction.
+
+*Source note: r 4 PCR p9; r 5(2) PCR p10–11; r 6 PCR p12–13; r 7(1) PCR p13; r 9(2), (5) PCR
+p17–19; r 17(2)(b) PCR p31; r 32 PCR p53; s 83(2) LPA p217–218; Jayakumar Naidu SYL p2;
+Dhanwant Singh [2025] SGHC 175 as read for Pre-write 0-26; Udeh Kumar 2017 and Chia Choon Yang
+as read for Pre-write 0-3; Public Trustee at [35] L4 p5; Chung Ting Fai at [48] L4 (slide
+quoting the judgment), SYL p5, facts Cyril §III (secondary: "drafting a false affidavit to
+support an application for the extension of time for appeal"); Zhou Tong at [17]–[18] L4 (slide
+quoting the judgment); Seah Zhen Wei Paul at [69] L4 p21; Loh Der Ming at [64], [66] L4 p20;
+Tajudin and Tan Hai Peng and the GenAI Guide paras 3, 5, 9 as read for Pre-write 0-45.*

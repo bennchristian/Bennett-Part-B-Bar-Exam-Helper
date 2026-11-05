@@ -4,42 +4,35 @@ Paper `clk-m`: Contemporary Legal Knowledge & Practice (MCQ), Fri 11 Dec 2026. S
 follow `SCHEMA.md`: 0 Data Protection & Cyber Regulation · 1 Law & Technology ·
 2 Comparative Laws · 3 Conflict of Laws. Topic headings read `<subject>.<Topic>`.
 
-**How to use in the exam.** Read the question, find its cue words in the chart for that
-Topic, and follow the branches to a leaf. The leaf's number (for example `0-12`) is the
-end-point block `clk-m-0-12` below the chart, which holds the answer and its source. If
-you know a keyword, search for it — every chart label, title and Keywords line is text.
+**How to use in the exam.** Each Topic opens with a question-and-answer cheatsheet that runs
+from broad to specific: the question a candidate would ask, then the answer and its limbs or
+exceptions. Each line ends with a link such as `0-12`, which goes to the end-point block
+`clk-m-0-12` below it. That block holds the full rule, a Rule in full box and the source. If
+you know a keyword, search for it: every cheatsheet line, title and Keywords line is text.
+Sections are written with a space (`s 48O`), so search for `48O` without the "s" if the
+section-form search fails.
 
-Charts hold only cues and IDs; answers and sources are in the end-point blocks. The
-*Source note* is for checking only. Source aliases (DP-1, PDPA, LT-4, Cmp-2, CoL-3,
+The cheatsheet gives short answers only. The rule in full and its sources are in the
+end-point blocks, and the *Source note* is for checking only. Source aliases (DP-1, PDPA, LT-4, Cmp-2, CoL-3,
 SampleQs, Cyril-Exam …) are defined in `outline.md` → "Source key". Page numbers are PDF
 pages, which match the printed slide numbers. Where a secondary source disagrees with the
 Course Materials, the block follows the Course Materials and the Source note records it in
 a `Conflict:` sentence.
 
-Not charted: topic 0.X (AI regulation) — no source yet; see `coverage.md`.
+Not covered: topic 0.X (AI regulation), which is Non-Core and has no source; see `coverage.md`.
 
 ## 0.I PDPA scope and personal data
 
-**The data**
-
-```mermaid
-flowchart TD
-  C["CUES: is it personal data? does the PDPA apply to it?"] --> D{"What kind of data?"}
-  D -- "about an identifiable person" --> L1["0-1 What counts as personal data"]
-  D -- "business contact details" --> L2["0-2 Business contact information"]
-  D -- "about a dead person" --> L3["0-3 Deceased individuals"]
-```
-
-**Who is bound**
-
-```mermaid
-flowchart TD
-  C["CUES: who must comply? employee, public agency, foreign company, vendor"] --> W{"Who is processing?"}
-  W -- "excluded category?" --> L1["0-4 Excluded persons — domestic, employee, public agency"]
-  W -- "foreign or local organisation" --> L2["0-5 Organisations bound, including foreign ones"]
-  W -- "processor under contract" --> L3["0-6 Data intermediaries"]
-  C -- "clash with contract or other law" --> L4["0-7 Contracts, other laws and PDPC guidelines"]
-```
+- **Is it personal data? (PDPA s 2(1))**
+  - Data, true or not, about an individual who can be identified from it alone or with other information the organisation has or is likely to access; facts and opinions → [0-1](#clk-m-0-1)
+  - Business contact information not given solely for personal purposes: outside Parts 3–6A → [0-2](#clk-m-0-2)
+  - Deceased: dead 10 years or less, only disclosure and s 24 apply; more than 10 years, none; records 100+ years old are out → [0-3](#clk-m-0-3)
+- **Who must comply?**
+  - Any organisation, including foreign companies and unincorporated associations → [0-5](#clk-m-0-5)
+  - Excluded: individual in a personal or domestic capacity, employee in the course of employment, public agency → [0-4](#clk-m-0-4)
+  - Data intermediary (DI): owes only protection, retention and telling the organisation of a breach; the organisation keeps everything else → [0-6](#clk-m-0-6)
+- **Does a contract, another law or a guideline change things?**
+  - A contract is no excuse; other written law prevails where inconsistent; PDPC guidelines do not bind → [0-7](#clk-m-0-7)
 
 ### clk-m-0-1 — What counts as personal data
 *Keywords: personal data, identifiable individual, true or not, opinion, PDPA s 2(1)*
@@ -76,12 +69,29 @@ flowchart TD
 
 *Source note: PDPA p11 (s 2(1)); SampleQs p91 Q7, key p130*
 
-### clk-m-0-6 — Data intermediaries
-*Keywords: data intermediary, processing on behalf, written contract, data controller, PDPA s 4(2), s 4(3)*
+### clk-m-0-6 — Data intermediaries — what a DI owes
+*Keywords: data intermediary, DI, DI obligations, data intermediary obligations, processor, processing on behalf, written contract, data controller, protection, retention, DI notifies the organisation, PDPA s 4(2), s 4(3), s 24, s 25, s 26C(3)(a), s 26E*
 
-**End point:** A data intermediary processing for another organisation under a written contract owes only ss 24, 25, 26C(3)(a) and 26E; the controller has the same obligations as if it processed the data itself.
+**End point:** A data intermediary (DI) processing personal data for another organisation under a written contract owes only three things. It must protect the data (s 24), stop retaining it once it is no longer needed (s 25), and tell the organisation, not the PDPC, of a data breach without undue delay (s 26C(3)(a)). The organisation keeps every obligation as if it processed the data itself (s 4(3)), so it assesses the breach and notifies the PDPC.
 
-*Source note: PDPA p13 (s 4(2)-(3)); DP-1 p18. Conflict: DP-1 p18 also lists Part 6B; PDPA s 4(2) excludes it, and the statute is followed.*
+> **PDPA s 4(2)–(3): what a data intermediary owes**
+> - Applies to a DI processing personal data on behalf of and for the purposes of another organisation, under a contract evidenced or made in writing (s 4(2)).
+> - The DI owes only:
+>   - the Protection Obligation (s 24);
+>   - the Retention Limitation Obligation (s 25);
+>   - on reason to believe a data breach has occurred, notifying the organisation it processes for, without undue delay (s 26C(3)(a));
+>   - if it processes for a public agency, notifying that public agency instead, without undue delay (s 26E).
+> - The DI does not owe:
+>   - accountability (Part 3);
+>   - consent, purpose limitation or notification (Part 4);
+>   - access or correction (Part 5);
+>   - accuracy (s 23) or transfer limitation (s 26);
+>   - assessing the breach or notifying the PDPC or individuals (ss 26C–26D, apart from s 26C(3)(a));
+>   - portability (Part 6B).
+> - The organisation has the same obligations for data its DI processes as if it processed the data itself (s 4(3)). It assesses the breach (clk-m-0-43) and notifies the PDPC (clk-m-0-44).
+> - Appointing a DI does not pass on responsibility. In SingHealth, both SingHealth and its DI, IHiS, were fined (clk-m-0-39).
+
+*Source note: PDPA p12-13 (s 4(2)-(3)), p35-37 (ss 26C(3), 26E); DP-1 p18; Drill 1 DP3. Conflict: DP-1 p18 also lists Part 6B; PDPA s 4(2) excludes it, and the statute is followed.*
 
 ### clk-m-0-7 — Contracts, other laws and PDPC guidelines
 *Keywords: contractual obligation, other written law, inconsistency, advisory guidelines, PDPA s 4(6), s 49*
@@ -92,34 +102,22 @@ flowchart TD
 
 ## 0.II Consent and legal bases
 
-**Consent**
-
-```mermaid
-flowchart TD
-  C["CUES: consent, deemed consent, opt-out, marketing, withdraw"] --> M{"Is the purpose sending marketing messages?"}
-  M -- "yes" --> L1["0-8 Marketing messages"]
-  M -- "no" --> K{"What form of consent?"}
-  K -- "express" --> L2["0-9 Valid consent"]
-  K -- "volunteered data" --> L3["0-10 Deemed consent by conduct"]
-  K -- "needed for a contract" --> L4["0-11 Deemed consent by contractual necessity"]
-  K -- "notice with opt-out" --> L5["0-12 Deemed consent by notification"]
-  C -- "consent withdrawn" --> L6["0-13 Withdrawal of consent"]
-  C -- "only purposes notified" --> L7["0-14 Notification of purposes is not a legal basis"]
-```
-
-**No consent — exceptions**
-
-```mermaid
-flowchart TD
-  C["CUES: collect, use or disclose without consent"] --> E{"Why no consent?"}
-  E -- "individual's interest or emergency" --> L1["0-15 Vital interests"]
-  E -- "public matter" --> L2["0-16 Matters affecting the public"]
-  E -- "organisation's interest" --> O{"Which interest?"}
-  O -- "legitimate interests" --> L3["0-17 Legitimate interests"]
-  O -- "sale of business" --> L4["0-18 Business asset transactions"]
-  O -- "improving products" --> L5["0-19 Business improvement"]
-  E -- "research" --> L6["0-20 Research"]
-```
+- **Is the purpose sending marketing messages?**
+  - Consent is needed; legitimate interests, business improvement and deemed consent by notification cannot be used → [0-8](#clk-m-0-8)
+- **Is there valid consent?**
+  - Express consent: purposes notified first; invalid if beyond what is reasonable or obtained by deception → [0-9](#clk-m-0-9)
+  - Deemed by conduct: data volunteered for a purpose → [0-10](#clk-m-0-10)
+  - Deemed by contractual necessity: reasonably necessary to conclude or perform a contract → [0-11](#clk-m-0-11)
+  - Deemed by notification: assess no adverse effect, notify, give a reasonable opt-out period; not for marketing → [0-12](#clk-m-0-12)
+  - Consent withdrawn: reasonable notice; organisation must explain the consequences and stop → [0-13](#clk-m-0-13)
+  - Notifying purposes alone is not a legal basis → [0-14](#clk-m-0-14)
+- **No consent: which exception?**
+  - Individual's vital interests, emergency, next of kin → [0-15](#clk-m-0-15)
+  - Publicly available, national interest, news, artistic, archival → [0-16](#clk-m-0-16)
+  - Legitimate interests: must outweigh adverse effects, after an assessment; never for marketing → [0-17](#clk-m-0-17)
+  - Business asset transaction (merger, acquisition) → [0-18](#clk-m-0-18)
+  - Business improvement within related corporations; not for marketing → [0-19](#clk-m-0-19)
+  - Research: public benefit, identifiable form needed, no decisions about the individual → [0-20](#clk-m-0-20)
 
 ### clk-m-0-8 — Marketing messages
 *Keywords: marketing, direct marketing, legitimate interests, business improvement, deemed consent by notification, PDPR reg 13*
@@ -184,12 +182,31 @@ flowchart TD
 
 *Source note: PDPA p96-97 (First Sch Pt 2)*
 
-### clk-m-0-17 — Legitimate interests
-*Keywords: legitimate interests, assessment, adverse effect, investigation, debt recovery, legal services, employment, First Schedule Part 3*
+### clk-m-0-17 — Legitimate interests — must outweigh adverse effects; never for marketing
+*Keywords: legitimate interests, legitimate interests exception, outweigh, adverse effect, balancing, assessment, mitigation, marketing carve-out, not for marketing, applicable purpose, investigation, debt recovery, legal services, evaluative purpose, credit bureau, First Schedule Part 3, para 1(4), PDPR reg 15*
 
-**End point:** The organisation's legitimate interests must outweigh any adverse effect, after a prior assessment with mitigation, and the individual must have reasonable access to information about it; Part 3 also covers investigations, debt recovery, legal services and employment.
+**End point:** No consent is needed where the organisation's (or another person's) legitimate interests outweigh any adverse effect on the individual. The organisation must assess this beforehand, mitigate the adverse effects, and give the individual reasonable access to information about it. The exception never covers sending marketing messages, which need consent or another basis (para 1(4); clk-m-0-8).
 
-*Source note: PDPA p98-100 (First Sch Pt 3); PDPR p16-17 (reg 15)*
+> **PDPA First Schedule Part 3 para 1: the legitimate interests exception**
+> - Both must hold (para 1(1)):
+>   - (a) the collection, use or disclosure is in the legitimate interests of the organisation or another person; and
+>   - (b) those legitimate interests outweigh any adverse effect on the individual.
+> - Before relying on it, the organisation must (para 1(2)):
+>   - (a) assess, before collecting, using or disclosing, whether para 1(1) is satisfied; and
+>   - (b) give the individual reasonable access to information about the collection, use or disclosure.
+> - In that assessment it must (para 1(3)):
+>   - (a) identify any likely adverse effect on the individual;
+>   - (b) identify and implement reasonable measures to eliminate the adverse effect, reduce its likelihood, or mitigate it;
+>   - (c) comply with any prescribed requirements (PDPR reg 15).
+> - **Not for marketing.** Para 1(1) does not apply to sending a message for an "applicable purpose" (s 37(6), Tenth Schedule), i.e. marketing (para 1(4)).
+> - The other Part 3 grounds need no balancing:
+>   - evaluative purposes (para 2);
+>   - investigations or proceedings (para 3);
+>   - recovering or paying a debt (para 4);
+>   - legal services (para 5);
+>   - credit bureau reports (para 6).
+
+*Source note: PDPA p98-100 (First Sch Pt 3 paras 1-6), p42 (s 37(6)); PDPR p16-17 (reg 15); Drill 1 DP5; SampleQs p90 Q5, key p130*
 
 ### clk-m-0-18 — Business asset transactions
 *Keywords: business asset transaction, merger, acquisition, First Schedule Part 4*
@@ -214,26 +231,17 @@ flowchart TD
 
 ## 0.III Other organisational obligations
 
-**Governance and collection**
-
-```mermaid
-flowchart TD
-  C["CUES: DPO, policies, purposes, telling individuals"] --> Q{"Which obligation?"}
-  Q -- "governance" --> L1["0-21 Accountability obligations"]
-  Q -- "what purposes are allowed" --> L2["0-22 Purpose limitation"]
-  Q -- "telling the individual" --> L3["0-23 Notification obligation"]
-```
-
-**Holding and sending data**
-
-```mermaid
-flowchart TD
-  C["CUES: accuracy, how long to keep, overseas transfer, telemarketing"] --> Q{"Which obligation?"}
-  Q -- "accuracy" --> L1["0-24 Accuracy obligation"]
-  Q -- "keeping data" --> L2["0-25 Retention limitation"]
-  Q -- "sending abroad" --> L3["0-26 Transfer limitation"]
-  Q -- "marketing calls or texts" --> L4["0-27 Do Not Call (non-core)"]
-```
+- **Governance: what must every organisation have? (Accountability, ss 11–12)**
+  - A DPO with published contact details, policies and practices, and a complaints process; a data inventory or DPIA is not required → [0-21](#clk-m-0-21)
+  - Not actionable under s 48O → [0-33](#clk-m-0-33)
+- **Collection and purpose**
+  - Purpose limitation: only purposes a reasonable person would consider appropriate and that were notified → [0-22](#clk-m-0-22)
+  - Notification: tell purposes on or before collection and before any new use → [0-23](#clk-m-0-23)
+- **Holding and sending data**
+  - Accuracy: only if the data is used for a decision about the individual or disclosed → [0-24](#clk-m-0-24)
+  - Retention: stop or anonymise once the purpose and legal or business need have both gone → [0-25](#clk-m-0-25)
+  - Transfer overseas: comparable-standard obligations (law, contract, BCRs, CBPR), or consent or contractual necessity → [0-26](#clk-m-0-26)
+  - Marketing calls or texts: Do Not Call register checks (non-core) → [0-27](#clk-m-0-27)
 
 ### clk-m-0-21 — Accountability obligations
 *Keywords: accountability, data protection officer, DPO, policies and practices, complaints process, data inventory, DPIA, PDPA s 11, s 12*
@@ -286,27 +294,15 @@ flowchart TD
 
 ## 0.IV Individual rights and private action
 
-**Requests**
-
-```mermaid
-flowchart TD
-  C["CUES: access request, correct my data, delete my data, portability"] --> R{"What does the individual ask for?"}
-  R -- "see data" --> A{"Must it be given?"}
-  A -- "duty and timing" --> L1["0-28 Access requests — duty and timing"]
-  A -- "refusal grounds" --> L2["0-29 Access requests — refusal grounds"]
-  R -- "correct data" --> L3["0-30 Correction requests"]
-  R -- "delete data" --> L4["0-31 No right to erasure"]
-  R -- "port data" --> L5["0-32 Data portability"]
-```
-
-**Suing**
-
-```mermaid
-flowchart TD
-  C["CUES: sue the organisation, emotional distress, loss of control"] --> S{"What is in issue?"}
-  S -- "which breaches" --> L1["0-33 Private action — which breaches"]
-  S -- "what counts as loss" --> L2["0-34 Private action — what counts as loss (Reed v Bellingham)"]
-```
+- **What can the individual ask for?**
+  - Access: data and how it was used or disclosed in the past year; 30 days or a written timeline; a reasonable fee → [0-28](#clk-m-0-28)
+  - Access refused: Fifth Schedule items, safety, another individual's data → [0-29](#clk-m-0-29)
+  - Correction: correct or annotate; tell recipients from the past year; no fee → [0-30](#clk-m-0-30)
+  - Deletion: no right to erasure; withdraw consent, and retention limitation applies → [0-31](#clk-m-0-31)
+  - Portability: legislated, not in force → [0-32](#clk-m-0-32)
+- **Can the individual sue? (s48O / s 48O)**
+  - Which breaches: Parts 4, 5, 6, 6A, 6B and Do Not Call; not Part 3 (Accountability, ss 11–12); wait for any PDPC decision to be final → [0-33](#clk-m-0-33)
+  - Is emotional distress loss? Yes. Is loss of control of data loss? No (*Reed v Bellingham*) → [0-34](#clk-m-0-34)
 
 ### clk-m-0-28 — Access requests — duty and timing
 *Keywords: access request, past year, 30 days, fee, written estimate, PDPA s 21, PDPR reg 5, reg 7*
@@ -343,32 +339,58 @@ flowchart TD
 
 *Source note: DP-1 p32*
 
-### clk-m-0-33 — Private action — which breaches
-*Keywords: private action, right of action, Part 4, Part 5, Part 6, Part 6A, Part 6B, injunction, damages, PDPA s 48O*
+### clk-m-0-33 — Private action under s 48O — which breaches
+*Keywords: s48O, s 48O, section 48O, right of private action, private action, sue the organisation, civil action, Part 4, Part 5, Part 6, Part 6A, Part 6B, not Part 3, Accountability Obligation, ss 11-12, Do Not Call, injunction, declaration, damages, PDPC decision final*
 
-**End point:** A person who suffers loss or damage directly from a breach of Parts 4, 5, 6, 6A or 6B (not Part 3) or the Do Not Call provisions may sue for an injunction, declaration or damages, but only once any PDPC decision on it is final.
+**End point:** Under s 48O, a person who suffers loss or damage directly from an organisation's breach of Parts 4, 5, 6, 6A or 6B (or from a person's breach of the Do Not Call provisions or s 48B(1)) may sue for an injunction, declaration or damages. Part 3, the Accountability Obligation (ss 11–12), is not listed, so a s 48O claim cannot rest on a breach of the accountability obligations. If the PDPC has decided on the breach, the claim must wait until that decision is final.
 
-*Source note: PDPA p73-74 (s 48O)*
+> **PDPA s 48O: right of private action**
+> - Who can sue (s 48O(1)): a person who suffers loss or damage directly as a result of a contravention —
+>   - (a) by an organisation of any provision of Part 4 (collection, use, disclosure), 5 (access, correction), 6 (care of data), 6A (data breach notification) or 6B (portability); or
+>   - (b) by a person of Division 3 of Part 9 (Do Not Call: specified messages to Singapore numbers) or s 48B(1).
+> - Not covered: Part 3, ss 11–12, the Accountability Obligation (DPO, policies, complaints process).
+> - Timing (s 48O(2)): if the PDPC has made a decision on the contravention, no action until the decision is final, with no further right of appeal.
+> - Relief (s 48O(3)):
+>   - (a) an injunction or declaration;
+>   - (b) damages;
+>   - (c) any other relief the court thinks fit.
+> - What counts as "loss or damage", and whether emotional distress does: clk-m-0-34.
 
-### clk-m-0-34 — Private action — what counts as loss (Reed v Bellingham)
-*Keywords: Reed v Bellingham, emotional distress, loss of control, loss or damage*
+*Source note: PDPA p73 (s 48O), p19-20 (ss 11-12, Part 3), p44 (Part 9 Div 3); Drill 1 DP8*
 
-**End point:** Emotional distress is "loss or damage" under s 48O, but mere loss of control over personal data is not.
+### clk-m-0-34 — Private action — is emotional distress loss? (Reed v Bellingham)
+*Keywords: Reed v Bellingham, s48O, s 48O, loss or damage, emotional distress, is emotional distress loss, loss of control, loss of control of personal data, anxiety, ordinary vicissitudes of life, s 32(1)*
 
-*Source note: Reed p47-48 ([107]-[108])*
+**End point:** Yes: emotional distress is "loss or damage" under s 48O (*Reed v Bellingham* [107]). Loss of control of personal data on its own is not ([108]). Every breach of Parts 4–6 involves some loss of control, so counting it would make the "loss or damage" requirement meaningless ([109]–[110]). The claimant must prove they actually suffered distress, and ordinary negative emotions that are part of life do not count ([114], [116]).
+
+> **Reed v Bellingham [2022] SGCA 60: "loss or damage" under the private action (then s 32(1), now s 48O)**
+> - Emotional distress is "loss or damage" ([107]).
+> - Loss of control of personal data, by itself, is not ([108]–[110]).
+> - Whether the claimant suffered distress ([114]):
+>   - the test is subjective: did this claimant suffer it?
+>   - how a reasonable person would react is only an evidential tool;
+>   - objective signs of distress weigh more than bare assertions in an affidavit.
+> - Non-exhaustive factors ([115]):
+>   - (a) the nature of the personal data, e.g. financial data is sensitive;
+>   - (b) the nature of the breach;
+>   - (c) the nature of the defendant's conduct;
+>   - (d) the risk of future breaches causing distress;
+>   - (e) the actual impact of the breach on the claimant.
+> - Negative emotions that are part of the ordinary vicissitudes of life are not emotional distress ([116]).
+> - Applied to DP8: anxiety over loss of control, pleaded on a breach of ss 11–12, fails twice over. Part 3 is outside s 48O (clk-m-0-33), and loss of control is not loss.
+
+*Source note: Reed p47-51 ([107]-[116]); PDPA p73 (s 48O, inserted by Act 40 of 2020, replacing s 32); Drill 1 DP8*
 
 ## 0.V PDPC enforcement and offences
 
-```mermaid
-flowchart TD
-  C["CUES: PDPC powers, penalty, appeal, employee leaks data, offence"] --> W{"Against whom?"}
-  W -- "organisation" --> O{"What step?"}
-  O -- "powers" --> L1["0-35 PDPC investigation and enforcement powers"]
-  O -- "how much" --> L2["0-36 Financial penalty cap"]
-  O -- "challenge" --> L3["0-37 Reconsideration and appeals"]
-  W -- "individual" --> L4["0-38 Offences by individuals (Part 9B)"]
-  C -- "case example" --> L5["0-39 SingHealth case study"]
-```
+- **What can the PDPC do to an organisation?**
+  - Investigate, refer to mediation, give directions, impose penalties, accept voluntary undertakings → [0-35](#clk-m-0-35)
+  - Maximum financial penalty: 10% of Singapore turnover if over $10m, otherwise $1m; intentional or negligent breaches only → [0-36](#clk-m-0-36)
+  - Challenge: reconsideration, then Appeal Panel, then High Court → [0-37](#clk-m-0-37)
+- **What offences does an individual commit? (Part 9B)**
+  - Unauthorised disclosure, improper use, re-identification; $5,000 and/or 2 years → [0-38](#clk-m-0-38)
+- **Case example**
+  - SingHealth fined $250,000 and its DI IHiS $750,000; responsibility is not delegated → [0-39](#clk-m-0-39)
 
 ### clk-m-0-35 — PDPC investigation and enforcement powers
 *Keywords: PDPC, investigation, mediation, directions, voluntary undertaking, PDPA s 50, s 48G, s 48H, s 48I, s 48L*
@@ -407,26 +429,16 @@ flowchart TD
 
 ## 0.VI Protection obligation and data breach notification
 
-**Security duty and notifiability**
-
-```mermaid
-flowchart TD
-  C["CUES: security arrangements, ISO, lost laptop, hack, data breach"] --> Q{"Security duty or breach?"}
-  Q -- "security duty" --> L1["0-40 The Protection Obligation"]
-  Q -- "breach" --> B{"Confined within the organisation?"}
-  B -- "yes" --> L2["0-41 Breach within the organisation"]
-  B -- "no" --> L3["0-42 When a breach is notifiable"]
-```
-
-**After a notifiable breach**
-
-```mermaid
-flowchart TD
-  C["CUES: notify PDPC, 3 days, notify individuals"] --> T{"Which step?"}
-  T -- "assess" --> L1["0-43 Assessing a suspected breach"]
-  T -- "tell the PDPC" --> L2["0-44 Notifying the PDPC — 3 calendar days"]
-  T -- "tell individuals" --> L3["0-45 Notifying affected individuals"]
-```
+- **What security must an organisation have? (s 24)**
+  - Reasonable security arrangements, including against loss of storage media; no one-size-fits-all, no mandatory ISO 27001 → [0-40](#clk-m-0-40)
+- **Is the data breach notifiable?**
+  - Significant harm, or 500 or more individuals → [0-42](#clk-m-0-42)
+  - Exception: unauthorised access only within the organisation is deemed not notifiable → [0-41](#clk-m-0-41)
+- **What must happen after a breach, and who does it?**
+  - The organisation assesses reasonably and expeditiously; a DI tells the organisation without undue delay → [0-43](#clk-m-0-43)
+  - The organisation notifies the PDPC within 3 calendar days of assessing the breach as notifiable, not of discovering it → [0-44](#clk-m-0-44)
+  - The organisation notifies individuals on or after notifying the PDPC; harm-type breaches only, with exceptions → [0-45](#clk-m-0-45)
+  - The DI does not notify the PDPC → [0-6](#clk-m-0-6)
 
 ### clk-m-0-40 — The Protection Obligation
 *Keywords: protection obligation, reasonable security arrangements, storage medium, ISO 27001, administrative, technical, physical, PDPA s 24*
@@ -472,38 +484,23 @@ flowchart TD
 
 ## 0.VII Cybersecurity Act — critical information infrastructure
 
-**Is it CII?**
-
-```mermaid
-flowchart TD
-  C["CUES: CII, essential service, Commissioner of Cybersecurity, third-party-owned, temporary concern"] --> D{"Who owns it, and for how long?"}
-  D -- "the essential-service provider" --> L1["0-46 Designation of CII"]
-  D -- "a third party" --> L2["0-69 Third-party-owned CII — designated provider (s 16A)"]
-  D -- "any owner, short-term high risk" --> L3["0-70 System of temporary cybersecurity concern (s 17)"]
-```
-
-**Owner duties**
-
-```mermaid
-flowchart TD
-  C["CUES: what must a CII owner do?"] --> D{"Which duty?"}
-  D -- "reporting" --> R{"Report what?"}
-  R -- "changes" --> L1["0-47 Reporting changes — 30 days and 7 days"]
-  R -- "incidents" --> L2["0-48 Reporting cybersecurity incidents"]
-  D -- "compliance" --> K{"Comply with what?"}
-  K -- "codes, directions" --> L3["0-49 Codes of practice and directions"]
-  K -- "exercises, appeals" --> L4["0-50 Cybersecurity exercises and appeals"]
-  D -- "audit and risk" --> L5["0-51 Audits and risk assessments"]
-  D -- "provide the service?" --> L6["0-52 Running the essential service is not a duty"]
-```
-
-**Governance and incident powers**
-
-```mermaid
-flowchart TD
-  C["CUES: board, risk register, outsourcing, cloud, investigation, serious incident"] --> L1["0-53 Code of Practice — governance"]
-  C --> L2["0-54 Investigation and serious-incident powers (Part 4)"]
-```
+- **What is a "computer" or "computer system"?**
+  - CYSA s 2 definitions → [0-72](#clk-m-0-72)
+- **Is it CII, or another designated system?**
+  - Owned by the essential-service provider: necessary for an essential service, loss debilitating, located wholly or partly in Singapore (s 7); ownership is not a criterion → [0-46](#clk-m-0-46)
+  - Owned by a third party: the provider is designated responsible (s 16A) → [0-69](#clk-m-0-69)
+  - Any owner, short-term high risk: system of temporary cybersecurity concern, up to 1 year (s 17) → [0-70](#clk-m-0-70)
+- **What must a CII owner do?**
+  - Report material changes within 30 days, and ownership changes within 7 days → [0-47](#clk-m-0-47)
+  - Report prescribed cybersecurity incidents → [0-48](#clk-m-0-48)
+  - Comply with the cybersecurity code of practice (no legislative effect, but binding unless waived) and with directions → [0-49](#clk-m-0-49)
+  - Take part in exercises; appeal to the Minister within 30 days → [0-50](#clk-m-0-50)
+  - Audit every 2 years; risk assessment every year → [0-51](#clk-m-0-51)
+  - Not a duty: actually providing the essential service → [0-52](#clk-m-0-52)
+- **What does the CII Code of Practice require on governance?**
+  - Board expertise, a risk register, policies reviewed every 12 months, owner responsible despite outsourcing → [0-53](#clk-m-0-53)
+- **What can the Commissioner do in an incident?**
+  - s 19 investigation powers; s 20 serious-incident powers → [0-54](#clk-m-0-54)
 
 ### clk-m-0-46 — Designation of CII
 *Keywords: critical information infrastructure, CII, provider-owned CII, designation, essential service, 5 years, outside Singapore, Cybersecurity Act s 7, s 7(1A), First Schedule*
@@ -541,6 +538,24 @@ The designation lasts at most one year (s 17(2)(d)). The owner must then furnish
 
 *Source note: SSO-CYSA ss 17, 17D-17F (Part 3B, inserted by Act 19 of 2024, in force 31 Oct 2025); DP-Plan p5. The library's CYSA (2022) and the DPCR slides do not cover Part 3B; in the 2022 text s 17 was the appeal section.*
 
+### clk-m-0-72 — What is a "computer" and a "computer system" (CYSA s 2)
+*Keywords: computer, definition of computer, meaning of computer, computer system, Computer Misuse Act, data processing device, storage facility, communications facility, interconnected computers, information technology system, operational technology system, industrial control system, SCADA, virtual computer, Cybersecurity Act s 2*
+
+**End point:** CII and the other CYSA designations attach to a "computer" or "computer system". A computer is any electronic, magnetic, optical, electrochemical or other data-processing device performing logical, arithmetic or storage functions, together with its directly related storage and communications facilities. A computer system is an arrangement of interconnected computers designed for one or more specific functions, and includes IT and OT systems.
+
+> **Cybersecurity Act s 2: definitions**
+> - "computer": an electronic, magnetic, optical, electrochemical, or other data processing device performing logical, arithmetic, or storage functions —
+>   - including any data storage facility or communications facility directly related to or operating in conjunction with it;
+>   - excluding any device the Minister prescribes by Gazette notification.
+> - "computer system": an arrangement of interconnected computers designed to perform one or more specific functions, including —
+>   - (a) an information technology system; and
+>   - (b) an operational technology system, e.g. an industrial control system, programmable logic controller, SCADA system or distributed control system.
+> - For most of the Act, including Part 3 (other than s 7(1A)) and Parts 3A–3B, "computer" and "computer system" include virtual ones (s 2).
+> - The CII designation criteria are in clk-m-0-46.
+> - The Computer Misuse Act is not on the CLK reading list and is not in the library. `TODO: verify` whether its definition of "computer" is the same.
+
+*Source note: SSO-CYSA s 2 ("computer", "computer system", virtual computers); Drill 1 DP15*
+
 ### clk-m-0-47 — Reporting changes — 30 days and 7 days
 *Keywords: material change, change in ownership, 30 days, 7 days, Cybersecurity Act s 10, s 13*
 
@@ -560,12 +575,26 @@ The owner must also report any other incident the Commissioner specifies, and ke
 
 *Source note: SSO-CYSA s 14; CYSA p20-21 (s 14); DP-2 p25. Conflict: DP-2 p25 (the 2022 text) covers only the CII and interconnected systems under the owner's control; since 31 Oct 2025, s 14(1)(ba)-(bb) add the owner's other systems and suppliers' interconnected systems.*
 
-### clk-m-0-49 — Codes of practice and directions
-*Keywords: code of practice, standards of performance, no legislative effect, waiver, directions, Cybersecurity Act s 11, s 12*
+### clk-m-0-49 — Cybersecurity code of practice and directions
+*Keywords: cybersecurity code of practice, Cybersecurity Code of Practice for CII, code of practice, standards of performance, legislative effect, no legislative effect, must comply, waiver, Commissioner waives, written directions, Cybersecurity Act s 35A, s 12, s 11 (repealed)*
 
-**End point:** Codes of practice have no legislative effect, but CII owners must comply unless the Commissioner waives it; owners must also comply with written directions.
+**End point:** A cybersecurity code of practice (or standard of performance) has no legislative effect, but a CII owner must comply with it unless the Commissioner waives it. Owners must also comply with the Commissioner's written directions (s 12). Since 31 Oct 2025 the code-of-practice rule is in s 35A; it was formerly s 11.
 
-*Source note: CYSA p19-20 (ss 11-12); DP-2 p24*
+> **Cybersecurity Act s 35A: codes of practice and standards of performance**
+> - The Commissioner may issue or approve codes of practice or standards of performance for the cybersecurity of (s 35A(1)(a)):
+>   - provider-owned CII (its owners);
+>   - third-party-owned CII (designated providers, s 16A);
+>   - systems of temporary cybersecurity concern (owners, s 17);
+>   - other designated systems and providers.
+> - A code provision inconsistent with the Act has no effect, to the extent of the inconsistency (s 35A(2)).
+> - A code has no effect until notice of it is published (s 35A(3)–(4)).
+> - **No legislative effect** (s 35A(5)).
+> - **The persons it applies to must comply** (s 35A(6)).
+> - **The Commissioner may waive it**, generally or for a specified time, in whole or in part (s 35A(7)).
+> - A code provision can be appealed to the Minister within 30 days (s 35B; clk-m-0-50).
+> - What the CII Code of Practice requires on governance: clk-m-0-53.
+
+*Source note: SSO-CYSA ss 12, 35A, 35B; CYSA p19-20 (ss 11-12); DP-2 p24; Drill 1 DP11. Conflict: CYSA p19 and DP-2 p24 (the 2022 text) put this rule in s 11. Act 19 of 2024 deleted s 11 with effect from 31 Oct 2025 and moved the rule, unchanged in substance, to s 35A.*
 
 ### clk-m-0-50 — Cybersecurity exercises and appeals
 *Keywords: cybersecurity exercise, appeal to Minister, 30 days, Cybersecurity Act s 16, s 35B*
@@ -604,26 +633,15 @@ The owner must also report any other incident the Commissioner specifies, and ke
 
 ## 0.VIII POHA — offences and civil remedies
 
-**Offences**
-
-```mermaid
-flowchart TD
-  C["CUES: harassment, abusive messages, doxxing, threats, stalking, public servant"] --> I{"Harassment, alarm or distress?"}
-  I -- "intended and caused" --> L1["0-55 Intentionally causing harassment, alarm or distress (s 3)"]
-  I -- "likely" --> L2["0-56 Harassment likely to be caused (s 4) — fine only"]
-  C -- "violence" --> L3["0-57 Fear or provocation of violence (s 5)"]
-  C -- "special target or pattern" --> V{"Which?"}
-  V -- "public servant" --> L4["0-58 Conduct towards public servants (s 6)"]
-  V -- "course of conduct" --> L5["0-59 Unlawful stalking (s 7)"]
-```
-
-**Civil remedies**
-
-```mermaid
-flowchart TD
-  C["CUES: sue for harassment, protection order"] --> L1["0-60 Statutory tort and abolition of the common-law tort"]
-  C --> L2["0-61 Protection orders"]
-```
+- **Which harassment offence?**
+  - Intended to cause, and caused, harassment, alarm, distress or humiliation (s 3) → [0-55](#clk-m-0-55)
+  - Likely to be caused: fine only (s 4) → [0-56](#clk-m-0-56)
+  - Fear or provocation of violence (s 5) → [0-57](#clk-m-0-57)
+  - Towards a public servant, including doxxing (s 6) → [0-58](#clk-m-0-58)
+  - A course of conduct: unlawful stalking (s 7) → [0-59](#clk-m-0-59)
+- **What civil remedy?**
+  - Damages under the s 11 statutory tort, and s 11A enhanced damages; the common-law tort is abolished → [0-60](#clk-m-0-60)
+  - Protection order: contravention, likely to continue, just and equitable → [0-61](#clk-m-0-61)
 
 ### clk-m-0-55 — Intentionally causing harassment, alarm or distress (s 3)
 *Keywords: intentional harassment, humiliation, sexual or indecent, doxxing, identity information, related person, POHA s 3*
@@ -697,28 +715,30 @@ Enhanced damages are separate from punitive and aggravated damages.
 
 ## 0.IX False statements — POHA orders and POFMA
 
-**Which order?**
-
-```mermaid
-flowchart TD
-  C["CUES: false statement of fact about me, take it down, correction notice, platform"] --> W{"Who is the respondent?"}
-  W -- "the publisher" --> P{"Remedy?"}
-  P -- "stop it" --> L1["0-62 Stop publication order (s 15A)"]
-  P -- "correct it" --> L2["0-63 Correction order (s 15B)"]
-  W -- "internet intermediary" --> I{"Remedy?"}
-  I -- "block access" --> L3["0-64 Disabling order (s 15C)"]
-  I -- "notify viewers" --> L4["0-65 Targeted correction order (s 15D)"]
-  W -- "prescribed respondent" --> L5["0-66 General correction order (s 15E)"]
-  W -- "administrator of the online location" --> L6["0-71 Administrator orders (ss 15CA, 15CB)"]
-```
-
-**Requirements and POFMA**
-
-```mermaid
-flowchart TD
-  C["CUES: is the statement false? Minister's direction?"] --> L1["0-67 Requirements common to the false-statement orders"]
-  C --> L2["0-68 POFMA (non-core)"]
-```
+- **Is it POHA or POFMA?**
+  - The victim applies to court for an *order*: POHA ss 15–15E
+  - A Minister issues a *direction* (correction direction, stop communication direction, access blocking): POFMA, non-core → [0-68](#clk-m-0-68)
+- **What must the applicant prove for any POHA false-statement order?** → [0-67](#clk-m-0-67)
+  - A false statement of fact about the applicant, on the balance of probabilities
+  - The respondent published or carried it (not needed for s 15E)
+  - An order is just and equitable
+  - Not needed: that the respondent knew it was false, or that the statement is still up
+- **Which order? Ask who the respondent is, then what the applicant wants.**
+  - Publisher, take it down: stop publication order (s 15A) → [0-62](#clk-m-0-62)
+  - Publisher, publish a correction: correction order (s 15B) → [0-63](#clk-m-0-63)
+  - Internet intermediary (e.g. Facebook, Google), block Singapore users: disabling order (s 15C) → [0-64](#clk-m-0-64)
+  - Internet intermediary, notify the Singapore users who saw it: targeted correction order (s 15D) → [0-65](#clk-m-0-65)
+  - Prescribed respondent and serious harm: general correction order (s 15E) → [0-66](#clk-m-0-66)
+  - Administrator of a chat group, channel, forum or page (since 29 Jun 2026): ss 15CA (stop) and 15CB (correct) → [0-71](#clk-m-0-71)
+- **When does a general correction order apply? (s 15E)** → [0-66](#clk-m-0-66)
+  - The respondent is prescribed: a prescribed newspaper, broadcaster, telco or internet intermediary (POHA Regs reg 4). An ordinary blogger never is.
+  - The statement has caused, or is likely to cause, serious harm to the subject's reputation. No other order has this requirement.
+  - The respondent need not have published the statement.
+  - Serious harm: the Act gives no test, only two illustrations (a lawyer losing clients; a widely shared adultery allegation). `TODO: verify` any case-law test.
+- **Trap words**
+  - "Specific correction order": there is no such order. The intermediary order is the *targeted* correction order → [0-65](#clk-m-0-65), [0-67](#clk-m-0-67)
+  - The slides label s 15B "(SPO)" and s 15C "correction order (DO)". Use the statute's names → [0-63](#clk-m-0-63), [0-64](#clk-m-0-64)
+  - "Direction" means POFMA, not POHA → [0-68](#clk-m-0-68)
 
 ### clk-m-0-62 — Stop publication order (s 15A)
 *Keywords: stop publication order, publisher, POHA s 15A*
@@ -752,19 +772,47 @@ An administrator is whoever develops, maintains or manages the location, control
 
 *Source note: POHA p40-41 (s 15C); DP-3 p22. Conflict: DP-3 p22 labels it "correction order (DO)"; the statute name is disabling order.*
 
-### clk-m-0-65 — Targeted correction order (s 15D)
-*Keywords: targeted correction order, internet intermediary, POHA s 15D*
+### clk-m-0-65 — Targeted correction order (s 15D) — not a "specific" correction order
+*Keywords: targeted correction order, TCO, internet intermediary, notify users who saw it, end-users in Singapore, specific correction order (no such order), POHA s 15D*
 
-**End point:** The court may order an internet intermediary to send a correction notice to end-users in Singapore who accessed the statement.
+**End point:** The court may order an internet intermediary to send a correction notice to the end-users in Singapore who accessed the false statement on its service. This is the only correction order aimed at an intermediary's users. There is no "specific correction order" (clk-m-0-67).
 
-*Source note: POHA p41-42 (s 15D). Conflict: Cyril-Exam DP §4.1.4 calls it a "direction"; under POHA it is an order (directions are POFMA).*
+> **POHA s 15D: targeted correction order**
+> - Against an internet intermediary, on the application of the subject of the statement (s 15D(1)).
+> - The court must be satisfied, on the balance of probabilities, that (s 15D(1)(a)):
+>   - (i) material containing the statement has been or is being published by means of the respondent's internet intermediary service; and
+>   - (ii) the statement is a false statement of fact;
+> - and (b) an order is just and equitable.
+> - The notice goes to (s 15D(2)):
+>   - (a) all end-users in Singapore who access the specified material on the service from a specified time; and
+>   - (b) for a prescribed internet intermediary, also all end-users in Singapore it knows had accessed the material, or identical copies, on the service.
 
-### clk-m-0-66 — General correction order (s 15E)
-*Keywords: general correction order, prescribed respondent, serious harm to reputation, newspaper, broadcaster, POHA s 15E*
+*Source note: SSO-POHA s 15D (unchanged by Acts 21 and 23 of 2025); POHA p41-42 (s 15D); SampleQs p89 Q3, key p130. Conflict: Cyril-Exam DP §4.1.4 calls it a "direction"; under POHA it is an order (directions are POFMA).*
 
-**End point:** The court may order a prescribed respondent (newspaper, broadcaster, telco or intermediary) to publish a correction where the statement has caused or is likely to cause serious harm to the subject's reputation.
+### clk-m-0-66 — General correction order (s 15E) — prescribed respondent and serious harm
+*Keywords: general correction order, GCO, prescribed respondent, prescribed individual or entity, serious harm, serious harm to reputation, when to use a general correction order, newspaper, broadcaster, telco, prescribed internet intermediary, POHA s 15E, POHA Regs reg 4*
 
-*Source note: POHA p42-43 (s 15E); POHA Regs p3 (reg 4(4)). Conflict: Cyril-Exam DP §4.1.5 lists WeChat and YouTube as prescribed for s 15E; reg 4(4) lists Facebook/Instagram, Twitter, HardwareZone, Google Search and Baidu.*
+**End point:** Use a general correction order when two things are present. The respondent must be *prescribed* (a prescribed newspaper, broadcaster, telco or internet intermediary), and the false statement must have caused, or be likely to cause, serious harm to the subject's reputation. The respondent need not have published the statement; it is made to carry a correction notice to its own readers or users.
+
+> **POHA s 15E: general correction order**
+> - Against a prescribed individual or entity (s 15E(1); POHA Regs reg 4).
+> - The court must be satisfied, on the balance of probabilities, that (s 15E(1)(a)):
+>   - (i) the statement is a false statement of fact; and
+>   - (ii) its publication has caused or is likely to cause serious harm to the reputation of the subject;
+> - and (b) an order is just and equitable.
+> - Unlike ss 15A–15D, the respondent need not have published or carried the statement.
+> - Where the notice is published (s 15E(2)):
+>   - (a) a prescribed newspaper permit-holder: in its newspaper or printed publication;
+>   - (b) a prescribed broadcaster: on its broadcasting service;
+>   - (c) a prescribed telecommunications licensee: on its system or service;
+>   - (d) a prescribed internet intermediary: on its service, or to all or a class of its end-users in Singapore;
+>   - (e) anyone else: by any means within its control.
+> - **How "serious harm" is assessed.** The Act gives no test, only two illustrations of serious harm:
+>   - (a) X falsely says Y, a lawyer, misappropriated client money, and Y's clients end their contracts;
+>   - (b) a false allegation that Y committed adultery is widely published on social media.
+> - `TODO: verify` whether any case or the course materials set a test for serious harm.
+
+*Source note: SSO-POHA s 15E and illustrations (unchanged by Acts 21 and 23 of 2025); POHA p42-43 (s 15E); POHA Regs p3 (reg 4(4)); Drill 1 DP14. Conflict: Cyril-Exam DP §4.1.5 lists WeChat and YouTube as prescribed for s 15E; reg 4(4) lists Facebook/Instagram, Twitter, HardwareZone, Google Search and Baidu.*
 
 ### clk-m-0-67 — Requirements common to the false-statement orders
 *Keywords: false statement of fact, balance of probabilities, just and equitable, does not know it is false, specific correction order, POHA s 15*
@@ -782,16 +830,15 @@ An administrator is whoever develops, maintains or manages the location, control
 
 ## 1.I What law and technology is
 
-```mermaid
-flowchart TD
-  C["CUES: Law of the Horse, cyberlaw, what cyberlaw might teach, is law a technology"] --> W{"Whose view, or which question?"}
-  W -- "framing question" --> L1["1-1 The Big Question"]
-  W -- "Easterbrook" --> L2["1-2 Easterbrook — the Law of the Horse"]
-  W -- "Lessig" --> L{"Which Lessig point?"}
-  L -- "how behaviour is regulated" --> L3["1-3 Lessig — the four constraints"]
-  L -- "why cyberspace is special" --> L4["1-4 Lessig — why cyberspace is special"]
-  W -- "is law a technology?" --> L5["1-5 Is law a technology?"]
-```
+- **What is the framing question?**
+  - Does the problem lie with the law, the technology, or both? → [1-1](#clk-m-1-1)
+- **Is "cyberlaw" a field of its own?**
+  - Easterbrook, the Law of the Horse: no; it is shallow and misses unifying principles, so study general rules → [1-2](#clk-m-1-2)
+  - Lessig: specialised study is useful, because cyberspace's architecture regulates → [1-4](#clk-m-1-4)
+- **How is behaviour regulated, and how does code differ from law?**
+  - Four constraints: law, norms, markets and architecture (code). Law threatens a sanction after the act; code makes behaviour possible or impossible in advance. "Code is law" → [1-3](#clk-m-1-3)
+- **Is law a technology?**
+  - Elliot: the common law as cybernetic AI; it depends on how "law" and "technology" are defined → [1-5](#clk-m-1-5)
 
 ### clk-m-1-1 — The Big Question
 *Keywords: Big Question, issue with the law, issue with the technology*
@@ -807,12 +854,23 @@ flowchart TD
 
 *Source note: LT-1 p19-21; SampleQs p94 Q6, key p130*
 
-### clk-m-1-3 — Lessig — the four constraints
-*Keywords: Lessig, four modalities, law, norms, markets, architecture, code, direct regulation, indirect regulation*
+### clk-m-1-3 — Lessig — the four constraints; code versus law
+*Keywords: Lessig, four constraints, four modalities, law, norms, markets, architecture, code, code is law, code versus law, difference between code and law, direct regulation, indirect regulation, plastic, ex post sanction*
 
-**End point:** Behaviour is regulated by law, social norms, markets and architecture (code); law acts directly, or indirectly by changing the other three, and code is plastic, chosen by those who write it.
+**End point:** Behaviour is regulated by four constraints: law, social norms, markets and architecture, which in cyberspace is code. Law acts directly, or indirectly by changing the other three. Code and law constrain in different ways. Law tells people how to behave and threatens punishment if they deviate. Code sets the conditions of access in advance, making some behaviour possible and other behaviour impossible, and it is plastic: chosen by those who write it.
 
-*Source note: LT-1 p23-24; LT-2 p6*
+> **Code versus law (Lessig, "What Cyberlaw Might Teach")**
+> - **Law acting directly** tells individuals how they ought to behave and threatens punishment if they deviate (an ex post sanction) [LT-1 p23; LT-2 p7].
+> - **Law acting indirectly** changes one of the other constraints: norms, markets or architecture [LT-1 p23; LT-2 p8].
+> - **Code** is the software, architecture or protocols of cyberspace [LT-1 p24]:
+>   - it is experienced as conditions of access;
+>   - it makes some behaviour possible and other behaviour impossible;
+>   - it is chosen by code writers, so it too regulates.
+> - **Code is plastic,** so it can regulate more, and more subtly, and can substitute for law or norms [LT-1 p24].
+> - The same constraint can be reached by different means at different cost; changing code may be cheaper than changing law (the car radio) [LT-2 p7].
+> - **"Code is law."** Because code regulates, law must regulate code if public values, especially constitutional values, are to be preserved [LT-1 p25].
+
+*Source note: LT-1 p23-25; LT-2 p6-8; Drill 2 LT1*
 
 ### clk-m-1-4 — Lessig — why cyberspace is special
 *Keywords: Lessig, What Cyberlaw Might Teach, specialised study, constitutional values*
@@ -830,26 +888,17 @@ flowchart TD
 
 ## 1.II Regulation theory
 
-**The regulatory toolkit**
-
-```mermaid
-flowchart TD
-  C["CUES: ex ante, ex post, quasi-regulation, pathetic dot, modalities"] --> Q{"Which concept?"}
-  Q -- "timing of control" --> L1["1-6 Ex ante regulation and ex post liability"]
-  Q -- "who makes the rules" --> L2["1-7 The regulation spectrum"]
-  Q -- "what constrains behaviour" --> L3["1-8 The four modalities (the pathetic dot)"]
-```
-
-**Thinkers and dilemmas**
-
-```mermaid
-flowchart TD
-  C["CUES: Bennett Moses, Yeong Zee Kin, Collingridge, law lags technology"] --> Q{"Which idea?"}
-  Q -- "values and harm" --> L1["1-9 Bennett Moses"]
-  Q -- "applied and supplied" --> L2["1-10 Yeong Zee Kin"]
-  Q -- "too early or too late" --> L3["1-11 The Collingridge dilemma"]
-  Q -- "law is too slow" --> L4["1-12 The legal tortoise and the technological hare"]
-```
+- **When is behaviour controlled?**
+  - Ex ante regulation, before harm (speed limits); ex post liability, after harm (tort) → [1-6](#clk-m-1-6)
+- **Who makes the rules?**
+  - Formal regulation, then quasi-regulation (state-backed codes), then self-regulation → [1-7](#clk-m-1-7)
+- **What constrains behaviour? Do regulations count as law?**
+  - Market, architecture (code), law, norms. Regulations are part of law, not a fifth modality; "codes" is architecture → [1-8](#clk-m-1-8)
+- **Which thinker said what?**
+  - Bennett Moses: protect values and minimise harm; rules can be technology-specific, risk-specific or technology-neutral → [1-9](#clk-m-1-9)
+  - Yeong Zee Kin: law regulates how technology is applied and supplied; "technology regulation" is a misnomer → [1-10](#clk-m-1-10)
+  - Collingridge: too early, too little information; too late, the technology is entrenched → [1-11](#clk-m-1-11)
+  - Is law always the slow tortoise to technology's hare? → [1-12](#clk-m-1-12)
 
 ### clk-m-1-6 — Ex ante regulation and ex post liability
 *Keywords: ex ante, ex post, regulation, liability, Shavell*
@@ -865,12 +914,18 @@ flowchart TD
 
 *Source note: LT-2 p3*
 
-### clk-m-1-8 — The four modalities (the pathetic dot)
-*Keywords: pathetic dot, four modalities, market, architecture, law, norms, regulations, car radio, choice architecture*
+### clk-m-1-8 — The four modalities (the pathetic dot) — regulations count as law
+*Keywords: pathetic dot, four modalities, market, architecture, code, codes, law, norms, regulations, do regulations count as law, regulations are law, regulation in Lessig's sense, car radio, choice architecture*
 
-**End point:** The four modalities are market, architecture (including code), law (formal regulations, liability and property rules) and norms; "regulations" sit inside law and are not a fifth; the same constraint can be imposed through different modalities at different cost.
+**End point:** The four modalities are market, architecture (including code), law and norms. Regulations do count as law: the slide lists "(formal) regulations" under law, beside liability rules and other legal rules. So "regulations" is not a fifth modality, and it is the right answer to "which is NOT one of the four modalities?" ("codes" is architecture). In Lessig's general sense, "regulation" is what all four constraints do. The same constraint can be imposed through different modalities at different cost.
 
-*Source note: LT-2 p6-8; SampleQs p94 Q5, key p130*
+> **The four modalities (LT-2 p6)**
+> - **Market:** supply, demand, price.
+> - **Architecture:** physical space; code.
+> - **Law:** (formal) regulations; liability rules; other legal types (property rules, inalienability rules).
+> - **Norms:** culture, custom, "soft" law.
+
+*Source note: LT-2 p6-8; LT-1 p23 (Lessig's general sense of "regulation"); SampleQs p94 Q5, key p130*
 
 ### clk-m-1-9 — Bennett Moses
 *Keywords: Bennett Moses, technology regulation, socio-technical landscape, technology-neutral, risk-specific*
@@ -902,14 +957,14 @@ flowchart TD
 
 ## 1.III Automobiles case study
 
-```mermaid
-flowchart TD
-  C["CUES: Model T, horse-carriage cases, compulsory insurance, jaywalking"] --> Q{"Which stage or lesson?"}
-  Q -- "first legal response" --> L1["1-13 The law of the metal horse"]
-  Q -- "why regulation followed" --> L2["1-14 Liability failed, so compulsory insurance followed"]
-  Q -- "other constraints" --> L3["1-15 Norms, architecture and law all shifted"]
-  Q -- "the lesson" --> L4["1-16 Lessig's theory plays out"]
-```
+- **What was the first legal response to cars?**
+  - Courts applied horse-carriage negligence rules ("the law of the metal horse") → [1-13](#clk-m-1-13)
+- **Why did regulation follow?**
+  - Liability failed (many accidents, defendants who could not pay), so compulsory insurance followed → [1-14](#clk-m-1-14)
+- **What else changed?**
+  - Norms (jaywalking stigma), architecture (roads) and law all shifted; a US account → [1-15](#clk-m-1-15)
+- **What is the lesson?**
+  - Lessig's theory "nearly note for note": ask who has power over code → [1-16](#clk-m-1-16)
 
 ### clk-m-1-13 — The law of the metal horse
 *Keywords: law of the metal horse, horse-carriage cases, negligence, driver, Model T*
@@ -941,35 +996,18 @@ flowchart TD
 
 ## 1.IV Electronic transactions
 
-**Why the ETA, and the cases**
-
-```mermaid
-flowchart TD
-  C["CUES: Electronic Transactions Act, website pricing error, email as writing"] --> Q{"Which question?"}
-  Q -- "why the Act" --> L1["1-17 Why the ETA was passed"]
-  Q -- "pricing error case" --> L2["1-18 Chwee Kin Keong v Digilandmall"]
-  Q -- "email for a land contract" --> L3["1-19 SM Integrated Transware v Schenker"]
-```
-
-**Forming e-contracts**
-
-```mermaid
-flowchart TD
-  C["CUES: website listing, email received, automated system, input error"] --> Q{"Which issue?"}
-  Q -- "offer or invitation?" --> L1["1-20 Website listings are invitations to offer (s 14)"]
-  Q -- "when received?" --> L2["1-21 Time of receipt (s 13)"]
-  Q -- "no human involved, or a typo" --> L3["1-22 Automated systems and input errors (ss 15–16)"]
-```
-
-**Writing, signatures, exclusions and ISPs**
-
-```mermaid
-flowchart TD
-  C["CUES: e-signature, excluded documents, ISP liability"] --> Q{"Which issue?"}
-  Q -- "writing and signatures" --> L1["1-23 Writing and electronic signatures"]
-  Q -- "excluded matters" --> L2["1-24 Excluded matters"]
-  Q -- "service provider liability" --> L3["1-25 Network service providers"]
-```
+- **Why was the ETA passed, and what do the cases say?**
+  - To confirm that familiar contract rules apply online, not to rewrite them; based on the UN Model Law → [1-17](#clk-m-1-17)
+  - *Chwee Kin Keong v Digilandmall*: ordinary formation principles apply online; the ETA was not referred to → [1-18](#clk-m-1-18)
+  - *SM Integrated Transware v Schenker*: email can be "in writing" for Civil Law Act s 6(d) → [1-19](#clk-m-1-19)
+- **How is an e-contract formed?**
+  - A website listing is an invitation to make offers (s 14) → [1-20](#clk-m-1-20)
+  - Time of receipt: when retrievable at the designated address (s 13) → [1-21](#clk-m-1-21)
+  - No human review is no bar (s 15); an input error can be withdrawn if notified promptly and no benefit received (s 16) → [1-22](#clk-m-1-22)
+- **Writing, signatures, exclusions and ISPs**
+  - Electronic records and signatures count as writing and signatures (ss 6–8) → [1-23](#clk-m-1-23)
+  - Excluded: wills, trusts and powers of attorney, sale of immovable property (First Schedule) → [1-24](#clk-m-1-24)
+  - Network service providers are not liable for third-party material they merely give access to → [1-25](#clk-m-1-25)
 
 ### clk-m-1-17 — Why the ETA was passed
 *Keywords: Electronic Transactions Act, ETA, UN Model Law, functional equivalence, technology neutrality, non-discrimination*
@@ -1041,26 +1079,16 @@ The slides summarise this as wills, trusts and real property. Negotiable instrum
 
 ## 1.V Algorithmic contracting — B2C2 v Quoine
 
-**The majority**
-
-```mermaid
-flowchart TD
-  C["CUES: trading algorithm, crypto exchange, deterministic program, unilateral mistake"] --> Q{"Which point?"}
-  Q -- "what happened" --> L1["1-26 Facts of B2C2 v Quoine"]
-  Q -- "whose knowledge, and when" --> K{"Which part of the test?"}
-  K -- "whose" --> L2["1-27 The programmer's knowledge counts"]
-  K -- "what" --> L3["1-28 The test for unilateral mistake"]
-  K -- "when" --> L4["1-29 Time of assessment"]
-  Q -- "result" --> L5["1-30 No operative mistake"]
-```
-
-**Other views**
-
-```mermaid
-flowchart TD
-  C["CUES: dissent, electronic agent"] --> L1["1-31 Lord Mance's dissent"]
-  C --> L2["1-32 Vincent Ooi — tools or agents"]
-```
+- **What happened?**
+  - A failed platform update led to trades at 10 BTC per ETH; Quoine reversed them → [1-26](#clk-m-1-26)
+- **Unilateral mistake with algorithms: whose knowledge, of what, and when?**
+  - Whose: the programmer's, for deterministic algorithms → [1-27](#clk-m-1-27)
+  - What: actual or constructive knowledge that the offer would only be accepted under a mistake, and acting to take advantage → [1-28](#clk-m-1-28)
+  - When: from programming up to formation → [1-29](#clk-m-1-29)
+  - Result: no operative mistake; the algorithms worked as meant → [1-30](#clk-m-1-30)
+- **Other views**
+  - Lord Mance (dissent): what would a reasonable trader have thought? → [1-31](#clk-m-1-31)
+  - Vincent Ooi: is software a tool or an electronic agent? → [1-32](#clk-m-1-32)
 
 ### clk-m-1-26 — Facts of B2C2 v Quoine
 *Keywords: B2C2 v Quoine, Quoine, margin call, 10 BTC to 1 ETH, reversed trades*
@@ -1113,16 +1141,16 @@ flowchart TD
 
 ## 1.VI Platform economics
 
-```mermaid
-flowchart TD
-  C["CUES: network effects, two-sided market, critical mass, fees"] --> N{"Which effect?"}
-  N -- "across sides" --> L1["1-34 Cross-side network effects"]
-  N -- "within a side" --> L2["1-35 Same-side network effects"]
-  N -- "starting up or losing users" --> L3["1-36 Critical mass"]
-  C -- "why platforms exist" --> L4["1-33 Why platforms win — transaction costs"]
-  C -- "levers" --> L5["1-37 Platform levers"]
-  C -- "harm to non-users?" --> L6["1-38 What network externalities are not"]
-```
+- **Why do platforms win?**
+  - They cut transaction costs (concentration, scale, predictability, network externalities) → [1-33](#clk-m-1-33)
+- **Which network effect?**
+  - Cross-side: more on one side helps the other side → [1-34](#clk-m-1-34)
+  - Same-side: users on the same side help or hurt each other (Tinder) → [1-35](#clk-m-1-35)
+  - Critical mass: must be reached and kept (Grab) → [1-36](#clk-m-1-36)
+- **How do platforms steer behaviour?**
+  - Fees, terms, norms and code → [1-37](#clk-m-1-37)
+- **Is harm to non-users a network externality?**
+  - No (e.g. smoking) → [1-38](#clk-m-1-38)
 
 ### clk-m-1-33 — Why platforms win — transaction costs
 *Keywords: transaction costs, middleman, economies of concentration, economies of scale, predictability, network externalities*
@@ -1168,26 +1196,16 @@ flowchart TD
 
 ## 1.VII Platform workers
 
-**UK — Uber v Aslam**
-
-```mermaid
-flowchart TD
-  C["CUES: gig worker, ride-hailing driver, worker or contractor, UK"] --> Q{"Which point?"}
-  Q -- "approach to control" --> L1["1-39 Uber v Aslam — how control is judged"]
-  Q -- "findings and result" --> L2["1-40 Uber v Aslam — the five findings"]
-```
-
-**Singapore — Platform Workers Act 2024**
-
-```mermaid
-flowchart TD
-  C["CUES: platform worker, management control, work injury compensation"] --> P["1-41 The Singapore policy — not employees"]
-  C --> D{"Is the worker covered?"}
-  D -- "who is a platform worker" --> L1["1-42 Who is a platform worker (s 5)"]
-  D -- "management control" --> L2["1-43 Management control — all three limbs (s 6(1))"]
-  D -- "listed restrictions and presumption" --> L3["1-44 Second Schedule and the presumption (s 6(3)–(4))"]
-  D -- "escaping the Act" --> L4["1-45 Escaping the Act"]
-```
+- **UK: is a ride-hailing driver a worker? (Uber v Aslam)**
+  - The written contract is not the starting point; control shows subordination → [1-39](#clk-m-1-39)
+  - Five findings of control, so drivers were workers → [1-40](#clk-m-1-40)
+- **Singapore: what is the policy?**
+  - Platform workers are not employees, but get basic protections → [1-41](#clk-m-1-41)
+- **Is the worker covered by the Platform Workers Act 2024?**
+  - Platform worker: agreement, management control, payment, in Singapore (s 5) → [1-42](#clk-m-1-42)
+  - Management control needs all three limbs: data used for a specified purpose, no routine human intervention, a Second Schedule restriction (s 6(1)) → [1-43](#clk-m-1-43)
+  - Second Schedule restrictions, and the presumption of control (s 6(3)–(4)) → [1-44](#clk-m-1-44)
+  - Escaping the Act: only by disproving a limb → [1-45](#clk-m-1-45)
 
 ### clk-m-1-39 — Uber v Aslam — how control is judged
 *Keywords: Uber v Aslam, worker, written contract, subordination, control, log on*
@@ -1240,14 +1258,12 @@ flowchart TD
 
 ## 1.VIII Platform defamation
 
-```mermaid
-flowchart TD
-  C["CUES: defamatory comment, Facebook page, sharing a link, publisher"] --> W{"Who is the defendant?"}
-  W -- "sharer of a link" --> L1["1-46 Lee Hsien Loong v Leong Sze Hian"]
-  W -- "business running a page" --> L2["1-47 Fairfax Media v Voller"]
-  W -- "the platform" --> L3["1-49 Is the platform liable?"]
-  C -- "practical risk" --> L4["1-48 Liability of business users"]
-```
+- **Who published the defamatory material?**
+  - Sharing a link without comment is publication (*Lee Hsien Loong v Leong Sze Hian*) → [1-46](#clk-m-1-46)
+  - The page owner publishes users' comments (*Fairfax Media v Voller*) → [1-47](#clk-m-1-47)
+  - Businesses running pages risk liability → [1-48](#clk-m-1-48)
+- **Is the platform itself liable?**
+  - Open: adoption, acquiescence once notified, architecture; Singapore has no s 230 equivalent → [1-49](#clk-m-1-49)
 
 ### clk-m-1-46 — Lee Hsien Loong v Leong Sze Hian
 *Keywords: Lee Hsien Loong v Leong Sze Hian, sharing a link, publication, Facebook*
@@ -1279,16 +1295,14 @@ flowchart TD
 
 ## 1.IX Blockchain and crypto assets
 
-```mermaid
-flowchart TD
-  C["CUES: double spending, hash, proof of work, 51% attack, crypto as property"] --> Q{"Which question?"}
-  Q -- "what it is for" --> L1["1-50 What blockchain was designed for"]
-  Q -- "how it works" --> M{"Which aspect?"}
-  M -- "mechanism" --> L2["1-51 Hashing and proof of work"]
-  M -- "is it tamper-proof?" --> L3["1-52 Tamper-resistance is probabilistic"]
-  Q -- "uses" --> L4["1-53 Uses and other consensus methods"]
-  Q -- "legal status" --> L5["1-54 ByBit Fintech v Ho Kai Xin"]
-```
+- **What was blockchain designed for?**
+  - To solve double-spending without a trusted third party ("trust in code") → [1-50](#clk-m-1-50)
+- **How does it work?**
+  - Hash-chained blocks, proof of work, the longest chain wins; transactions are public → [1-51](#clk-m-1-51)
+  - Is it tamper-proof? No, only probabilistically: a 51% attack can succeed → [1-52](#clk-m-1-52)
+  - Uses (tokens, NFTs, smart contracts) and proof of stake → [1-53](#clk-m-1-53)
+- **Are crypto assets property?**
+  - Yes: a thing in action (*ByBit Fintech v Ho Kai Xin*) → [1-54](#clk-m-1-54)
 
 ### clk-m-1-50 — What blockchain was designed for
 *Keywords: blockchain, double-spending problem, peer-to-peer, timestamp server, trust in code, trusted third party*
@@ -1327,26 +1341,15 @@ flowchart TD
 
 ## 1.X Artificial intelligence
 
-**How AI works**
-
-```mermaid
-flowchart TD
-  C["CUES: symbolic, statistical, machine learning, learning, large language model, Turing test"] --> Q{"Which concept?"}
-  Q -- "what counts as AI" --> L1["1-55 Defining AI"]
-  Q -- "two kinds of AI" --> L2["1-56 Symbolic versus statistical AI"]
-  Q -- "what learning means" --> L3["1-57 What learning means"]
-  Q -- "language models" --> L4["1-58 Language models and generative AI"]
-```
-
-**AI and responsibility**
-
-```mermaid
-flowchart TD
-  C["CUES: the AI decided, AI inventor, DABUS, autonomy, just maths"] --> Q{"Which point?"}
-  Q -- "attributing intent to AI" --> L1["1-59 Legal dispositionism"]
-  Q -- "AI as inventor or author" --> L2["1-60 DABUS and metaphors"]
-  Q -- "is it harmless maths?" --> L3["1-61 It is just maths"]
-```
+- **How does AI work?**
+  - Defining AI: Turing, Russell and Norvig → [1-55](#clk-m-1-55)
+  - Symbolic (explicit rules) versus statistical (patterns in data) → [1-56](#clk-m-1-56)
+  - "Learning" means adjusting weights → [1-57](#clk-m-1-57)
+  - Language models predict words; generative AI is a subset of predictive AI → [1-58](#clk-m-1-58)
+- **Can AI be responsible?**
+  - Attributing intent to AI is the Fundamental Attribution Error; look to the people → [1-59](#clk-m-1-59)
+  - DABUS as inventor failed everywhere; "neurons" and "learning" are metaphors → [1-60](#clk-m-1-60)
+  - "It is just maths", but that does not mean it is harmless → [1-61](#clk-m-1-61)
 
 ### clk-m-1-55 — Defining AI
 *Keywords: Turing test, imitation game, Russell and Norvig, thinking humanly, acting rationally*
@@ -1399,27 +1402,15 @@ flowchart TD
 
 ## 2.I Civil law system and sources
 
-**Sources of law**
-
-```mermaid
-flowchart TD
-  C["CUES: civil code, precedent, stare decisis, academic writing, doctrine"] --> Q{"Which source?"}
-  Q -- "legislation and codes" --> L1["2-1 Codification"]
-  Q -- "judicial decisions" --> L2["2-2 Judicial decisions — no stare decisis"]
-  Q -- "academic writing" --> L3["2-3 Doctrine (academic writing)"]
-```
-
-**The codes**
-
-```mermaid
-flowchart TD
-  C["CUES: Indonesian Civil Code, KUHPerdata, Thai CCC, books, implementing regulation"] --> J{"Which country?"}
-  J -- "Indonesia" --> I{"Which point?"}
-  I -- "the code" --> L1["2-4 The Indonesian Civil Code"]
-  I -- "statutes and regulations" --> L2["2-5 Indonesian statutes and implementing regulations"]
-  J -- "Thailand" --> L3["2-6 The Thai Civil and Commercial Code"]
-  C -- "the Obligations book" --> L4["2-7 What the Obligations book covers"]
-```
+- **What are the sources of law in a civil law system?**
+  - Codes: the main source and first port of call → [2-1](#clk-m-2-1)
+  - Judicial decisions: no stare decisis; uniform case law is persuasive (jurisprudence constante) → [2-2](#clk-m-2-2)
+  - Doctrine (academic writing): a formally recognised source → [2-3](#clk-m-2-3)
+- **Which code?**
+  - Indonesia: the 1847 Dutch Civil Code, four books; overridden by new statutes rather than amended → [2-4](#clk-m-2-4)
+  - Indonesia: "Law No x of year"; implementing regulations; contracts without an Indonesian version (Language Law) → [2-5](#clk-m-2-5)
+  - Thailand: the CCC, on a German model, six books → [2-6](#clk-m-2-6)
+  - What the Obligations book covers → [2-7](#clk-m-2-7)
 
 ### clk-m-2-1 — Codification
 *Keywords: civil law, codified, civil code, first port of call, comprehensive*
@@ -1472,29 +1463,17 @@ flowchart TD
 
 ## 2.II Contract formation and interpretation
 
-**Formation and Indonesian interpretation**
-
-```mermaid
-flowchart TD
-  C["CUES: valid contract, consideration, ambiguous clause, Indonesian contract"] --> F{"Formation or interpretation?"}
-  F -- "formation" --> L1["2-8 Formation — no consideration"]
-  F -- "interpretation" --> W{"Is the wording clear?"}
-  W -- "clear" --> L2["2-9 Clear wording — Art 1342"]
-  W -- "unclear" --> U{"Which canon?"}
-  U -- "general canons" --> L3["2-10 Canons for unclear wording — Arts 1343–1351"]
-  U -- "doubt — against whom?" --> L4["2-11 In doubt, against the requester — Art 1349"]
-```
-
-**Thai interpretation and negotiations**
-
-```mermaid
-flowchart TD
-  C["CUES: Thai contract, real intention, custom, bilingual, words and figures, negotiations"] --> T{"Which rule?"}
-  T -- "intention and custom" --> L1["2-12 Real intention and custom — ss 171 and 368"]
-  T -- "gap-fillers" --> L2["2-13 Thai gap-fillers — ss 10–14"]
-  T -- "unexpressed intention" --> L3["2-14 Unexpressed intention and implied terms"]
-  T -- "pre-contract negotiations" --> L4["2-15 Pre-contract negotiations"]
-```
+- **Is there a valid contract?**
+  - Consent, capacity, lawful and certain content; no consideration needed → [2-8](#clk-m-2-8)
+- **Indonesia: how is a contract interpreted?**
+  - Clear wording: no departing from it (Art 1342) → [2-9](#clk-m-2-9)
+  - Unclear wording: parties' intent, enforceable meaning, custom, the whole agreement (Arts 1343–1351) → [2-10](#clk-m-2-10)
+  - In doubt: against the party who requested it (Art 1349) → [2-11](#clk-m-2-11)
+- **Thailand: how is a contract interpreted?**
+  - Real intention over literal words (s 171); good faith and custom (s 368) → [2-12](#clk-m-2-12)
+  - Gap-fillers: words over figures, lowest amount, the Thai text prevails (ss 10–14) → [2-13](#clk-m-2-13)
+  - Unexpressed intention does not count; implied terms do → [2-14](#clk-m-2-14)
+  - Pre-contract negotiations: admitted much more readily than at common law → [2-15](#clk-m-2-15)
 
 ### clk-m-2-8 — Formation — no consideration
 *Keywords: formation, consent, capacity, lawful and certain content, consideration, public order*
@@ -1554,14 +1533,11 @@ flowchart TD
 
 ## 2.III Good faith (Thailand)
 
-```mermaid
-flowchart TD
-  C["CUES: good faith, abuse of rights, acting solely to injure, custom"] --> Q{"Which role of good faith?"}
-  Q -- "burden" --> L1["2-16 Good faith is presumed — s 6"]
-  Q -- "interpreting terms" --> L2["2-17 Interpreting by good faith — s 368"]
-  Q -- "performance and overriding terms" --> L3["2-18 Good faith is pervasive"]
-  Q -- "exercising a right to harm" --> L4["2-19 Abuse of rights — s 421"]
-```
+- **What role does good faith play?**
+  - Presumed (s 6) → [2-16](#clk-m-2-16)
+  - Interpreting terms (s 368) → [2-17](#clk-m-2-17)
+  - Pervasive: performance too, and can override express terms → [2-18](#clk-m-2-18)
+  - Exercising a right only to injure another is a wrongful act (abuse of rights, s 421) → [2-19](#clk-m-2-19)
 
 ### clk-m-2-16 — Good faith is presumed — s 6
 *Keywords: Thai CCC s 6, presumption of good faith*
@@ -1593,25 +1569,14 @@ flowchart TD
 
 ## 2.IV Contract remedies and election
 
-**Which remedy?**
-
-```mermaid
-flowchart TD
-  C["CUES: breach, terminate, specific performance, damages, punitive damages"] --> R{"Remedy sought?"}
-  R -- "performance" --> L1["2-20 Specific performance is preferred"]
-  R -- "termination" --> L2["2-21 Termination needs a material breach"]
-  R -- "damages" --> L3["2-22 Damages"]
-```
-
-**Conditions and limits**
-
-```mermaid
-flowchart TD
-  C["CUES: mitigation, notice of default, last chance, election, renounce performance"] --> Q{"Which condition?"}
-  Q -- "reducing damages" --> L1["2-23 Reducing damages — contributory fault and mitigation"]
-  Q -- "notice first" --> L2["2-24 Notice and a last chance"]
-  Q -- "choosing between remedies" --> L3["2-25 Election of remedies"]
-```
+- **Which remedy?**
+  - Performance: specific performance is preferred → [2-20](#clk-m-2-20)
+  - Termination: needs a material breach → [2-21](#clk-m-2-21)
+  - Damages: any breach; no punitive damages in most systems → [2-22](#clk-m-2-22)
+- **What conditions and limits apply?**
+  - Contributory fault versus mitigation; no general duty to mitigate in France → [2-23](#clk-m-2-23)
+  - Notice of default and a last chance first → [2-24](#clk-m-2-24)
+  - Election: renounce performance to claim damages; silence means insisting on performance → [2-25](#clk-m-2-25)
 
 ### clk-m-2-20 — Specific performance is preferred
 *Keywords: specific performance, impossible, damages adequate*
@@ -1657,25 +1622,14 @@ flowchart TD
 
 ## 2.V Delict (non-contractual claims)
 
-**Indonesia**
-
-```mermaid
-flowchart TD
-  C["CUES: unlawful act, tort in Indonesia, Article 1365"] --> Q{"Which point?"}
-  Q -- "elements" --> L1["2-26 Article 1365 — the rule and its elements"]
-  Q -- "compensation" --> L2["2-27 Article 1365 — heads of compensation"]
-```
-
-**Thailand**
-
-```mermaid
-flowchart TD
-  C["CUES: wrongful act in Thailand, vicarious liability, compensation, time limit"] --> Q{"Which point?"}
-  Q -- "basic liability" --> L1["2-28 Wrongful act — s 420"]
-  Q -- "liability for others" --> L2["2-29 Vicarious liability — ss 425–437"]
-  Q -- "what compensation" --> L3["2-30 Compensation — s 438"]
-  Q -- "time limit" --> L4["2-31 Prescription — s 448"]
-```
+- **Indonesia: what is an unlawful act? (Art 1365)**
+  - Elements: unlawful act, fault, damage, causation → [2-26](#clk-m-2-26)
+  - Heads of compensation → [2-27](#clk-m-2-27)
+- **Thailand: what is a wrongful act?**
+  - Wilful or negligent unlawful injury (s 420) → [2-28](#clk-m-2-28)
+  - Liability for others: employer, principal, vehicle owner (ss 425–437) → [2-29](#clk-m-2-29)
+  - Compensation: fixed by the court (s 438) → [2-30](#clk-m-2-30)
+  - Time limit: 1 year from knowledge or 10 years from the act (s 448) → [2-31](#clk-m-2-31)
 
 ### clk-m-2-26 — Article 1365 — the rule and its elements
 *Keywords: Article 1365, unlawful act, fault, damage, causation, immaterial damage*
@@ -1721,15 +1675,12 @@ flowchart TD
 
 ## 2.VI Civil court jurisdiction (competence)
 
-```mermaid
-flowchart TD
-  C["CUES: which court, absolute or relative competence, domicile, specialised court"] --> J{"Which country?"}
-  J -- "Indonesia" --> I{"Which competence?"}
-  I -- "relative" --> L1["2-32 Relative competence and the exception"]
-  I -- "absolute" --> L2["2-33 Absolute competence"]
-  I -- "arbitral awards" --> L3["2-34 District courts and international arbitral awards"]
-  J -- "Thailand" --> L4["2-35 Thai courts — s 4 and the specialised courts"]
-```
+- **Indonesia: which court?**
+  - Relative competence: geographical; the defendant's domicile; raised by exception → [2-32](#clk-m-2-32)
+  - Absolute competence: subject matter; can be raised any time → [2-33](#clk-m-2-33)
+  - International arbitral awards: district courts register, set aside and enforce only → [2-34](#clk-m-2-34)
+- **Thailand: which court?**
+  - Where the cause arose or the defendant is domiciled (CPC s 4); the specialised courts → [2-35](#clk-m-2-35)
 
 ### clk-m-2-32 — Relative competence and the exception
 *Keywords: relative competence, domicile, HIR Art 118(1), exception, decided before the merits*
@@ -1761,14 +1712,11 @@ flowchart TD
 
 ## 2.VII Ex aequo et bono
 
-```mermaid
-flowchart TD
-  C["CUES: decide on fairness, justice and appropriateness, mandatory law"] --> W{"Court or arbitration?"}
-  W -- "court" --> L1["2-36 In the Indonesian courts"]
-  W -- "arbitration" --> M{"Mandate given?"}
-  M -- "yes" --> L2["2-37 Arbitrators with an ex aequo et bono mandate"]
-  M -- "no" --> L3["2-38 Arbitrators without the mandate"]
-```
+- **Can a court decide on fairness?**
+  - Indonesia: judges must explore society's sense of justice and cannot refuse a case for lack of law → [2-36](#clk-m-2-36)
+- **Can an arbitrator?**
+  - With the mandate: may depart from the law, but not from mandatory provisions → [2-37](#clk-m-2-37)
+  - Without the mandate: decides on the law only → [2-38](#clk-m-2-38)
 
 ### clk-m-2-36 — In the Indonesian courts
 *Keywords: ex aequo et bono, justice, Pancasila, cannot refuse a case, sense of justice*
@@ -1793,26 +1741,15 @@ flowchart TD
 
 ## 2.VIII Discovery and privilege
 
-**Getting documents**
-
-```mermaid
-flowchart TD
-  C["CUES: disclosure, request documents from the other side, discovery"] --> Q{"Which system?"}
-  Q -- "civil law generally" --> L1["2-39 Civil-law discovery generally"]
-  Q -- "Indonesia" --> L2["2-40 Discovery in Indonesia"]
-  Q -- "Thailand" --> L3["2-41 Discovery in Thailand"]
-```
-
-**Withholding documents**
-
-```mermaid
-flowchart TD
-  C["CUES: privilege, in-house counsel, regulator demands documents, KPK"] --> Q{"Which point?"}
-  Q -- "general position" --> L1["2-42 Confidentiality, not privilege"]
-  Q -- "Indonesia" --> L2["2-43 Indonesia — advocates' confidentiality and the KPK"]
-  Q -- "Thailand" --> L3["2-44 Thailand — the lawyer may refuse"]
-  Q -- "grounds to withhold" --> L4["2-45 Grounds for withholding documents"]
-```
+- **Can a party get documents from the other side?**
+  - Civil law generally: very limited disclosure → [2-39](#clk-m-2-39)
+  - Indonesia: no compulsory disclosure → [2-40](#clk-m-2-40)
+  - Thailand: no duty to disclose; list relied-on documents 7 days before the hearing → [2-41](#clk-m-2-41)
+- **Can documents be withheld? (privilege)**
+  - Generally: confidentiality, not privilege; in-house counsel usually not covered → [2-42](#clk-m-2-42)
+  - Indonesia: licensed advocates only; the KPK can seize → [2-43](#clk-m-2-43)
+  - Thailand: no privilege; the lawyer may refuse; in-house not covered → [2-44](#clk-m-2-44)
+  - Grounds to withhold (official key): attorney-client privilege, trade secrets, irrelevance → [2-45](#clk-m-2-45)
 
 ### clk-m-2-39 — Civil-law discovery generally
 *Keywords: discovery, disclosure, document production, no general right to request*
@@ -1865,17 +1802,14 @@ flowchart TD
 
 ## 3.I Choice of law — contract
 
-```mermaid
-flowchart TD
-  C["CUES: which law governs the contract, choice-of-law clause, place of performance"] --> S{"What is the issue?"}
-  S -- "formation, agency or capacity" --> L1["3-2 Formation, agency and capacity"]
-  S -- "other contract issues" --> E{"Express choice?"}
-  E -- "yes" --> L2["3-3 Stage 1 — express choice and bona fides"]
-  E -- "no" --> I{"Implied choice found?"}
-  I -- "yes" --> L3["3-4 Stage 2 — implied choice"]
-  I -- "no" --> L4["3-5 Stage 3 — objective choice and weight of factors"]
-  C -- "non-state rules chosen" --> L5["3-1 A choice of law must be a state's law"]
-```
+- **Was a state's law chosen?**
+  - Only a state's law counts; not non-state rules or soft law → [3-1](#clk-m-3-1)
+- **Is the issue formation, agency or capacity?**
+  - A similar 3-stage rule; capacity can also follow the defendant's domicile → [3-2](#clk-m-3-2)
+- **Which law governs the contract? (3 stages)**
+  - Stage 1, express choice: applies if bona fide and legal (fails only if made solely to evade a foreign law) → [3-3](#clk-m-3-3)
+  - Stage 2, implied choice: inferred from factors such as the jurisdiction clause, language and currency → [3-4](#clk-m-3-4)
+  - Stage 3, objective choice: the place of performance and related transactions weigh most → [3-5](#clk-m-3-5)
 
 ### clk-m-3-1 — A choice of law must be a state's law
 *Keywords: lex causae, governing law, state law, soft law, model law*
@@ -1914,16 +1848,15 @@ flowchart TD
 
 ## 3.II Choice of law — tort
 
-```mermaid
-flowchart TD
-  C["CUES: tort with foreign elements, actionable here or there, lex loci delicti"] --> L1["3-6 Double actionability"]
-  C --> T{"Which tort?"}
-  T -- "negligence" --> L2["3-7 Negligence — where the conduct occurred"]
-  T -- "misrepresentation" --> L3["3-8 Misrepresentation — where received and acted on"]
-  T -- "conspiracy" --> L4["3-9 Conspiracy — the most-connected place"]
-  T -- "other" --> L5["3-10 The general rule"]
-  C -- "one law purely fortuitous?" --> L6["3-11 The flexible exception"]
-```
+- **What is the basic rule?**
+  - Double actionability: actionable under both Singapore law and the lex loci delicti → [3-6](#clk-m-3-6)
+- **Where is the lex loci delicti?**
+  - Negligence: where the conduct occurred → [3-7](#clk-m-3-7)
+  - Misrepresentation: where it was received and acted on → [3-8](#clk-m-3-8)
+  - Conspiracy: the most-connected place → [3-9](#clk-m-3-9)
+  - Other torts: where in substance the cause of action arose → [3-10](#clk-m-3-10)
+- **Can either law be disapplied?**
+  - Flexible exception: only if that law is purely fortuitous → [3-11](#clk-m-3-11)
 
 ### clk-m-3-6 — Double actionability
 *Keywords: double actionability, lex fori, lex loci delicti, Rickshaw*
@@ -1969,15 +1902,12 @@ flowchart TD
 
 ## 3.III Limits on choice of law
 
-```mermaid
-flowchart TD
-  C["CUES: limitation period, evidence, remedy, Singapore statute, public policy, discriminatory rule"] --> P{"Procedural issue?"}
-  P -- "evidence or remedies" --> L1["3-12 Procedure is for the lex fori"]
-  P -- "limitation" --> L2["3-13 Limitation — Foreign Limitation Periods Act"]
-  C --> S{"Substantive override?"}
-  S -- "Singapore statute" --> L3["3-14 Forum mandatory rules"]
-  S -- "foreign rule offends policy" --> L4["3-15 Public policy"]
-```
+- **Is the issue procedural?**
+  - Evidence and remedies: the lex fori → [3-12](#clk-m-3-12)
+  - Limitation: the lex causae (Foreign Limitation Periods Act ss 3–4) → [3-13](#clk-m-3-13)
+- **Is there a substantive override?**
+  - A Singapore statute, expressly or impliedly (forum mandatory rules) → [3-14](#clk-m-3-14)
+  - A foreign rule that offends fundamental public policy → [3-15](#clk-m-3-15)
 
 ### clk-m-3-12 — Procedure is for the lex fori
 *Keywords: procedure, substance, evidence, presumptions, remedies, lex fori, Goh Suan Hee*
@@ -2009,15 +1939,12 @@ flowchart TD
 
 ## 3.IV Jurisdiction — service in Singapore
 
-```mermaid
-flowchart TD
-  C["CUES: defendant served in Singapore, transit, foreign company with branch, stay"] --> X{"Existence: who was served?"}
-  X -- "individual" --> L1["3-16 Individuals — present even fleetingly"]
-  X -- "company" --> L2["3-17 Companies — incorporated or carrying on business"]
-  C --> E{"Exercise: should Singapore hear it?"}
-  E -- "natural forum" --> L3["3-18 Spiliada stage 1 — D shows another forum is more appropriate"]
-  E -- "injustice abroad" --> L4["3-19 Spiliada stage 2 — real risk of injustice abroad"]
-```
+- **Does jurisdiction exist? Who was served in Singapore?**
+  - An individual: present even fleetingly → [3-16](#clk-m-3-16)
+  - A company: Singapore-incorporated, or foreign with a place of business here → [3-17](#clk-m-3-17)
+- **Should Singapore hear it? (Spiliada)**
+  - Stage 1: the defendant shows another forum is more appropriate → [3-18](#clk-m-3-18)
+  - Stage 2: the claimant shows a real risk of injustice abroad → [3-19](#clk-m-3-19)
 
 ### clk-m-3-16 — Individuals — present even fleetingly
 *Keywords: service in Singapore, presence, fleeting presence, Burgundy, SCJA s 16(1)(a)(i)*
@@ -2049,15 +1976,13 @@ flowchart TD
 
 ## 3.V Jurisdiction — service out of Singapore
 
-```mermaid
-flowchart TD
-  C["CUES: defendant abroad, serve out, Court's approval, O 8 r 1, PD 63"] --> L1["3-20 The O 8 r 1 test and the burden on C"]
-  C --> N{"Which nexus head (PD 63(3))?"}
-  N -- "contract made, agent, law or clause here" --> L2["3-21 Contract heads — PD 63(3)(d)"]
-  N -- "breach here" --> L3["3-22 Breach in Singapore — PD 63(3)(e)"]
-  N -- "tort act here or Singapore law of the tort" --> L4["3-23 Tort act or Singapore law of the tort — PD 63(3)(f)(i), (p)"]
-  N -- "damage suffered here" --> L5["3-24 Damage suffered in Singapore — PD 63(3)(f)(ii)"]
-```
+- **What is the test for service out?**
+  - Court approval (O 8 r 1): good arguable case of nexus, forum conveniens, serious question on the merits; the burden is on the claimant → [3-20](#clk-m-3-20)
+- **Which nexus head (PD 63(3))?**
+  - Contract made, through an agent, governed by Singapore law, or with a Singapore clause ((d)) → [3-21](#clk-m-3-21)
+  - Breach in Singapore ((e)) → [3-22](#clk-m-3-22)
+  - Tort act in Singapore, or Singapore as the lex loci delicti ((f)(i), (p)) → [3-23](#clk-m-3-23)
+  - Damage suffered in Singapore ((f)(ii)) → [3-24](#clk-m-3-24)
 
 ### clk-m-3-20 — The O 8 r 1 test and the burden on C
 *Keywords: service out, O 8 r 1(1), PD 63(2), good arguable case, sufficient nexus, forum conveniens, serious question, Spiliada*
@@ -2096,26 +2021,15 @@ flowchart TD
 
 ## 3.VI Jurisdiction clauses
 
-**Stay or no stay?**
-
-```mermaid
-flowchart TD
-  C["CUES: exclusive or non-exclusive jurisdiction clause, stay, strong cause"] --> T{"Is the clause exclusive?"}
-  T -- "yes" --> E{"Which court is named?"}
-  E -- "Singapore" --> L1["3-25 Exclusive Singapore clause — strong cause"]
-  E -- "foreign court" --> L2["3-26 Exclusive foreign clause — stay unless strong cause"]
-  T -- "no" --> N{"Which court is named?"}
-  N -- "Singapore" --> L3["3-27 Non-exclusive Singapore clause — strong cause"]
-  N -- "foreign court" --> L4["3-28 Non-exclusive foreign clause — natural forum"]
-```
-
-**Service and treaties**
-
-```mermaid
-flowchart TD
-  C["CUES: clause provides for service out, Hague Choice of Court"] --> L1["3-29 Clause providing for service out"]
-  C --> L2["3-30 Hague Choice of Court (COCAA) — not covered"]
-```
+- **Is the clause exclusive?**
+  - Exclusive, naming Singapore: no stay without strong cause → [3-25](#clk-m-3-25)
+  - Exclusive, naming a foreign court: stay unless strong cause → [3-26](#clk-m-3-26)
+- **Is it non-exclusive?**
+  - Naming Singapore: strong cause → [3-27](#clk-m-3-27)
+  - Naming a foreign court: the natural forum test; the clause is only a factor → [3-28](#clk-m-3-28)
+- **Service and treaties**
+  - A clause providing for service out: no Court approval needed (O 8 r 1(3)) → [3-29](#clk-m-3-29)
+  - Hague Choice of Court (COCAA): not covered → [3-30](#clk-m-3-30)
 
 ### clk-m-3-25 — Exclusive Singapore clause — strong cause
 *Keywords: exclusive jurisdiction clause, strong cause, Vinmar, abuse of process, party autonomy*
@@ -2161,13 +2075,11 @@ flowchart TD
 
 ## 3.VII Submission by conduct
 
-```mermaid
-flowchart TD
-  C["CUES: defendant files a defence, contests summary judgment, seeks an injunction, contests jurisdiction"] --> L1["3-31 The test for submission"]
-  C --> S{"Does D's step submit?"}
-  S -- "yes" --> L2["3-32 Steps that submit"]
-  S -- "no" --> L3["3-33 Steps that do not submit"]
-```
+- **What is the test?**
+  - A clear and unequivocal step inconsistent with objecting to jurisdiction → [3-31](#clk-m-3-31)
+- **Does this step submit?**
+  - Yes: a defence on the merits, contesting summary judgment, seeking status-quo injunctions → [3-32](#clk-m-3-32)
+  - No: a notice to contest, or challenging jurisdiction or the natural forum → [3-33](#clk-m-3-33)
 
 ### clk-m-3-31 — The test for submission
 *Keywords: submission by conduct, SCJA s 16(1)(b), clear and unequivocal step, Reputation Administration v Spamhaus*
@@ -2192,15 +2104,12 @@ flowchart TD
 
 ## 3.VIII Anti-suit injunctions
 
-```mermaid
-flowchart TD
-  C["CUES: restrain foreign proceedings, parallel suit abroad, sued in breach of a clause"] --> J{"Respondent amenable to Singapore jurisdiction?"}
-  J -- "no" --> L1["3-34 Jurisdiction over the respondent is a prerequisite"]
-  J -- "yes" --> K{"Jurisdiction clause?"}
-  K -- "Singapore clause" --> L2["3-35 Contractual ASIs — readily granted"]
-  K -- "foreign court clause" --> L3["3-36 Foreign-court clause — no ASI"]
-  K -- "none" --> L4["3-37 Non-contractual ASIs — vexation or oppression"]
-```
+- **Is the respondent amenable to Singapore jurisdiction?**
+  - It must be; this is a prerequisite → [3-34](#clk-m-3-34)
+- **Is there a jurisdiction clause?**
+  - A Singapore clause: readily granted, absent strong cause or delay → [3-35](#clk-m-3-35)
+  - A foreign-court clause: no ASI (*Akai*) → [3-36](#clk-m-3-36)
+  - No clause: Singapore is the natural forum, and the foreign suit is vexatious or oppressive → [3-37](#clk-m-3-37)
 
 ### clk-m-3-34 — Jurisdiction over the respondent is a prerequisite
 *Keywords: anti-suit injunction, ASI, Lakshmi factors, amenable to jurisdiction*
@@ -2232,13 +2141,11 @@ flowchart TD
 
 ## 3.IX Foreign judgments — recognition
 
-```mermaid
-flowchart TD
-  C["CUES: recognise or enforce a foreign judgment, default judgment, interlocutory order"] --> L1["3-38 International jurisdiction — four bases only"]
-  C --> F{"Final and conclusive on the merits?"}
-  F -- "a final judgment" --> L2["3-39 Final and conclusive judgments"]
-  F -- "an interlocutory order" --> L3["3-40 Interim and interlocutory orders"]
-```
+- **Did the foreign court have international jurisdiction?**
+  - Four bases only: the debtor was the claimant, was present, submitted, or agreed a clause → [3-38](#clk-m-3-38)
+- **Is the judgment final and conclusive?**
+  - A final judgment: cannot be varied by the court that gave it, even if appealable → [3-39](#clk-m-3-39)
+  - An interim or interlocutory order: final only on the issues it had to decide → [3-40](#clk-m-3-40)
 
 ### clk-m-3-38 — International jurisdiction — four bases only
 *Keywords: international jurisdiction, Giant Light, claimant, presence, submission, jurisdiction clause, Pemberton v Hughes*
@@ -2263,25 +2170,14 @@ flowchart TD
 
 ## 3.X Foreign judgments — defences and consequences
 
-**Defences**
-
-```mermaid
-flowchart TD
-  C["CUES: judgment obtained by fraud, without notice, against public policy"] --> D{"Which defence?"}
-  D -- "no notice or hearing" --> L1["3-41 Breach of natural justice"]
-  D -- "fraud" --> F{"Which kind of fraud?"}
-  F -- "from within the trial" --> L2["3-42 Intrinsic fraud"]
-  F -- "from outside the trial" --> L3["3-43 Extrinsic fraud"]
-  D -- "public policy" --> L4["3-44 Public policy"]
-```
-
-**Consequences**
-
-```mermaid
-flowchart TD
-  C["CUES: enforce a money judgment, estoppel, Henderson"] --> L1["3-45 Enforcing money judgments"]
-  C --> L2["3-46 Estoppel — issue and Henderson"]
-```
+- **Which defence?**
+  - No notice or no hearing: breach of natural justice → [3-41](#clk-m-3-41)
+  - Fraud from within the trial: only on evidence the foreign court did not consider → [3-42](#clk-m-3-42)
+  - Fraud from outside the trial: a defence even if the evidence was considered → [3-43](#clk-m-3-43)
+  - Fundamental public policy, including an egregious error of Singapore law → [3-44](#clk-m-3-44)
+- **What follows recognition?**
+  - Enforce a money judgment by an action for the debt → [3-45](#clk-m-3-45)
+  - Issue estoppel and Henderson estoppel → [3-46](#clk-m-3-46)
 
 ### clk-m-3-41 — Breach of natural justice
 *Keywords: natural justice, notice, opportunity to be heard, Paulus Tannos, summary judgment without notice*

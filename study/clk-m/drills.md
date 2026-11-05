@@ -21,11 +21,13 @@ Self-study only. Don't use these with any live quiz or assessment (Handbook §7.
 
 | Set | When | Qs | Score | Missed | Notes |
 |---|---|---|---|---|---|
-| Drill 1 DPCR | Wed 4 Nov | 16 | — | — | not yet sat |
-| Drill 2 Law & Tech | Thu 5 Nov | 16 | — | — | not yet sat |
+| SampleQs DPCR (official, SampleQs p89–92) | Wed 4 Nov | 10 | 8/10 | Q3, Q6 | Q3: no "specific correction order" (it is *targeted*), fixed in clk-m-0-65. Q6: misread (ISO 27001 is not mandatory, clk-m-0-40); no pack change |
+| Drill 1 DPCR | Wed 4 Nov | 16 | 11/16 | DP3, DP5, DP8, DP14, DP15 | All five were lookup failures; see `weak-spots.md` W1–W6. Searched-for terms now hit: "data intermediary"/"DI obligations" (0-6), "legitimate interests"/"outweigh" (0-17), "s48O"/"emotional distress" (0-33, 0-34), "cybersecurity code of practice" (0-49), "general correction order"/"serious harm" (0-66), "computer" (0-72) |
+| SampleQs Law & Tech (official, SampleQs p93–96) | Wed 4 Nov | 10 | 9/10 | Q5 | "Regulations don't count as law?" They do: regulations sit inside law, so "Regulations" is not a fifth modality. Answered in clk-m-1-8 |
+| Drill 2 Law & Tech (Bennett's "LT Drill 1") | Wed 4 Nov | 16 | 16/16 | — | Asked on LT1: "what's the difference between code and law?" Answered in clk-m-1-3 |
 | Drill 3 Comparative | Thu 5 Nov | 12 | — | — | not yet sat |
 | Drill 4 Conflicts | Fri 6 Nov, morning | 14 | — | — | not yet sat |
-| **mock-1** Practice Paper (Part A official 40 + Part B 20) | Fri 6 Nov, 2:30–4:30pm | 60 | — | — | sit with `reference-pack.pdf`; log failed lookups |
+| **mock-1** Practice Paper (Part A official 40 + Part B 20) | Fri 6 Nov, 2:30–4:30pm | 60 | — | — | sit with `reference-pack.pdf`; log failed lookups. Part A's DPCR and Law & Tech questions (SampleQs) were already sat on 4 Nov, so they are no longer unseen |
 
 ---
 
@@ -167,7 +169,7 @@ D. Only the access and correction rights apply.
 | DP8 | **C** | s 48O covers Parts 4–6B, not Part 3 (ss 11–12); loss of control alone ≠ loss (Reed [108]) [PDPA p73; Reed p48] | A: distress counts (Reed [107]) but the wrong Part is relied on. B: the reverse — any PDPC decision must be *final* first. D: distress can be loss |
 | DP9 | **D** | Turnover > $10m → 10% of Singapore turnover = $5m [PDPA s 48J(3) p64] | A: the $1m cap applies only to turnover ≤ $10m. C, B: wrong |
 | DP10 | **D** | Delivering the essential service is not a CII-owner duty [official key: SampleQs p89 Q2] | A: s 13 (7 days). B: s 15 (every 2 years). C: s 14 [CYSA p17–23] |
-| DP11 | **D** | s 11: no legislative effect, but compliance is required unless waived [CYSA p19] | A: no legislative effect. C: compliance is mandatory for CII owners. B: CII owners only |
+| DP11 | **D** | s 35A(5)–(7) (formerly s 11, repealed 31 Oct 2025): no legislative effect, but compliance is required unless waived [SSO-CYSA s 35A; CYSA p19] | A: no legislative effect. C: compliance is mandatory for CII owners. B: CII owners only |
 | DP12 | **D** | "Reasonable" arrangements; includes loss of storage media; contextual factors [PDPA s 24; DP-2 p40–43] | A: "all necessary" is the official sample's distractor. C: no mandated standard. B: intermediaries are bound too [DP-2 p44] |
 | DP13 | **A** | s 3 needs intent plus resulting distress [POHA p8–9]; s 11 tort; s 12 protection order [POHA p23–26] | B: s 4 is fine only. C: the common-law tort is abolished (s 14). D: POHA covers communications by any means |
 | DP14 | **A** | s 15A stop publication order against the publisher; s 15C disabling order against the intermediary [POHA p38–41] | B: no such order. C: ministerial directions are POFMA (non-core), not POHA. D: a general correction order needs a *prescribed* respondent and serious harm (s 15E) |

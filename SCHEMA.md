@@ -63,7 +63,7 @@ summary only. Terms are as defined in PRD §3.
 | `question-bank.md` | written | Likely questions by Source Tier | `QB-<n>` rows (Conventions) |
 | `prewrites.md` | written | I-CRUPAC Pre-writes | AD-4 blocks, IDs per AD-3 |
 | `templates.md` | `drp-w` | Written Advocacy Templates | AD-4 blocks |
-| `flowcharts.md` | MCQ | Cue chart per Topic plus end-point blocks | AD-5 + AD-4 |
+| `flowcharts.md` | MCQ | Q&A Cheatsheet per Topic plus end-point blocks (file name predates Cheatsheets) | AD-5 + AD-4 |
 | `drills.md` | all | Drills and Practice Papers (`pyp-<year>` / `mock-<n>`, `Covers:` line), answers, marks | AD-8 |
 | `weak-spots.md` | all | `WS-<n>` rows linked to the content ID fixed | Conventions |
 | `reference-pack.pdf` | all | Generated — never hand-edited | `python3 tools/build_pack.py <paper-id>` (AD-6) |
@@ -78,7 +78,7 @@ summary only. Terms are as defined in PRD §3.
   `Admin/` (handbook, code of conduct, opening brief), `Modules/<module>/<subject>/`,
   `Sample Questions/`, `Seniors Notes/` (Cyril's notes: `Stuff/` per-module materials,
   `For exam/finalised muggers/` per module, `For exam/Exam files/` his 2025 exam-day
-  files per paper; Nic's package: 2021–2023 past papers and an exam go-pack),
+  files per paper; Nic's package: 2018–2025 past papers (no 2024; index in `3. PYP/PYP index.md`) and an exam go-pack),
   `Bar Dump.docx`, `BENNETT_S BAR PROGRESS.xlsx`.
 - **Hard-coded in the tracker page**: paper list, subject lists, exam dates, admin tasks,
   start date. Changing any of these means republishing the artifact, not writing the doc.

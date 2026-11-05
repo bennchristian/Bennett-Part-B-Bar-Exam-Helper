@@ -102,7 +102,7 @@ flowchart TD
 - **Rule:**
   - **Format:** every content block has an ID of the form `<paper>-<subject#>-<n>`, e.g. `eth-w-0-7` or `clk-m-2-14`. `n` counts up per Subject across all of that Paper's content files.
   - **Never reused:** IDs are never renumbered or reused. A deleted block's ID is retired.
-  - **Short form:** inside a pack, where the Paper is obvious, the short form `<subject#>-<n>` (e.g. `0-7`) may be used in prose and chart labels.
+  - **Short form:** inside a pack, where the Paper is obvious, the short form `<subject#>-<n>` (e.g. `0-7`) may be used in prose and Cheatsheet links.
 
 ### AD-4 — Fixed content block `[ADOPTED]`
 
@@ -131,15 +131,15 @@ flowchart TD
   - **Preamble:** text before a file's first `## ` is that file's preamble and goes into the pack as is, e.g. stock opening and closing lines.
   - **Source aliases:** an alias must be defined in the Paper's source key, which is `outline.md`'s key or a `## Source key` section in `coverage.md`.
 
-### AD-5 — Flowchart = small cue chart per Topic + text end points `[ADOPTED]`
+### AD-5 — Cheatsheet = Q&A cue list per Topic + text end points `[ADOPTED; revised 4 Nov 2026]`
 
 - **Binds:** FR-1, FR-2, MCQ Papers (`drp-m`, `pcp-m`, `ccp-1`, `ccp-2`, `clk-m`)
-- **Prevents:** shrunk, unreadable charts; phrase search failing on wrapped chart labels; answers sometimes in the chart and sometimes in the text.
+- **Prevents:** answers sometimes in the cue list and sometimes in the text; cross-references that are dead or carry no page.
 - **Rule:**
-  - **Placement:** `flowcharts.md` has one `## <Topic>` per Topic. Directly under it sits one ` ```mermaid ` `flowchart` fence, at column 0. Below the fence come that Topic's end-point blocks (AD-4).
-  - **Content:** the chart runs from question cues to leaf nodes. Each leaf label starts with the end point's short ID (e.g. `"0-12 Deemed consent by conduct"`). Charts hold no answers and no citations.
-  - **Size and labels:** `flowchart TD` (top-down), with **at most 4 boxes side by side** at any level and about 12 nodes in all. Width is what shrinks labels when a chart is fitted to the page. A wider Topic splits into several fences under the same `##`, each headed by a bold label. Every node label is in double quotes.
-  - **Unchartable Topic:** a Topic that gets no chart says `none: <reason>` in its `coverage.md` rows.
+  - **Placement:** `flowcharts.md` (the name predates Cheatsheets and is kept) has one `## <Topic>` per Topic. Directly under it sits that Topic's Cheatsheet, a nested `- ` list. Below the list come the Topic's end-point blocks (AD-4).
+  - **Content:** top-level lines are **bold** question cues, broad to specific. Nested lines (two-space indent per level) narrow to the Sub-point. An answering line ends `→ [<short id>](#<full id>)`, e.g. `→ [0-12](#clk-m-0-12)`; the builder turns it into a link and prints the target's page. A line may carry a short answer, but the rule and its source live in the end-point block.
+  - **No Mermaid charts** for MCQ Topics. Bennett replaced them with Cheatsheets on 4 Nov 2026.
+  - **Topic without a Cheatsheet:** its `coverage.md` rows say `none: <reason>`. The builder warns when a Topic has neither a list nor a chart.
 
 ### AD-6 — One builder, `tools/build_pack.py` `[ADOPTED]`
 
@@ -147,7 +147,7 @@ flowchart TD
 - **Prevents:** a builder per Paper, hand-kept indexes, and builders stranded in session scratchpads.
 - **Rule:** `python3 tools/build_pack.py <paper-id>` is the only builder. It generalises the `eth-w` builder: headless Chrome, two passes, pypdf page lookup. It reads `coverage.md` plus whichever content files exist, then:
   1. **Contents page:** built from `coverage.md` in Subject → Topic → Sub-point order. Each row links to its block(s) and prints the page.
-  2. **Blocks:** content blocks in file order, followed by Flowcharts rendered offline as vector, with labels left as searchable text.
+  2. **Blocks:** content blocks in file order, with Cheatsheet links (`[id](#anchor)`) rendered as live links that print the target's page; a link to no block or section is a warning. Any Mermaid fence still renders offline as vector with searchable labels.
   3. **Keyword index:** built from `Keywords` lines and italicised case names, alphabetical, with links and page numbers.
   4. **Report:** prints per-Subject counts of rows by state (ID / `item 4` / `TODO` / `none`) and of `TODO: verify` lines. It separately lists **Tested rows with no ID**, which are the uncuttable item 2 gaps.
   5. **Failure:** exits non-zero and keeps the old PDF on any AD-2 mismatch, unparseable block, diagram that fails to render, or unstable page numbers. A failed diagram is detected by the builder itself, by looking for the renderer's error text in the output; a renderer's exit code is not trusted.
@@ -209,7 +209,7 @@ sequenceDiagram
 | --- | --- |
 | Working-file IDs | Question Bank `QB-<n>`; Drills `Drill <n>`; Practice Papers `pyp-<year>` / `mock-<n>`; Weak Spots `WS-<n>` (as `eth-w` already uses, except WS) |
 | Question Bank entry | Table row: ID · tier 1–3 · source (paper + year, or contact session) · question (short) · marks · coverage `Key`s it raises · tier 3 also names its target Topic |
-| Weak Spot entry | Table row: ID · date · from (Drill/PP ID) · coverage `Key` · kind (`wrong law` / `missed issue` / `failed lookup`) · fix = content ID + what changed (`keywords` / `title` / `body` / `chart` / `new block`) · `open`/`fixed` |
+| Weak Spot entry | Table row: ID · date · from (Drill/PP ID) · coverage `Key` · kind (`wrong law` / `missed issue` / `failed lookup`) · fix = content ID + what changed (`keywords` / `title` / `body` / `cheatsheet` / `new block`) · `open`/`fixed` |
 | Source conflict (FR-8) | A `Conflict:` sentence inside the Source note, naming both sources; the text follows the Course Materials |
 | Unknowns | `TODO: verify` for an unsourced proposition (RULES.md); counted by the build. SM-5 = zero at exam time |
 | Rebuild | At the end of any Paper Session turn that changed `coverage.md` or a content file, and before every Practice Paper |
@@ -253,7 +253,7 @@ tools/
 
 | Capability | Lives in | Governed by |
 | --- | --- | --- |
-| FR-1/FR-2 MCQ Flowcharts | `flowcharts.md` + `coverage.md` | AD-2, AD-4, AD-5, AD-6 |
+| FR-1/FR-2 MCQ Cheatsheets | `flowcharts.md` + `coverage.md` | AD-2, AD-4, AD-5, AD-6 |
 | FR-3/FR-4 Pre-writes | `prewrites.md` + `coverage.md` | AD-2, AD-3, AD-4 |
 | FR-5 Templates | `drp-w/templates.md` | AD-2, AD-4 |
 | FR-6 Question Bank | `question-bank.md`, `Tested` column | AD-2, conventions |
@@ -265,11 +265,7 @@ tools/
 ## Open Questions
 
 - **Who writes `tools/build_pack.py`, and by when?** The Main Session owns it, generalising `_bmad-output/planning-artifacts/architecture/architecture-Bennett-Part-B-Bar-Exam-Helper-2026-11-02/reference/eth-w-build_pack.py`. It is needed before `clk-m`'s first Practice Paper, around 6 Nov. Until then, `eth-w`'s current PDF stands, and other Papers may fall back to `make-pdf --toc` (text search only, which cut item 5 allows).
-- **How does the builder render Mermaid offline?** There are two options:
-  - Call the `make-pdf` binary (gstack 1.81.0.0 @ 0530392, Mermaid 11.16.1 bundled). It was verified on 2 Nov: labels stay text, there is no network access, and it takes about 11s per pass for 40 charts. But it applies smart quotes, adds a "CONFIDENTIAL" footer unless told not to, writes `.gstack/` into the working directory, exits 0 on a broken chart, and gstack updates itself.
-  - Copy a Mermaid 11.x bundle into `tools/vendor/` and keep the Chrome-direct path of the `eth-w` builder.
-
-  I lean the second, because it meets AD-6 step 6 without workarounds. The builder's author decides; either way the result must work offline and leave chart labels as text that `pdftotext` can extract.
+- **How does the builder render Mermaid offline?** Resolved: a vendored Mermaid 11.16.1 bundle in `tools/vendor/` (2 Nov). Since 4 Nov MCQ Papers use Cheatsheets, so it only matters for any diagram a Paper still includes.
 - **What may the reference device hold?** This is PRD Q1 and waits on the 2026 Examinations Rules. Only the copy step depends on it.
 
 ## Deferred

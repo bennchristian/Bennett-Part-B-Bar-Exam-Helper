@@ -42,24 +42,25 @@ What to build, in what priority, and what counts as done is in `PRD.md` (§4 fea
   factors). In the box each limb is its own `- ` line and sub-limbs indent two spaces per
   level; it is reference only and not retyped. Proof, Application and the restated
   Conclusion are written out, phrased "the lawyer did / did not breach r X, which states
-  …" or "here, r X applies, which states that …". Model answers state the rules in full
-  inline. No word cap; pasting is not allowed. In the text: cases by name in brackets
+  …" or "here, r X applies, which states that …". Model answers set out, in the rule's own words, only the rule and the limbs they rely on, keeping the limb letters (e.g. "r 44(2) … (c) …; or (d) …"). No word cap; pasting is not allowed. In the text: cases by name in brackets
   with the paragraph number where the sources give one, statutes by section. Never cite
   lecture notes or slides as authority. The `Bar Exam/` path and page go in a source
   note under the Pre-write, which is not retyped. Application is a pattern (trigger facts
   and how to apply), not a worked answer.
-- **Flowcharts (MCQ Papers):** one per Topic. Start from question cues, branch to the
-  Sub-point, end at the rule or answer with its source. An end-point block that gives a
-  rule keeps its 1–2 sentence answer and adds a Rule in full box, as for Pre-writes. Labels are text, not images, so
-  Ctrl-F finds them. Correct and clear beats pretty.
+- **Cheatsheets (MCQ Papers):** one per Topic, in `flowcharts.md` (ARCHITECTURE AD-5).
+  Under the Topic heading, a nested `- ` list runs from **bold** question cues down to the
+  Sub-point; each answering line ends `→ [<short id>](#<full id>)`, which the pack prints
+  with its page. No Mermaid charts. Each end-point block gives the rule or answer and its
+  source; one that gives a rule keeps its 1–2 sentence answer and adds a Rule in full box,
+  as for Pre-writes. Cues are text, so Ctrl-F finds them. Correct and clear beats pretty.
 - **Coverage List first:** a Subject's Topics and Sub-points are listed from its
-  syllabus, learning plan and Course Materials before any Pre-write or Flowchart.
+  syllabus, learning plan and Course Materials before any Pre-write or Cheatsheet.
 - **Marking:** written answers on I-CRUPAC structure, accuracy and Sub-point coverage;
   MCQs with why the right option is right and each wrong one is wrong. Pass marks are not
   50% (Handbook §7.5).
 - **Examinable scope only** — the subjects in `SCHEMA.md`. Litigation Technology, Law &
   Society and Professional Skills get no study time unless Bennett asks.
-- **Exam week (1–11 Dec):** fixes to existing Pre-writes, Flowcharts and index only; no
+- **Exam week (1–11 Dec):** fixes to existing Pre-writes, Cheatsheets and index only; no
   new Topics.
 - Don't reproduce course materials wholesale into `study/`; condense.
 

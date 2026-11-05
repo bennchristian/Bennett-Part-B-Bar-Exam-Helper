@@ -31,8 +31,8 @@ into `reference-pack.pdf`) and `drills.md`.
 Contact sessions still to come:
 - **Conflicts CS II on Fri 13 Nov, 5:30–7:30pm**, covering ASIs and foreign judgments
   [CoL-Plan p3].
-- The DPCR CS II, which covered the AI materials, was on 2 Nov [DP-Plan p5]. Its slides are the
-  missing source for topic 0.X (AI regulation).
+- The DPCR CS II, which covered the AI materials, was on 2 Nov [DP-Plan p5]. Topic 0.X (AI
+  regulation) is Non-Core and left uncovered unless its slides turn up.
 
 ## Source key
 
@@ -421,9 +421,10 @@ Statute page references are to the Go Pack copies: PDPA in force from 1/10/2022,
 
 - The learning plan covers, "in brief": PDPC's **Model AI Governance Framework**, how the PDPA
   applies to AI systems, and AI ethics and data governance [DP-Plan p4].
-- **TODO: source missing.** No AI deck is in the DPCR folder, and none of the official sample
-  questions test AI. Check whether the 2 Nov Contact Session II slides are on Campus. Don't
-  learn the framework's principles from memory or seniors' notes.
+- **Non-Core, not covered (Bennett, 4 Nov 2026).** The topic is in blue, which the learning
+  plan uses for Non-Core Knowledge [DP-Plan p1]. No AI deck is in the DPCR folder, and none of
+  the official sample questions test AI. If the 2 Nov Contact Session II slides turn up, add one
+  short block; don't write it from memory or seniors' notes.
 - Related material in Law & Tech: the AI lecture (§2.7). Note that EU law is
   not examined [LT-CS2n p4].
 

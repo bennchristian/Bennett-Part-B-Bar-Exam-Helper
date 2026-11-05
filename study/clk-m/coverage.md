@@ -7,23 +7,27 @@ conflicts are recorded in the Source notes in `flowcharts.md`).
 **Columns:**
 - *Key* is `<subject>.<Topic>.<n>`.
 - *Tested* is left at `—`, because the CLK paper has no Question Bank (MCQ Paper).
-- *Covered by* is the end-point block in `flowcharts.md`, or `TODO` where there is no source
-  yet.
+- *Covered by* is the end-point block in `flowcharts.md`, or `none: <reason>` for a
+  Sub-point that is deliberately not covered.
 
 Source aliases are defined in `outline.md` → "Source key".
 
-**Status (3 Nov 2026):** every Topic except 0.X has a Flowchart. 223 of 226 Sub-points are
-covered. The 3 `TODO` rows are DPCR AI regulation: the library has no slides for it. Three rows
-were added on 3 Nov:
+**Status (4 Nov 2026):** every Topic except 0.X has a Q&A cheatsheet (the Mermaid charts were
+replaced on 4 Nov at Bennett's request), and there are no `TODO` rows. 224 of 227 Sub-points
+are covered. The 3 `none` rows are DPCR AI regulation, which is Non-Core
+(blue) in the learning plan and has no slides in the library. Three rows were added on 3 Nov:
 - 0.VII.10–11, for CYSA ss 16A and 17 [DP-Plan p5; SSO-CYSA];
 - 0.IX.8, for the POHA administrator orders [SSO-POHA].
 
-| Subject | Topics | Rows | Covered by an ID | TODO |
-|---|---|---|---|---|
-| 0 Data Protection & Cyber Regulation | 10 | 74 | 71 | 3 |
-| 1 Law & Technology | 10 | 61 | 61 | 0 |
-| 2 Comparative Laws | 8 | 45 | 45 | 0 |
-| 3 Conflict of Laws | 10 | 46 | 46 | 0 |
+One row was added on 4 Nov: 0.VII.12, for the CYSA s 2 "computer" definitions (a Drill 1 lookup
+failure).
+
+| Subject | Topics | Rows | Covered by an ID | none (Non-Core) | TODO |
+|---|---|---|---|---|---|
+| 0 Data Protection & Cyber Regulation | 10 | 75 | 72 | 3 | 0 |
+| 1 Law & Technology | 10 | 61 | 61 | 0 | 0 |
+| 2 Comparative Laws | 8 | 45 | 45 | 0 | 0 |
+| 3 Conflict of Laws | 10 | 46 | 46 | 0 | 0 |
 
 ## 0 · Data Protection & Cyber Regulation
 
@@ -36,7 +40,7 @@ were added on 3 Nov:
 | 0.I.3 | Deceased individuals | — | clk-m-0-3 |
 | 0.I.4 | Excluded persons — domestic, employee, public agency | — | clk-m-0-4 |
 | 0.I.5 | Organisations bound, including foreign ones | — | clk-m-0-5 |
-| 0.I.6 | Data intermediaries | — | clk-m-0-6 |
+| 0.I.6 | Data intermediaries — what a DI owes | — | clk-m-0-6 |
 | 0.I.7 | Contracts, other laws and PDPC guidelines | — | clk-m-0-7 |
 
 ### 0.II Consent and legal bases
@@ -52,7 +56,7 @@ were added on 3 Nov:
 | 0.II.7 | Notification of purposes is not a legal basis | — | clk-m-0-14 |
 | 0.II.8 | Vital interests | — | clk-m-0-15 |
 | 0.II.9 | Matters affecting the public | — | clk-m-0-16 |
-| 0.II.10 | Legitimate interests | — | clk-m-0-17 |
+| 0.II.10 | Legitimate interests — must outweigh adverse effects; never for marketing | — | clk-m-0-17 |
 | 0.II.11 | Business asset transactions | — | clk-m-0-18 |
 | 0.II.12 | Business improvement | — | clk-m-0-19 |
 | 0.II.13 | Research | — | clk-m-0-20 |
@@ -78,8 +82,8 @@ were added on 3 Nov:
 | 0.IV.3 | Correction requests | — | clk-m-0-30 |
 | 0.IV.4 | No right to erasure | — | clk-m-0-31 |
 | 0.IV.5 | Data portability | — | clk-m-0-32 |
-| 0.IV.6 | Private action — which breaches | — | clk-m-0-33 |
-| 0.IV.7 | Private action — what counts as loss (Reed v Bellingham) | — | clk-m-0-34 |
+| 0.IV.6 | Private action under s 48O — which breaches | — | clk-m-0-33 |
+| 0.IV.7 | Private action — is emotional distress loss? (Reed v Bellingham) | — | clk-m-0-34 |
 
 ### 0.V PDPC enforcement and offences
 
@@ -109,7 +113,7 @@ were added on 3 Nov:
 | 0.VII.1 | Designation of CII | — | clk-m-0-46 |
 | 0.VII.2 | Reporting changes — 30 days and 7 days | — | clk-m-0-47 |
 | 0.VII.3 | Reporting cybersecurity incidents | — | clk-m-0-48 |
-| 0.VII.4 | Codes of practice and directions | — | clk-m-0-49 |
+| 0.VII.4 | Cybersecurity code of practice and directions | — | clk-m-0-49 |
 | 0.VII.5 | Cybersecurity exercises and appeals | — | clk-m-0-50 |
 | 0.VII.6 | Audits and risk assessments | — | clk-m-0-51 |
 | 0.VII.7 | Running the essential service is not a duty | — | clk-m-0-52 |
@@ -117,6 +121,7 @@ were added on 3 Nov:
 | 0.VII.9 | Investigation and serious-incident powers (Part 4) | — | clk-m-0-54 |
 | 0.VII.10 | Third-party-owned CII — designated provider (s 16A) | — | clk-m-0-69 |
 | 0.VII.11 | System of temporary cybersecurity concern (s 17) | — | clk-m-0-70 |
+| 0.VII.12 | What is a "computer" and a "computer system" (CYSA s 2) | — | clk-m-0-72 |
 
 ### 0.VIII POHA — offences and civil remedies
 
@@ -137,8 +142,8 @@ were added on 3 Nov:
 | 0.IX.1 | Stop publication order (s 15A) | — | clk-m-0-62 |
 | 0.IX.2 | Correction order (s 15B) | — | clk-m-0-63 |
 | 0.IX.3 | Disabling order (s 15C) | — | clk-m-0-64 |
-| 0.IX.4 | Targeted correction order (s 15D) | — | clk-m-0-65 |
-| 0.IX.5 | General correction order (s 15E) | — | clk-m-0-66 |
+| 0.IX.4 | Targeted correction order (s 15D) — not a "specific" correction order | — | clk-m-0-65 |
+| 0.IX.5 | General correction order (s 15E) — prescribed respondent and serious harm | — | clk-m-0-66 |
 | 0.IX.6 | Requirements common to the false-statement orders | — | clk-m-0-67 |
 | 0.IX.7 | POFMA (non-core) | — | clk-m-0-68 |
 | 0.IX.8 | Administrator orders (ss 15CA, 15CB) | — | clk-m-0-71 |
@@ -147,11 +152,11 @@ were added on 3 Nov:
 
 | Key | Sub-point | Tested | Covered by |
 |---|---|---|---|
-| 0.X.1 | PDPC Model AI Governance Framework | — | TODO |
-| 0.X.2 | Application of the PDPA to AI systems | — | TODO |
-| 0.X.3 | AI ethics and data governance | — | TODO |
+| 0.X.1 | PDPC Model AI Governance Framework | — | none: Non-Core (blue in the learning plan) [DP-Plan p1, p4] |
+| 0.X.2 | Application of the PDPA to AI systems | — | none: Non-Core (blue in the learning plan) [DP-Plan p1, p4] |
+| 0.X.3 | AI ethics and data governance | — | none: Non-Core (blue in the learning plan) [DP-Plan p1, p4] |
 
-TODO rows: no slides in the course library or Cyril's notes; listed "in brief" [DP-Plan p4]; get the 2 Nov Contact Session II deck.
+Non-Core rows (decided by Bennett, 4 Nov 2026): the learning plan marks Non-Core Knowledge in blue, and candidates can pass on the Core Knowledge alone [DP-Plan p1]. This topic is listed only "in brief" [DP-Plan p4], and the library has no slides for it. If the 2 Nov Contact Session II deck turns up, add one short block.
 
 ## 1 · Law & Technology
 
@@ -161,7 +166,7 @@ TODO rows: no slides in the course library or Cyril's notes; listed "in brief" [
 |---|---|---|---|
 | 1.I.1 | The Big Question | — | clk-m-1-1 |
 | 1.I.2 | Easterbrook — the Law of the Horse | — | clk-m-1-2 |
-| 1.I.3 | Lessig — the four constraints | — | clk-m-1-3 |
+| 1.I.3 | Lessig — the four constraints; code versus law | — | clk-m-1-3 |
 | 1.I.4 | Lessig — why cyberspace is special | — | clk-m-1-4 |
 | 1.I.5 | Is law a technology? | — | clk-m-1-5 |
 
@@ -171,7 +176,7 @@ TODO rows: no slides in the course library or Cyril's notes; listed "in brief" [
 |---|---|---|---|
 | 1.II.1 | Ex ante regulation and ex post liability | — | clk-m-1-6 |
 | 1.II.2 | The regulation spectrum | — | clk-m-1-7 |
-| 1.II.3 | The four modalities (the pathetic dot) | — | clk-m-1-8 |
+| 1.II.3 | The four modalities (the pathetic dot) — regulations count as law | — | clk-m-1-8 |
 | 1.II.4 | Bennett Moses | — | clk-m-1-9 |
 | 1.II.5 | Yeong Zee Kin | — | clk-m-1-10 |
 | 1.II.6 | The Collingridge dilemma | — | clk-m-1-11 |

@@ -32,8 +32,8 @@ exam Bennett finds the right Pre-write, then adapts and retypes it, rather than 
 from nothing.
 
 For the **MCQ Papers** (`drp-m`, `pcp-m`, `ccp-1`, `ccp-2`, `clk-m`), the system turns
-the notes into **Flowcharts**. On reading a question, Bennett recognises the Subject and
-the issue at once and follows the chart to the answer.
+the notes into **Cheatsheets**. On reading a question, Bennett recognises the Subject and
+the issue at once and follows the Cheatsheet to the answer.
 
 Everything is packaged per Paper as a **Reference Pack**: a PDF he can search, with a
 contents page and a keyword index, ready on the reference device. Cyril's notes from last
@@ -50,7 +50,7 @@ because there is one person working the system and the jobs below cover it.
 - When a written hypothetical raises an issue, find a ready, accurate, cited Pre-write in
   seconds and adapt it to the facts.
 - When an MCQ question appears, recognise its Subject and issue at once and reach the
-  answer through a Flowchart.
+  answer through a Cheatsheet.
 - Know each day which Paper and Subject to work on, and what is still missing before
   exam week.
 - Walk into each exam trusting the Reference Pack: it is accurate, he can find things in
@@ -87,10 +87,11 @@ because there is one person working the system and the jobs below cover it.
   Conclusion.
 - **Template**: an annotated skeleton of a document Written Advocacy may ask Bennett to
   draft (e.g. letter of demand, reply, written submissions).
-- **Flowchart**: a diagram for one Topic of an MCQ Paper. It runs from question cues to
-  Sub-point to answer.
+- **Cheatsheet**: a Q&A cue list for one Topic of an MCQ Paper, written as nested text
+  lines. It runs from broad question cues to the Sub-point, and each answering line links
+  to the end point that holds the rule (it replaced Mermaid Cheatsheets on 4 Nov 2026).
 - **Reference Pack**: one PDF per Paper that collects its Pre-writes and Templates, or
-  its Flowcharts. It has text he can search, a contents page and a keyword index.
+  its Cheatsheets. It has text he can search, a contents page and a keyword index.
 - **Drill**: a set of questions for Bennett on one or more Subjects, then marked.
 - **Practice Paper**: a full Paper sat timed, with its Reference Pack, then marked. It is
   a past-year paper, or a mock where none exists.
@@ -99,41 +100,44 @@ because there is one person working the system and the jobs below cover it.
 - **Main Session / Paper Session / Tracker / Block**: as defined in `AGENTS.md` and
   `SCHEMA.md`.
 - **Notes level / Practice level**: the Tracker's per-Subject scales (0 not yet,
-  1 done, 2 reviewed). Notes now means Pre-writes and Templates (Written) or Flowcharts
+  1 done, 2 reviewed). Notes now means Pre-writes and Templates (Written) or Cheatsheets
   (MCQ). See FR-11.
 
 ## 4. Features
 
 Features are listed in priority order (see §7).
 
-### 4.1 MCQ Flowcharts
+### 4.1 MCQ Cheatsheets
 
-**Description:** For each MCQ Paper, the Paper Session builds one Flowchart per Topic. A
-chart starts from the cues a question gives (the words, facts and parties that signal
+**Description:** For each MCQ Paper, the Paper Session builds one Cheatsheet per Topic. A
+Cheatsheet starts from the cues a question gives (the words, facts and parties that signal
 the Topic). It branches to the specific Sub-point and ends at the rule or answer, with a
-source for each end point. The charts are compiled into the Paper's Reference Pack. This
+source for each end point. The Cheatsheets are compiled into the Paper's Reference Pack. This
 is the minimum Bennett will not go into an MCQ Paper without.
 
-#### FR-1: One Flowchart per Topic
+#### FR-1: One Cheatsheet per Topic
 
-A Paper Session produces a Flowchart for every Topic of every Subject in an MCQ Paper.
+A Paper Session produces a Cheatsheet for every Topic of every Subject in an MCQ Paper.
 
 **Consequences (testable):**
-- The Subject's Coverage List is written before its charts.
-- Every Topic on the Coverage List has a Flowchart, or an explicit reason why it does
+- The Subject's Coverage List is written before its Cheatsheets.
+- Every Topic on the Coverage List has a Cheatsheet, or an explicit reason why it does
   not.
 - Every end point names the rule or answer and cites its source (file path under
   `Bar Exam/` and page or slide).
-- Each chart has a recognition layer: the question cues that lead into it.
+- Each Cheatsheet has a recognition layer: broad question cues that narrow to the
+  Sub-point.
+- Each answering line links to its end point, and the Reference Pack prints that
+  end point's page beside the link.
 
-#### FR-2: Flowcharts on screen and as a PDF
+#### FR-2: Cheatsheets on screen and as a PDF
 
-Bennett can open each Flowchart on his laptop and download the Paper's Flowcharts as a
+Bennett can open each Cheatsheet on his laptop and download the Paper's Cheatsheets as a
 single PDF.
 
 **Consequences (testable):**
 - The compiled PDF opens offline in a standard PDF viewer.
-- Chart labels and cues are text, not images, so Ctrl-F finds them.
+- Cheatsheet cues are text, not images, so Ctrl-F finds them.
 
 ### 4.2 Pre-write Stack (Written Papers)
 
@@ -178,7 +182,7 @@ and cites its law.
   reference and is not retyped; Bennett takes from it what fits the facts.
 - Proof, Application and the restated Conclusion are written in full, phrased as "the
   lawyer did / did not breach r X, which states …" or "here, r X applies, which states
-  that …". Model answers state the rules in full inline.
+  that …". Model answers set out, in the rule's own words, only the rule and the limbs they rely on, keeping the limb letters (e.g. "r 44(2) … (c) …; or (d) …").
 - No word cap (changed by Bennett on 3 Nov 2026; was 150–300 words).
 
 #### FR-5: Written Advocacy Templates
@@ -216,7 +220,7 @@ otherwise the contents page, with a keyword index as a backstop.
 
 #### FR-7: Navigable Reference Pack
 
-Bennett can find any Pre-write, Template or Flowchart in a Reference Pack by text
+Bennett can find any Pre-write, Template or Cheatsheet in a Reference Pack by text
 search, the contents page or the keyword index.
 
 **Consequences (testable):**
@@ -245,7 +249,7 @@ only when needed.
 
 ### 4.6 Practice, Drills and Weak Spots
 
-**Description:** Once a Paper's Flowcharts or Pre-writes exist, Bennett sits at least one
+**Description:** Once a Paper's Cheatsheets or Pre-writes exist, Bennett sits at least one
 Practice Paper for it with its Reference Pack. This is what makes a Subject "reviewed"
 and what tests whether he can find things in the pack. Beyond that, the Paper Session
 sets Drills: Question Bank items for Written Papers, single-best-answer questions for
@@ -271,7 +275,7 @@ Bennett's answers to the Paper's format.
 Weak Spots from a Drill or Practice Paper lead to a fix in the Reference Pack.
 
 **Consequences (testable):**
-- Each Weak Spot links to the Pre-write, Flowchart or index entry that was added or
+- Each Weak Spot links to the Pre-write, Cheatsheet or index entry that was added or
   changed.
 - A failed lookup during a Practice Paper ("I couldn't find it") counts as a Weak Spot
   and leads to an index or contents fix.
@@ -288,7 +292,7 @@ The Main Session records the Tracker levels as follows.
 
 | Level | Meaning |
 |---|---|
-| Notes 1 (done) | Every Sub-point on the Subject's Coverage List has its Flowchart end point, or its Pre-write (and Templates, for Written Advocacy) |
+| Notes 1 (done) | Every Sub-point on the Subject's Coverage List has its Cheatsheet end point, or its Pre-write (and Templates, for Written Advocacy) |
 | Notes 2 (reviewed) | Notes 1, used in a Practice Paper, and its Weak Spots fixed |
 | Practice 1 (done) | At least one Drill on the Subject marked |
 | Practice 2 (reviewed) | Bennett has sat a Practice Paper covering the Subject with its Reference Pack |
@@ -311,7 +315,7 @@ The Main Session records the Tracker levels as follows.
 - **Licensed material:** `Bar Exam/` is read-only and stays out of git. Outputs condense
   it and do not copy it out wholesale.
 - **Time:** the Blocks end 30 Nov. Exam week (1–11 Dec) is for timed practice and Weak
-  Spot review. Fixes to existing Pre-writes, Flowcharts, contents and index are allowed;
+  Spot review. Fixes to existing Pre-writes, Cheatsheets, contents and index are allowed;
   new Topics are not.
 - **Block overrun:** if a Block ends before its uncuttable items (§7 items 1–3) are done,
   it runs on only until they are done, then hands over. The time comes out of the next
@@ -330,7 +334,7 @@ The Main Session records the Tracker levels as follows.
 
 If a Block runs short, work is cut in this order, last item first:
 
-1. **Flowcharts for every MCQ Topic.** Cannot be cut.
+1. **Cheatsheets for every MCQ Topic.** Cannot be cut.
 2. **Pre-writes for every Sub-point the past-year papers have tested.** Cannot be cut.
    This is the Written Paper equivalent of item 1, and needs Question Bank tier 1 (the
    past-year papers) to identify those Sub-points.
@@ -343,7 +347,7 @@ If a Block runs short, work is cut in this order, last item first:
 
 **Work already done.** Before this PRD, the `eth-w` and `clk-m` Paper Sessions wrote
 outlines, drills and weak-spot logs in `study/eth-w/` and `study/clk-m/`. These are kept
-as raw material that Pre-writes and Flowcharts are built from, not discarded. `eth-w`
+as raw material that Pre-writes and Cheatsheets are built from, not discarded. `eth-w`
 Pre-writes are finished from its outline in time left over during Block 2.
 
 ## 8. Success Metrics
@@ -358,7 +362,7 @@ Pre-writes are finished from its outline in time left over during Block 2.
 
 **Secondary**
 - **SM-3, Coverage:** every Sub-point on every Coverage List has a Pre-write or a
-  Flowchart end point (FR-1, FR-3).
+  Cheatsheet end point (FR-1, FR-3).
 - **SM-4, Navigation:** in Practice Papers Bennett finds what he needs in the Reference
   Pack. Target: zero unresolved failed lookups per Paper by 30 Nov (FR-7, FR-10).
 - **SM-5, Accuracy:** no open `TODO: verify` left in a Reference Pack at exam time
@@ -367,7 +371,7 @@ Pre-writes are finished from its outline in time left over during Block 2.
 **Counter-metrics (do not optimise)**
 - **SM-C1, Volume:** number of Pre-writes or pages. More is not better if it slows
   lookup or retyping. Counterbalances SM-3.
-- **SM-C2, Polish:** how the Flowcharts look. A clear, correct chart beats a pretty one.
+- **SM-C2, Polish:** how the Cheatsheets look. A clear, correct Cheatsheet beats a pretty one.
   Counterbalances FR-2.
 
 ## 9. Open Questions
@@ -378,7 +382,7 @@ Pre-writes are finished from its outline in time left over during Block 2.
 2. Do the 2021–2023 past-year papers include any essay-style question? Only the 2026
    Opening Brief and Sample Questions were checked. Owner: each Written Paper Session.
 3. How is accuracy checked beyond the author's own `TODO: verify` flags? Revisit if a
-   Practice Paper turns up a wrong Pre-write or Flowchart. Owner: Main Session.
+   Practice Paper turns up a wrong Pre-write or Cheatsheet. Owner: Main Session.
 4. Can a full written answer be retyped from Pre-writes within the 2 hours? Measure in
    the first written Practice Paper; if not, Bennett decides what to retype less of. Owner: Written
    Paper Sessions.
@@ -387,7 +391,8 @@ Pre-writes are finished from its outline in time left over during Block 2.
 
 ## 10. Assumptions Index
 
-None open. Changed by Bennett on 3 Nov 2026: Pre-writes keep a short Rule part, add a
+None open. Changed by Bennett on 4 Nov 2026: MCQ Papers use Q&A Cheatsheets instead
+of Mermaid Cheatsheets (§3, FR-1, FR-2). Changed by Bennett on 3 Nov 2026: Pre-writes keep a short Rule part, add a
 Rule in full box, and have no word cap (FR-4). Confirmed by Bennett on 2 Nov 2026: a failed lookup counts as a Weak Spot (FR-10); Pre-writes on Sub-points the past papers
 have tested cannot be cut (§7); target of zero unresolved failed lookups (SM-4); the
 Tracker level meanings and the `full[paperId]` write (FR-11).

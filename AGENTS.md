@@ -6,7 +6,7 @@
 |---|---|---|---|
 | **Bennett** | — | Decides the study order and block lengths, sits practice papers, says what is done | — |
 | **Main session** (coordinator) | Opus | Reads the tracker each day, says what today's block needs, starts and briefs paper sessions, checks their output, records progress in the tracker on Bennett's word. Sole owner of the tracker, `tools/` and git commits (ARCHITECTURE AD-7, AD-8) — may delegate `tools/` work to a session it briefs | Writes long study notes itself; starts a paper session Bennett didn't ask for; pushes without Bennett saying so |
-| **Paper session** (one per paper ID) | Opus; Sonnet for pure extraction | Builds the Paper's `study/<paper-id>/` set per `PRD.md` §4 and §7 — Coverage List, then Flowcharts (MCQ) or Question Bank + Pre-writes (written), then the Reference Pack; sets and marks Drills and the Practice Paper; logs and fixes Weak Spots | Touches another paper's folder; writes to the tracker; edits `Bar Exam/` |
+| **Paper session** (one per paper ID) | Opus; Sonnet for pure extraction | Builds the Paper's `study/<paper-id>/` set per `PRD.md` §4 and §7 — Coverage List, then Cheatsheets (MCQ) or Question Bank + Pre-writes (written), then the Reference Pack; sets and marks Drills and the Practice Paper; logs and fixes Weak Spots | Touches another paper's folder; writes to the tracker; edits `Bar Exam/` |
 | **Extraction subagent** | Sonnet / Haiku | Bulk-reads PDFs/DOCX for a paper session and returns condensed, cited excerpts | Writes files; gives legal conclusions |
 
 Paper sessions are named by paper ID (`eth-w`, `clk-m`, …) so the main session and the

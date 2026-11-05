@@ -7,7 +7,7 @@ Each one is fixed in the pack: a Flowchart end point, the contents page, or the 
 The **Fix** column names the content ID that was changed. Recurring items go into the tracker's `notes` for `clk-m`
 — the main session records them, on Bennett's word.
 
-Built 2 Nov 2026, before any drill or Practice Paper had been sat.
+Built 2 Nov 2026. First entries 4 Nov 2026, from the DPCR and Law & Tech Sample Questions and Drills 1–2.
 
 ## Log
 
@@ -16,14 +16,23 @@ Kinds: `wrong law`, `missed issue` or `failed lookup`. Fix: the content ID, plus
 
 | ID | Date | From | Coverage Key | Kind | Fix | Status |
 |---|---|---|---|---|---|---|
-| — | — | — | — | nothing sat yet | — | — |
+| W1 | 4 Nov | Drill 1 DP3 | 0.I.6 | failed lookup | clk-m-0-6: title, keywords ("DI", "DI obligations", s 26C(3)(a)), body and Rule in full box. A DI owes ss 24, 25 and 26C(3)(a) only and tells the *organisation*, which notifies the PDPC. Cheatsheet entry in 0.I and 0.VI | fixed |
+| W2 | 4 Nov | Drill 1 DP5 | 0.II.10 | wrong law | clk-m-0-17: title, keywords, body and box. Legitimate interests must outweigh adverse effects, but para 1(4) excludes marketing, so consent is needed. Cheatsheet entry in 0.II | fixed |
+| W3 | 4 Nov | Drill 1 DP8 | 0.IV.6–7 | failed lookup | clk-m-0-33: "s48O" now verbatim, plus a box (Parts 4–6B only; not Part 3/ss 11–12). clk-m-0-34: Reed [107]–[116] box. Emotional distress *is* loss; loss of control alone is not | fixed |
+| W4 | 4 Nov | Drill 1 DP11 (answered right, search failed) | 0.VII.4 | failed lookup | clk-m-0-49: "cybersecurity code of practice" in title and keywords; box on s 35A. Also corrected the section: s 11 was repealed on 31 Oct 2025 and the rule is now s 35A (DP11 key updated) | fixed |
+| W5 | 4 Nov | Drill 1 DP14 | 0.IX.1–8 | wrong law | 0.IX cheatsheet: "which order?" by respondent and remedy. clk-m-0-66: box with the s 15E limbs and the serious-harm illustrations (no statutory test; `TODO: verify` case law) | fixed |
+| W6 | 4 Nov | Drill 1 DP15 | 0.VII.12 | failed lookup | new block clk-m-0-72: CYSA s 2 "computer" and "computer system"; new coverage row 0.VII.12 | fixed |
+| W7 | 4 Nov | SampleQs DPCR Q3 | 0.IX.4 | wrong law | clk-m-0-65: title "not a 'specific' correction order", keywords, box; cheatsheet "Trap words" in 0.IX | fixed |
+| W8 | 4 Nov | SampleQs LT Q5 | 1.II.3 | wrong law | clk-m-1-8: title "regulations count as law", body and box (LT-2 p6 lists regulations under law) | fixed |
+| W9 | 4 Nov | Drill 2 LT1 (answered right; Bennett's question) | 1.I.3 | missed issue | clk-m-1-3: "code versus law" box (law threatens an ex post sanction; code sets conditions of access in advance and is plastic) | fixed |
+| W10 | 4 Nov | Bennett's review of the pack | all | failed lookup | Mermaid charts replaced by a Q&A cheatsheet per Topic, linking to the end points (`flowcharts.md`) | fixed; links render once the builder supports them |
 
 ## Source gaps — fix before exam week
 
-1. **The DPCR AI-regulation topic (topic 0.X; coverage rows 0.X.1–3 are `TODO`) has no source in the library.** The learning plan lists the
-   Model AI Governance Framework and the PDPA applied to AI [DP-Plan p4], but there is no deck
-   for it. Download the slides from the 2 Nov DPCR Contact Session II from Campus (still not
-   in the library on 3 Nov), and don't learn this topic from memory or seniors' notes.
+1. **DPCR AI regulation (topic 0.X): closed as Non-Core, 4 Nov 2026.** The learning plan lists
+   it in blue (Non-Core Knowledge) and only "in brief" [DP-Plan p1, p4], and the library has no
+   deck for it. Bennett decided not to cover it, so rows 0.X.1–3 are now `none`. If the 2 Nov
+   Contact Session II slides turn up, add one short block from them, not from memory.
 2. **Law & Tech Contact Session 2 deck** (15 Oct) is missing from the folder; only the CS2
    lecture notes are there [LT-Plan p4].
 3. **Statute currency.** The Go Pack copies (PDPA as at 1/10/2022, CYSA as at 11/4/2022, POHA
@@ -38,6 +47,8 @@ Kinds: `wrong law`, `missed issue` or `failed lookup`. Fix: the content ID, plus
        (clk-m-0-46 and 0-48 updated, with `Conflict:` notes against DP-2).
 
      The Part 3 duties (ss 10, 13, 15, 16) and the Part 4 section numbers are unchanged.
+     Missed on 3 Nov, found 4 Nov: s 11 (codes of practice) was also deleted, and the rule is
+     now s 35A, unchanged in substance (clk-m-0-49 fixed, with a `Conflict:` note).
    - **ETA: fixed.** Act 5 of 2021 removed negotiable instruments and documents of title from
      the First Schedule; they now fall under Part 2A on electronic transferable records. Act 16
      of 2021 excluded lasting powers of attorney from the trusts and powers-of-attorney item,

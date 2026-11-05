@@ -61,7 +61,8 @@ def inline(t):
     t = html.escape(t, quote=False)  # quotes stay straight and exactly as typed (AD-6 step 6)
     t = re.sub(r"`([^`]+)`", r"<code>\1</code>", t)
     t = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", t)
-    return re.sub(r"(?<![\w*])\*([^*\n]+?)\*(?![\w*])", r"<i>\1</i>", t)
+    t = re.sub(r"(?<![\w*])\*([^*\n]+?)\*(?![\w*])", r"<i>\1</i>", t)
+    return re.sub(r"\[([^\]]+)\]\(#([\w-]+)\)", r"<a class='xref' href='#\2'>\1</a>", t)  # page no. added in build_html
 
 
 def cells(line):
@@ -288,8 +289,9 @@ def parse_block(fname, raw, paper, nsubj):
 def lint_charts(fname, sec, shorts):
     """AD-5 checks that warn rather than fail: top-down, leaf IDs that exist."""
     srcs = re.findall(r"^```mermaid[^\n]*\n(.*?)^```", "\n".join(sec["intro"]), re.M | re.S)
-    if fname == "flowcharts.md" and not srcs:
-        WARNINGS.append(f"{fname}:{sec['line']}: Topic '{sec['title']}' has no chart directly under it "
+    cheatsheet = any(re.match(r"\s*[-*+] ", ln) for ln in sec["intro"])
+    if fname == "flowcharts.md" and not srcs and not cheatsheet:
+        WARNINGS.append(f"{fname}:{sec['line']}: Topic '{sec['title']}' has no chart or cue list directly under it "
                         "(fine only if its coverage rows say none: <reason>)")
     for src in srcs:
         first = next((s.strip() for s in src.splitlines() if s.strip() and not s.strip().startswith("%%")), "")
@@ -438,7 +440,17 @@ def build_html(paper, parts, rows, blocks, index, built, pages):
                          for i in sorted(index[term], key=lambda i: (blocks[i]["subj"], int(i.split("-")[-1]))))
         out.append(f"<p>{inline(term)} — {refs}</p>")
     out.append("</div></div></body></html>")
-    return "\n".join(out)
+
+    def xref(m):  # in-text links to a block or section get its page number, like the contents page
+        key, text = m.groups()
+        if key not in blocks and key not in anchors:
+            msg = f"link to #{key} ('{text}') has no matching block or section"
+            if msg not in WARNINGS:
+                WARNINGS.append(msg)
+            return text
+        return f"{link(key, text)} (p {pg(key)})"
+    anchors = {s["anchor"] for part in parts for s in part["sections"]}
+    return re.sub(r"<a class='xref' href='#([\w-]+)'>(.*?)</a>", xref, "\n".join(out))
 
 
 def print_pdf(text, pdf, tmp):
