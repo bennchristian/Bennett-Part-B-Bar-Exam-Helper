@@ -31,7 +31,8 @@ tracker** artifact (<https://claude.ai/artifact/QKBF5HvcsMUjirCfmZAMzK>), which 
   29 Oct, and say what that paper still needs.
 - **Starting a paper session:** brief it per `AGENTS.md`; name it by paper ID.
 - **Building a Reference Pack:** `python3 tools/build_pack.py <paper-id>` — the only
-  builder; paper sessions run it, never edit it. The PDF is generated and git-ignored.
+  builder; paper sessions run it, never edit it. The PDF is generated and git-ignored. `--questions` builds `model-questions.pdf` from
+  `model-questions.md` the same way. Every paper has both PDFs (Bennett, 5 Nov).
 - **Recording progress:** only on Bennett's word; read the doc, update the `subj` / `full` /
   `tasks` fields, set `updated`, pin `if_version`.
 - **Finding sources** (in `RULES.md` source order): `Bar Exam/Modules/<module>/<n.

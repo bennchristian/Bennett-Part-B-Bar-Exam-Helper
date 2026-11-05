@@ -78,7 +78,8 @@ What to build, in what priority, and what counts as done is in `PRD.md` (§4 fea
 - Before any implementation, the eight context files exist and are current: CLAUDE, AGENTS,
   ARCHITECTURE, DESIGN, PRD, RULES, SCHEMA, SKILLS.
 - `PRD.md` is the scope contract. Work outside it stops and asks rather than widening.
-- Check command: `python3 tools/build_pack.py <paper-id>` (ARCHITECTURE AD-6). Exit 0 =
+- Check command: `python3 tools/build_pack.py <paper-id>` (ARCHITECTURE AD-6); add
+  `--questions` after changing `model-questions.md`. Exit 0 =
   built; 1 = a coverage/format check failed and the old PDF was kept; 2 = bad paper ID or
   missing tool. Run it at the end of any turn that changed `coverage.md` or a content file,
   and before every Practice Paper.

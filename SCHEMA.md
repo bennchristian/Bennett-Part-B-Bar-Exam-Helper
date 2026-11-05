@@ -66,6 +66,8 @@ summary only. Terms are as defined in PRD §3.
 | `flowcharts.md` | MCQ | Q&A Cheatsheet per Topic plus end-point blocks (file name predates Cheatsheets) | AD-5 + AD-4 |
 | `drills.md` | all | Drills and Practice Papers (`pyp-<year>` / `mock-<n>`, `Covers:` line), answers, marks | AD-8 |
 | `weak-spots.md` | all | `WS-<n>` rows linked to the content ID fixed | Conventions |
+| `model-questions.md` | all | Practice questions by Subject → Topic (Written: format TODO, see ARCHITECTURE AD-6), tag line `**Q…** · `Key` · source · `end-point ID``, answer and cite under each | as is |
+| `model-questions.pdf` | all | Generated second exam-day file: contents linked to Topics, Keywords per question, answer under it | `python3 tools/build_pack.py <paper-id> --questions` |
 | `reference-pack.pdf` | all | Generated — never hand-edited | `python3 tools/build_pack.py <paper-id>` (AD-6) |
 | `outline.md` | `eth-w`, `clk-m` | Pre-PRD outlines, kept as raw material | as is |
 

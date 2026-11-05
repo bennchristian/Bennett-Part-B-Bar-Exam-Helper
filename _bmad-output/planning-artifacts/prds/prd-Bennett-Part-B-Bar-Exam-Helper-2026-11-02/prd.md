@@ -391,7 +391,9 @@ Pre-writes are finished from its outline in time left over during Block 2.
 
 ## 10. Assumptions Index
 
-None open. Changed by Bennett on 4 Nov 2026: MCQ Papers use Q&A Cheatsheets instead
+None open. Added by Bennett on 5 Nov 2026: every Paper, MCQ and Written, has two exam-day
+PDFs, its Reference Pack and a model Q&A PDF (questions by Topic, each answer directly
+under its question, Keywords per question, contents linked to Topics). Changed by Bennett on 4 Nov 2026: MCQ Papers use Q&A Cheatsheets instead
 of Mermaid Cheatsheets (§3, FR-1, FR-2). Changed by Bennett on 3 Nov 2026: Pre-writes keep a short Rule part, add a
 Rule in full box, and have no word cap (FR-4). Confirmed by Bennett on 2 Nov 2026: a failed lookup counts as a Weak Spot (FR-10); Pre-writes on Sub-points the past papers
 have tested cannot be cut (§7); target of zero unresolved failed lookups (SM-4); the
