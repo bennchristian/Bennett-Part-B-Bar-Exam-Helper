@@ -64,7 +64,11 @@ above. TODO: add anything raised at the End of Course Lecture (~10 Nov, INTRO2 p
 | ID | Source | Question (short) | Targets | Sub-points |
 |---|---|---|---|---|
 | QB-23 | Drill 1 (`drills.md`, set 2 Nov) | Priya drafts an 81-year-old client's will leaving $300k to her daughter; reassures the unrepresented nephew; criminal client confesses, wants to testify falsely; she offers to stand bail. | Gifts (r 25), criminal defence (r 14) — never tested | II.24, II.19, II.10, IV.10, III.15, III.8 |
+| QB-38 | Drill 2 / H1 (`drills.md`, set 5 Nov 2026) | Marcus is late and rude to an AR, brings his CEO into chambers, gives an unchecked personal undertaking on title deeds, emails the Judge a without prejudice letter, posts that the defence is a sham; DPP Nadia withholds a witness and a prior statement, mentions pending charges, omits restitution. | Court conduct and prosecution — never tested | III.5, III.7, III.14, IV.9, III.16 |
+| QB-39 | Drill 3 / H2 (`drills.md`, set 5 Nov 2026) | Former mediator Daniel acts against Ming using what he learnt; default judgment after Friday 6pm notice; demands a warrant to act without reasons; investigator entraps a rival; Rachel files a falsification allegation the same day; Wei Ling poaches the client and writes to court while Hart Law is on record. | Dealings with other lawyers — never tested | IV.12, IV.7, IV.5, IV.6, IV.8, IV.3 |
+| QB-40 | Drill 4 / H3 (`drills.md`, set 5 Nov 2026) | Benjamin practises with a lapsed certificate, arranges a client's loan to his wife's company and borrows from a moneylender client; emails CAD his files on a phone request; sends IRAS privileged advice; promises the will to the client's daughter. | Borrowing (r 23), privilege, who the PCR apply to — never tested | I.3, II.22, II.11, II.10 |
+| QB-41 | Drill 5 / H4 (`drills.md`, set 5 Nov 2026) | Unsupervised trainee signs as "Solicitor"; oral referral deal with an agency advertising free legal fees, $300 per file; settlement money in the office account and fees drawn on one junior signature; BVI buyer with an unnamed owner and third-party funds; trainee's admission candour. | Trainees, conveyancing referrals, client money, AML, admission — never tested | V.3, VI.5, VII.1, VII.2, I.1 |
 
-TODO: more tier-3 questions for the other untested Topics — borrowing (r 23), witnesses
-(r 12), represented persons (r 7(3)), default judgment (r 28), allegations against
-lawyers (r 29), letters of demand (r 8(4)–(5)), client money, generative AI.
+QB-38 to QB-41 (5 Nov 2026) cover every Sub-point that no past paper or earlier model answer
+had analysed (audit of 5 Nov 2026). Witnesses, represented persons, letters of demand and
+generative AI turned out to be tested by the 2018–2020 and 2025 papers.

@@ -39,6 +39,10 @@ restated Conclusion. In the exam, retype the matching Pre-write and adapt it.
 | 2019 Q2 | — | [issues only](#2019-q2--archie-veronica-and-cheryl-questions-missing) | Questions on the missing pp 5–6; no answer |
 | 2020 Q1 (a)–(c) | not yet set | [below](#2020-q1--caitlyn-yasuo-and-teemo) | Own |
 | 2020 Q2 (a)–(c) | not yet set | [below](#2020-q2--donnie-mega-law-mcp-and-joey) | Own; PS3 Q2 is part of it |
+| Drill 2 (H1, 50) | `drills.md` | [below](#drill-2-h1--marcus-lee-the-orchid-suit-and-dpp-nadia) | Own, tier 3 (QB-38): court conduct, prosecution |
+| Drill 3 (H2, 50) | `drills.md` | [below](#drill-3-h2--daniel-koh-rachel-ong-and-crest-law) | Own, tier 3 (QB-39): dealing with the other side |
+| Drill 4 (H3, 50) | `drills.md` | [below](#drill-4-h3--benjamin-chua-and-madam-lim) | Own, tier 3 (QB-40): borrowing, privilege |
+| Drill 5 (H4, 50) | `drills.md` | [below](#drill-5-h4--wendy-goh-alvin-and-homesmart) | Own, tier 3 (QB-41): trainees, referrals, client money, AML |
 | 2025 Q1–Q2 (100) | not yet set; may be sat unseen | last in the file, under its own spoiler line | Own |
 
 PS1 Q1, PS2 Q2 and PS3 Q1 are the same questions as 2021 Q1, 2022 Section B and 2021 Q3.
@@ -3287,6 +3291,953 @@ PCR p63–66; s 32(2), s 33 LPA p92–94; s 77 LPA p202–203; s 83(2) LPA p217�
 p265–266; GN 3.7.1 para 4(a); GN 7.4.2 para 2; PD 3.5.2; PD 3.11.1 p1; PD 3.11.2 p1; PD 5.1.1
 Parts A(b)(i) and B p1–3; PD 6.2.1 Part D; Tan See Leh Jonathan L8 p19, SYL p10, L10 p54; Chia
 Chwee Imm Helen L3 p18, SYL p4; Tan Chun Chuen Malcolm SYL p4; Zhou Tong at [19]–[21] SYL p5.*
+
+---
+
+## Drill 2 (H1) — Marcus Lee, the Orchid suit and DPP Nadia
+
+Question: `drills.md`, Drill 2 (50 marks, 60 minutes; tier 3, QB-38). Own question and answer,
+written 5 Nov 2026 to cover Keys III.5, III.7, III.14, IV.9 and III.16. Marks: 1.1 15, 1.2 20,
+1.3 15. Pre-writes used: 0-44, 0-46, 0-50, 0-60, 0-52, 0-17, 0-35.
+
+### 1.1 Marcus's conduct in chambers (15 marks)
+
+The issue is whether Marcus's conduct at the discovery hearing was consistent with his duties
+to the court and to the other practitioners. In my view it was not: he breached r 13(2) and
+r 13(3) PCR, PD 1.4.2 and PD 8.5.8, and he did not follow GN 1.1.1 when he brought his client
+into chambers.
+
+**1. Lateness and the length of his argument.** The first issue is whether Marcus could arrive
+40 minutes late without warning and then argue for two hours ahead of the waiting
+adjournments. He could not: Marcus did not comply with PD 1.4.2 and PD 8.5.8. PD 1.4.2 states
+that all members should be punctual for all court hearings, and should make the appropriate
+estimation for lengths of adjournments to assist in the general administration of the court's
+time. PD 8.5.8 states that legal practitioners appearing in chambers who anticipate that their
+arguments will be substantial should inform the court at the start of the hearing and/or ask
+for their case to be stood down, and, subject to the court's ruling, should where possible give
+priority to other practitioners making applications for adjournment, whether or not by
+consent, as an act of courtesy to practitioners waiting their turn. Arriving late, missing
+filing deadlines and making attacks that prolonged a hearing were improper (*Syed Suhail bin
+Syed Zin v Attorney-General* [2022] SGHC 184 at [11]–[12]).
+
+Here Marcus gave no warning that he would be 40 minutes late and the AR had to stand the matter
+down twice, which is the lack of punctuality PD 1.4.2 guards against and which *Syed Suhail*
+treated as improper. When the matter was called he knew he needed about two hours, yet he did
+not tell the AR at the start or ask to be stood down, and he went ahead of three practitioners
+whose consent adjournments would have taken minutes. That is the opposite of what PD 8.5.8
+asks, and it wasted the court's and his colleagues' time. Marcus did not comply with PD 1.4.2
+and PD 8.5.8; both are aspects of the duty in r 13(3) PCR to be courteous in the conduct of a
+case and of the duty in r 7(2) PCR to treat other legal practitioners with courtesy and
+fairness.
+
+**2. Mr Wong in chambers.** The second issue is whether Marcus could bring Orchid's CEO into
+chambers without notice. He should not have: Marcus did not follow GN 1.1.1. GN 1.1.1 para 2
+states that (a) the default position is that chambers hearings are closed hearings; (b) the
+presence of clients in chambers is a matter of discretion for the hearing Judge or Registrar;
+and (c) if a client wishes to be present, the legal practitioner should give advance notice to
+the other party before applying to the Judge or Registrar for permission. Para 3 explains that
+the notice avoids one party being present while the other is not. Here Marcus gave Grace no
+notice and did not ask the AR for permission before Mr Wong walked in; he simply brought him.
+A discovery application is not the kind of matter, such as matrimonial ancillary matters, in
+which para 4 suggests a client has a vital interest in being present, so an application might
+well have been refused. Marcus should have written to Grace in advance and then applied to the
+AR; having done neither, he put the AR in the position of having to ask Mr Wong to leave.
+
+**3. The remark and turning his back.** The third issue is whether Marcus's remark and his
+conduct when the ruling was given were disrespectful of the court. They were: Marcus breached
+r 13(2) and r 13(3) PCR. Rule 13(1) PCR states the guiding principles that (a) a legal
+practitioner must present a case, and behave, before a court or tribunal in a manner which is
+respectful of the court or tribunal; and (b) the manner in which a legal practitioner conducts a
+case must be consistent with the standing, dignity and authority of the court or tribunal. Rule
+13(2) PCR states that a legal practitioner must always be respectful of a court or tribunal,
+and r 13(3) PCR states that a legal practitioner must always be courteous in the conduct of a
+case before a court or tribunal, whether to the court or tribunal, or to any other person
+involved in the proceedings. An AR hearing an application in chambers is a "court" for this
+purpose, since r 2(1) PCR defines "court" as any court of competent jurisdiction in Singapore.
+
+In *Law Society of Singapore v Ravi Madasamy* [2007] 2 SLR(R) 300 at [25], turning his back to
+the judge while being addressed, walking away and accusing the judge of not addressing him
+properly was misconduct. The court distinguished (at [26]) a lack of courtesy that shows only
+poor manners from a lack of respect for the court, which is more serious because it diminishes
+the court's standing and undermines its authority.
+
+Here Marcus told the AR, in substance, that the ruling showed the AR had not read the papers.
+That is not a submission about the merits but an attack on the AR's diligence, made in front of
+the other practitioners waiting in chambers. He then turned his back and packed his files while
+the AR was still speaking, which is the very conduct condemned in *Ravi Madasamy* at [25]. On the
+*Ravi Madasamy* distinction this was disrespect for the court, not merely bad manners, because
+it challenged the AR's authority while the AR was ruling. The proper course, if Marcus thought
+the ruling wrong, was to take instructions on an appeal. Marcus breached r 13(2) and r 13(3)
+PCR.
+
+In conclusion, Marcus breached r 13(2) and r 13(3) PCR and did not comply with PD 1.4.2,
+PD 8.5.8 and GN 1.1.1. Section 83(2) of the Legal Profession Act 1966 states that due cause may
+be shown by proof that an advocate and solicitor (b) has been guilty of such a breach of any
+usage or rule of conduct made by the Professional Conduct Council as amounts to improper conduct
+or practice as an advocate and solicitor; or (h) has been guilty of such misconduct unbefitting
+an advocate and solicitor as an officer of the Supreme Court. Disrespect of this kind, shown in
+the course of a hearing, may amount to such improper conduct.
+
+### 1.2 The undertaking, the email to the Judge and the LinkedIn post (20 marks)
+
+The issue is whether Marcus breached his duties to the court by the undertaking he gave, his
+email to the Judge and his post about the case. In my view he breached r 13(5)(b) and r 13(4),
+r 30(1) and r 31, and r 13(6) PCR, and he must now correct each of them.
+
+**1. The personal undertaking.** The first issue is whether Marcus could give, and then leave
+uncorrected, an undertaking that his firm held the title deeds. He could not: Marcus breached
+r 13(5)(b) and r 13(4) PCR. Rule 13(5) PCR states that a legal practitioner must not give an
+undertaking to a court or tribunal unless the legal practitioner (a) believes that the
+undertaking is necessary; and (b) knows (when giving the undertaking) that he or she is able to
+honour it. Rule 13(4) PCR states that a legal practitioner must honour every undertaking given
+by the legal practitioner to a court or tribunal.
+
+An undertaking is a solemn promise, not merely a contract, on which the court and others rely
+because it is given by a member of an honourable profession, and a deliberate breach is more
+serious than a negligent one (*Law Society of Singapore v Naidu Priyalatha* [2022] SGHC 224). A
+lawyer who undertook to hand over all relevant files, so that the police did not search, but did
+not direct a search, was suspended for a year (*Re Seow Francis T* [1971–1973] SLR(R) 727).
+
+Here limb (a) is probably satisfied: the Judge was minded to grant the injunction, so an
+undertaking was a necessary alternative if Orchid wanted to avoid it. But limb (b) is not. Marcus
+did not know, when he gave the undertaking, that LPL held the deeds; he assumed it from a
+purchase seven years earlier and did not check, exactly as the lawyer in *Seow Francis* did not
+check what his undertaking required. He therefore gave an undertaking he did not know he could
+honour, in breach of r 13(5)(b). From the moment it was given it could not be performed, because
+the deeds were with the bank, so the undertaking was not honoured, in breach of r 13(4). Worse,
+when his secretary told him the truth a week later he did nothing. That turns a careless
+undertaking into a knowing failure to honour it and to correct what the Judge had relied on,
+which *Naidu Priyalatha* treats as more serious. The Judge dismissed the injunction application
+on the faith of a statement that was untrue. Rule 9(5) PCR also states that, where a legal
+practitioner unknowingly contravenes any provision of r 9, he must, as soon as practicable after
+becoming aware of the contravention, disclose it to each person affected and take reasonable
+steps to remedy it; that applies if his statement to the Judge misled the court. Marcus breached
+r 13(5)(b) and r 13(4) PCR.
+
+**2. The email to the Judge.** The second issue is whether Marcus could write to the Judge
+without copying Grace, and disclose the without prejudice letter. He could not: Marcus breached
+r 30(1) and r 31 PCR. Rule 30(1) PCR states that where a legal practitioner acts for a party to
+any proceedings that the legal practitioner knows are pending before the court, the legal
+practitioner must not initiate any communication with the court about the facts, issues or any
+other matter in those proceedings, unless (a) he has given each legal practitioner acting for
+another party a reasonable opportunity to be present or to reply; and (b) if the communication
+was in writing, every other party is given a copy. Rule 30(2) PCR states that if he fails to
+comply with paragraph (1), he must inform each legal practitioner acting for another party of
+the circumstances as soon as possible. Paragraph 21(2) of the Supreme Court Practice Directions
+2021 likewise requires correspondence to the court about a pending matter to be copied to all
+other parties unless there are good reasons not to. Rule 31 PCR states that the legal
+practitioner must not disclose to the court any communication relating to the matter between
+him and a legal practitioner acting for another party, unless there is an agreement between the
+two legal practitioners to do so. Both rules protect due process and trust between lawyers
+(r 27 PCR), and r 31 covers the lawyers' exchanges before and during proceedings, including
+settlement discussions.
+
+Here the suit is pending, and Marcus initiated a written communication with the court about the
+case, through the Judge's assistant, without giving Grace a copy or any chance to reply, which
+breaches both limbs of r 30(1). This was not a communication about an application without
+notice, so r 30(3)–(4) do not take it outside r 30(1). The content made it worse: it put before
+the Judge an untested allegation of a fraud investigation, after the hearing, with no chance for
+Vantage to answer it. Attaching Tan Chambers' "Without Prejudice" offer, to argue that Vantage
+knows it is liable, discloses a communication between the two lawyers without any agreement,
+contrary to r 31, and uses it for the very purpose the without prejudice label forbids. Marcus
+breached r 30(1) and r 31 PCR, and r 30(2) now requires him to tell Grace at once.
+
+**3. The LinkedIn post.** The third issue is whether Marcus could publish his view of the
+pending suit. He could not: Marcus breached r 13(6) PCR. Rule 13(6) PCR states that a legal
+practitioner must not publish, or take steps to facilitate the publication of, any material
+concerning any proceedings, whether on behalf of the client or otherwise, which (a) amounts to a
+contempt of court; or (b) is calculated to interfere with the fair trial of a case or to
+prejudice the administration of justice. Posting a crucial point from a pending appeal on a
+Facebook group breached r 13(6) (*Law Society of Singapore v Nalpon Zero Geraldo Mario* [2022]
+SGHC 81). Here, a month before trial, Marcus told the public that the defence is "a sham" and
+that any judge who reads the documents will agree. That is a public argument of the merits of a
+pending case outside court, and the suggestion that the outcome is obvious to any competent
+judge is calculated to put pressure on the trial judge and to prejudice the administration of
+justice, as in *Nalpon*. It also adds to the disrespect for the court already shown in
+paragraph 2. Marcus breached r 13(6)(b) PCR.
+
+**4. What Marcus must do now.** The fourth issue is how Marcus should remedy these breaches.
+First, he must at once inform the Judge and Grace in writing that LPL does not hold the deeds,
+explain where they are, and take Orchid's instructions on an alternative, such as Orchid's own
+undertaking or consenting to the injunction, so that the court can make whatever order it
+thinks fit (r 13(4), r 9(5)). Second, he must write to Grace, copied to the court, telling her of
+the email and enclosing it (r 30(2)), and ask the court to disregard both the allegation and
+the without prejudice letter. Third, he must take down the LinkedIn post.
+
+In conclusion, Marcus breached r 13(5)(b), r 13(4), r 30(1), r 31 and r 13(6) PCR. The breach of
+an undertaking to the court, left uncorrected after he learnt the truth, is the most serious;
+under s 83(2)(b) LPA it may amount to improper conduct, and the sanction will depend on whether
+the Disciplinary Tribunal sees the failure to correct as deliberate (*Naidu Priyalatha*).
+
+### 1.3 Nadia's conduct as prosecutor (15 marks)
+
+The issue is whether Nadia met the duties of a prosecutor in Raj's trial and sentencing. In my
+view she did not: Nadia breached r 15(3)(a), r 15(3)(b), r 15(5), r 15(4)(c) and r 15(6) PCR.
+
+Rule 15(2) PCR states that a legal practitioner who represents the prosecution must present the
+evidence against an accused person fairly and impartially, and without malice, fear or favour,
+in accordance with law. Prosecutors are "ministers of justice" who must act in the public
+interest, need not be strictly adversarial, and must be willing to disclose all relevant
+material even if it is unhelpful to their case (*Re Parti Liyani* [2020] 5 SLR 1080 at [39]).
+Raj is unrepresented, so these duties matter all the more.
+
+**1. Siti's statement.** The first issue is whether Nadia could leave Siti out without telling
+Raj. She could not: Nadia breached r 15(3)(a) PCR. Rule 15(3) PCR states that the prosecutor
+must, within a reasonable time before the close of the prosecution's case, inform the accused or
+the accused's legal practitioner of (a) the identity, and the location (if known), of any person
+who may be able to give relevant evidence, but will not be called as a prosecution witness. Siti
+can give relevant evidence, since her account that Raj had his manager's permission goes to
+whether the moving of the money was dishonest. Nadia decided not to call her, so r 15(3)(a)
+required Nadia to tell Raj who Siti is and where she can be found, so that he could call her
+himself. Choosing not to because the evidence helps Raj is exactly what *Parti Liyani* at [39]
+says a minister of justice must not do.
+
+**2. Mr Ho's earlier statement.** The second issue is whether Nadia could stay silent about the
+conflict between Mr Ho's evidence and his police statement. She could not: Nadia breached
+r 15(3)(b) PCR, which requires the prosecutor to inform the accused of (b) any substantial
+conflict between the evidence given by a prosecution witness on a material issue and any prior
+statement provided by that witness. Whether Raj returned $30,000 is material to the amount
+misappropriated and to his intention, and "never returned any money" conflicts substantially
+with the police statement. Nadia had to tell Raj before the close of her case.
+
+**3. The pending charges.** The third issue is whether Nadia could tell the sentencing court of
+Raj's pending charges. She could not: Nadia breached r 15(5) PCR. Rule 15(5) PCR states that the
+prosecutor must not inform the court of any other or pending proceedings against the accused,
+except (a) in relation to an application for an adjournment, remand or bail; (b) in response to
+an assertion that there are no other or pending proceedings; or (c) where evidence of them would
+otherwise be admissible under any law or rule. Sentencing on a conviction is none of these: there
+was no bail or adjournment application, Raj had not asserted that there were no other charges,
+and nothing suggests the pending charges were admissible. Pending charges are unproven, and
+mentioning them invites the court to treat Raj as a repeat offender.
+
+**4. The restitution.** The fourth issue is whether Nadia had to tell the court of Raj's
+restitution. She did: Nadia breached r 15(4)(c) PCR. Rule 15(4) PCR states that the prosecutor
+must, within a reasonable time after conviction but before sentencing, inform the court of
+(c) if the accused is unrepresented, any known mitigating circumstances. Raj is unrepresented
+and full restitution is a mitigating circumstance that Nadia knew of, so she had to put it
+before the court; she mentioned the pending charges against him instead.
+
+**5. The error in the charge.** The fifth issue is whether Nadia could let the wrong year in the
+charge pass. She could not: Nadia breached r 15(6) PCR. Rule 15(6) PCR states that the
+prosecutor must assist the court at all times before the conclusion of a trial, including by
+drawing the court's attention to any apparent error (whether of fact or of law), any apparent
+omission of fact, and any procedural irregularity, which in the prosecutor's opinion ought to be
+corrected. In *Parti Liyani* at [38] it was incumbent on the DPPs under r 15(6) to flag a known
+problem with an exhibit. A wrong year in the charge is an apparent error of fact in the
+proceedings, and Nadia saw it. "The defence has not raised it" is no answer, particularly where
+the accused has no lawyer; the duty is the prosecutor's own.
+
+In conclusion, Nadia breached r 15(3)(a), r 15(3)(b), r 15(5), r 15(4)(c) and r 15(6) PCR and
+fell short of the duty in r 15(2) to present the evidence fairly and impartially. She should
+disclose Siti and Mr Ho's statement to Raj, withdraw the reference to the pending charges, tell
+the court of the restitution and raise the error in the charge before sentence is passed; if
+the trial has closed, the conviction may be open to challenge on appeal.
+
+*Source note: r 2(1) PCR p4; r 7(2) PCR p13; r 9(5) PCR p17–19; r 13(1)–(6) PCR p24; r 15 PCR
+p27–28, rule text L5 p29–34; r 27, r 30–31 PCR p51–53; s 83(2)(b), (h) LPA p217–218; PD 1.4.2
+p1; PD 8.5.8 p1; GN 1.1.1 paras 2–4 p1; Supreme Court PD 2021 para 21(2) as read for Pre-write
+0-60; Ravi Madasamy at [25]–[26] L4 p15–16; Syed Suhail at [11]–[12] SYL p6; Naidu Priyalatha
+SYL p7 (no pinpoint in sources); Seow Francis L5 p15; Nalpon SYL p7, facts Cyril §III.5.4
+(secondary); Parti Liyani at [38]–[39] as read for Pre-write 0-52.*
+
+---
+
+## Drill 3 (H2) — Daniel Koh, Rachel Ong and Crest Law
+
+Question: `drills.md`, Drill 3 (50 marks, 60 minutes; tier 3, QB-39). Own question and answer,
+written 5 Nov 2026 to cover Keys IV.3, IV.5, IV.6, IV.7, IV.8 and IV.12. Marks: 2.1 30, 2.2 20.
+Pre-writes used: 0-62, 0-6, 0-58, 0-56, 0-57, 0-59, 0-55, 0-53.
+
+### 2.1 Daniel's conduct (30 marks)
+
+The issue is whether Daniel could act against Ming after mediating between the parties, and
+whether his conduct of the suit towards Ming's lawyer and towards Crest Law was proper. In my
+view Daniel breached r 8(6) PCR by acting at all, r 28(1) by entering default judgment too
+early, r 7(9) by demanding the warrant to act without reasons, and r 7(2) as PD 8.5.5 applies
+it by instigating Wei Ling's breach.
+
+**1. Acting after the mediation.** The first issue is whether Daniel, having mediated between
+Sunrise and Ming, could act for Sunrise against Ming. He could not: Daniel breached r 8(6) PCR.
+Rule 8(6) PCR states that a legal practitioner who has acted as a mediator in a mediation must
+not subsequently act for any party to the mediation in relation to (a) the subject of the
+mediation; or (b) any matter discussed during the mediation. The rule contains no exception for
+consent.
+
+Here Daniel acted as mediator between Sunrise and Ming, and Sunrise was a party to that
+mediation. On limb (a), the 2024 mediation concerned late payments on the Tampines project and
+the suit concerns defective steelwork on the same project; whether that is the same "subject"
+is arguable, because the claims differ. Limb (b) settles it. Ming's cash-flow problems were
+discussed during the mediation, and Daniel is not only aware of them but is building Sunrise's
+strategy on them ("Ming can't afford a long fight; I know that from the mediation"). The suit
+is therefore a matter in relation to which he uses something discussed during the mediation,
+and he is acting for a party to it. Using what Ming told him in confidence as mediator also
+offends the duty in r 8(1)(a) PCR to be honest and to behave in a manner befitting his
+professional standing towards every person, and r 8(3)(a) PCR, which forbids him to take unfair
+advantage of any person. Daniel must cease to act for Sunrise in the suit.
+
+Rule 8(6) does not, on its words, bar the rest of Hart Law. It binds only "a legal practitioner
+who has acted as a mediator", whereas the conflict rules that reach the whole firm say so
+expressly: r 21(2) PCR, for example, binds "a legal practitioner or law practice". So another
+Hart Law partner may take over, but only if Daniel's knowledge stays with him. Section 9(1) of
+the Mediation Act 2017 states that a person must not disclose any mediation communication
+relating to a mediation to any third party to the mediation. "Mediation communication" includes
+anything said and any information provided in the course of the mediation, and a "third party"
+is anyone who is not a party, the mediator or the mediation service provider (s 2(1)). The Act
+applies because the mediation was conducted in Singapore under a mediation agreement (s 6(1)(a)).
+Ming's disclosure of its cash-flow problems is a mediation communication, and Daniel's Hart Law
+colleagues are third parties, so he must not tell them, and none of the s 9(2) exceptions (such
+as the consent of all the parties) applies. Hart Law can therefore continue only with Daniel
+screened off from the file.
+
+**2. The default judgment.** The second issue is whether Daniel could enter default judgment
+at 10am on Monday after emailing Rachel at 6pm on Friday. He could not: Daniel breached r 28(1)
+PCR. Rule 28(1) PCR states that a legal practitioner (A) must not enter a default judgment under
+any provision of the Rules of Court 2021 against a party who is represented by another legal
+practitioner (B), unless (a) A has given B written notice of A's intention to enter the default
+judgment; and (b) at least 2 working days have elapsed after the notice is given to B. Rule
+28(2) PCR states that notice given on a working day after 4pm, or on a day other than a working
+day, is to be treated as given on the next working day, and r 28(4) defines a working day as any
+day other than a Saturday, Sunday or public holiday. Rule 28(3)(b) PCR states that no notice is
+needed before acting on a failure to comply with an order of court within the time it sets.
+
+The rule is one of courtesy and fairness, so that one lawyer does not take unfair advantage of
+another's oversight, and is guided by the principle in r 27(b) PCR that a legal practitioner is
+responsible to an opposing legal practitioner for maintaining due process. The general duty was
+put this way in *Public Trustee v By Products Traders Pte Ltd* [2005] SGHC 103 at [31], quoting
+Whyatt CJ: the arms a lawyer wields are to be those of a warrior, not an assassin.
+
+Here Ming was represented by Rachel, who had written to say so. Daniel's email was written
+notice of his intention, so limb (a) is met. But it was sent at 6pm on Friday, after 4pm, so
+under r 28(2) it is treated as given on Monday 19 October. Two working days (Tuesday and
+Wednesday) had to elapse after that, so the earliest Daniel could enter judgment was Thursday
+22 October. He entered it at 10am on Monday, before a single working day had passed, in breach
+of limb (b). Rule 28(3)(b) does not help him: the time for the defence ran under the Rules of
+Court, not under an order of court. Sending notice at 6pm on a Friday and acting at the start of
+Monday is exactly the ambush r 28 exists to prevent. Daniel breached r 28(1) PCR and should
+consent to the default judgment being set aside.
+
+**3. The warrant to act.** The third issue is whether Daniel could insist on seeing Ming's
+warrant to act after Rachel confirmed her authority in writing. He could not: Daniel breached
+r 7(9) PCR. Rule 7(8) PCR states that a legal practitioner may ask another legal practitioner
+(B) whether B has the authority to act for a person. Rule 7(9) PCR states that a legal
+practitioner (A) must accept a written representation by another legal practitioner (B) that B
+is authorised to act for a person, unless A has good reason for suspecting that the
+representation is false. PD 7.4.3 Part C adds that a law practice that insists on disclosure of
+the warrant despite a written representation should give its reasons for suspecting that the
+representation was falsely made, and that once reasons are given the warrant should as a matter
+of course be disclosed. A request to produce a warrant should not be seen as casting aspersions
+on the other lawyer's professionalism and integrity (*Tung Hui Mannequin Industries v Tenet
+Insurance Co Ltd* [2005] 3 SLR(R) 184 at [44]–[45]).
+
+Here Daniel was entitled under r 7(8) to ask. But Rachel had already written to say she acted
+for Ming and would file its defence, and then confirmed her authority in writing again, so r 7(9)
+required Daniel to accept it unless he had good reason to suspect it was false. Nothing in the
+facts gives him any reason, and he gave none; "we are not satisfied" is not a reason. Had he had
+one, such as Ming's director denying that he had instructed Rachel, *Tung Hui Mannequin* would
+have allowed him to press the request, giving that reason under PD 7.4.3 Part C. Daniel breached
+r 7(9) PCR and should accept Rachel's written representation.
+
+**4. The investigator.** The fourth issue is whether Daniel could use an investigator to obtain
+evidence that Crest Law pays for referrals. Not in the way he did: Daniel breached r 7(2) PCR, as
+PD 8.5.5 applies it. PD 8.5.5 adopts the definition in *Wong Keng Leong Rayney v Law Society of
+Singapore* [2007] 4 SLR(R) 377 at [27]: entrapment involves luring or instigating the legal
+practitioner to commit an offence or a breach of the rules of professional conduct which
+otherwise, or in ordinary circumstances, he or she would not have committed, in order to
+prosecute him or her. PD 8.5.5 states that where a legal practitioner (the Procurer) obtains such
+evidence, (a) the Procurer is subject to the same standards of conduct under the disciplinary
+code and the law (*Law Society of Singapore v Tan Guat Neo Phyllis* [2008] 2 SLR(R) 239 at [59]);
+(b) instigating another legal practitioner to commit a breach is a breach of the obligation to
+treat colleagues with courtesy and fairness under r 7(2) PCR, and is as objectionable as the
+ensuing breach; and (c) it derogates from the dignity of the profession, and a legal practitioner
+who becomes aware of another's breach should lodge a complaint with the Law Society instead.
+Rule 7(2) PCR states that a legal practitioner must treat other legal practitioners with
+courtesy and fairness.
+
+Here the investigator did not observe an existing practice of paying referrers. He proposed a
+10% referral fee, Wei Ling refused, and he came back twice with a bigger offer until she agreed.
+That is luring or instigating a breach she had, on the evidence, declined to commit, which is
+entrapment on the *Rayney* definition. The investigator was Daniel's agent, so Daniel is the
+Procurer under PD 8.5.5. Wei Ling is not excused: entrapment does not exclude the evidence or
+stay disciplinary proceedings, and there is a higher public interest in disciplining errant
+lawyers (*Tan Guat Neo Phyllis* at [59]; *Rayney* at [50]–[54]), so her agreement may still be a
+breach of r 39(2)(b) PCR and s 83(2)(e) LPA. But Daniel's own conduct is equally objectionable.
+If he genuinely suspected Crest Law of paying contractors, PD 8.5.5(c) required him to complain
+to the Law Society with what he knew, not to manufacture the breach. Daniel breached r 7(2) PCR.
+
+In conclusion, Daniel breached r 8(6), r 28(1), r 7(9) and r 7(2) PCR. He must cease to act for
+Sunrise; the default judgment should be set aside by consent; and any complaint about Crest Law
+should be made on the evidence he had before the investigator's visits, disclosing how the
+recording was obtained. Taken together, his conduct may be improper conduct under s 83(2)(b) LPA.
+
+### 2.2 Rachel's affidavit and Wei Ling's conduct (20 marks)
+
+The issue is whether Rachel could file an affidavit accusing Daniel of falsification with only
+seven hours' notice, and whether Wei Ling could solicit Sunrise and act for it while Hart Law
+was on the record. In my view Rachel breached r 29 PCR, and Wei Ling breached r 7(4) PCR,
+PD 7.3.3 and PD 7.3.2.
+
+**1. Rachel and the allegation against Daniel.** The first issue is whether Rachel gave Daniel a
+proper opportunity to respond. She did not: Rachel breached r 29 PCR. Rule 29 PCR states that a
+legal practitioner (A) must not permit an allegation to be made against another legal
+practitioner (B) in any document filed on behalf of A's client in any court proceedings, unless
+(a) B is given the opportunity to respond to the allegation; and (b) where practicable, B's
+response (if any) is disclosed to the court. PD 8.1.1 Part B states that r 29 does not apply
+(a) when B is a party to the proceedings; (b) where a client in a criminal suit makes
+allegations against B who is the victim; or (c) when the allegation is against a non-practising
+lawyer. PD 8.1.1 Part D states that it is A's duty to give B sufficient particulars of the
+allegation to enable B to respond fully, and that it is prudent to forward B the draft document.
+"Document" includes an affidavit sworn by A's client. The opportunity must be real, with
+sufficient particulars and reasonable time to respond, and a letter sent only on the day the
+document is filed is not enough (*Imran bin Mohd Arip v Public Prosecutor* [2021] SGCA 91 at
+[96], [98]). A lawyer who refused to remove allegations against other lawyers from an affidavit
+when invited was fined $10,000 (*Tan Beng Hui Carolyn v Law Society of Singapore* [2023] SGCA 7).
+
+Here the affidavit is a document filed on Ming's behalf in the suit, and it alleges that Daniel
+"falsified the time stamp" on his email, an allegation of dishonesty. Daniel is a practising
+lawyer and not a party to the suit, so none of the Part B exclusions applies. On limb (a),
+Rachel sent the sworn affidavit at 9am and filed it at 4pm the same day, with a one-line letter.
+That is not a draft, it invites no response, and seven hours on the day of filing is the very
+timing *Imran* held insufficient. On limb (b), because Daniel had no real opportunity, there was
+no response for the court to see, so the court has heard only one side of a serious allegation.
+The complaint about the timing of the default judgment could have been made without alleging
+falsification at all. Rachel breached r 29 PCR. She should give Daniel the particulars and a
+reasonable time to respond, withdraw or amend the allegation if his response answers it, and put
+any response before the court.
+
+**2. Wei Ling and the second opinion.** The second issue is whether Wei Ling could criticise
+Daniel's work and offer a discount to win Sunrise over. She could not: Wei Ling breached r 7(4)
+PCR. Rule 7(4) PCR states that a legal practitioner (A) may give a second opinion to a client of
+another legal practitioner (B), with or without the knowledge of B, but must not improperly seek
+to influence the client to terminate the relationship between the client and B. These are
+manifestations of the duty of courtesy and fairness to other lawyers in r 7(2) PCR.
+
+Here Wei Ling was entitled to give the CFO a second opinion on the suit, and did not need Daniel's
+knowledge to do so. But she did not give an opinion on the merits; she called Daniel's handling
+"amateurish", offered a 30% discount to switch and pressed the CFO to "sign here". That is an
+improper attempt to influence Sunrise to end its retainer with Hart Law. Her low view of Daniel is
+not unfounded, given the breaches in 2.1, but the proper course was to advise Sunrise on its
+position and leave the choice of lawyer to it. Wei Ling breached r 7(4) PCR.
+
+**3. Wei Ling writing to the court.** The third issue is whether Wei Ling could act for Sunrise
+while Hart Law was on the record. She could not: Wei Ling breached PD 7.3.3 and PD 7.3.2. PD 7.3.3
+states that a legal practitioner should not act in a matter in place of another legal
+practitioner whom he or she knows has been retained until that retainer has been determined by
+the client. PD 7.3.2 states that if in any civil proceeding the name of any legal practitioner
+appears on the record for any party, no other legal practitioner shall knowingly agree to act or
+continue to act for that party in that proceeding, unless, in ignorance that the name so appears
+on the record, he or she has already agreed to act and is unable, by reason of circumstances or
+urgency, to refuse to act further without breaching professional duty.
+
+Here Wei Ling knew Hart Law acted, because the CFO came to her for a second opinion on Hart Law's
+handling. Sunrise had not ended Hart Law's retainer, and Hart Law remained on the record, yet the
+next day she wrote to the court as "solicitors for Sunrise" asking for the setting-aside hearing
+to be vacated. She was not acting in ignorance of the record, and there was no urgency: a hearing
+could be vacated by Hart Law on Sunrise's instructions, or after a notice of change. Wei Ling
+breached PD 7.3.3 and PD 7.3.2, and her letter also misdescribed her firm's position to the
+court. She should withdraw the letter, tell the court and Hart Law what happened, and wait until
+Sunrise has ended Hart Law's retainer and a notice of change has been filed.
+
+In conclusion, Rachel breached r 29 PCR, and Wei Ling breached r 7(4) PCR, PD 7.3.3 and PD 7.3.2.
+
+*Source note: r 7(2), (4), (8)–(9) PCR p13–14; r 8(1)(a), (3), (6) PCR p15–16; r 27–29 PCR
+p51–52; r 39(2)(b) PCR p61; s 83(2)(b), (e) LPA p217–218; PD 7.3.2, 7.3.3 p1; PD 7.4.3 Part C
+p1; PD 8.1.1 Parts A–D p1; PD 8.5.5 pp1–2 (Rayney at [27] and Tan Guat Neo Phyllis at [59] as
+quoted there); Rayney at [50]–[54] L6 p17; Public Trustee at [31] as read for Pre-write 0-58
+(the r 28 application is L6 p19's); Tung Hui Mannequin at [44]–[45] L6 p16; Imran at [96], [98]
+L6 p23; Tan Beng Hui Carolyn SYL p8, fine Cyril §IV.3 (secondary); r 8(6) text L7 and PCR p16,
+r 21(2) PCR p39 (wording compared 5 Nov 2026); Mediation Act 2017 ss 2(1), 6(1), 9(1)–(2) read on
+Singapore Statutes Online (5 Nov 2026), s 9 also listed in Cyril, Stuff/4. DRP/3. Mediation/Slides/
+5. Ethical Considerations p13.*
+
+---
+
+## Drill 4 (H3) — Benjamin Chua and Madam Lim
+
+Question: `drills.md`, Drill 4 (50 marks, 60 minutes; tier 3, QB-40). Own question and answer,
+written 5 Nov 2026 to cover Keys II.22, I.3 and II.11 (II.10 incidental). Marks: 3.1 25,
+3.2 25. Pre-writes used: 0-36, 0-27, 0-41, 0-13, 0-39, 0-6, 0-35.
+
+### 3.1 The lapsed practising certificate and the two loans (25 marks)
+
+The issue is whether Benjamin was bound by the PCR while his practising certificate had lapsed,
+and whether the loans from Madam Lim and Mr Ravi were permitted. In my view he was bound in
+substance, he committed an offence by practising while unauthorised, and both loans are
+prohibited borrowing transactions in breach of r 23(1) PCR.
+
+**1. Practising without a practising certificate.** The first issue is what followed from
+Benjamin's practising after 31 March. He acted as an unauthorised person: Benjamin committed an
+offence under s 33(1) LPA. Under s 32(2) LPA a person is an unauthorised person unless he or she
+is (a) on the roll of advocates and solicitors with a practising certificate in force. Section
+33(1) LPA makes it an offence for an unauthorised person (a) to act as an advocate or a
+solicitor, and s 33(2)(a) makes it an offence for an unauthorised person to draw or prepare any
+document or instrument relating to any movable or immovable property. From 1 April to 15 June
+Benjamin had no practising certificate in force, so he was an unauthorised person. He went on
+seeing clients, drafted Madam Lim's loan agreement and acted for Mr Ravi on a lease, which is
+acting as a solicitor and preparing property documents. Forgetting to renew is no defence to the
+fact of practising; it may only bear on sanction.
+
+**2. Do the PCR apply to him in that period?** The second issue is whether Benjamin can say that
+r 23 did not bind him because he had no practising certificate. He cannot: r 23 applied. Rule
+3(4) PCR states that, except as provided in paragraphs (2) and (3), Part 3 (rules 9–34) applies
+to (a) every solicitor who has in force a practising certificate; (b) every person admitted
+under s 15; and (c) every foreign lawyer registered under s 36B. Rule 3(5) PCR states that
+Division 2 of Part 3 (rules 16–26) applies (a) to every Singapore law practice. The Rules are
+read with a proper appreciation of the mischief to be averted rather than in a strict textual
+fashion (*Then Khek Khoon v Arjun Permanand Samtani* [2012] 2 SLR 451 at [47]), and r 4(b) PCR
+states the principle that the duty to the client must at all times be fulfilled in a manner
+that upholds the standing and integrity of the legal profession.
+
+Read literally, r 3(4)(a) does not reach Benjamin personally while his certificate had lapsed.
+But r 23 is in Division 2 of Part 3, and its prohibition binds "a legal practitioner or law
+practice", so through r 3(5)(a) it binds Chua & Co, whose sole proprietor Benjamin is. Chua & Co
+remained a Singapore law practice throughout. Section 2(1) LPA defines a "Singapore law
+practice" to include (a) a law firm, and a "law firm" as a practice of a solicitor who practises
+on his or her own account and is licensed as a law firm under s 131. A "solicitor" is an advocate
+and solicitor of the Supreme Court (s 2(1)), which Benjamin remained while his certificate had
+lapsed. The licence is subject to the condition that the firm meets the general threshold
+requirements (Legal Profession (Law Practice Entities) Rules 2015 r 5(4)). One of them is that
+its manager is a solicitor (r 3(1)(c)), which for that purpose means one with a practising
+certificate in force (r 3(3)(a)). So from 1 April Chua & Co was in breach of a licence condition.
+But the licence does not lapse on its own: the Director of Legal Services may suspend or revoke
+it only by written notice, after giving the firm at least 14 days to make representations
+(s 133(1)–(3) LPA). Chua & Co was still a licensed law firm, and r 23 bound it. Two further
+points confirm the result. First, in *Law Society of Singapore v
+Chia Chwee Imm Helen* [2022] SGHC 214, r 23 was held to apply to a lawyer without a valid
+practising certificate who borrowed from a client and the client's mother. Second, a purposive
+reading under *Then Khek Khoon* would not let a lawyer escape the borrowing rule by failing to
+renew, and his conduct is in any event caught by s 83(2)(h) LPA as misconduct unbefitting an
+advocate and solicitor. Rule 23 applied to Benjamin.
+
+**3. The loan from Madam Lim to BCI.** The third issue is whether Benjamin could arrange Madam
+Lim's loan to his wife's company. He could not: Benjamin breached r 23(1)(b) PCR. Rule 23(1) PCR
+states that, subject to paragraph (2), a legal practitioner or law practice must not (b)
+instruct, procure, provide security for or arrange for an associated party to enter into a
+prohibited borrowing transaction. Rule 23(4) PCR defines a "prohibited borrowing transaction" as
+any transaction under which money is borrowed, directly or indirectly, from a client (not being
+an excepted person) of the legal practitioner or law practice (b) by an associated party of the
+legal practitioner. An "associated party" includes (ii) any body corporate in which the legal
+practitioner, or any immediate family member, has any beneficial interest, and "immediate family
+member" includes a spouse (r 2(1)). An "excepted person" is a licensed bank, finance company or
+similar entity whose business includes lending money to the public. Rule 23(3) PCR gives three
+exceptions: (a) every party other than the legal practitioner and the associated party received
+independent advice, certified in writing by the adviser, before the transaction, and the legal
+practitioner made full written disclosure of his and the associated party's interests; (b) the
+legal practitioner did not act for any client in the transaction and any client party was
+separately represented; or (c) the Council determines that the rule does not apply.
+
+The rationale is that a client is vulnerable to a solicitor, who enjoys a position of influence,
+and may find it hard to refuse a loan because of the trust and confidence placed in the
+solicitor; the lawyer in *Law Society of Singapore v Yap Bock Heng Christopher* [2014] 4 SLR 877
+was suspended for two years, and it was irrelevant to liability that the client suffered no
+loss, while non-repayment aggravates.
+
+Here Madam Lim is a client of ten years' standing and an individual, not an excepted person.
+BCI is a company in which Benjamin's wife holds 60% of the shares, so it is an associated party.
+Benjamin proposed the loan and drafted the agreement, so he arranged for BCI to enter into it.
+None of the exceptions applies. Madam Lim had no independent advice, let alone advice certified
+in writing, and Benjamin told her another lawyer was unnecessary; there was no written
+disclosure of his wife's interest. Benjamin himself acted in the transaction, so exception (b)
+fails, and there is no Council determination. That BCI has repaid $50,000 does not help; $200,000
+of a 72-year-old client's money remains outstanding, which *Yap Bock Heng* treats as
+aggravating. Benjamin breached r 23(1)(b) PCR.
+
+The same facts engage r 22. Rule 22(3) PCR states that where any immediate family member of the
+legal practitioner has an interest in any matter entrusted to him by a client, (a) where the
+interest is adverse to the client's, he must withdraw unless (i) he makes full and frank
+disclosure of the adverse interest; (ii) he advises the client to obtain independent legal
+advice; (iii) if the client does not obtain it, he ensures that the client is not under the
+impression that he is protecting her interests; and (iv) the client gives informed consent in
+writing. As borrower, BCI's interest in cheap, lightly secured terms is adverse to Madam Lim's as
+lender. Benjamin made no disclosure, discouraged independent advice and, by calling it "a
+family arrangement", left her thinking he was looking after her. He breached r 22(3)(a) too.
+
+**4. The loan from Mr Ravi.** The fourth issue is whether Benjamin could borrow $30,000 from
+Mr Ravi. He could not: Benjamin breached r 23(1)(a) PCR. Rule 23(1)(a) PCR states that a legal
+practitioner must not enter into a prohibited borrowing transaction, and r 23(2) gives the same
+three exceptions for the lawyer's own borrowing. Mr Ravi is a client for whom Benjamin was
+acting on a lease. He is not an excepted person: the excepted person is the licensed lending
+entity, and the money came from Mr Ravi's own savings, not from his company in the course of its
+lending business. Borrowing from a client who received no independent advice was serious enough
+for discipline even though the client carried on business as a moneylender, and substantial
+repayment did not matter (*Law Society of Singapore v Thirumurthy Ayernaar Pambayan* [2015]
+SGDT 2). Mr Ravi had no independent advice, Benjamin was his lawyer at the time and there was
+no Council determination, and an IOU is not written full disclosure. Benjamin breached r 23(1)(a)
+PCR.
+
+In conclusion, Benjamin practised while unauthorised, contrary to s 33 LPA, and breached
+r 23(1)(b), r 22(3)(a) and r 23(1)(a) PCR. He should arrange repayment of both loans, advise
+Madam Lim and Mr Ravi in writing to take independent advice, and report the position to the Law
+Society. Section 83(2) LPA states that due cause may be shown by proof that an advocate and
+solicitor (b) has been guilty of such a breach of any rule of conduct as amounts to improper
+conduct or practice, or (j) has contravened any of the provisions of the Act if the
+contravention warrants disciplinary action. *Yap Bock Heng* suggests a suspension is likely.
+
+### 3.2 The requests for information and the will (25 marks)
+
+The issue is whether Benjamin could hand Madam Lim's files to the CAD and IRAS, and promise her
+will to her daughter. In my view he breached r 6(2) PCR and failed in his duty under PD 9.1.3
+and PD 9.1.1 to claim privilege and check the powers relied on, and he must not give Grace the
+will.
+
+The rules common to all three requests are these. Rule 6(2) PCR states that, subject to
+paragraph (3), a legal practitioner must not knowingly disclose any information which (a) is
+confidential to his or her client; and (b) is acquired by the legal practitioner in the course
+of the legal practitioner's engagement. Rule 6(3) PCR states that he may disclose it if (a) the
+client authorises the disclosure; or (b) he is permitted or required by law, by an order of
+court, or by a tribunal to make the disclosure. PD 9.1.3 states that communications made to a
+lawyer in the professional capacity and in the legitimate course of professional employment are
+privileged, whether or not litigation is contemplated. No privilege attaches to (a) information
+not confidential in nature; (b) facts patent to the senses, such as the date on which the lawyer
+was first instructed or that the client executed a particular deed; or (f) communications made
+in furtherance of a fraud or crime. The privilege is the client's, and until she waives it the
+lawyer must claim it if asked to disclose. Section 128(1) of the Evidence Act 1893 likewise
+forbids an advocate and solicitor to disclose, without the client's express consent, any
+communication made to him for the purpose of his professional employment, or any advice given.
+PD 9.1.1 states that where authorities such as the Commercial Affairs Department or the
+Comptroller of Income Tax call on lawyers to supply documents protected by privilege, it is the
+lawyer's ethical duty (1) to satisfy himself that the power invoked exists; (2) to satisfy
+himself that it has been validly exercised; and (3) in the absence of the client's instructions
+to the contrary, to make the necessary submissions on the client's behalf if there is anything
+more than a frivolous argument that these conditions are not met.
+
+**1. The CAD request.** The first issue is whether Benjamin could email the complete files in
+answer to a telephone call. He could not: Benjamin breached r 6(2) PCR and his duty under
+PD 9.1.3 and PD 9.1.1. The CAD's power to require documents is s 20 of the Criminal Procedure
+Code 2010, which works by a written order by a police officer of or above the rank of sergeant,
+or a person authorised in writing, requiring production of a document necessary or desirable for
+an investigation (s 20(1), (9)).
+
+Here the advice letters on Madam Lim's husband's estate are communications made to and by
+Benjamin in the course of his professional employment, so they are privileged, and the rest of
+the files are confidential information acquired in the engagement under r 6(2). Nothing suggests
+the advice was in furtherance of a fraud or crime, so exception (f) does not apply. On PD 9.1.1
+checks (1) and (2), a telephone request is not a written order under s 20(1), so the power had
+not been validly exercised at all, and Benjamin did not ask which provision the officer relied
+on or check the officer's authority. The request for "all your files ... for the last ten years"
+was also far wider than any one investigation, and Benjamin did not check that it was confined to
+the matter. Because no valid order had been made, no law required the disclosure, so r 6(3)(b)
+did not apply, and Madam Lim had not authorised it under r 6(3)(a). Even if a written s 20 order
+had been served, s 20(5) states that the power applies despite any provision in any other law
+relating to production, and the sources do not decide whether that overrides privilege; PD 9.1.1
+then requires Benjamin, absent contrary instructions, to claim privilege and make submissions,
+not to hand everything over. Benjamin breached r 6(2) PCR and did not claim privilege as
+PD 9.1.3 requires.
+
+**2. The IRAS notice.** The second issue is whether Benjamin could send IRAS his advice letters
+in answer to a s 65B notice. He could not: Benjamin breached r 6(2) PCR and his duty under
+PD 9.1.3. Section 65B of the Income Tax Act 1947 lets the Comptroller require information by
+notice (s 65B(3)), but s 65B(2)(b) states expressly that a person is not obliged to disclose any
+information subject to legal privilege. Here, unlike the CAD request, the power exists and was
+exercised in writing, so checks (1) and (2) are likely satisfied. But the notice asked for "the
+advice he gave" on the share transfer, which is the core of what privilege protects, and the
+statute itself preserves the privilege. Benjamin therefore had to claim privilege on Madam Lim's
+behalf. He could provide non-privileged facts within the notice, such as the date he was
+instructed or that a transfer deed was executed, which PD 9.1.3 treats as facts patent to the
+senses. Since the statute did not require the advice letters, r 6(3)(b) did not permit their
+disclosure. Benjamin breached r 6(2) PCR.
+
+**3. Not telling Madam Lim.** The third issue is whether Benjamin could deal with both requests
+without telling his client. He could not. The privilege is Madam Lim's, so only she can waive it,
+and PD 9.1.1 frames the lawyer's duty to resist as subject to her instructions. Benjamin had to
+tell her of each request, explain the position and take her instructions before responding. His
+silence also breaches the duty in r 5(2)(b) PCR to keep the client informed of matters that may
+reasonably affect her interests. He should now tell her what was disclosed, and, with her
+instructions, write to the CAD and IRAS asserting privilege over the advice letters and asking
+for their return.
+
+**4. Grace's request for the will.** The fourth issue is whether Benjamin may give Grace a copy
+of her mother's will. He may not: doing so would breach r 6(2) PCR. The contents of Madam Lim's
+will are confidential to her and came to Benjamin in the course of his engagement. Grace is not a
+client, Madam Lim is alive and has not authorised disclosure, and no law requires it, so no r 6(3)
+exception applies. Wanting to help "the family plan ahead" is not a ground. Benjamin's reply,
+promising the will once the tax matter is over, should be withdrawn; he should tell Grace that he
+cannot discuss his client's affairs and that she may ask her mother.
+
+In conclusion, Benjamin breached r 6(2) PCR in disclosing the files to the CAD and the advice to
+IRAS, failed to claim privilege as PD 9.1.3 requires and to make the checks PD 9.1.1 requires,
+and must not give Grace the will.
+
+*Source note: r 2(1), r 3(4)–(5), r 4 PCR p4–9; r 5(2)(b) PCR p10; r 6(2)–(3) PCR p12–13; r 22(3)
+PCR p40–41; r 23(1)–(4) PCR p42–46; s 2(1) "advocate and solicitor", "law firm", "Singapore law
+practice" LPA p14–21; s 131 LPA p291–292, s 133(1)–(3) LPA p293 (course copy, version in force from 17/4/2025);
+Legal Profession (Law Practice Entities) Rules 2015 r 3(1)(c), (3), r 5(4) read on Singapore
+Statutes Online (5 Nov 2026), not in the course sources; s 32(2), s 33(1)–(2) LPA p92–94; s 83(2)(b), (h), (j) LPA
+p217–218; PD 9.1.1 p1; PD 9.1.3 p1; ITA s 65B(2)(b), (3), CPC s 20(1), (5), (9) and Evidence Act
+s 128 as read for Pre-write 0-39 (Singapore Statutes Online, 3 Nov 2026); Then Khek Khoon at [47]
+as read for Pre-write 0-36; Chia Chwee Imm Helen L3 p18, SYL p4, r 23 applying without a
+practising certificate Cyril Master Notes §II.5 (secondary); Yap Bock Heng L3 p16, no-loss and
+non-repayment points Cyril §II.5 (secondary); Thirumurthy L3 p17. Whether CPC s 20(5) displaces
+privilege is not decided in the sources (as Pre-write 0-39 notes).*
+
+---
+
+## Drill 5 (H4) — Wendy Goh, Alvin and Homesmart
+
+Question: `drills.md`, Drill 5 (50 marks, 60 minutes; tier 3, QB-41). Own question and answer,
+written 5 Nov 2026 to cover Keys V.3, I.1, VI.5, VII.1 and VII.2. Marks: 4.1 15, 4.2 15,
+4.3 20. Pre-writes used: 0-64, 0-27, 0-26, 0-35, 0-67, 0-31, 0-68, 0-69.
+
+### 4.1 Supervision of Alvin, and his admission application (15 marks)
+
+The issue is whether Wendy properly supervised Alvin, whether Alvin held himself out as a
+solicitor, and what Alvin must say when he applies for admission. In my view Wendy breached
+r 32 PCR and s 77(1)(c) LPA, Alvin committed an offence under s 33(1)(b) LPA, and Alvin must
+disclose the episode fully.
+
+**1. No supervisor and no supervision.** The first issue is whether Wendy could leave Alvin to
+run files alone with no supervising solicitor. She could not: Wendy breached r 32 PCR. Rule 32
+PCR states that a legal practitioner must, regardless of the legal practitioner's designation in
+a law practice, exercise proper supervision over the staff working under the legal practitioner
+in the law practice. A practice trainee is not on the roll and has no practising certificate, so
+is an unauthorised person (s 32(2) LPA). Directing a trainee to do substantive work, such as
+drafting a letter to court, preparing an affidavit of evidence-in-chief and legal research,
+knowing there was no eligible supervising solicitor, was misconduct, and the lawyer was suspended
+for 18 months (*Law Society of Singapore v Clarence Lun Yaodong* [2022] SGHC 269 at [47]–[50]).
+PD 3.11.2 reminds members of their duty under r 32 to supervise staff, which may include
+unauthorised persons.
+
+Here Alvin's supervising solicitor left in March and nobody was appointed in his place, yet
+Alvin has since run most of the HDB resale files alone, taking instructions and advising buyers
+on their options. That is substantive legal work, as in *Lun Yaodong*, done with no eligible
+supervisor at all. Wendy, as sole proprietor, reads none of his letters, and "she trusts him" is
+not supervision. Wendy breached r 32 PCR.
+
+**2. Signing as "Solicitor".** The second issue is whether Alvin could sign letters as "Alvin
+Tan, Solicitor", and whether Wendy is responsible. He could not: Alvin committed an offence under
+s 33(1)(b) LPA, and Wendy contravened s 77(1)(c) LPA. Section 33(1) LPA makes it an offence for
+an unauthorised person (b) to wilfully or falsely pretend to be, or take or use any name, title,
+addition or description implying that he or she is, duly qualified or authorised to act as an
+advocate or a solicitor, and s 33(2)(d) makes it an offence for an unauthorised person to write,
+publish or send for a claimant a letter threatening legal proceedings, other than one saying the
+matter will be handed to a solicitor. PD 3.11.1 states that an unauthorised person can sign on
+behalf of a law practice so long as he or she does not sign in the name of the law practice, using
+his or her own name and proper designation. Section 77(1) LPA states that a solicitor must not
+(c) do any act enabling any unauthorised person to appear, act or practise or purport to practise
+in any respect as a solicitor. PD 3.9.2 records a trainee who appeared on a watching brief without
+telling the court he had not yet been called, and reminds members of their responsibilities in
+supervising trainees.
+
+Here Alvin is not yet called, so describing himself as "Solicitor" in letters to other firms, to
+HDB and to Mr Kok is a description implying he is qualified, within s 33(1)(b). He could properly
+have signed as "Alvin Tan, Practice Trainee" under PD 3.11.1. His letter of demand to Mr Kok,
+threatening proceedings for a landlord client, also falls within s 33(2)(d), since it does not
+merely say the matter will be handed to a solicitor. By letting him run the files and send
+letters she never read, Wendy did acts enabling him to purport to practise as a solicitor,
+contrary to s 77(1)(c), which s 77(3) makes a ground for discipline. Wendy contravened s 77(1)(c)
+LPA, and she should put an eligible supervisor in place, review every letter Alvin has sent and
+correct his designation with the recipients.
+
+**3. Alvin's admission application.** The third issue is what Alvin should say when he applies
+for admission. He must disclose the episode fully, and Wendy's advice is wrong. Lawyers are
+"ministers in the temple of justice", so admission requires good character, not just exam passes
+(*Re Tay Quan Li Leon* [2022] SGHC 133 at [1], [34], [46]). Cheating in the Bar examinations
+shows a character deficit (*Re Sean Wong Wai Loong* [2022] SGHC 237 at [76]), and so does a lack
+of candour in the admission process itself (*Re Gabriel Silas Tang Rafferty* [2024] SGHC 82 at
+[1]–[2], [38]–[39]). Alvin's signing as "Solicitor" was probably the product of having no
+supervisor, and once corrected it may say little about his character. Hiding it would say a great
+deal, because candour in the admission process is itself the test in *Gabriel Silas Tang
+Rafferty*. "Nobody checks" is no reason, and Wendy should not have suggested it. Alvin should
+disclose what happened and how it was put right.
+
+In conclusion, Wendy breached r 32 PCR and s 77(1)(c) LPA, Alvin's letters were offences under
+s 33(1)(b) and s 33(2)(d) LPA, and Alvin should disclose the matter fully in his admission
+application.
+
+### 4.2 The Homesmart arrangement (15 marks)
+
+The issue is whether Faith Law's arrangement with Homesmart for conveyancing referrals is
+permitted. In my view it is not: Faith Law breached r 40(1) and r 39(2)(b) PCR, and r 40(2)
+requires it to end the arrangement.
+
+**1. The form and terms of the agreement.** The first issue is whether the agreement meets
+r 40(1). It does not: Faith Law breached r 40(1) PCR. Rule 40(1) PCR states that, in addition to
+r 39, when a law practice enters into any agreement for the referral of any conveyancing service,
+it must ensure that the agreement is made in writing and contains the following terms: (a) the
+referror undertakes to comply with the Rules; (b) the law practice is entitled to terminate the
+agreement if there is reason to believe that the referror is in breach of any of its terms;
+(c) any publicity of the referror which refers to any service that may be provided by the law
+practice must not suggest (i) that the conveyancing service is free, or (iii) that the
+availability or price of any other service offered by the referror is conditional on the client
+instructing the law practice; and (d) the referror must not do anything to impair the client's
+right not to appoint the law practice, and must not influence in any way the client's right to
+appoint a lawyer of the client's choice. Here the agreement is oral, so it is not in writing and
+contains none of the four required terms. That alone breaches r 40(1).
+
+**2. Homesmart's flyer and its agents.** The second issue is whether Homesmart's conduct breaches
+what those terms would require. It does. "FREE legal fees with our partner law firm" suggests that
+the conveyancing service is free, which is exactly what r 40(1)(c)(i) forbids. Telling buyers that
+the agency-commission discount is available only if they use Faith Law makes the price of
+Homesmart's own service conditional on instructing Faith Law, contrary to r 40(1)(c)(iii), and it
+impairs the buyers' right to appoint a lawyer of their choice, contrary to r 40(1)(d).
+
+**3. The "$300 marketing support".** The third issue is whether Faith Law may pay Homesmart for
+each completed file. It may not: Faith Law breached r 39(2)(b) PCR, which forbids a law practice to
+reward a referror by any commission or other form of consideration. Paying any commission to a
+referror is prohibited, whatever it is called (*Law Society of Singapore v Chong Wai Yen Michael*
+[2012] 2 SLR 113), and an agreement to pay a referral fee is in substance touting (*Wong Keng Leong
+Rayney v Law Society of Singapore* [2006] 4 SLR(R) 934). Here the payment is made "for each
+completed file", so it varies with the work Homesmart sends; calling it "marketing support" does
+not change its character as consideration for referrals. Section 83(2)(e) LPA also makes it due
+cause for a lawyer to procure employment through a person to whom remuneration for obtaining it
+has been given or promised.
+
+**4. What Faith Law must do.** The fourth issue is what follows. Rule 40(2) PCR states that the
+law practice must terminate the agreement if (a) the referror is in breach of any of those terms;
+or (b) there is reason to believe that the law practice is in breach of any such term, and r 40(3)
+states that after termination it (a) may continue to act in matters instructed before termination;
+but (b) must not accept any further referrals from the referror. Both limbs of r 40(2) are met:
+Homesmart's flyer and agents breach the terms, and Faith Law itself is paying for referrals.
+Faith Law must terminate the arrangement, stop the payments, may finish its existing Homesmart
+files, and must accept no further referrals from Homesmart.
+
+In conclusion, Faith Law breached r 40(1) and r 39(2)(b) PCR, and must terminate the arrangement
+under r 40(2).
+
+### 4.3 Mr Tan's settlement money and the Zenith purchase (20 marks)
+
+The issue is whether Faith Law dealt properly with Mr Tan's settlement sum and with its new client
+Zenith. In my view it breached r 3(1), r 7(1) and r 8(5) and (7) of the Legal Profession
+(Solicitors' Accounts) Rules (LPSAR) and r 16(3)(a) PCR, and it breached r 8, r 13 and r 15 of the
+anti-money-laundering rules and must consider a suspicious transaction report.
+
+**1. Paying the $18,000 into the office account.** The first issue is whether Alvin could pay the
+settlement into the office account. He could not: Faith Law breached r 3(1) LPSAR. Under r 2(1)
+LPSAR, "client's money" is money held or received by a solicitor on account of a person for whom
+he is acting, other than (b) money to which the only person entitled is the solicitor himself, or
+(c) conveyancing money. Rule 3(1) LPSAR states that, subject to r 9, every solicitor who holds or
+receives client's money shall without delay pay it into a client account. Rule 9(2) LPSAR states
+that the solicitor shall not pay into a client account money (b) for payment of a debt due to the
+solicitor from the client; or (c) expressly paid to him (i) on account of costs for which a bill or
+other written intimation has been delivered, or (ii) as an agreed fee. An erroneous deposit of
+client's money into the office account breaches r 3(1) (*Law Society of Singapore v Tan Chwee Wan
+Allan* [2007] 4 SLR(R) 699). Money paid into the office account was not excused as an "agreed fee"
+where there was no written evidence of a fee agreement (*Law Society of Singapore v Tay Choon Leng
+John* [2012] 3 SLR 150), and ignorance of the rules is no defence (*Law Society of Singapore v Lim
+Tean* [2026] SGHC 78 at [55]–[63]).
+
+Here Mr Kok paid the $18,000 to Faith Law for Mr Tan, so it is money received on account of a
+client, and it is not conveyancing money. None of the r 9(2) exceptions applies. The money was not
+paid "for payment of a debt due to the solicitor"; it was Mr Tan's settlement sum, and Mr Tan owing
+fees does not make it Faith Law's. No bill had been delivered and there was no written fee
+agreement, so it was neither money on account of billed costs nor an agreed fee, as *Tay Choon Leng
+John* shows. Faith Law breached r 3(1) LPSAR, and leaving it there for three weeks compounds the
+breach. Supervising the client account is a non-delegable responsibility of the equity partners (*Law
+Society of Singapore v Zulkifli bin Mohd Amin* [2011] 2 SLR 620), which in a sole proprietorship
+means Wendy, whoever banked the cheque.
+
+**2. Drawing the $6,000.** The second issue is whether Faith Law could draw its fees the same day
+on Sam's signature alone. It could not: Faith Law breached r 7(1), r 8(5) and r 8(7) LPSAR. Rule
+7(1)(a) LPSAR states that client's money may be drawn from a client account only if it is (iv)
+properly required for or towards payment of the solicitor's costs where a bill of costs or other
+written intimation of the amount of the costs incurred has been delivered to the client and the
+client has been notified that money held for him will be applied towards or in satisfaction of such
+costs. PD 3.3.1 adds that the solicitor must also have (c) allowed two working days to lapse after
+the notification before transferring the amount. Rule 8(5) LPSAR states that no sum exceeding
+$5,000 may be drawn except (a) on a cheque or other instruction signed by 2 solicitors, and r 8(6)
+disapplies this only where an approved book-keeper is engaged and the sum does not exceed $30,000.
+Rule 8(7) LPSAR states that a solicitor must not sign any withdrawal from a client account if (a)
+he has been in practice in Singapore for less than 3 years in aggregate.
+
+Here no bill or written intimation of costs had been delivered and Mr Tan was told only after the
+money had been taken, so the draw was not permitted by r 7(1)(a)(iv), and the PD 3.3.1 two-day wait
+was not observed. The $6,000 exceeds $5,000 and Faith Law has no approved book-keeper, so two
+signatures were needed under r 8(5); and Sam, with two years' standing, could not sign any
+withdrawal at all under r 8(7)(a). Faith Law breached r 7(1), r 8(5) and r 8(7) LPSAR.
+
+**3. Telling Mr Tan.** The third issue is whether Mr Tan was properly told. He was not: Faith Law
+breached r 16(3)(a) PCR. Rule 16(3) PCR states that the legal practitioner must (a) promptly notify
+the client whenever the legal practitioner receives any money to be held on the client's behalf.
+Mr Tan heard nothing for three weeks and was then told in the same email that his money had been
+received and that fees had been taken from it. The rules protect the public and cannot be contracted
+out of (*Law Society of Singapore v Dhanwant Singh* [2019] SGHC 290). Faith Law should restore the
+$6,000 to the client account at once, deliver a bill, give the PD 3.3.1 notice and wait two working
+days, and have any withdrawal signed by two eligible solicitors.
+
+**4. Zenith: customer due diligence.** The fourth issue is whether Faith Law could act for Zenith on
+the information it had. It could not: Faith Law breached r 8, r 13 and r 15 of the Legal Profession
+(Prevention of Money Laundering, Financing of Terrorism and Proliferation Financing) Rules 2015 (AML
+Rules). Part 5A LPA and the AML Rules apply when a lawyer acts in a "relevant matter", which s 70A(2)
+LPA defines to include (a) the acquisition of any interest in real estate. Rule 6(1) AML Rules
+requires the lawyer to (a) ascertain the identity of the client and (b) verify it using objectively
+reliable and independent sources, and r 7 requires the lawyer to verify the identity and authority
+of anyone purporting to act for the client. Rule 8(1) AML Rules states that for an entity the lawyer
+must (a) ascertain whether it has any beneficial owner; (b) ascertain the identity of each
+beneficial owner; (c) take reasonable measures to verify that identity; and (f) understand its
+ownership and control structure. Rule 12(4) states that the risks are raised if (c) the transaction
+relates to a country under FATF increased monitoring, and r 13(1)(a) then requires enhanced due
+diligence, which r 13(2) states includes (a) senior management approval and (b) reasonable measures
+to establish the source of wealth and source of funds. Rule 15 states that where the lawyer is
+unable to complete any due diligence measure, it (a) must not commence any new business
+relationship; (b) must not undertake any transaction for the client; and (c) must consider whether
+to file a suspicious transaction report. Law firms are attractive to money launderers, which puts an
+added imperative on lawyers to be vigilant (*Law Society of Singapore v Chan Chun Hwee Allan* [2018]
+SGHC 21 at [38]).
+
+Here buying a $6 million condominium unit is a relevant matter under s 70A(2)(a), so Wendy's view
+that "conveyancing is low risk" is wrong in law: conveyancing is squarely within the rules. Zenith
+is a BVI company acting through a director who gives instructions by email only, so r 6 and r 7
+required Faith Law to verify Zenith's existence and the director's identity and authority. Under
+r 8 it had to identify and verify who ultimately owns or controls Zenith; the director refused, and
+"a family trust" names no one. The option fee came from an unconnected company in a jurisdiction
+under FATF increased monitoring, which raises the risk under r 12(4)(c) and required the enhanced
+measures in r 13(2), including senior management approval and source-of-funds checks; none was done.
+Because the beneficial owner could not be identified, r 15 forbade Faith Law to begin the
+relationship or carry out the purchase, yet Alvin opened the file and banked the option fee and
+Wendy told him to carry on. Faith Law breached r 8, r 13 and r 15 AML Rules.
+
+**5. Reporting.** The fifth issue is whether Faith Law must report. It must consider a report and
+very likely file one. Rule 5(1) AML Rules states that where the lawyer has reasonable grounds to
+suspect that a client may be engaged in money laundering, it (a) must disclose the suspicion by
+filing a suspicious transaction report; and (b) must consider whether to continue the relationship.
+Rule 16 states that where performing due diligence would tip off the client, the lawyer need not
+perform it but must instead file a report. PD 3.2.1 para 4.1 states that failing to make a required
+report is an offence punishable by a fine of up to $250,000 or imprisonment of up to three years, and
+para 1.2(b) warns that telling the client may amount to tipping off. A refusal to name the owner,
+payment by an unconnected third party from a higher-risk jurisdiction and email-only instructions
+together give reasonable grounds to suspect. Faith Law should stop acting, file a suspicious
+transaction report without telling Zenith, and document the basis for its decision (r 25).
+
+**6. Where the option fee went.** The sixth issue is how Faith Law could hold the option fee at
+all. Only in a conveyancing account or under an escrow agreement: the option fee is conveyancing
+money, which the LPSAR exclude from "client's money" (r 2(1)(c) LPSAR), and the Conveyancing and
+Law of Property (Conveyancing) Rules 2011 govern it instead. Rule 2 of those Rules defines
+"conveyancing money" to include (a) any money payable, in the sale and purchase of any land, to
+account of the purchase price. It is not "anticipatory conveyancing money", which is money
+deposited before the land has been identified (r 4(4)), because Zenith had chosen the unit.
+Rule 4(1) states that a solicitor must not receive or hold any conveyancing money on behalf of
+another person except in accordance with (a) an escrow agreement or (b) these Rules and the
+LPSAR, and r 4(3) makes breach an offence. Rule 5(1) states that every solicitor who receives
+conveyancing money must without delay (a) pay it into the escrow account for the transaction,
+(b) pay it into a conveyancing account, or (c) deposit it with an appointed entity. A solicitor
+who only holds a cheque made out to the intended recipient, such as the vendor, does not receive
+conveyancing money (r 2(3)). The option fee is credited to the purchase price, so it falls within
+limb (a) of the definition. Alvin "banked" it rather than passing on a cheque payable to the
+vendor, so Faith Law received conveyancing money. It had to go into a conveyancing account or
+escrow, and could not go into the client account (r 6(1) LPSAR) or the office account. Rule 16(3)(a)
+PCR, which requires the client to be told promptly of money received, expressly includes
+conveyancing money. Because r 15 AML Rules forbids Faith Law to carry out the purchase, the fee
+must be held there until it is dealt with, and returned only in a way that does not tip off
+Zenith (r 16 AML Rules).
+
+In conclusion, Faith Law breached r 3(1), r 7(1), r 8(5) and r 8(7) LPSAR and r 16(3)(a) PCR on
+Mr Tan's money, and r 8, r 13 and r 15 AML Rules on Zenith, and must consider a suspicious
+transaction report under r 5. The option fee must be in a conveyancing account or escrow under
+r 4–5 of the Conveyancing Rules. A breach of Part 5A or the AML Rules amounting to improper conduct is
+due cause for discipline (s 83(2)(b)(ii) LPA).
+
+*Source note: r 16(3) PCR p30; r 32 PCR p53; r 39(2)(b), r 40 PCR p61–63, L9 p17–18; s 32(2), s 33
+LPA p92–94; s 70A(2) LPA p174; s 77(1), (3) LPA p202–203; s 83(2)(b), (e) LPA p217–218; PD 3.9.2
+p1; PD 3.11.1, 3.11.2 p1; PD 3.3.1 p1; PD 3.2.1 paras 1.2, 4.1 p11–12, p45; LPSAR r 2(1) p2–5, r 3
+p5, r 7 p8–9, r 8 p9–11, r 9 p11–12; AML Rules r 5–8, 12–13, 15–16, 25 (version in force from 1 July
+2025) as read for Pre-write 0-69; Lun Yaodong at [47]–[50] SYL p10, L7 p22; Tay Quan Li Leon, Sean
+Wong, Gabriel Silas Tang Rafferty pinpoints SYL p1; Chong Wai Yen Michael, Wong Keng Leong Rayney
+[2006] SYL p11, L9 p20–21; Tan Chwee Wan Allan L10 p9; Tay Choon Leng John SYL p12, facts Cyril
+Master Notes §VII.1 (secondary); Lim Tean SYL p12; Dhanwant Singh L10 p10; Zulkifli L10 p25; Chan
+Chun Hwee Allan at [38] L10 p30; LPSAR r 6(1) p7; categories of money and accounts L10 p2–6;
+Conveyancing and Law of Property (Conveyancing) Rules 2011 r 2 ("conveyancing money", r 2(3)),
+r 4(1)–(4), r 5(1) read on Singapore Statutes Online (5 Nov 2026), not in the course sources.
+That an option fee is credited to the purchase price is the usual term of an option to purchase,
+not a rule; if the option says otherwise, check the definition again.*
 
 ---
 
