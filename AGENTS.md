@@ -28,18 +28,18 @@ the session starts cold every time.
 
 ## Phase gating
 
-Study blocks follow the tracker's `order` and `days` (as of 2 Nov 2026, last exam first):
+Study blocks follow the tracker's `order` and `days` (as of 6 Nov 2026):
 
 | Block | Dates | Paper |
 |---|---|---|
 | 1 | 29 Oct – 3 Nov | `eth-w` |
 | 2 | 4 – 6 Nov | `clk-m` |
-| 3 | 7 – 9 Nov | `ccp-2` |
-| 4 | 10 – 12 Nov | `ccp-1` |
-| 5 | 13 – 15 Nov | `pcp-m` |
-| 6 | 16 – 21 Nov | `pcp-w` |
-| 7 | 22 – 24 Nov | `drp-m` |
-| 8 | 25 – 30 Nov | `drp-w` |
+| 3 | 7 – 12 Nov | `drp-w` |
+| 4 | 13 – 15 Nov | `drp-m` |
+| 5 | 16 – 21 Nov | `pcp-w` |
+| 6 | 22 – 24 Nov | `pcp-m` |
+| 7 | 25 – 27 Nov | `ccp-2` |
+| 8 | 28 – 30 Nov | `ccp-1` |
 
 The tracker is the source of truth; if Bennett re-orders it there, this table is stale —
 re-read the doc. A paper session for a block normally starts on the block's first day; the

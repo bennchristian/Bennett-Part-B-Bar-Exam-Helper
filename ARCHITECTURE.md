@@ -133,7 +133,7 @@ flowchart TD
 
 ### AD-5 — Cheatsheet = Q&A cue list per Topic + text end points `[ADOPTED; revised 4 Nov 2026]`
 
-- **Binds:** FR-1, FR-2, MCQ Papers (`drp-m`, `pcp-m`, `ccp-1`, `ccp-2`, `clk-m`)
+- **Binds:** FR-1, FR-2, MCQ Papers (`drp-m`, `pcp-m`, `ccp-1`, `ccp-2`, `clk-m`); also `drp-w` Civil Litigation (Bennett, 6 Nov 2026): each `## 0.<Topic>` in `prewrites.md` opens with a Cheatsheet whose lines link to that Topic's Pre-writes
 - **Prevents:** answers sometimes in the cue list and sometimes in the text; cross-references that are dead or carry no page.
 - **Rule:**
   - **Placement:** `flowcharts.md` (the name predates Cheatsheets and is kept) has one `## <Topic>` per Topic. Directly under it sits that Topic's Cheatsheet, a nested `- ` list. Below the list come the Topic's end-point blocks (AD-4).
