@@ -40,8 +40,10 @@ Every cite is `ALIAS pN` (PDF page) or `ALIAS ¶N` (paragraph). Paths are under 
 | ROC | Rules of Court 2021, library copy `study/drp-w/authorities/Rules of Court 2021.pdf` (S 914/2021 as first made); PDF page. The `drp-w` pack checked the cited rules against the current SSO text on 8 Nov 2026 |
 | SCPD | Supreme Court Practice Directions 2021, `study/drp-w-wa/authorities/scpd-2021.md` (downloaded 8 Nov 2026 from epd2021-supremecourt.judiciary.gov.sg; "last updated 15 Jul 2026"); cited by paragraph |
 | StCPD | State Courts Practice Directions 2021, `study/drp-w-wa/authorities/state-courts-pd-2021.md` (downloaded 8 Nov 2026 from epd2021-statecourts.judiciary.gov.sg; "last updated 15 Jul 2026"); cited by paragraph |
-| Form9 | `Seniors Notes/Nic_s Part B Package/4. Nic Exam Go Pack/1a. DRP 1/Written Advocacy/3. WA Statutes/SUPCT_new PDs (Appendix A - Form 9).pdf` |
-| Form13 | SCPD Appendix A Form 13, as summarised in the `drp-w` pack (drp-w-0-22); `TODO: verify` against the form itself |
+| Form9 | Same text as the current SCPD Appendix A Form 9 (checked 9 Nov 2026). Library copy: `Seniors Notes/Nic_s Part B Package/4. Nic Exam Go Pack/1a. DRP 1/Written Advocacy/3. WA Statutes/SUPCT_new PDs (Appendix A - Form 9).pdf` |
+| Form13 | SCPD Appendix A Form 13, current version (PDF dated 14 Jul 2026), read 9 Nov 2026 from the link in `authorities/scpd-2021.md` (Appendix A). It differs from the 2022 library copy (`…/1a. DRP 1/Civ Liti/2. Civ Liti Forms/SUPCT_new PDs (Appendix A - Form 13).pdf`): SOC (n) / DEF (n) boxed layout, General Points, and Reply / Reply to Defence to Counterclaim added |
+| Form31 | SCPD Appendix A Form 31 (Affidavit), current version read 9 Nov 2026 from the same Appendix A link; same text as the 2022 library copy in `…/Civ Liti/2. Civ Liti Forms/` |
+| CLA | Civil Law Act 1909, library copy `study/drp-w/authorities/Civil Law Act 1909 (Whole).pdf` (version in force from 1 Aug 2022); PDF page |
 | PCR | Legal Profession (Professional Conduct) Rules 2015, as quoted in SN3 ¶3–7 and SN4 ¶17 |
 | LSS-PD | Law Society Practice Directions 1.8.1 (letters of demand) and 9.1.2 (letters threatening criminal proceedings), as summarised in SN3 ¶5–6 |
 | Cyril-WAN | `Seniors Notes/Cyril - Part B/For exam/finalised muggers/Dispute Resolution Practice (DRP)/Paper 1 - Written Advocacy Notes.docx` (secondary) |
