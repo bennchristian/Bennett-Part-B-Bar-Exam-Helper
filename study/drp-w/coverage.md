@@ -1,7 +1,7 @@
 # DRP-W Coverage List
 
-Paper `drp-w`, DRP written, Tue 1 Dec 2026, 2:30–4:30pm. Subject 0 Civil Litigation ·
-Subject 1 Written Advocacy (`SCHEMA.md`). Subject 0's Topics and Sub-points follow the
+Paper `drp-w`, DRP written, Tue 1 Dec 2026, 2:30–4:30pm. Subject 0 Civil Litigation
+only. Subject 0's Topics and Sub-points follow the
 2026 Detailed Syllabus (SYL) in its own order, checked against the Learning Plan (LP) and
 the lecture decks (L1–L6). Source aliases are defined in `outline.md`.
 
@@ -22,9 +22,8 @@ tested has a Pre-write. Three Sub-points come from past papers and lectures rath
 syllabus paragraphs (0.XII.6, 0.XII.7, 0.XIV.6), and one is added because every deadline
 answer needs it (0.I.5).
 
-**Subject 1 (Written Advocacy)** is out of scope for this session (6 Nov 2026). Its rows
-are placeholders marked `TODO`; the Written Advocacy session lists its Sub-points and
-writes `templates.md`.
+**Written Advocacy** has its own Reference Pack (decided by Bennett, 8 Nov 2026); this
+list covers Civil Litigation only.
 
 ## 0 Civil Litigation
 
@@ -66,7 +65,7 @@ writes `templates.md`.
 |---|---|---|---|
 | 0.IV.1 | Personal service: when required, who may serve, how (O 6 r 4; O 7 rr 1(1)(a), 2; Companies Act s 387) [33]–[35], [40] | QB-2, QB-10 | drp-w-0-14 |
 | 0.IV.2 | Substituted service (O 7 r 7; PD 65) [36] | QB-10, QB-49 | drp-w-0-15 |
-| 0.IV.3 | Ordinary service; dispensing with service; time of service (O 7 rr 1(2), 3, 8; *Madison Pacific*, *Xu Xiang Rong*) [37]–[39] | QB-49 | drp-w-0-16 |
+| 0.IV.3 | Ordinary service; dispensing with service; time of service (O 7 rr 1(2), 3, 8; *Madison Pacific*, *Xu Xiangrong*) [37]–[39] | QB-49 | drp-w-0-16 |
 | 0.IV.4 | Duty to take reasonable steps to serve, and what happens at the case conference if service is not effected (O 6 r 5(6)–(7), r 11(4)–(5); O 9 r 5) [41] | QB-2, QB-10 | drp-w-0-17 |
 | 0.IV.5 | Service out of Singapore: the Court's approval, the affidavit, PD 63 requirements, full and frank disclosure (O 8 r 1; *Manharlal*, *CZD v CZE*) [42] | QB-2, QB-17, QB-33, QB-47 | drp-w-0-18 |
 | 0.IV.6 | How to serve out of Singapore (O 8 rr 2–4, 6) [43] | QB-2, QB-17, QB-34, QB-46 | drp-w-0-19 |
@@ -180,35 +179,6 @@ writes `templates.md`.
 | 0.XIV.1 | Costs of contentious business; solicitor-and-client and party-and-party costs; LPA s 112(2) (O 21 r 1(2); *Legis Point*) [166]–[167] | — | drp-w-0-71 |
 | 0.XIV.2 | Entitlement under a court order: the discretion, the factors, costs follow the event (O 21 rr 2(1)–(3), 3(1)–(2); *Comfort Management*) [168(c)(i)–(ii)] | QB-1, QB-7 | drp-w-0-72 |
 | 0.XIV.3 | Departing from the usual order: O 21 r 4; unreasonable refusal of ADR (PD 53; *Tullio Planeta*, *De Beers*, *Lim Lie Hoa*, *Raffles Town Club*) [168(c)(ii)] | — | drp-w-0-73 |
-| 0.XIV.4 | Personal costs orders against solicitors; fictitious authorities and misuse of AI (O 21 r 6; *Nagaenthran*, *Tan Hai Peng Michael*) [168(c)(ii)(4)] | — | drp-w-0-74 |
+| 0.XIV.4 | Personal costs orders against solicitors; fictitious authorities and misuse of AI (O 21 r 6; *Nagaenthran*, *Tan Hai Peng Micheal*) [168(c)(ii)(4)] | — | drp-w-0-74 |
 | 0.XIV.6 | Offers to settle and their costs consequences (O 14) — not a syllabus paragraph; tested PYP21 Q7 | QB-7 | drp-w-0-75 |
 | 0.XIV.5 | Costs under legislation or contract; costs against non-parties; set-off, Bullock and Sanderson orders; fixed or assessed costs; standard and indemnity basis; assessment procedure [168(a)–(b)], [169]–[172] | — | none: background information only (SYL p30–33) |
-
-## 1 Written Advocacy
-
-Out of scope for this session. One placeholder row per Learning Plan topic; the Written
-Advocacy session replaces them with real Sub-points.
-
-### 1.I Principles of good writing and legal writing
-
-| Key | Sub-point | Tested | Covered by |
-|---|---|---|---|
-| 1.I.1 | General and legal writing principles (WA Learning Plan items 1–2) | — | TODO |
-
-### 1.II Correspondence and affidavits
-
-| Key | Sub-point | Tested | Covered by |
-|---|---|---|---|
-| 1.II.1 | Drafting correspondence and affidavits (WA Learning Plan item 4) | — | TODO |
-
-### 1.III Pleadings and submissions
-
-| Key | Sub-point | Tested | Covered by |
-|---|---|---|---|
-| 1.III.1 | Drafting pleadings and written submissions (WA Learning Plan item 5) | — | TODO |
-
-### 1.IV Logic and reasoning
-
-| Key | Sub-point | Tested | Covered by |
-|---|---|---|---|
-| 1.IV.1 | Fallacies in writing and argument (WA Learning Plan item 6) | — | TODO |

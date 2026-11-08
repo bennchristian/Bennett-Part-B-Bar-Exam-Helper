@@ -1,0 +1,5 @@
+# Statute and case PDFs are copies of library and Singapore Statutes Online files: keep them out of git.
+*
+!.gitignore
+!INDEX.md
+!*/

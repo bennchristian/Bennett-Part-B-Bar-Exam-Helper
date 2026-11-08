@@ -9,7 +9,7 @@ collected for Drills, Practice Papers and the exam's second reference device. Bu
 - **Use the pack first.** Every Pre-write quotes its rule in the Rule in full box with a PDF
   page cite (`ROC p86` = page 86 of `Rules of Court 2021.pdf`). Open these files only to
   check wording the pack doesn't quote.
-- **Versions matter.** Check the "Version" column before relying on a provision.
+- **Versions matter.** These are the library copies and several are out of date: the ROC copy predates 12 amending instruments and the SCPD copy predates later PD amendments. On 8 Nov 2026 every provision the pack cites was re-checked against the current SSO and judiciary.gov.sg texts; see `outline.md`, "Statutes and practice directions: versions relied on", for what changed. No current versions have been downloaded here (that needs Bennett's go-ahead).
 
 | File | Alias | Version | Pack blocks |
 |---|---|---|---|

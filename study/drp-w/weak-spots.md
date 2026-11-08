@@ -18,21 +18,16 @@ None yet: no Drill or Practice Paper has been sat.
 
 ## Open `TODO: verify` in the Reference Pack (SM-5: none may remain at exam time)
 
-The build report counts them per Subject (`python3 tools/build_pack.py drp-w`). As of
-6 Nov 2026 they fall into four groups; the full list is in the Civil Litigation session's
-hand-over report.
+The build report counts them per Subject (`python3 tools/build_pack.py drp-w`). On 8 Nov
+2026 every case and statute flag was re-checked online (SSO, judiciary.gov.sg, eLitigation);
+three remain open:
 
-1. **2024–2026 cases the syllabus names but no library source summarises** (content of the
-   cited paragraphs not seen): *Madison Pacific*, *Beltran*, *CZD v CZE* [19]–[21], *Hertel*,
-   *Wang Piao* (the three steps), *Envy Asset*, *Babbobox*, *Hu Yinan*, *Lutfi Salim*,
-   *Group Lease* [194], *Farooq* [18]–[23], *Arfat*, *Zhu Su*, *VietJet*, *DRH v DRI*,
-   *Axis Megalink*, *Tan Hai Peng Michael*.
-2. **Statutes not in the library**: State Courts Act (limits, ss 31–32), Small Claims
-   Tribunals Act, Evidence Act ss 3 and 62A, State Courts PD 81, Digest 4.
-3. **Statute-version gaps**: the ROC copy is S 914/2021 as first made and the SCPD copy is
-   the 1 April 2022 version; points that may rest on later amendments (Cyril's "SCPD 63(4)",
-   AB4D as "the default", the absence of an offer-to-settle regime) are flagged.
-4. **Seniors-only propositions or pack readings**: e.g. *Lim Hong Kan* / *Kleinwort Benson*
-   ratios, the security-for-costs "stifling" factor, listing common documents under
-   O 11 r 2(4), whether dismissing a summary judgment application counts as unconditional
-   permission to defend.
+1. **drp-w-0-12** — the holding of *Kleinwort Benson Ltd v Barbrak Ltd* [1987] AC 597 (HL)
+   on "good reason" to renew a writ: BAILII and other free sources refused automated
+   access. *Lim Hong Kan* [1992] SGCA 8 was read and carries the point.
+2. **drp-w-0-46** — whether documents common to both parties (O 11 r 2(4)) must still be
+   listed: no judgment found; *Hu Yinan* [2026] SGHC 103 does not address r 2(4).
+3. **drp-w-0-65** — whether dismissing a summary judgment application counts as "giving
+   unconditional permission to defend" (Fifth Schedule para 3(a)), so that permission to
+   appeal is needed: *Purwadi* [2025] SGHC(A) 25 at [24] points that way but does not decide
+   it.
