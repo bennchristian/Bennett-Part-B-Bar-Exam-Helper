@@ -2,7 +2,7 @@
 title: Part B Bar Exam Helper
 status: final
 created: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-08
 ---
 
 # PRD: Part B Bar Exam Helper
@@ -37,7 +37,8 @@ the notes into **Cheatsheets**. On reading a question, Bennett recognises the Su
 the issue at once and follows the Cheatsheet to the answer.
 
 Everything is packaged per Paper as a **Reference Pack**: a PDF he can search, with a
-contents page and a keyword index, ready on the reference device. Cyril's notes from last
+contents page and a keyword index, ready on the reference device. Beside it sits the
+Paper's **Model Q&A**, which shows by Topic the kinds of question that come up. Cyril's notes from last
 year's sitting are the main secondary source, Nic's package is a fallback, and the Course
 Materials win on any point of law.
 
@@ -52,10 +53,40 @@ because there is one person working the system and the jobs below cover it.
   seconds and adapt it to the facts.
 - When an MCQ question appears, recognise its Subject and issue at once and reach the
   answer through a Cheatsheet.
+- When studying a Topic, learn it from the Cheatsheet and Model Q&A alongside Cyril's
+  notes, so the files he will use in the exam are the files he studied from.
+- When practising, learn what kinds of question each Topic produces, so in the exam he
+  recognises the kind at once and goes straight to the matching model question.
 - Know each day which Paper and Subject to work on, and what is still missing before
   exam week.
 - Walk into each exam trusting the Reference Pack: it is accurate, he can find things in
   it, and it covers the ground.
+
+### 2.2 How Bennett studies a Paper
+
+Recorded from Bennett on 8 Nov 2026. Each feature in §4 serves a step here.
+
+1. **Syllabus and learning plan.** He reads the Subject's syllabus and learning plans to
+   see what the Module requires. The Coverage List is drawn from the same documents
+   (RULES: Coverage List first), so it is his checklist of what the Paper can test.
+2. **Cyril's notes.** He reads Cyril's notes for depth. They are the main secondary
+   source (FR-8), and the Course Materials still win on any point of law.
+3. **Reference Pack and Model Q&A.** He builds both with the Paper Session, studies
+   alongside them, and uses them in practice and then in the exam. His lookup in the
+   Reference Pack is:
+   1. Work out which Topic the question is about.
+   2. Ctrl-F a keyword from the question (contents page if no keyword comes to mind).
+   3. Land on the Topic's Cheatsheet, which he calls the framework, and follow it down to
+      the Sub-point.
+   4. MCQ: follow the link to the end point, which gives the answer. Written: follow the
+      link to the right Pre-write paragraph or paragraphs, then adapt and retype them.
+4. **Model Q&A for practice.** He practises on it to learn the kinds of question each
+   Topic produces. This lets him recognise a question's kind quickly and turn to the matching model
+   question in the exam.
+
+What follows for the outputs: Ctrl-F is the way in, so Cheatsheet cue lines and Keywords
+use the words a question uses (FR-7). Each Cheatsheet answering line leads to one end point
+or Pre-write, and the Model Q&A can be read Topic by Topic (FR-12).
 
 ## 3. Glossary
 
@@ -94,6 +125,9 @@ because there is one person working the system and the jobs below cover it.
   Mermaid flowcharts on 4 Nov 2026; Written Papers have them from 8 Nov 2026.
 - **Reference Pack**: one PDF per Paper that collects its Cheatsheets, with its Pre-writes
   and Templates (Written) or its end points (MCQ). It has text he can search, a contents page and a keyword index.
+- **Model Q&A**: the second exam-day PDF per Paper (`model-questions.pdf`): practice
+  questions grouped by Topic, each with its Keywords and its model answer directly under it.
+  It is how Bennett learns the kinds of question a Topic produces (§2.2, FR-12).
 - **Drill**: a set of questions for Bennett on one or more Subjects, then marked.
 - **Practice Paper**: a full Paper sat timed, with its Reference Pack, then marked. It is
   a past-year paper, or a mock where none exists.
@@ -216,11 +250,13 @@ A Paper Session produces a Question Bank for each Written Paper, ordered by Sour
   the Sub-points it raises.
 - Tier 3 questions name the under-tested Topic they target.
 
-### 4.4 Reference Packs
+### 4.4 Reference Packs and Model Q&A
 
 **Description:** Each Paper's outputs are compiled into one Reference Pack for the
-reference device. Bennett's lookup in the exam is: Ctrl-F the keyword if he knows it,
-otherwise the contents page, with a keyword index as a backstop.
+reference device. Bennett's lookup (§2.2 step 3) is: identify the Topic, Ctrl-F a keyword
+from the question, land on the Cheatsheet and follow it to the end point or Pre-write. If
+no keyword comes to mind he uses the contents page, and the keyword index is the backstop.
+Beside the pack, each Paper's Model Q&A is the second exam-day PDF.
 
 #### FR-7: Navigable Reference Pack
 
@@ -233,7 +269,23 @@ search, the contents page or the keyword index.
   the pages.
 - The keyword index lists, for every Sub-point, its key terms, case names and statute
   sections, each with a page reference.
+- Cheatsheet cue lines and Keywords use the words, facts and parties a question uses, so
+  a Ctrl-F on a word from the question reaches the right Cheatsheet.
 - The pack works fully offline.
+
+#### FR-12: Model Q&A per Paper
+
+Every Paper, MCQ and Written, has a Model Q&A PDF beside its Reference Pack (Bennett,
+5 Nov 2026).
+
+**Consequences (testable):**
+- The kinds of question a Topic produces can be found together. MCQ questions sit under
+  their Topic. Written questions run by past paper, and the contents page lists each one
+  under every Topic it raises. Contents entries link to their pages.
+- Each question has a Keywords line and its model answer directly under it.
+- Each question's tag line names its coverage Key and the end points or Pre-writes it
+  relies on, so practice leads back into the Reference Pack.
+- The PDF text is searchable and works offline.
 
 ### 4.5 Sourcing and Accuracy
 
@@ -346,6 +398,7 @@ If a Block runs short, work is cut in this order, last item first:
    what makes a Subject "reviewed" (SM-2) and what tests lookup (SM-4).
 4. Pre-writes for the remaining Sub-points, and Written Advocacy Templates.
 5. Reference Pack contents page and keyword index. Text search alone is the fallback.
+   TODO: Bennett to place the Model Q&A (FR-12) in this order.
 6. Question Bank tiers 2–3.
 7. Further Drills beyond the Practice Paper.
 
@@ -395,7 +448,8 @@ Pre-writes are finished from its outline in time left over during Block 2.
 
 ## 10. Assumptions Index
 
-None open. Changed by Bennett on 8 Nov 2026: every Reference Pack, Written included, has a
+None open. Recorded from Bennett on 8 Nov 2026: his study workflow (§2.2), the lookup path
+it implies (§4.4, FR-7) and the Model Q&A as FR-12 (§3). Changed by Bennett on 8 Nov 2026: every Reference Pack, Written included, has a
 Cheatsheet per Topic (§3, §4.1, FR-1, §7 item 1). Added by Bennett on 5 Nov 2026: every Paper, MCQ and Written, has two exam-day
 PDFs, its Reference Pack and a model Q&A PDF (questions by Topic, each answer directly
 under its question, Keywords per question, contents linked to Topics). Changed by Bennett on 4 Nov 2026: MCQ Papers use Q&A Cheatsheets instead

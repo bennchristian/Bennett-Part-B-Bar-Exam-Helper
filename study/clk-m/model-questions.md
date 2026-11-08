@@ -14,7 +14,7 @@ at a time. Built 4 Nov 2026.
   "computer", whether regulations are "law", and code vs law (Lessig).
 
 **How to read a question:** the tag line gives the question number · Sub-point Key · source
-(Official sample / Drill n / mock-1 / New) · the end-point block in `flowcharts.md` that
+(Official sample / Drill n / mock-1 / New) · the end-point block in `cheatsheets.md` that
 answers it. The answer follows the options: why it is right, why each other option is
 wrong, then the cite. Cites use the source key in `outline.md`. A `Conflict:` sentence notes
 where sources disagree; the answer follows the Course Materials (or the official key, where

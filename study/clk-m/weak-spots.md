@@ -3,7 +3,7 @@
 A Weak Spot is a Sub-point where a Drill or the Practice Paper showed a gap, or where a lookup
 in the Reference Pack failed (PRD FR-10).
 
-Each one is fixed in the pack: a Flowchart end point, the contents page, or the keyword index.
+Each one is fixed in the pack: a Cheatsheet end point, the contents page, or the keyword index.
 The **Fix** column names the content ID that was changed. Recurring items go into the tracker's `notes` for `clk-m`
 — the main session records them, on Bennett's word.
 
@@ -25,7 +25,7 @@ Kinds: `wrong law`, `missed issue` or `failed lookup`. Fix: the content ID, plus
 | W7 | 4 Nov | SampleQs DPCR Q3 | 0.IX.4 | wrong law | clk-m-0-65: title "not a 'specific' correction order", keywords, box; cheatsheet "Trap words" in 0.IX | fixed |
 | W8 | 4 Nov | SampleQs LT Q5 | 1.II.3 | wrong law | clk-m-1-8: title "regulations count as law", body and box (LT-2 p6 lists regulations under law) | fixed |
 | W9 | 4 Nov | Drill 2 LT1 (answered right; Bennett's question) | 1.I.3 | missed issue | clk-m-1-3: "code versus law" box (law threatens an ex post sanction; code sets conditions of access in advance and is plastic) | fixed |
-| W10 | 4 Nov | Bennett's review of the pack | all | failed lookup | Mermaid charts replaced by a Q&A cheatsheet per Topic, linking to the end points (`flowcharts.md`) | fixed; links render once the builder supports them |
+| W10 | 4 Nov | Bennett's review of the pack | all | failed lookup | Mermaid charts replaced by a Q&A cheatsheet per Topic, linking to the end points (`cheatsheets.md`) | fixed; links render once the builder supports them |
 
 ## Source gaps — fix before exam week
 

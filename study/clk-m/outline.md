@@ -19,10 +19,10 @@ is skipped.
 
 ## Three-day plan
 
-This outline is raw material. The working outputs are `coverage.md`, `flowcharts.md` (compiled
+This outline is raw material. The working outputs are `coverage.md`, `cheatsheets.md` (compiled
 into `reference-pack.pdf`) and `drills.md`.
 
-| Day | Learn (Flowcharts; the outline for depth) | Then |
+| Day | Learn (Cheatsheets; the outline for depth) | Then |
 |---|---|---|
 | Wed 4 Nov | Topics 0.I–0.IX (DPCR); 1.I–1.II | Drill 1 (DPCR, 16 Qs) |
 | Thu 5 Nov | Topics 1.III–1.X (L&T); 2.I–2.VIII (Comparative) | Drill 2 (L&T) + Drill 3 (Comparative) |

@@ -63,12 +63,12 @@ summary only. Terms are as defined in PRD §3.
 | `question-bank.md` | written | Likely questions by Source Tier | `QB-<n>` rows (Conventions) |
 | `prewrites.md` | written | A Cheatsheet per Topic, then that Topic's I-CRUPAC Pre-writes | AD-5 list + AD-4 blocks, IDs per AD-3 |
 | `templates.md` | `drp-w` | Written Advocacy Templates | AD-4 blocks |
-| `flowcharts.md` | MCQ | Q&A Cheatsheet per Topic plus end-point blocks (file name predates Cheatsheets) | AD-5 + AD-4 |
+| `cheatsheets.md` | MCQ | Q&A Cheatsheet per Topic plus end-point blocks (was `flowcharts.md` until 8 Nov 2026) | AD-5 + AD-4 |
 | `drills.md` | all | Drills and Practice Papers (`pyp-<year>` / `mock-<n>`, `Covers:` line), answers, marks | AD-8 |
 | `weak-spots.md` | all | `WS-<n>` rows linked to the content ID fixed | Conventions |
 | `model-questions.md` | all | Practice questions by Subject → Topic (Written: by paper, facts then parts; ARCHITECTURE AD-6), tag line `**Q…** · `Key` · source · `end-point ID``, answer and cite under each | as is |
 | `pyp-facts.md` | `eth-w` | Transcribed hypothetical facts (`@@ <key>` per hypothetical) that `tools/assemble_eth_questions.py` merges with `model-answers.md` and `drills.md` into `model-questions.md` | as is |
-| `model-questions.pdf` | all | Generated second exam-day file: contents linked to Topics, Keywords per question, answer under it | `python3 tools/build_pack.py <paper-id> --questions` |
+| `model-questions.pdf` | all | Generated second exam-day file, the Model Q&A (PRD FR-12): contents linked to Topics, Keywords per question, answer under it | `python3 tools/build_pack.py <paper-id> --questions` |
 | `reference-pack.pdf` | all | Generated — never hand-edited | `python3 tools/build_pack.py <paper-id>` (AD-6) |
 | `outline.md` | `eth-w`, `clk-m` | Pre-PRD outlines, kept as raw material | as is |
 

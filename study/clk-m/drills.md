@@ -10,7 +10,7 @@ Pack. It is PRD §7 item 3 and cannot be cut.
 - Write your answers down, then mark them against the key after each set.
 - Every key line explains why the answer is right and why each wrong option is wrong. Citations
   use the source key in `outline.md`. To log a miss, find its end-point block in
-  `flowcharts.md` and that block's coverage Key in `coverage.md`.
+  `cheatsheets.md` and that block's coverage Key in `coverage.md`.
 - Log scores in the results table below.
 - Add every miss, and every failed lookup in the pack, to `weak-spots.md`. Each one leads to a
   chart or index fix.

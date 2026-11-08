@@ -8,16 +8,14 @@ the Keywords of the end-point blocks it names) and its answer boxed directly bel
 contents page linking every Topic with its page.
 
 The one Reference Pack builder (ARCHITECTURE.md AD-6). It reads coverage.md plus whichever
-of prewrites.md, templates.md and flowcharts.md exist, checks them against AD-2/AD-4,
-renders the Mermaid charts offline with tools/vendor/diagram-render.html, prints the pack
-with headless Chrome in two passes (pypdf reads each block's page from the PDF's named
+of prewrites.md, templates.md and cheatsheets.md exist, checks them against AD-2/AD-4/AD-5,
+prints the pack with headless Chrome in two passes (pypdf reads each block's page from the PDF's named
 destinations), and prints the coverage report.
 
 Exit 0: built. Exit 1: build failed, the old PDF is kept. Exit 2: bad paper ID or a
 missing tool. Writes only study/<paper-id>/ and the system temp directory.
 """
 import html
-import json
 import os
 import re
 import shutil
@@ -30,9 +28,8 @@ from pathlib import Path
 from pypdf import PdfReader
 
 ROOT = Path(__file__).resolve().parent.parent
-RENDERER = Path(__file__).resolve().parent / "vendor" / "diagram-render.html"
 CHROME = os.environ.get("CHROME", "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome")
-CONTENT_FILES = ("prewrites.md", "templates.md", "flowcharts.md")
+CONTENT_FILES = ("prewrites.md", "templates.md", "cheatsheets.md")
 
 # SCHEMA.md "Paper IDs": name (the running header), exam day, Subjects in index order.
 PAPERS = {
@@ -53,8 +50,6 @@ KEY = re.compile(r"(?:(\d+)\.)?([IVXLC]+)\.(\d+)")
 ANY_ID = re.compile(r"\b(?:drp|eth|pcp|ccp|clk)-[wm12]-\d+-\d+\b")
 QB_ID = re.compile(r"\bQB-\d+\b")
 CASE = re.compile(r"(?<![\w*])\*([^*\n]+? v [^*\n]+?|Re [^*\n]+?)\*(?![\w*])")
-RENDER_ERROR = re.compile(r"Syntax error in text|Parse error on line")  # Mermaid's error text
-ERROR_SVG = re.compile(r'class="error-icon"')  # the bomb icon of an error diagram
 STATES = ("ID", "item 4", "TODO", "none", "other")
 
 ERRORS, WARNINGS = [], []
@@ -74,22 +69,7 @@ def cells(line):
     return [c.strip() for c in line.strip().strip("|").split("|")]
 
 
-class Charts:
-    """Mermaid fences in document order; md() leaves a token that render() swaps for SVG."""
-
-    def __init__(self):
-        self.src, self.where, self.svg = [], [], []
-
-    def add(self, src, where):
-        self.src.append(src)
-        self.where.append(where)
-        return f"<div class='chart'>\x00CHART{len(self.src) - 1}\x00</div>"
-
-    def fill(self, text):
-        return re.sub(r"\x00CHART(\d+)\x00", lambda m: self.svg[int(m.group(1))], text)
-
-
-def md(text, charts, where):
+def md(text, where):
     out, para, lst = [], [], None
     lines = text.split("\n")
 
@@ -112,7 +92,9 @@ def md(text, charts, where):
             while j < len(lines) and not lines[j].startswith("```"):
                 j += 1
             src = "\n".join(lines[i + 1:j])
-            out.append(charts.add(src, where) if lang == "mermaid" else f"<pre>{html.escape(src)}</pre>")
+            if lang == "mermaid":  # AD-5: no diagrams; a Topic's framework is its Cheatsheet
+                ERRORS.append(f"{where}: has a mermaid diagram; write it as a Cheatsheet list instead (AD-5)")
+            out.append(f"<pre>{html.escape(src)}</pre>")
             i = j + 1
             continue
         if ln.startswith(">"):  # a run of '>' lines is a rule box; its inside is Markdown too
@@ -121,7 +103,7 @@ def md(text, charts, where):
             while j < len(lines) and lines[j].startswith(">"):
                 j += 1
             inner = [re.sub(r"^> ?", "", t) for t in lines[i:j]]
-            out.append(f"<div class='box'>{md(chr(10).join(inner), charts, where)}</div>")
+            out.append(f"<div class='box'>{md(chr(10).join(inner), where)}</div>")
             i = j
             continue
         h = re.match(r"(#{1,6}) +(.*)", ln)
@@ -280,7 +262,7 @@ def parse_block(fname, raw, paper, nsubj):
     if not body:
         ERRORS.append(f"{where}: {bid} has no body between Keywords and Source note")
         return None
-    if fname == "flowcharts.md" and not body.startswith("**End point:**"):
+    if fname == "cheatsheets.md" and not body.startswith("**End point:**"):
         ERRORS.append(f"{where}: {bid}'s body must start with '**End point:**' (AD-4)")
         return None
     text = "\n".join([raw["head"]] + lines)
@@ -291,20 +273,12 @@ def parse_block(fname, raw, paper, nsubj):
                 cases=sorted(set(CASE.findall(" ".join(body.split())))))
 
 
-def lint_charts(fname, sec, shorts):
-    """AD-5 checks that warn rather than fail: top-down, leaf IDs that exist."""
-    srcs = re.findall(r"^```mermaid[^\n]*\n(.*?)^```", "\n".join(sec["intro"]), re.M | re.S)
+def lint_cheatsheet(fname, sec):
+    """AD-5: every Topic in cheatsheets.md / prewrites.md opens with a cue list (warns, not fails)."""
     cheatsheet = any(re.match(r"\s*[-*+] ", ln) for ln in sec["intro"])
-    if fname in ("flowcharts.md", "prewrites.md") and not srcs and not cheatsheet:  # AD-5: every Topic
-        WARNINGS.append(f"{fname}:{sec['line']}: Topic '{sec['title']}' has no chart or cue list directly under it "
+    if fname in ("cheatsheets.md", "prewrites.md") and not cheatsheet:
+        WARNINGS.append(f"{fname}:{sec['line']}: Topic '{sec['title']}' has no Cheatsheet directly under it "
                         "(fine only if its coverage rows say none: <reason>)")
-    for src in srcs:
-        first = next((s.strip() for s in src.splitlines() if s.strip() and not s.strip().startswith("%%")), "")
-        if not re.match(r"(flowchart|graph) TD\b", first):
-            WARNINGS.append(f"{fname}:{sec['line']}: a chart in '{sec['title']}' starts '{first}', not 'flowchart TD'")
-        for s in re.findall(r"[\[({>]\"(\d+-\d+)\b", src):
-            if s not in shorts:
-                WARNINGS.append(f"{fname}:{sec['line']}: chart in '{sec['title']}' points at {s}, which has no block")
 
 
 # ---- Rendering ----------------------------------------------------------------------------
@@ -323,47 +297,6 @@ def chrome(tmp, *args):
     return subprocess.run(cmd, capture_output=True, text=True, timeout=600, env=env)
 
 
-def run_renderer(srcs, first, tmp):
-    """Render charts in one fresh page; stops after the first failure. Returns [(ok, svg|error)]."""
-    data = json.dumps(srcs).replace("</", "<\\/")
-    script = f"""<script type="application/json" id="pack-charts">{data}</script>
-<script type="module">
-const src = JSON.parse(document.getElementById('pack-charts').textContent), out = [];
-for (let i = 0; i < src.length; i++) {{
-  try {{ out.push([true, await window.__renderMermaid('chart-' + ({first} + i), src[i])]); }}
-  catch (e) {{ out.push([false, String((e && e.message) || e)]); break; }}
-}}
-const t = document.createElement('textarea'); t.id = 'pack-result'; t.textContent = JSON.stringify(out);
-document.body.appendChild(t);
-</script>"""
-    page = RENDERER.read_text()
-    cut = page.rindex("</body>")
-    src = tmp / "charts.html"
-    src.write_text(page[:cut] + script + page[cut:])
-    dom = chrome(tmp, "--virtual-time-budget=120000", "--dump-dom", src.as_uri()).stdout
-    m = re.search(r'<textarea id="pack-result">(.*?)</textarea>', dom, re.S)
-    return json.loads(html.unescape(m.group(1))) if m else []
-
-
-def render_charts(charts, tmp):
-    """Fill charts.svg; a failed chart is found from the renderer's error text, never its exit code."""
-    start = 0
-    while start < len(charts.src):
-        got = run_renderer(charts.src[start:], start, tmp)
-        if not got:
-            got = [[False, "renderer returned no result (bundle did not load or timed out)"]]
-        for ok, out in got:
-            where = charts.where[start]
-            if ok and (RENDER_ERROR.search(re.sub(r"<style>.*?</style>", "", out, flags=re.S)) or ERROR_SVG.search(out)):
-                ok, out = False, "renderer error text in the SVG"
-            if ok:
-                charts.svg.append(out)
-            else:
-                ERRORS.append(f"{where}: chart {start + 1} failed to render: {' '.join(out.split())[:400]}")
-                charts.svg.append("<p><b>CHART FAILED TO RENDER</b></p>")
-            start += 1
-
-
 CSS = """
 @page{size:A4;margin:16mm 14mm 15mm;
  @top-left{content:"PAPER_NAME";font:8pt Helvetica,Arial,sans-serif;color:#555}
@@ -374,8 +307,8 @@ h3{font-size:11.5pt;margin:12px 0 2px} h4{font-size:10.5pt;margin:8px 0 2px}
 p{margin:0 0 6px} .kw{font-size:8.5pt;color:#555;margin:0 0 4px} .note{font-size:8pt;color:#666;margin:4px 0 0}
 .stamp{font:9pt Helvetica,Arial,sans-serif;background:#f1f1f1;padding:4px 6px}
 .block{break-inside:avoid;margin-bottom:10px} .part{break-before:page}
-.part-flowcharts section{break-before:page} .part-flowcharts section:first-of-type{break-before:auto}
-h2,h3,h4,p:has(+ .chart){break-after:avoid} .chart{break-inside:avoid;text-align:center;margin:6px 0 10px} .chart svg{max-width:100%;max-height:230mm;height:auto}
+.part-cheatsheets section{break-before:page} .part-cheatsheets section:first-of-type{break-before:auto}
+h2,h3,h4{break-after:avoid}
 table{border-collapse:collapse;width:100%;font-size:8.5pt;margin:4px 0} td,th{border:1px solid #ccc;padding:2px 4px;vertical-align:top}
 tr.subj td{background:#e4e4e4;font-weight:bold;font-size:9.5pt} tr.topic td{background:#f4f4f4;font-weight:bold}
 td.pg{white-space:nowrap;width:4em} a{color:#003b8e;text-decoration:none}
@@ -519,7 +452,7 @@ def parse_questions(text):
     return subjects
 
 
-def question_html(q, topic, subs, kws, charts, written=False):
+def question_html(q, topic, subs, kws, written=False):
     """One question: tag line, Keywords, the question, then its answer boxed directly below.
 
     MCQ: the Keywords are the file's Topic, the Sub-points and the end-point blocks' Keywords.
@@ -544,8 +477,8 @@ def question_html(q, topic, subs, kws, charts, written=False):
     ends = ", ".join(re.sub(r"^\w+-\w+-", "", i) for i in q["ids"])
     return (f"<div class='q{' long' if written else ''}' id='q-{q['id']}'><h4>{q['id']} · {inline(q['source'])}"
             + (f" · end point {ends}" if ends else "") + "</h4>"
-            f"<p class='kw'>Keywords: {inline(', '.join(terms))}</p>{md(ask, charts, q['id'])}"
-            + (f"<div class='ans'>{md(ans, charts, q['id'])}</div>" if ans else "") + "</div>")
+            f"<p class='kw'>Keywords: {inline(', '.join(terms))}</p>{md(ask, q['id'])}"
+            + (f"<div class='ans'>{md(ans, q['id'])}</div>" if ans else "") + "</div>")
 
 
 def contents_table(names, subjects, rows, written, pg):
@@ -637,13 +570,10 @@ def build_questions(paper, d):
     subjects = parse_questions(src.read_text())
     if not subjects:
         ERRORS.append("model-questions.md: no '## <n> · Subject' sections found")
-    charts = Charts()
     written = paper.endswith("-w")
-    rendered = {t["anchor"]: [question_html(q, t, subs, kws, charts, written) for q in t["qs"]]
+    rendered = {t["anchor"]: [question_html(q, t, subs, kws, written) for q in t["qs"]]
                 for s in subjects for t in s["topics"]}
-    facts = {t["anchor"]: md("\n".join(t["intro"]), charts, t["title"]) for s in subjects for t in s["topics"]}
-    if charts.src:
-        ERRORS.append("model-questions.md has a mermaid chart; the questions PDF does not render charts")
+    facts = {t["anchor"]: md("\n".join(t["intro"]), t["title"]) for s in subjects for t in s["topics"]}
     tmp = Path(tempfile.mkdtemp(prefix=f"build_pack-{paper}-questions-"))
     try:
         built, pdf, pages, stable = datetime.now().strftime("%-d %b %Y %H:%M"), tmp / "pack.pdf", {}, False
@@ -720,10 +650,9 @@ def main():
             print(f"missing: {CHROME}", file=sys.stderr)
             return 2
         return build_questions(paper, ROOT / "study" / paper)
-    for need in (Path(CHROME), RENDERER):
-        if not need.exists():
-            print(f"missing: {need}", file=sys.stderr)
-            return 2
+    if not Path(CHROME).exists():
+        print(f"missing: {CHROME}", file=sys.stderr)
+        return 2
     d = ROOT / "study" / paper
     dst = d / "reference-pack.pdf"
     nsubj = len(PAPERS[paper][2])
@@ -740,7 +669,7 @@ def main():
     for r in rows:
         cov_verify[r["subj"]] = cov_verify.get(r["subj"], 0) + ("TODO: verify" in r["sub"] + r["covered"])
 
-    charts, parts, blocks, wide_verify = Charts(), [], {}, 0
+    parts, blocks, wide_verify = [], {}, 0
     files = [f for f in CONTENT_FILES if (d / f).exists()]
     if not files:
         ERRORS.append(f"study/{paper}/ has none of {', '.join(CONTENT_FILES)}")
@@ -748,11 +677,11 @@ def main():
         text = (d / f).read_text()
         preamble, sections = split_sections(f, text)
         wide_verify += sum("TODO: verify" in t for t in preamble.splitlines())
-        part = dict(file=f, preamble=md(preamble, charts, f"{f} preamble"), sections=[])
+        part = dict(file=f, preamble=md(preamble, f"{f} preamble"), sections=[])
         for n, sec in enumerate(sections, 1):
             wide_verify += sum("TODO: verify" in t for t in sec["intro"])
             where = f"{f}:{sec['line']}"
-            out = dict(title=sec["title"], anchor=f"{f[:-3]}-{n}", intro=md("\n".join(sec["intro"]), charts, where),
+            out = dict(title=sec["title"], anchor=f"{f[:-3]}-{n}", intro=md("\n".join(sec["intro"]), where),
                        blocks=[], line=sec["line"])
             for raw in sec["blocks"]:
                 b = parse_block(f, raw, paper, nsubj)
@@ -762,15 +691,14 @@ def main():
                     ERRORS.append(f"{f}:{b['line']}: {b['id']} is duplicated (also {blocks[b['id']]['file']}:"
                                   f"{blocks[b['id']]['line']})")
                     continue
-                b["html"] = md(b["body"], charts, f"{f}:{b['line']}")
-                b["trail_html"] = md(b["trailing"], charts, f"{f}:{b['line']}")
+                b["html"] = md(b["body"], f"{f}:{b['line']}")
+                b["trail_html"] = md(b["trailing"], f"{f}:{b['line']}")
                 blocks[b["id"]] = b
                 out["blocks"].append(b)
             part["sections"].append(out)
         parts.append(part)
-        shorts = {b["short"] for b in blocks.values() if b["file"] == f}
         for sec in sections:
-            lint_charts(f, sec, shorts)
+            lint_cheatsheet(f, sec)
 
     # AD-2: every Covered-by ID has a block, every block is in a row, no ID twice.
     named = {i for r in rows for i in r["ids"]}
@@ -789,14 +717,6 @@ def main():
 
     tmp = Path(tempfile.mkdtemp(prefix=f"build_pack-{paper}-"))
     try:
-        render_charts(charts, tmp)
-        for part in parts:
-            part["preamble"] = charts.fill(part["preamble"])
-            for s in part["sections"]:
-                s["intro"] = charts.fill(s["intro"])
-                for b in s["blocks"]:
-                    b["html"], b["trail_html"] = charts.fill(b["html"]), charts.fill(b["trail_html"])
-
         if not ERRORS:
             built = datetime.now().strftime("%-d %b %Y %H:%M")
             targets = set(blocks) | {s["anchor"] for p in parts for s in p["sections"]} | {"keyword-index"}
@@ -820,14 +740,12 @@ def main():
                 ERRORS.append("page numbers did not settle after 3 passes")
             elif stable:
                 text = "\n".join(p.extract_text() or "" for p in reader.pages)
-                if RENDER_ERROR.search(text):
-                    ERRORS.append("the printed PDF contains renderer error text")
                 if "CONFIDENTIAL" in text and not any("CONFIDENTIAL" in (d / f).read_text() for f in files):
                     ERRORS.append("the printed PDF contains a CONFIDENTIAL footer")
 
         print(f"{paper} — {PAPERS[paper][0]}")
         report(paper, rows, blocks, parts, wide_verify, cov_verify)
-        print(f"Charts: {len(charts.src)} · index terms: {len(index)}")
+        print(f"Index terms: {len(index)}")
         for w in WARNINGS:
             print(f"warning: {w}")
         if ERRORS:

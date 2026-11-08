@@ -2,12 +2,12 @@
 
 Paper `clk-m`. The Topics and Sub-points are taken from each Subject's learning plan and the
 2026 Course Materials, then checked against Cyril's 2025 notes (the Course Materials win;
-conflicts are recorded in the Source notes in `flowcharts.md`).
+conflicts are recorded in the Source notes in `cheatsheets.md`).
 
 **Columns:**
 - *Key* is `<subject>.<Topic>.<n>`.
 - *Tested* is left at `—`, because the CLK paper has no Question Bank (MCQ Paper).
-- *Covered by* is the end-point block in `flowcharts.md`, or `none: <reason>` for a
+- *Covered by* is the end-point block in `cheatsheets.md`, or `none: <reason>` for a
   Sub-point that is deliberately not covered.
 
 Source aliases are defined in `outline.md` → "Source key".

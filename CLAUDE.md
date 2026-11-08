@@ -20,7 +20,11 @@ papers, Tue 1 – Fri 11 Dec 2026, all 2:30–4:30pm, open book with a second re
 device. This repo is the workspace: one **main session** coordinates, and one **paper
 session** per paper builds a searchable Reference Pack in `study/<paper-id>/` from the
 course library in `Bar Exam/` — a Q&A Cheatsheet per Topic for every paper, then I-CRUPAC Pre-writes
-(written papers) or end points (MCQ papers). Progress lives in the **Part B
+(written papers) or end points (MCQ papers), plus a Model Q&A PDF. Bennett's workflow, which
+these outputs serve (PRD §2.2): he reads the syllabus and learning plan, then Cyril's notes, and studies
+alongside the pack and Model Q&A. To look something up he finds the Topic, Ctrl-Fs a keyword, and follows the
+Cheatsheet ("framework") to the end point or Pre-write paragraph(s). He uses the Model Q&A to learn
+the kinds of question each Topic produces. Progress lives in the **Part B
 tracker** artifact (<https://claude.ai/artifact/QKBF5HvcsMUjirCfmZAMzK>), which shows the
 33-day study plan, per-subject progress, admin tasks and the exam timetable.
 

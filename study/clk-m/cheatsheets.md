@@ -1,4 +1,4 @@
-# CLK-M — Flowcharts
+# CLK-M — Cheatsheets
 
 Paper `clk-m`: Contemporary Legal Knowledge & Practice (MCQ), Fri 11 Dec 2026. Subjects
 follow `SCHEMA.md`: 0 Data Protection & Cyber Regulation · 1 Law & Technology ·

@@ -47,13 +47,15 @@ What to build, in what priority, and what counts as done is in `PRD.md` (§4 fea
   lecture notes or slides as authority. The `Bar Exam/` path and page go in a source
   note under the Pre-write, which is not retyped. Application is a pattern (trigger facts
   and how to apply), not a worked answer.
-- **Cheatsheets (every Paper):** one per Topic (ARCHITECTURE AD-5): in `flowcharts.md` on MCQ
+- **Cheatsheets (every Paper):** one per Topic (ARCHITECTURE AD-5): in `cheatsheets.md` on MCQ
   Papers, and at the head of each `##` Topic in `prewrites.md` on Written Papers, linking to
   that Topic's Pre-writes (Written Advocacy's Templates excepted). Under the Topic heading, a nested `- ` list runs from **bold** question cues down to the
   Sub-point; each answering line ends `→ [<short id>](#<full id>)`, which the pack prints
-  with its page. No Mermaid charts. Each end-point block gives the rule or answer and its
+  with its page. No diagrams (the build fails on a Mermaid fence). Each end-point block gives the rule or answer and its
   source; one that gives a rule keeps its 1–2 sentence answer and adds a Rule in full box,
-  as for Pre-writes. Cues are text, so Ctrl-F finds them. Correct and clear beats pretty.
+  as for Pre-writes. Bennett reaches a Cheatsheet by Ctrl-F on a word from the question (PRD
+  §2.2), so write cue lines and Keywords in the words, facts and parties questions use.
+  Correct and clear beats pretty.
 - **Coverage List first:** a Subject's Topics and Sub-points are listed from its
   syllabus, learning plan and Course Materials before any Pre-write or Cheatsheet.
 - **Marking:** written answers on I-CRUPAC structure, accuracy and Sub-point coverage;
