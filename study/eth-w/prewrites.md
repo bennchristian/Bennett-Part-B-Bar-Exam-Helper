@@ -1,16 +1,27 @@
 # ETH-W Pre-writes
 
-I-CRUPAC paragraphs to adapt and retype in the exam. The bold part labels (**I**, **C**,
-**R**, **P**, **A**, **C**) are for finding your place only — don't type them. Swap the
-square-bracket placeholders for the facts. The **Application** part is a pattern (which
-facts trigger the rule and how to run it), not a worked answer.
+Paper `eth-w`, ETH written, Thu 3 Dec 2026, 2:30–4:30pm. Subject 0 Ethics & Professional
+Responsibility.
 
-The **Rule** part sets out each rule in its own words, with every limb, exception,
-definition and case factor the answer may need. When retyping, keep the operative words
-and only the limbs, exceptions and factors the facts engage.
+**How to use in the exam.** Each Topic (`I.` to `VII.`, the same Topics as `coverage.md`)
+opens with a **Cheatsheet**: bold questions a set of facts makes you ask, running from broad
+to specific, with short answers underneath. Each answer line ends with a link such as `0-6`,
+which jumps to the Pre-write `eth-w-0-6` and prints its page. A link may point into another
+Topic where the same facts raise a rule kept there. If you know a keyword (a rule number, a
+PD or GN, a case name, a phrase like "information barrier"), Ctrl-F it: every Cheatsheet line,
+title and Keywords line is text. Rules are written `r 22(3)(a)`; search `22(3)` if the full
+form fails.
+
+**Pre-writes** are I-CRUPAC paragraphs to adapt and retype. The bold part labels (**I**,
+**C**, **R**, **P**, **A**, **C**) are for finding your place only — don't type them. Swap
+the square-bracket placeholders for the facts. The **Rule** part is short enough to retype;
+the **Rule in full** box under it quotes the rule's own words, limb by limb, for checking
+and for picking the limbs the facts engage. The **Application** part is a pattern (which
+facts trigger the rule and how to run it), not a worked answer. Cases are cited by name with
+the paragraph the sources give.
 
 The *Source note* under each Pre-write is for checking only and is never retyped. Source
-aliases (PCR, LPA, SYL, SQ, L1–L10, PYP21–23, PS1–3, PD x) are defined in `outline.md`.
+aliases (PCR, LPA, SYL, SQ, L1–L10, PYP18–25, PS1–3, PD x) are defined in `outline.md`.
 "Cyril" = `Bar Exam/Seniors Notes/Cyril - Part B/For exam/Exam files/04122025 ETH Thursday.docx`
 (secondary; course materials win). Lecture slides are cited only as where a point was
 found, never as authority in the text.
@@ -37,13 +48,28 @@ the firm's own interest → r 22 (0-13, 0-14). Lawyer will be a material witness
 Opponent demands that the firm withdraw → the court's power to restrain (0-12).
 Information barriers → 0-10.
 
-Contents: Regulation 35–36 · Client relationship 1–6, 37–39 · Conflicts 7–14, 40–43 ·
-Retainer end 15–16 · Court 17–21, 44–52 · Witness-lawyer 22–23 · Other lawyers and persons
-24–25, 53–63 · Staff 26–28, 64–65 · Publicity 29–31, 66–67 · Fees and client money 32–34, 68–70.
+Contents: I. Regulation 35–36 · II. Client 1–16, 37–43 · III. Administration of justice
+17–23, 44–52 · IV. Other lawyers and persons 24–25, 53–63 · V. Staff, titles, appointments
+26–28, 64–65 · VI. Publicity and touting 29–31, 66–67 · VII. Fees and accounts 32–34, 68–70.
 
 ---
 
-## Regulation of the profession
+## I. Regulation of the profession
+- **Is the conduct due cause for discipline?**
+  - Breach of the PCR amounting to improper conduct, or fraudulent or grossly improper conduct in professional duty: s 83(2)(b) LPA → [0-35](#eth-w-0-35)
+  - Misconduct unbefitting an advocate and solicitor, including in private life: s 83(2)(h) LPA → [0-35](#eth-w-0-35)
+  - Convicted of an offence implying a defect of character: s 83(2)(a) LPA → [0-35](#eth-w-0-35)
+  - Examples of personal misconduct (dishonesty, abuse, misleading officials) → [0-62](#eth-w-0-62)
+- **What sanction?**
+  - Struck off, suspended up to 5 years, penalty up to $100,000, or censured (s 83(1) LPA) → [0-35](#eth-w-0-35)
+  - Dishonesty: striking off almost invariable (*Udeh Kumar*, *Chia Choon Yang*) → [0-35](#eth-w-0-35)
+- **Character and admission?**
+  - Good character needed, not just exam passes; cheating in the Bar exams or lack of candour at admission (*Tay Quan Li Leon*, *Sean Wong*, *Gabriel Silas Tang Rafferty*) → [0-35](#eth-w-0-35)
+- **Do the PCR apply to this person or firm?**
+  - Practising solicitors, s 15 admittees, regulated or registered foreign lawyers, law practices, JLVs and FLAs: which Part applies (r 3 PCR) → [0-36](#eth-w-0-36)
+- **Which principle frames the answer?**
+  - Paramount duty to the court; duty to the client subject only to it (r 4(a)–(b) PCR) → [0-17](#eth-w-0-17)
+  - Spirit of the rules, access to justice, keeping up to date (r 4 PCR) → [0-36](#eth-w-0-36)
 
 ### eth-w-0-35 — Why ethics matters; character; due cause and sanctions (s 83 LPA)
 *Keywords: character, integrity, honesty, admission, fit and proper, due cause, s 83 LPA, s 83(1), s 83(2)(a), s 83(2)(b), s 83(2)(h), s 83(2)(i), struck off, suspension, penalty, censure, personal misconduct, misconduct unbefitting, grossly improper conduct, Ahmad Khalis, Rasif David, Tay Quan Li Leon, Sean Wong, Gabriel Silas Tang Rafferty, Udeh Kumar, Chia Choon Yang*
@@ -144,7 +170,49 @@ fairness and courtesy to every person; and keeping up to date with the law (r 4(
 
 ---
 
-## Client relationship
+## II. Relationship with the client
+- **Is X a client at all?**
+  - Retains or is about to retain the lawyer, or is liable to pay the costs (s 2(1) LPA) → [0-1](#eth-w-0-1)
+  - No express retainer: implied retainer if an intention to retain ought fairly to be imputed and the lawyer ought to have appreciated it (*Ahmad Khalis*) → [0-1](#eth-w-0-1)
+  - Not a client but relied on the lawyer: duty of care to non-clients (*AEL*, *Anwar*) → [0-1](#eth-w-0-1)
+- **Who is giving the instructions?**
+  - Agent, relative or company officer instructs: ensure authority, or get the client's confirmation within a reasonable time (r 5(5) PCR) → [0-37](#eth-w-0-37)
+  - Verify identity; warrant to act; referred client must be dealt with directly (PD 7.4.3, r 39(2)(g)) → [0-37](#eth-w-0-37)
+- **What does the engagement letter say?**
+  - Right to discharge or terminate: only on r 26(5) grounds, with a reservation (PD 7.4.2) → [0-15](#eth-w-0-15)
+  - Limiting liability: may limit, never exclude; not below the PI minimum ($1m / $2m); never for fraud; void in a s 111 costs agreement (PD 7.1.2, s 112(5) LPA) → [0-2](#eth-w-0-2)
+  - Fees, estimates and costs warnings → [0-70](#eth-w-0-70)
+- **Has the lawyer served the client properly? (r 5(2) PCR)**
+  - Lied to or misled the client: r 5(2)(a) → [0-3](#eth-w-0-3)
+  - Kept back information that may affect the client's interests: r 5(2)(b) → [0-4](#eth-w-0-4)
+  - Lack of skill, research, care or records: r 5(2)(c)–(d), (k); reasonably competent solicitor (*Jayakumar Naidu*) → [0-5](#eth-w-0-5)
+  - Delay, no progress reports, missed deadlines, ignored instructions: r 5(2)(e)–(j) → [0-38](#eth-w-0-38)
+- **Can the lawyer reveal what the client said?**
+  - Confidential and acquired in the engagement: no disclosure (r 6(2) PCR) unless the client authorises, law or court requires, or another r 6(3) exception applies → [0-6](#eth-w-0-6)
+  - IRAS, CAD or the Official Assignee asks for documents: claim privilege, check the power exists and is validly exercised (PD 9.1.1, 9.1.3) → [0-39](#eth-w-0-39)
+- **Two or more current clients in one matter?**
+  - Diversity of interests: complete every r 20(3) step before accepting, incl. ILA and written consent → [0-7](#eth-w-0-7)
+  - Interests diverge during the retainer, or the firm can't advise evenly: cease to act; keep one only with the others' written consent (r 20(4), (6), (7)) → [0-8](#eth-w-0-8)
+  - Firm drafted the disputed document for both sides: absolute bar (r 20(8)) → [0-9](#eth-w-0-9)
+  - Creditors and liquidator, complainant and accused, debenture holder and receiver, mortgagor and mortgagee, public authority (PD 7.2.1–7.2.6) → [0-40](#eth-w-0-40)
+  - Co-accused, or a third party pays the fees (r 20, r 22, r 39(2)) → [0-51](#eth-w-0-51)
+- **Acting against a former client?**
+  - Holds the former client's confidential information, interests adverse, information material: decline (r 21(2) PCR) → [0-11](#eth-w-0-11)
+  - Exceptions: ILA + written consent (r 21(3)); safeguards + notice (r 21(4)) → [0-11](#eth-w-0-11)
+  - Is the information barrier adequate? *Harsha* factors → [0-10](#eth-w-0-10)
+  - Opponent demands the firm withdraw, or a prospective client consulted: court's power to restrain (*Lim Oon Kuin*, *Harsha*) → [0-12](#eth-w-0-12)
+- **Is the lawyer's own interest involved?**
+  - Lawyer's, family's or firm's interest: r 22(2)–(4): full disclosure, ILA, no false impression, written consent → [0-13](#eth-w-0-13)
+  - Lawyer made a mistake and kept acting, or got the client to sign a waiver (*Govindan Balan Nair*) → [0-14](#eth-w-0-14)
+  - Lawyer will be a witness on a contested issue → [0-22](#eth-w-0-22)
+- **Is money or property passing between lawyer and client?**
+  - Loan from a client to the lawyer or the lawyer's family: prohibited borrowing (r 23) → [0-41](#eth-w-0-41)
+  - Lawyer helps a client financially (welfare assistance, GN 7.4.2) → [0-41](#eth-w-0-41)
+  - Lawyer buys from a client: market or reasonable price; independent valuation where practicable (r 24) → [0-42](#eth-w-0-42)
+  - Significant gift to the lawyer, firm, staff or their family: don't act on the gift; advise ILA (r 25; *Wan Hui Hong*) → [0-43](#eth-w-0-43)
+- **Is the retainer ending?**
+  - Must complete the work (r 26(2)); must withdraw (r 26(4)); may withdraw on r 26(5) grounds; avoid foreseeable harm (r 26(6)) → [0-15](#eth-w-0-15)
+  - Unpaid fees and the file: lien, release to the new lawyer on undertaking or security (r 26(7)); lawyer leaving the firm (GN 7.3.1) → [0-16](#eth-w-0-16)
 
 ### eth-w-0-1 — Who is a client; implied retainer
 *Keywords: client, implied retainer, s 2(1) LPA, contentious business, non-contentious business, liable to pay costs, non-client, duty of care, Ahmad Khalis, Anwar Patrick Adrian, Lee Suet Fern, Uthayasurian Sidambaram, AEL, objective test, putative client*
@@ -179,6 +247,30 @@ Singapore v Ahmad Khalis bin Abdul Ghani* [2006] 4 SLR(R) 308 at [64]–[73]).
 **A** Walk the factors. (1) [X] [paid / did not pay] the fees. (2) [X] [gave / did not give] instructions. (3) There [was / was no] past relationship. (4)–(5) [Lawyer] [gave substantive advice on what [X] should do next, which [X] relied on / merely pointed [X] to existing contract terms]. (6) [Lawyer] [did / did not] tell [X] to get independent advice. (7) The advice was [unqualified / qualified]. On balance an intention to retain [ought / ought not] fairly to be imputed, and [Lawyer] [ought / ought not] to have appreciated it. **C** Therefore [X] is [not] a client, and the conflict and confidentiality rules [do / do not] apply to [Lawyer]'s dealings with [X].
 
 *Source note: s 2(1) LPA p15, L1 p5; Uthayasurian, Ahmad Khalis, Anwar, Lee Suet Fern pinpoints SYL p2, L1 p6; Ahmad Khalis test at [64], [66] ([2006] SGHC 143) and the seven Lee Suet Fern factors at [69] read from the judgments on eLitigation (3 Nov 2026); L1 p7 (AEL, Anwar duty to third parties). Lee Suet Fern outcome L3 p24.*
+
+### eth-w-0-37 — Instructions through an agent; authority; warrant to act
+*Keywords: agent, third party instructions, authority, r 5(5), confirm instructions, warrant to act, letter of engagement, PD 7.4.3, verify identity, referral, r 39(2)(g), r 7(8), r 7(9), Fong Maun Yee, Tung Hui Mannequin, Udeh Kumar, breach of warranty of authority, wasted costs*
+
+**I** The issue is whether [Lawyer] could act on instructions from [agent] on [client]'s behalf. **C** [Lawyer] breached r 5(5) PCR, which requires a legal practitioner given instructions purportedly on the client's behalf to ensure the person has authority or, absent evidence of authority, to obtain the client's confirmation within a reasonable time.
+**R** When given
+instructions purportedly on the client's behalf, a lawyer must ensure the person giving them
+has authority, or, if there is no evidence of authority, obtain the client's confirmation
+within a reasonable time (r 5(5) PCR). Oral instructions should be confirmed in a written
+warrant to act, and the identity of the client verified under the anti-money-laundering rules
+(PD 7.4.3).
+
+> **Rule in full**
+> - Rule 5(5) PCR applies, which states that when a legal practitioner is given instructions purportedly on behalf of his or her client, the legal practitioner must
+>   - (a) ensure that the person giving those instructions has the authority to give those instructions on behalf of the client; or
+>   - (b) if there is no evidence of such authority, obtain the client's confirmation of those instructions within a reasonable time after receiving them.
+> - PD 7.4.3 Part D para 1 states that the lawyer must first verify the identity of the client or principal client under PD 3.2.1 on anti-money laundering; that after that the lawyer may accept instructions from the client or from an agent of a principal client, but must then ensure that the agent has authority and, absent evidence of it, confirm the instructions with the principal client within a reasonable time (para 1(a)); that it is in the interests of both lawyer and client to obtain written instructions, and oral instructions must be confirmed in a written Warrant to Act, the absence of which is prima facie evidence of no authority if authority is disputed (para 1(a), citing O 64 r 7 of the Rules of Court 2014); that where a third party refers the client, the lawyer must comply with r 39(2), must communicate directly with the client to obtain or confirm instructions, and must not accept instructions from the third party (para 1(a)); and that the lawyer should explain the nature, contents and scope of the Warrant to Act to the client personally, not through staff, should keep attendance notes of that explanation, must not leave blank Warrants to Act with a referrer, and should have the client sign in the lawyer's presence (para 1(b)).
+> - Under r 7(8)–(9) PCR and PD 7.4.3 Part C, another lawyer may ask whether the lawyer has authority to act, and must accept a written representation that the lawyer is authorised unless there is good reason to suspect it is false.
+
+**P** Where instructions come from a third party claiming to represent the client, the lawyer should obtain the client's written instructions or, if in doubt, see the client; failing to verify breached the duty of care in *Fong Maun Yee v Yoong Weng Ho Robert* [1997] 1 SLR(R) 751, where a property agent produced forged board resolutions. Acting without authority risks damages for breach of warranty of authority, wasted costs and disciplinary action (*Tung Hui Mannequin Industries v Tenet Insurance Co Ltd* [2005] 3 SLR(R) 184). Leaving all communication with a referred client to a third party is a dereliction of duty (*Law Society of Singapore v Udeh Kumar s/o Sethuraju* [2013] 3 SLR 875).
+
+**A** First, did [agent — a relative / director / property agent / personal assistant] have authority, e.g. [a power of attorney / board resolution]? Here [there was none / it was doubtful]. Second, if there was no evidence of authority, did [Lawyer] confirm with [client] within a reasonable time? Here [Lawyer] never [spoke to / obtained written confirmation from] [client]. [Facts suggesting doubt: the client is elderly, overseas, or the agent stands to gain] made confirmation essential. Third, did [Lawyer] verify [client]'s identity and get a signed Warrant to Act, explained personally? **C** [Lawyer] breached r 5(5) and should confirm instructions directly with [client] in writing before acting further.
+
+*Source note: r 5(5) PCR p11–12; r 7(8)–(9) PCR p14; PD 7.4.3 Part C p1, Part D para 1(a)–(b) p2–3; Fong Maun Yee SYL p2, facts Cyril §II.1.2 (secondary); Tung Hui Mannequin L1 p11–12, SYL p8; Udeh Kumar 2013 L9 p20, facts Cyril §VI.2.2 (secondary).*
 
 ### eth-w-0-2 — Limiting or excluding liability to the client
 *Keywords: limitation of liability, exclusion clause, negligence, fraud, reckless disregard, PI insurance minimum, $1 million, $2 million, s 112(5) LPA, s 111 LPA, s 113(4) LPA, PD 7.1.2, Unfair Contract Terms Act, reasonableness, engagement letter, in writing*
@@ -289,6 +381,34 @@ in light of the terms of engagement (r 5(3) PCR).
 
 *Source note: r 5(2)–(3) PCR p10–11; Jayakumar Naidu pinpoint SYL p2, L1 p23; reasonably-competent-solicitor test and special-risk points Cyril §II.2.3 (secondary); Lie Hendri Rusli [42]–[45] SYL p2 and [36], [63]–[64] L1 p25; handicap-on-credibility point Cyril §II.2.8 (secondary). Tested PYP21 Q1.1, PS2 Q1, PYP22, PYP23 Q2.*
 
+### eth-w-0-38 — Keeping the client informed; timeliness; following instructions
+*Keywords: r 5(2)(e), r 5(2)(f), r 5(2)(g), r 5(2)(h), r 5(2)(i), r 5(2)(j), r 17(2)(b), r 17(2)(c), keep informed, progress, respond promptly, appointments, timely advice, follow instructions, unless order, settlement proposal, mediation, r 26(1), Chiong Chin May Selena, Ooi Oon Tat, Ezekiel Peter Latimer*
+
+**I** The issue is whether [Lawyer] kept [client] informed and acted promptly. **C** [Lawyer] breached r 5(2)[(e) / (h) / (i)] PCR, which requires a legal practitioner to [keep the client reasonably informed of progress / provide timely advice / follow the client's lawful, proper and reasonable instructions].
+**R** A lawyer must keep the client reasonably informed of
+progress, respond promptly to the client's communications where practicable, keep
+appointments, give timely advice, follow all lawful, proper and reasonable instructions, and
+use all legal means to advance the client's interests so far as reasonably expected (r 5(2)(e)–
+(j) PCR). These duties continue until the retainer ends (r 26(1) PCR).
+
+> **Rule in full**
+> - Rule 5(2) PCR applies, which states that a legal practitioner must
+>   - (e) keep the client reasonably informed of the progress of the client's matter;
+>   - (f) where practicable, promptly respond to the client's communications;
+>   - (g) keep appointments with the client;
+>   - (h) provide timely advice to the client;
+>   - (i) follow all lawful, proper and reasonable instructions that the client is competent to give; and
+>   - (j) use all legal means to advance the client's interests, to the extent that the legal practitioner may reasonably be expected to do so.
+> - Rule 17(2) states that a legal practitioner
+>   - (b) must at all times use his or her best endeavours to complete any work for the client as soon as is reasonably possible; and
+>   - (c) must explain clearly and properly to the client a proposal of amicable resolution, or any other offer or position taken by any other party, which affects the client. These duties continue until the retainer ends (r 26(1) PCR).
+
+**P** A lawyer who made up excuses for inaction, failed to tell her client of the other side's proposal to mediate, and delayed filing showed a pattern of "chronic irresponsibility" (*Law Society of Singapore v Chiong Chin May Selena* [2013] SGHC 5). Failing to respond to discovery requests despite having the client's documents was a breach (*Law Society of Singapore v Ooi Oon Tat* [2022] SGHC 185 at [2]–[4]), as was failing to tell clients of an unless order before its deadline (*Law Society of Singapore v Ezekiel Peter Latimer* [2024] SGHC 90 at [36]–[50]).
+
+**A** Take each limb in turn. (e) [Lawyer] [did not tell the client of the hearing date / the unless order]. (f)–(g) [Lawyer] [did not reply for X weeks / missed the meeting]. (h) The advice on [issue] came [too late to act on]. (i) [Lawyer] [did not act on the instruction to file], which was lawful, proper and reasonable. (j) [Lawyer] [did not pursue the available step of X]. Under r 17(2)(c), the [settlement offer / mediation proposal] had to be explained to the client. Pressure of work is no excuse. **C** [Lawyer] breached r 5(2)[(e) / (h) / (i)] [and r 17(2)(c)], and should update the client in writing and take the outstanding step at once.
+
+*Source note: r 5(2) PCR p10–11, L1 p20; r 17(2)(b)–(c) PCR p31; r 26(1) PCR p48; Chiong Chin May Selena SYL p2, L1 p24, facts Cyril §II.2.5 (secondary); Ooi Oon Tat and Ezekiel Peter Latimer [2024] pinpoints SYL p2, facts Cyril §II.2.3–2.6 (secondary).*
+
 ### eth-w-0-6 — Confidentiality
 *Keywords: confidentiality, r 6, r 6(2), r 6(3), disclose, exceptions, consent, required by law, court order, insurer, defend complaint, r 21(1), after retainer, conflict check, reason for declining, Ravi Madasamy, Wee Shuo Woon, privileged and confidential, privilege*
 
@@ -319,58 +439,6 @@ defend a complaint (r 6(3)(a)–(e) PCR). The duty survives the end of the retai
 **A** First, the [identity of the other client / fact that a bidder approached the firm / client's minimum price / will's contents] is confidential in nature, not public. Second, it came to [Lawyer] in the course of the engagement [from the client / from a third party]. Third, run the exceptions: [client] has not authorised disclosure (a); no law or order requires it (b); the disclosure is not in confidence to get ethics advice or to the PI insurer (c)–(d); and there is no complaint to defend (e). In a conflict situation this means the firm may have to decline [Y] without giving the reason, and must get [client A]'s consent before telling [client B] that A has approached the firm. **C** [Lawyer] must not disclose [it] without [client]'s consent, and should say only that the firm is unable to act; disclosing it would breach r 6(2).
 
 *Source note: r 6(2)–(3) PCR p12–13, L1 p27; r 21(1) PCR p39; Ravi at [33] SYL p3, L1 p28; Wee Shuo Woon L1 p28 (no pinpoint in sources); consent before disclosure SQ p111. Tested PYP21 Q1.2, PYP23 Q1.2.*
-
-### eth-w-0-37 — Instructions through an agent; authority; warrant to act
-*Keywords: agent, third party instructions, authority, r 5(5), confirm instructions, warrant to act, letter of engagement, PD 7.4.3, verify identity, referral, r 39(2)(g), r 7(8), r 7(9), Fong Maun Yee, Tung Hui Mannequin, Udeh Kumar, breach of warranty of authority, wasted costs*
-
-**I** The issue is whether [Lawyer] could act on instructions from [agent] on [client]'s behalf. **C** [Lawyer] breached r 5(5) PCR, which requires a legal practitioner given instructions purportedly on the client's behalf to ensure the person has authority or, absent evidence of authority, to obtain the client's confirmation within a reasonable time.
-**R** When given
-instructions purportedly on the client's behalf, a lawyer must ensure the person giving them
-has authority, or, if there is no evidence of authority, obtain the client's confirmation
-within a reasonable time (r 5(5) PCR). Oral instructions should be confirmed in a written
-warrant to act, and the identity of the client verified under the anti-money-laundering rules
-(PD 7.4.3).
-
-> **Rule in full**
-> - Rule 5(5) PCR applies, which states that when a legal practitioner is given instructions purportedly on behalf of his or her client, the legal practitioner must
->   - (a) ensure that the person giving those instructions has the authority to give those instructions on behalf of the client; or
->   - (b) if there is no evidence of such authority, obtain the client's confirmation of those instructions within a reasonable time after receiving them.
-> - PD 7.4.3 Part D para 1 states that the lawyer must first verify the identity of the client or principal client under PD 3.2.1 on anti-money laundering; that after that the lawyer may accept instructions from the client or from an agent of a principal client, but must then ensure that the agent has authority and, absent evidence of it, confirm the instructions with the principal client within a reasonable time (para 1(a)); that it is in the interests of both lawyer and client to obtain written instructions, and oral instructions must be confirmed in a written Warrant to Act, the absence of which is prima facie evidence of no authority if authority is disputed (para 1(a), citing O 64 r 7 of the Rules of Court 2014); that where a third party refers the client, the lawyer must comply with r 39(2), must communicate directly with the client to obtain or confirm instructions, and must not accept instructions from the third party (para 1(a)); and that the lawyer should explain the nature, contents and scope of the Warrant to Act to the client personally, not through staff, should keep attendance notes of that explanation, must not leave blank Warrants to Act with a referrer, and should have the client sign in the lawyer's presence (para 1(b)).
-> - Under r 7(8)–(9) PCR and PD 7.4.3 Part C, another lawyer may ask whether the lawyer has authority to act, and must accept a written representation that the lawyer is authorised unless there is good reason to suspect it is false.
-
-**P** Where instructions come from a third party claiming to represent the client, the lawyer should obtain the client's written instructions or, if in doubt, see the client; failing to verify breached the duty of care in *Fong Maun Yee v Yoong Weng Ho Robert* [1997] 1 SLR(R) 751, where a property agent produced forged board resolutions. Acting without authority risks damages for breach of warranty of authority, wasted costs and disciplinary action (*Tung Hui Mannequin Industries v Tenet Insurance Co Ltd* [2005] 3 SLR(R) 184). Leaving all communication with a referred client to a third party is a dereliction of duty (*Law Society of Singapore v Udeh Kumar s/o Sethuraju* [2013] 3 SLR 875).
-
-**A** First, did [agent — a relative / director / property agent / personal assistant] have authority, e.g. [a power of attorney / board resolution]? Here [there was none / it was doubtful]. Second, if there was no evidence of authority, did [Lawyer] confirm with [client] within a reasonable time? Here [Lawyer] never [spoke to / obtained written confirmation from] [client]. [Facts suggesting doubt: the client is elderly, overseas, or the agent stands to gain] made confirmation essential. Third, did [Lawyer] verify [client]'s identity and get a signed Warrant to Act, explained personally? **C** [Lawyer] breached r 5(5) and should confirm instructions directly with [client] in writing before acting further.
-
-*Source note: r 5(5) PCR p11–12; r 7(8)–(9) PCR p14; PD 7.4.3 Part C p1, Part D para 1(a)–(b) p2–3; Fong Maun Yee SYL p2, facts Cyril §II.1.2 (secondary); Tung Hui Mannequin L1 p11–12, SYL p8; Udeh Kumar 2013 L9 p20, facts Cyril §VI.2.2 (secondary).*
-
-### eth-w-0-38 — Keeping the client informed; timeliness; following instructions
-*Keywords: r 5(2)(e), r 5(2)(f), r 5(2)(g), r 5(2)(h), r 5(2)(i), r 5(2)(j), r 17(2)(b), r 17(2)(c), keep informed, progress, respond promptly, appointments, timely advice, follow instructions, unless order, settlement proposal, mediation, r 26(1), Chiong Chin May Selena, Ooi Oon Tat, Ezekiel Peter Latimer*
-
-**I** The issue is whether [Lawyer] kept [client] informed and acted promptly. **C** [Lawyer] breached r 5(2)[(e) / (h) / (i)] PCR, which requires a legal practitioner to [keep the client reasonably informed of progress / provide timely advice / follow the client's lawful, proper and reasonable instructions].
-**R** A lawyer must keep the client reasonably informed of
-progress, respond promptly to the client's communications where practicable, keep
-appointments, give timely advice, follow all lawful, proper and reasonable instructions, and
-use all legal means to advance the client's interests so far as reasonably expected (r 5(2)(e)–
-(j) PCR). These duties continue until the retainer ends (r 26(1) PCR).
-
-> **Rule in full**
-> - Rule 5(2) PCR applies, which states that a legal practitioner must
->   - (e) keep the client reasonably informed of the progress of the client's matter;
->   - (f) where practicable, promptly respond to the client's communications;
->   - (g) keep appointments with the client;
->   - (h) provide timely advice to the client;
->   - (i) follow all lawful, proper and reasonable instructions that the client is competent to give; and
->   - (j) use all legal means to advance the client's interests, to the extent that the legal practitioner may reasonably be expected to do so.
-> - Rule 17(2) states that a legal practitioner
->   - (b) must at all times use his or her best endeavours to complete any work for the client as soon as is reasonably possible; and
->   - (c) must explain clearly and properly to the client a proposal of amicable resolution, or any other offer or position taken by any other party, which affects the client. These duties continue until the retainer ends (r 26(1) PCR).
-
-**P** A lawyer who made up excuses for inaction, failed to tell her client of the other side's proposal to mediate, and delayed filing showed a pattern of "chronic irresponsibility" (*Law Society of Singapore v Chiong Chin May Selena* [2013] SGHC 5). Failing to respond to discovery requests despite having the client's documents was a breach (*Law Society of Singapore v Ooi Oon Tat* [2022] SGHC 185 at [2]–[4]), as was failing to tell clients of an unless order before its deadline (*Law Society of Singapore v Ezekiel Peter Latimer* [2024] SGHC 90 at [36]–[50]).
-
-**A** Take each limb in turn. (e) [Lawyer] [did not tell the client of the hearing date / the unless order]. (f)–(g) [Lawyer] [did not reply for X weeks / missed the meeting]. (h) The advice on [issue] came [too late to act on]. (i) [Lawyer] [did not act on the instruction to file], which was lawful, proper and reasonable. (j) [Lawyer] [did not pursue the available step of X]. Under r 17(2)(c), the [settlement offer / mediation proposal] had to be explained to the client. Pressure of work is no excuse. **C** [Lawyer] breached r 5(2)[(e) / (h) / (i)] [and r 17(2)(c)], and should update the client in writing and take the outstanding step at once.
-
-*Source note: r 5(2) PCR p10–11, L1 p20; r 17(2)(b)–(c) PCR p31; r 26(1) PCR p48; Chiong Chin May Selena SYL p2, L1 p24, facts Cyril §II.2.5 (secondary); Ooi Oon Tat and Ezekiel Peter Latimer [2024] pinpoints SYL p2, facts Cyril §II.2.3–2.6 (secondary).*
 
 ### eth-w-0-39 — Privilege; requests for information from authorities
 *Keywords: privilege, legal professional privilege, PD 9.1.3, PD 9.1.1, request for information, Comptroller of Income Tax, Commercial Affairs Department, CAD, Official Assignee, power exists, power validly exercised, check the power, submissions, frivolous argument, fraud exception, crime, waiver, client's privilege, r 6(3)(b)*
@@ -422,10 +490,6 @@ instructions, make submissions if there is more than a frivolous argument that i
 **A** First, are the [documents] privileged? Here they are [communications made to [Lawyer] in the course of advising [client]], and no PD 9.1.3 exception applies [or: the fraud exception applies because [facts]]. Second, run the PD 9.1.1 checks: [authority] relies on [provision]; it [does / does not] exist and reach privileged material; the request was made by [officer], who [is / is not] authorised; [the statutory conditions were / were not] met; and the request [is / is not] confined to [the matter]. Third, [client] [has / has not] waived privilege or instructed [Lawyer] not to resist. **C** [Lawyer] should [claim privilege, take the client's instructions and make submissions that the power has not been validly exercised / comply, disclosing only what the valid power requires, as r 6(3)(b) permits].
 
 *Source note: PD 9.1.3 p1; PD 9.1.1 p1; both listed SYL p3, L1 p29; r 6(2)–(3) PCR p12–13; summary Cyril §II.3.2–3.3 (secondary). PD 9.1.1 names the three authorities but not their statutes, and gives only the two conditions ("exists" and "validly exercised"); checks (1)–(7) are practical steps applying those two conditions to the statutory requirements below, not rules from a source. ITA s 65B(2)–(3B), CPC s 20(1), (5), (9), IRDA ss 334, 369–370 and Evidence Act s 128 read on Singapore Statutes Online (current at 3 Nov 2026); whether CPC s 20(5) or IRDA s 334 displaces privilege is not decided in the course sources, so the safe course is to claim privilege and make submissions as PD 9.1.1 directs.*
-
----
-
-## Conflicts of interest
 
 ### eth-w-0-7 — Acting for two or more parties: r 20 before accepting
 *Keywords: r 20, multiple clients, diversity of interests, relevant party, r 20(3), ostensibly disadvantageous transaction, undue influence, informed consent in writing, independent legal advice, written record, commercial conflict, rival bidders, consent before disclosure, r 6(3)(a), Lie Hendri Rusli, Uthayasurian, Mahidon, Kuek Siang Wei, Ezekiel Peter Latimer, Ahmad Khalis*
@@ -545,6 +609,40 @@ loyalty and confidentiality (r 20(1) PCR).
 **A** Take each factor in turn. (1) Nature of the work: [Lawyer] [negotiated the sale and knows the minimum price], which is core, commercially sensitive information. (2) Timing: the barrier [was set up when the retainer began / would only go up now, after the teams have already mixed]. (3) Size: [Firm] is [a small firm where everyone works together / a large firm with separate departments]. (4) Physical location: the teams [sit on the same floor and share staff and IT / are in separate offices with separate IT access]. (5) Tainted lawyers: [one senior partner who supervises both teams / two junior associates who can be walled off]. The barrier should comprise separate teams, physical and IT separation, written instructions and acknowledgements from every lawyer and staff member, and monitoring, all in place from the start. If the lawyer who holds the information is the lawyer who would act, no barrier can separate the information from the work. **C** Therefore [Firm] [may rely on a barrier, provided it is set up immediately and documented / cannot rely on a barrier and should decline].
 
 *Source note: r 6(2) PCR p12; r 20(1), (3)(a)(i)(B) PCR p35–36; r 21(4)–(5) PCR p39–40; Harsha five factors at [68], cited as [2018] 5 SLR 894, SQ p110 (L2 p21 and SYL p3 cite the same case as [2018] SGHC 155, the neutral citation of the same judgment); barrier measures SQ p112; same-lawyer difficulty SQ p110; Harsha factors also Cyril Master Notes §II.4.2 (secondary; it omits size of firm); "iron-tight" is Pinsler's commentary, optional reading cited SQ p110, not case authority. Tested PYP23 Q1.1–1.2, PYP21 Q1.2, PS1 Q2.*
+
+### eth-w-0-40 — Specific conflict situations in the practice directions
+*Keywords: PD 7.2.1, public authority, member of a public authority, exceptional circumstances, PD 7.2.2, provisional liquidator, applicant creditor, PD 7.2.3, complainant and accused, police report, PD 7.2.4, debenture holder, receiver, real not fanciful, PD 7.2.5, mortgagor and mortgagee, same transaction, PD 7.2.6, different transaction, current account, mischief*
+
+**I** The issue is whether [Lawyer] may act for [X] given the earlier or concurrent role for [Y]. **C** Under PD [7.2.x], [Lawyer] [should not / may] act for [X].
+**R** The Law Society's practice directions settle
+several recurring situations. A lawyer who is a member of a public authority, and that
+lawyer's partners and assistants, should not act against the authority in proceedings or
+matters in which it is directly interested (PD 7.2.1). A firm acting for applicant creditors
+should not also act for the provisional liquidator (PD 7.2.2). A lawyer retained by the
+complainant in a criminal case cannot later defend the accused in the same case, even if they
+only obtained a copy of the police report (PD 7.2.3). Acting for both a debenture holder and
+the receiver it appoints is not objectionable in principle, unless a real (not fanciful)
+likelihood of conflict exists (PD 7.2.4). A lawyer who acted for both mortgagor and mortgagee
+should not act for either in litigation about the same transaction, whether or not the loan is
+disbursed or title issued (PD 7.2.5); but may act for the lender in recovering a separate
+current-account debt (PD 7.2.6).
+
+> **Rule in full**
+> - PD 7.2.1 states that, as a general rule, a solicitor who is a member of a public authority, or any partner of or assistant employed by such solicitor, should not be professionally engaged against such authority in any proceedings to which the authority is a party or in any matter in which the authority is directly interested; if exceptional circumstances justify any departure from this general rule, it is the duty of the solicitor to ensure that the interests of the authority are effectively protected. (Where a lawyer is retained by the Attorney-General in civil proceedings by or against the Government or a public officer, the PD draws attention to s 24(3) of the Government Proceedings Act.)
+> - PD 7.2.2 states that when a firm is acting for the applicant creditors and the court appoints a provisional liquidator for the company pending the outcome of the winding-up application, it is undesirable for the lawyers for the applicant creditors to act also on behalf of the provisional liquidator.
+> - PD 7.2.3 states that when a lawyer has been retained by the complainant to act for him or her in a criminal case, the lawyer cannot subsequently represent the accused person in his or her defence in the same case, notwithstanding that the lawyer only obtained a certified true copy of the police report and did nothing further for the complainant.
+> - PD 7.2.4 states that it is not objectionable in principle for a receiver to use the same lawyer that acts for the appointer, the debenture holder; the receiver, almost invariably a public accountant, should be able to identify a situation likely to give rise to a conflict between the company and the appointer, and if there is a likelihood of conflict the receiver should use different lawyers; the debenture holder's lawyers, if they identify a conflict or likelihood of conflict, can be expected to tell the receiver and advise him or her to engage different lawyers; and the likelihood of conflict should be real and not fanciful, so "potential" conflict, which includes a remote possibility, is not the true test.
+> - PD 7.2.5 states that a lawyer who has previously acted for both the mortgagor and the mortgagee should refrain from acting for either of them in litigation pertaining to the same transaction, irrespective of whether
+>   - (a) the loan has been fully disbursed;
+>   - (b) separate title has been issued for the property; and
+>   - (c) the transfer in favour of the purchaser/mortgagor has been perfected.
+> - PD 7.2.6 qualifies this: the Council ruled it entirely proper for a lawyer who had acted for the borrowers and the bank in securing banking facilities by a mortgage to act for the bank in recovering the outstanding balance of the borrower's current account, after the property had long been sold and the mortgage discharged, because that claim was not litigation pertaining to the mortgage transaction; there is no general rule that a lawyer who has acted for a person, before or after litigation began, can never act for the opposite party, and in each case the court has to be satisfied that mischief would result.
+
+**P** These directions apply the general rules on multiple and former clients: a lawyer owes duties of loyalty and confidentiality to each client (r 20(1) PCR), those duties continue after the retainer ends (r 21(1)), and r 21(2) bars acting against a former client whose material confidential information the lawyer holds, unless r 21(3)–(5) applies (see eth-w-0-11).
+
+**A** Identify which direction fits. Here [Lawyer] [sits on the public authority / acted for the applicant creditors / was retained by the complainant, even if only to obtain the police report / acts for the debenture holder / acted for both mortgagor and mortgagee in the loan now in default]. The new matter [is against the authority, in which it is directly interested / is for the provisional liquidator / is the defence of the accused in the same case / is for the receiver, with a real (not fanciful) likelihood of conflict because [facts] / is litigation pertaining to the same mortgage transaction / concerns a separate current-account debt]. **C** Under PD [7.2.x], [Lawyer] [must decline / may act, watching for any real conflict and any confidential information protected by r 21].
+
+*Source note: PD 7.2.1–7.2.6 (each p1); r 20(1) and r 21 PCR p35, p39–40; table Cyril Master Notes §II.4.1.3 (secondary). L2 p15–16 summarises PD 7.2.5 as a general bar on acting against a former client in substantially related matters without consent, PD 7.2.6 as a bar on acting for both mortgagor and mortgagee, and PD 7.2.1 as a call for caution; the PD texts themselves (followed here) say otherwise in each case.*
 
 ### eth-w-0-11 — Acting against a former client: r 21
 *Keywords: r 21, former client, current client, confidential information, protected by rule 6, adverse interest, material, r 21(3), informed consent in writing, independent legal advice, r 21(4), adequate safeguards, reasonable efforts to notify, r 21(5), illegal to notify, Harsha factors, same lawyer*
@@ -678,40 +776,6 @@ PCR).
 
 *Source note: r 5(2) PCR p10–11; r 22(2)–(3) PCR p40–41; Govindan Balan Nair SYL p3 ([2020] SGHC 174), facts L3 p13 (cited there as [2020] 5 SLR 988); breadth of "adverse interest" and pinpoints [15]–[23] read from the judgment on eLitigation (3 Nov 2026; the [2020] 5 SLR 988 report cite is L3's and was not confirmed online); s 112(5) LPA p271; PD 7.1.2 p1; s 83(2)(b) LPA p217–218. Tested PYP21 Q1.3.*
 
-### eth-w-0-40 — Specific conflict situations in the practice directions
-*Keywords: PD 7.2.1, public authority, member of a public authority, exceptional circumstances, PD 7.2.2, provisional liquidator, applicant creditor, PD 7.2.3, complainant and accused, police report, PD 7.2.4, debenture holder, receiver, real not fanciful, PD 7.2.5, mortgagor and mortgagee, same transaction, PD 7.2.6, different transaction, current account, mischief*
-
-**I** The issue is whether [Lawyer] may act for [X] given the earlier or concurrent role for [Y]. **C** Under PD [7.2.x], [Lawyer] [should not / may] act for [X].
-**R** The Law Society's practice directions settle
-several recurring situations. A lawyer who is a member of a public authority, and that
-lawyer's partners and assistants, should not act against the authority in proceedings or
-matters in which it is directly interested (PD 7.2.1). A firm acting for applicant creditors
-should not also act for the provisional liquidator (PD 7.2.2). A lawyer retained by the
-complainant in a criminal case cannot later defend the accused in the same case, even if they
-only obtained a copy of the police report (PD 7.2.3). Acting for both a debenture holder and
-the receiver it appoints is not objectionable in principle, unless a real (not fanciful)
-likelihood of conflict exists (PD 7.2.4). A lawyer who acted for both mortgagor and mortgagee
-should not act for either in litigation about the same transaction, whether or not the loan is
-disbursed or title issued (PD 7.2.5); but may act for the lender in recovering a separate
-current-account debt (PD 7.2.6).
-
-> **Rule in full**
-> - PD 7.2.1 states that, as a general rule, a solicitor who is a member of a public authority, or any partner of or assistant employed by such solicitor, should not be professionally engaged against such authority in any proceedings to which the authority is a party or in any matter in which the authority is directly interested; if exceptional circumstances justify any departure from this general rule, it is the duty of the solicitor to ensure that the interests of the authority are effectively protected. (Where a lawyer is retained by the Attorney-General in civil proceedings by or against the Government or a public officer, the PD draws attention to s 24(3) of the Government Proceedings Act.)
-> - PD 7.2.2 states that when a firm is acting for the applicant creditors and the court appoints a provisional liquidator for the company pending the outcome of the winding-up application, it is undesirable for the lawyers for the applicant creditors to act also on behalf of the provisional liquidator.
-> - PD 7.2.3 states that when a lawyer has been retained by the complainant to act for him or her in a criminal case, the lawyer cannot subsequently represent the accused person in his or her defence in the same case, notwithstanding that the lawyer only obtained a certified true copy of the police report and did nothing further for the complainant.
-> - PD 7.2.4 states that it is not objectionable in principle for a receiver to use the same lawyer that acts for the appointer, the debenture holder; the receiver, almost invariably a public accountant, should be able to identify a situation likely to give rise to a conflict between the company and the appointer, and if there is a likelihood of conflict the receiver should use different lawyers; the debenture holder's lawyers, if they identify a conflict or likelihood of conflict, can be expected to tell the receiver and advise him or her to engage different lawyers; and the likelihood of conflict should be real and not fanciful, so "potential" conflict, which includes a remote possibility, is not the true test.
-> - PD 7.2.5 states that a lawyer who has previously acted for both the mortgagor and the mortgagee should refrain from acting for either of them in litigation pertaining to the same transaction, irrespective of whether
->   - (a) the loan has been fully disbursed;
->   - (b) separate title has been issued for the property; and
->   - (c) the transfer in favour of the purchaser/mortgagor has been perfected.
-> - PD 7.2.6 qualifies this: the Council ruled it entirely proper for a lawyer who had acted for the borrowers and the bank in securing banking facilities by a mortgage to act for the bank in recovering the outstanding balance of the borrower's current account, after the property had long been sold and the mortgage discharged, because that claim was not litigation pertaining to the mortgage transaction; there is no general rule that a lawyer who has acted for a person, before or after litigation began, can never act for the opposite party, and in each case the court has to be satisfied that mischief would result.
-
-**P** These directions apply the general rules on multiple and former clients: a lawyer owes duties of loyalty and confidentiality to each client (r 20(1) PCR), those duties continue after the retainer ends (r 21(1)), and r 21(2) bars acting against a former client whose material confidential information the lawyer holds, unless r 21(3)–(5) applies (see eth-w-0-11).
-
-**A** Identify which direction fits. Here [Lawyer] [sits on the public authority / acted for the applicant creditors / was retained by the complainant, even if only to obtain the police report / acts for the debenture holder / acted for both mortgagor and mortgagee in the loan now in default]. The new matter [is against the authority, in which it is directly interested / is for the provisional liquidator / is the defence of the accused in the same case / is for the receiver, with a real (not fanciful) likelihood of conflict because [facts] / is litigation pertaining to the same mortgage transaction / concerns a separate current-account debt]. **C** Under PD [7.2.x], [Lawyer] [must decline / may act, watching for any real conflict and any confidential information protected by r 21].
-
-*Source note: PD 7.2.1–7.2.6 (each p1); r 20(1) and r 21 PCR p35, p39–40; table Cyril Master Notes §II.4.1.3 (secondary). L2 p15–16 summarises PD 7.2.5 as a general bar on acting against a former client in substantially related matters without consent, PD 7.2.6 as a bar on acting for both mortgagor and mortgagee, and PD 7.2.1 as a call for caution; the PD texts themselves (followed here) say otherwise in each case.*
-
 ### eth-w-0-41 — Borrowing from clients; welfare assistance
 *Keywords: prohibited borrowing transaction, r 23, associated party, immediate family member, excepted person, client includes investor, independent advice, certified in writing, full disclosure, trustee transaction, Council determination, loan from client, welfare assistance, GN 7.4.2, foreign workers, creditor/debtor relationship, maintenance, champerty, s 107(3) LPA, Yap Bock Heng, Thirumurthy, Chia Chwee Imm Helen*
 
@@ -815,10 +879,6 @@ advise the client to obtain independent legal advice about it (r 25(1)–(2) PCR
 
 *Source note: r 2(1) PCR p5; r 25 PCR p47, L3 p20; Wan Hui Hong James L3 p21–22, pinpoints [10]–[11], [15], [18]–[22] read from the judgment ([2013] SGHC 85) on eLitigation (3 Nov 2026); Manjit Singh L3 p23, facts Cyril Master Notes §II.7 (secondary); Lee Suet Fern SYL p4 ([2020] SGHC 255), L3 p24–25 (cited there as [2020] 5 SLR 1151).*
 
----
-
-## End of the retainer
-
 ### eth-w-0-15 — Withdrawal; termination clauses
 *Keywords: withdraw, terminate, r 26, r 26(2), r 26(4), r 26(5), r 26(6), complete the work, reasonable notice, must withdraw, may withdraw, health, non-payment, misrepresentation, loss of confidence, good cause, foreseeable harm, reservation of rights, PD 7.4.2, PD 7.4.3 Part B, cease to act, client discharges, Chew Kim Kee, Alfons Tanumihardja, Chiong Chin May Selena*
 
@@ -907,7 +967,32 @@ another lawyer must honour it (r 7(6) PCR).
 
 ---
 
-## Duties to the court
+## III. Administration of justice
+- **What does the duty to the court require?**
+  - Officer of the court; paramount duty; honest assessment of the merits; no personal opinion; no unarguable contentions (r 9(2)(e), (h)) → [0-17](#eth-w-0-17)
+- **Has the court been misled?**
+  - False statement, half-truth or omission, knowingly or recklessly (r 9(2)(a)–(c); *Seah Zhen Wei Paul*) → [0-18](#eth-w-0-18)
+  - Lawyer drafted a false affidavit (*Chung Ting Fai*) → [0-18](#eth-w-0-18)
+  - Without-notice application: full and frank disclosure (r 9(3)(b)) → [0-19](#eth-w-0-19)
+  - Fake cases or AI-generated authorities (r 9(2)(f), r 5(2)(c); *Tajudin*) → [0-45](#eth-w-0-45)
+  - Signature attested without the signatory present (PD 1.6.1) → [0-20](#eth-w-0-20)
+- **Is the client doing something improper?**
+  - Advice sought for a dishonest or unlawful purpose (r 10(5)); helping the client mislead (r 10(6)); client gives false evidence (r 10(4)) → [0-21](#eth-w-0-21)
+  - Client breaches an undertaking to court → [0-21](#eth-w-0-21)
+  - Documents held back in discovery; suppressing evidence (r 10(3)(a); *Teo Wai Cheong*); no duty to report a crime (PD 1.6.2) → [0-47](#eth-w-0-47)
+- **Can this lawyer appear at all?**
+  - Relationship with the client (family, friend, business) or with the court affects independence (r 11(2)) → [0-48](#eth-w-0-48)
+  - Lawyer will be a material witness on a contested issue: decline or apply to be discharged (r 11(3)(a), PD 1.7.1) → [0-22](#eth-w-0-22)
+  - Colleague in the same firm takes over: unless it would prejudice the administration of justice (r 11(3)(b); *Ho Kon Kim*) → [0-23](#eth-w-0-23)
+- **Dealing with witnesses?**
+  - Coaching, scripting, group preparation, talking to the witness during cross-examination, payment on outcome (r 12; *Perez De La Sala*) → [0-49](#eth-w-0-49)
+- **Conduct in court?**
+  - Rude, late or disrespectful (r 13(1)–(3)) → [0-44](#eth-w-0-44)
+  - Lawyer's own undertaking to court; posts about a pending case; contempt (r 13(4)–(6)) → [0-50](#eth-w-0-50)
+  - Lawyer already on record; client in chambers; witnesses' and agents' fees (PD 7.3.2, GN 1.1.1, PD 8.8.1, r 7(5)) → [0-46](#eth-w-0-46)
+- **Criminal proceedings?**
+  - Defence: every reasonable defence; no bail or surety; after a confession; plea and testifying; co-accused and third-party payer (r 14) → [0-51](#eth-w-0-51)
+  - Prosecution: fairness, disclosure, sentencing duties (r 15; *Parti Liyani*) → [0-52](#eth-w-0-52)
 
 ### eth-w-0-17 — Paramount duty to court; honest evaluation of the merits
 *Keywords: officer of the court, s 82(1) LPA, paramount duty, administration of justice, merits, unmeritorious application, personal opinion, r 9(2)(e), not a mouthpiece, Public Trustee, Zhou Tong, BOI v BOJ, Miya Manik, r 9(1)(a), r 9(2)(h), reasonably and properly arguable, patently unmeritorious, satisfactory account*
@@ -1026,43 +1111,6 @@ improper conduct in the discharge of professional duty (PD 1.6.1). A lawyer must
 
 *Source note: PD 1.6.1 Parts A–B p1; s 83(2)(b) LPA p217; r 9(1)(d), (2)(c) PCR p17–18; r 32 PCR p53; Thirumurthy SYL p5, facts L4 p22 (L4 cites [2022] 4 SLR 462). Tested PS2 Q1.*
 
-### eth-w-0-21 — Client's improper conduct; advice for a dishonest purpose
-*Keywords: r 10, client misleading court, suppress evidence, dishonest purpose, unlawful purpose, undertaking to court, assist client, cease to act, Narindar Singh, Bachoo Mohan Singh, Leong Pek Gan, r 10(2), r 10(5), r 10(6), commensurate with control, without foundation, face value, proper foundation*
-
-**I** The issue is whether [Lawyer] assisted the client to [mislead the court / evade an undertaking / act dishonestly]. **C** [Lawyer] breached r 10(5) PCR, which forbids a lawyer to give the client any advice the lawyer knows or has reasonable grounds to believe is sought for a dishonest, fraudulent or unlawful purpose.
-**R** A lawyer must
-not give advice they know or have reason to believe is sought for a dishonest, fraudulent
-or unlawful purpose, and must not knowingly assist or permit the client to mislead the
-court or do anything dishonest (r 10(5)–(6) PCR). So far as able, the lawyer must prevent
-the client suppressing evidence or giving false evidence (r 10(3) PCR); if the client has
-done so, the lawyer must cease to act or continue without perpetuating the falsehood
-(r 10(4) PCR).
-
-> **Rule in full**
-> - Rule 10(1) PCR states the guiding principles that
->   - (a) a legal practitioner's duty to assist in the administration of justice includes a responsibility, commensurate with the amount of control the legal practitioner has over the client, to prevent the client from misleading a court or tribunal in any manner and from otherwise acting improperly;
->   - (b) a legal practitioner must exercise professional judgment over the substance and purpose of any advice given and any document drafted; and
->   - (c) a legal practitioner must not engage in any conduct which would be unlawful, unethical or otherwise improper, whether or not it would promote the client's cause.
-> - Rule 10(5) PCR applies, which states that a legal practitioner must not render to his or her client any advice which the legal practitioner knows or has reasonable grounds to believe is sought by the client for any dishonest, fraudulent or unlawful purpose.
-> - Rule 10(6) PCR states that a legal practitioner must not knowingly assist or permit the client
->   - (a) to mislead a court or tribunal; or
->   - (b) to do any other thing which the legal practitioner considers to be dishonest.
-> - Rule 10(2) PCR states that a legal practitioner whose client is a party to proceedings must inform the client of the client's responsibilities to the court and to every other party, including the client's duties
->   - (a) to be truthful towards the court; and
->   - (b) to comply with every legal requirement concerning the conduct and presentation of the client's case.
-> - Rule 10(3) PCR states that, to the extent that the legal practitioner is able, the legal practitioner must prevent the client from, must not be a party to, and must not assist the client in,
->   - (a) suppressing evidence; or
->   - (b) giving false evidence or false information to a court or tribunal.
-> - Rule 10(4) PCR states that where the legal practitioner knows the client is about to give, or has given, false evidence or false information to a court or tribunal, the legal practitioner must
->   - (a) cease to act; or
->   - (b) if continuing to act, conduct the client's case in a manner that does not perpetuate the falsehood.
-
-**P** A lawyer who acted with his client to corruptly solicit a gratification from a co-accused's family, in exchange for the client exonerating the co-accused, was convicted and struck off (*Narindar Singh s/o Malagar Singh v Public Prosecutor* [1996] 3 SLR(R) 318 at [48]–[53]). On how far a lawyer may rely on the client's instructions, the court held (1) a solicitor should decline instructions, or doubt them, if they plainly appear to be without foundation, e.g. lacking logical or legal coherence; (2) a solicitor need not verify the client's instructions with other sources unless there is compelling evidence that they are dubious (both at [137(e)]); (3) whether a claim is "false" depends on whether the litigant's action has a proper foundation entitling him to seek judicial relief (at [94]); and (4) counsel was entitled to accept the client's instructions at face value (at [101]) (*Bachoo Mohan Singh v Public Prosecutor* [2010] SGCA 25; [2010] 4 SLR 137). A lawyer of over 30 years' standing who acted for both sides of a property "sale" that was in substance a high-interest loan by an unlicensed moneylender was wilfully blind to the illegal purpose and was guilty of advising a client she had reasonable grounds to believe sought advice to advance an illegal purpose, under the predecessor of r 10(5); reasonable grounds are judged objectively from the lawyer's position and experience, and the illegal purpose need not be completed (*Law Society of Singapore v Leong Pek Gan* [2016] SGHC 165 at [86]–[93]); she was suspended for two and a half years (*Law Society of Singapore v Leong Pek Gan* [2016] SGHC 250 at [19]).
-
-**A** Here [client] asked how to [move assets despite an undertaking to court / hide proceedings], and [Lawyer] devised [a transfer to a nominee / a pre-signed affidavit to be filed later]. Under r 10(5), [Lawyer] knew, or at least had reasonable grounds to believe, the advice was sought to [breach an undertaking to court], an unlawful purpose. Under r 10(6)(a)–(b), [Lawyer] knowingly assisted the client to [mislead the court / do something dishonest]. These were not instructions [Lawyer] could take at face value under *Bachoo Mohan Singh*: they plainly lacked any proper foundation. [Lawyer]'s control over the client was [high, since Lawyer drafted the scheme] (r 10(1)(a)), and [Lawyer] did not tell the client of the duty to comply with the undertaking (r 10(2)). **C** [Lawyer] breached r 10(5) and r 10(6) PCR, and should have refused, warned the client, and ceased to act if the client persisted.
-
-*Source note: r 10 PCR p20–21; Narindar Singh at [48]–[53] SYL p6, facts L4 p24; Bachoo Mohan Singh at [137(e)], [94], [101] L4 p26; the pinpoints are in the Court of Appeal's criminal reference decision [2010] SGCA 25 (read on eLitigation, 3 Nov 2026), not the procedural decision [2010] 1 SLR 966 ([2009] SGCA 59) that SYL cites; the [2010] 4 SLR 137 report cite for [2010] SGCA 25 is L4's and was not confirmed online; Leong Pek Gan SYL p6, facts, test and outcome read from [2016] SGHC 165 and [2016] SGHC 250 on eLitigation (3 Nov 2026; it applied r 22 of the 2010 rules, which the judgment does not itself map to r 10(5)). Tested PS2 Q1, PYP21 Q2.*
-
 ### eth-w-0-44 — Respect, courtesy and punctuality before the court
 *Keywords: respect for court, courtesy, r 13(1)–(3), punctuality, PD 1.4.2, protracted arguments, PD 8.5.8, insolent, discourteous, turned his back, late, deadlines, Ravi Madasamy, Syed Suhail, standing dignity and authority, stood down, adjournment priority, open court*
 
@@ -1148,6 +1196,43 @@ the client (PD 8.8.1).
 
 *Source note: PD 7.3.2 p1; GN 1.1.1 paras 2–4 p1; PD 8.8.1 Parts A–B p1; PD 8.5.8 p1; r 7(2), (5) PCR p13–14; r 12(8) PCR p23; r 13(3) PCR p24.*
 
+### eth-w-0-21 — Client's improper conduct; advice for a dishonest purpose
+*Keywords: r 10, client misleading court, suppress evidence, dishonest purpose, unlawful purpose, undertaking to court, assist client, cease to act, Narindar Singh, Bachoo Mohan Singh, Leong Pek Gan, r 10(2), r 10(5), r 10(6), commensurate with control, without foundation, face value, proper foundation*
+
+**I** The issue is whether [Lawyer] assisted the client to [mislead the court / evade an undertaking / act dishonestly]. **C** [Lawyer] breached r 10(5) PCR, which forbids a lawyer to give the client any advice the lawyer knows or has reasonable grounds to believe is sought for a dishonest, fraudulent or unlawful purpose.
+**R** A lawyer must
+not give advice they know or have reason to believe is sought for a dishonest, fraudulent
+or unlawful purpose, and must not knowingly assist or permit the client to mislead the
+court or do anything dishonest (r 10(5)–(6) PCR). So far as able, the lawyer must prevent
+the client suppressing evidence or giving false evidence (r 10(3) PCR); if the client has
+done so, the lawyer must cease to act or continue without perpetuating the falsehood
+(r 10(4) PCR).
+
+> **Rule in full**
+> - Rule 10(1) PCR states the guiding principles that
+>   - (a) a legal practitioner's duty to assist in the administration of justice includes a responsibility, commensurate with the amount of control the legal practitioner has over the client, to prevent the client from misleading a court or tribunal in any manner and from otherwise acting improperly;
+>   - (b) a legal practitioner must exercise professional judgment over the substance and purpose of any advice given and any document drafted; and
+>   - (c) a legal practitioner must not engage in any conduct which would be unlawful, unethical or otherwise improper, whether or not it would promote the client's cause.
+> - Rule 10(5) PCR applies, which states that a legal practitioner must not render to his or her client any advice which the legal practitioner knows or has reasonable grounds to believe is sought by the client for any dishonest, fraudulent or unlawful purpose.
+> - Rule 10(6) PCR states that a legal practitioner must not knowingly assist or permit the client
+>   - (a) to mislead a court or tribunal; or
+>   - (b) to do any other thing which the legal practitioner considers to be dishonest.
+> - Rule 10(2) PCR states that a legal practitioner whose client is a party to proceedings must inform the client of the client's responsibilities to the court and to every other party, including the client's duties
+>   - (a) to be truthful towards the court; and
+>   - (b) to comply with every legal requirement concerning the conduct and presentation of the client's case.
+> - Rule 10(3) PCR states that, to the extent that the legal practitioner is able, the legal practitioner must prevent the client from, must not be a party to, and must not assist the client in,
+>   - (a) suppressing evidence; or
+>   - (b) giving false evidence or false information to a court or tribunal.
+> - Rule 10(4) PCR states that where the legal practitioner knows the client is about to give, or has given, false evidence or false information to a court or tribunal, the legal practitioner must
+>   - (a) cease to act; or
+>   - (b) if continuing to act, conduct the client's case in a manner that does not perpetuate the falsehood.
+
+**P** A lawyer who acted with his client to corruptly solicit a gratification from a co-accused's family, in exchange for the client exonerating the co-accused, was convicted and struck off (*Narindar Singh s/o Malagar Singh v Public Prosecutor* [1996] 3 SLR(R) 318 at [48]–[53]). On how far a lawyer may rely on the client's instructions, the court held (1) a solicitor should decline instructions, or doubt them, if they plainly appear to be without foundation, e.g. lacking logical or legal coherence; (2) a solicitor need not verify the client's instructions with other sources unless there is compelling evidence that they are dubious (both at [137(e)]); (3) whether a claim is "false" depends on whether the litigant's action has a proper foundation entitling him to seek judicial relief (at [94]); and (4) counsel was entitled to accept the client's instructions at face value (at [101]) (*Bachoo Mohan Singh v Public Prosecutor* [2010] SGCA 25; [2010] 4 SLR 137). A lawyer of over 30 years' standing who acted for both sides of a property "sale" that was in substance a high-interest loan by an unlicensed moneylender was wilfully blind to the illegal purpose and was guilty of advising a client she had reasonable grounds to believe sought advice to advance an illegal purpose, under the predecessor of r 10(5); reasonable grounds are judged objectively from the lawyer's position and experience, and the illegal purpose need not be completed (*Law Society of Singapore v Leong Pek Gan* [2016] SGHC 165 at [86]–[93]); she was suspended for two and a half years (*Law Society of Singapore v Leong Pek Gan* [2016] SGHC 250 at [19]).
+
+**A** Here [client] asked how to [move assets despite an undertaking to court / hide proceedings], and [Lawyer] devised [a transfer to a nominee / a pre-signed affidavit to be filed later]. Under r 10(5), [Lawyer] knew, or at least had reasonable grounds to believe, the advice was sought to [breach an undertaking to court], an unlawful purpose. Under r 10(6)(a)–(b), [Lawyer] knowingly assisted the client to [mislead the court / do something dishonest]. These were not instructions [Lawyer] could take at face value under *Bachoo Mohan Singh*: they plainly lacked any proper foundation. [Lawyer]'s control over the client was [high, since Lawyer drafted the scheme] (r 10(1)(a)), and [Lawyer] did not tell the client of the duty to comply with the undertaking (r 10(2)). **C** [Lawyer] breached r 10(5) and r 10(6) PCR, and should have refused, warned the client, and ceased to act if the client persisted.
+
+*Source note: r 10 PCR p20–21; Narindar Singh at [48]–[53] SYL p6, facts L4 p24; Bachoo Mohan Singh at [137(e)], [94], [101] L4 p26; the pinpoints are in the Court of Appeal's criminal reference decision [2010] SGCA 25 (read on eLitigation, 3 Nov 2026), not the procedural decision [2010] 1 SLR 966 ([2009] SGCA 59) that SYL cites; the [2010] 4 SLR 137 report cite for [2010] SGCA 25 is L4's and was not confirmed online; Leong Pek Gan SYL p6, facts, test and outcome read from [2016] SGHC 165 and [2016] SGHC 250 on eLitigation (3 Nov 2026; it applied r 22 of the 2010 rules, which the judgment does not itself map to r 10(5)). Tested PS2 Q1, PYP21 Q2.*
+
 ### eth-w-0-47 — Discovery duties; suppressing evidence; reporting crime
 *Keywords: discovery, disclosure, document production, explain obligations, supervise, r 10(3), suppress evidence, Teo Wai Cheong, PD 1.6.2, lay information, criminal offence, bigamy, Shahira Banu, de Souza, r 10(2), r 9(3)(b), relevance, review documents, subjective intention, partial disclosure*
 
@@ -1195,6 +1280,65 @@ any member of it (r 11(2)(a)–(b) PCR).
 **A** Under r 11(2)(a), here [Lawyer] [is the client's spouse / a close friend / a shareholder in the client's business]. [Lawyer] would have to give detached advice on [settlement / weak points] and present the case objectively, which that relationship makes difficult; unlike *Then Khek Khoon*, the interest goes beyond ordinary fees. Under r 11(2)(b), [Lawyer] [is related to / a close friend of] the presiding [judge / arbitrator], so the other side may reasonably perceive bias; the test is whether justice might appear to be prejudiced, not whether it actually is. **C** [Lawyer] [may not] appear; the firm may brief another lawyer, and should explain why to the client.
 
 *Source note: r 11(1)–(2) PCR p21; Then Khek Khoon at [30]–[36] SYL p6, facts L4 p36; rationale Cyril §III.3.1–3.2 (secondary).*
+
+### eth-w-0-22 — Lawyer will be a material witness: r 11(3)(a)
+*Keywords: lawyer as witness, material witness, contested issue, r 11(3), PD 1.7.1, discharge, attendance notes, representations, drafted the agreement, Ho Kon Kim, material and disputed question of fact, formal or undisputed facts, appellate tribunal, r 26(6)*
+
+**I** The issue is whether [Lawyer] (and [associate]) may act when they are likely to give evidence. **C** [Lawyer] may not act, because r 11(3)(a) PCR forbids a lawyer who will be required to give evidence material to a contested issue to accept instructions from any party, and requires a lawyer already acting to discharge themselves or apply to be discharged.
+**R** Where it is known or appears that a lawyer
+will be required to give evidence material to a contested issue, the lawyer must not
+accept instructions from any party and, if already acting, must discharge themselves or
+apply to be discharged (r 11(3)(a) PCR). A lawyer should not act where they have reason to
+believe they will be a witness on a material and disputed fact, but may swear an
+affidavit on formal or undisputed facts (PD 1.7.1).
+
+> **Rule in full**
+> - Rule 11(3) PCR applies, which states that in any case where it is known or it appears that a legal practitioner will be required to give evidence which is material to the determination of any contested issue before a court or tribunal,
+>   - (a) the legal practitioner
+>     - (i) must not accept instructions from any party to that case; and
+>     - (ii) must, if the legal practitioner was acting for any party to that case, discharge himself or herself, or, where the legal practitioner has represented that party in any proceedings relating to that case, apply to be discharged, from acting further for that party.
+> - PD 1.7.1 states that a legal practitioner shall not represent any party in any case in which he or she has reason to believe that he or she will be a witness in respect of a material and disputed question of fact, and if while appearing it becomes apparent that he or she will be such a witness, should discharge himself or herself and take all reasonable steps to ensure that the client's interests are not jeopardised; that a legal practitioner shall not appear before an appellate tribunal if, in the case under appeal, he or she has been a witness on a material and disputed question of fact in the court below; and that nothing in the PD prevents a legal practitioner from swearing an affidavit as to formal or undisputed facts in matters in which he or she acts or appears. On withdrawal, r 26(6) PCR states that the legal practitioner must
+>   - (a) take reasonable care to avoid foreseeable harm to the client, including, where the circumstances permit,
+>     - (i) by giving reasonable notice of the withdrawal;
+>     - (ii) by giving the client a reasonable amount of time to engage another legal practitioner; and
+>     - (iii) by cooperating with the client's new legal practitioner; and
+>   - (b) abide by the client's decision on whether, and whom, to appoint to take over.
+
+**P** The rationale is that a witness has a paramount duty to tell the truth, the whole truth and nothing but the truth, while a lawyer has a duty to present the case in the client's best interests, and a lawyer should not be placed where those duties could conflict; the duty to advance the client's case is subject to the duties as an officer of the court (r 11(1) PCR). Where the firm's conveyancing partner would be a material witness in a claim arising from the conveyancing transaction, he should not have acted (*Ho Kon Kim v Betsy Lim Gek Kim* [2001] SGCA 64 at [61]–[63]).
+
+**A** First, is it known or does it appear that [Lawyer] will be required to give evidence? Here [the other side pleads that Lawyer said X at the meeting / Lawyer's attendance notes are the client's key evidence / the opponent intends to call Lawyer]. Second, is the evidence material to a contested issue? What [Lawyer] said or recorded goes to [the misrepresentation / the terms agreed], which is disputed on the pleadings and which only [Lawyer] and [associate] can speak to. An opponent's mere assertion that the lawyer will be a witness is not enough, but here the dispute is on the pleadings. It is not a formal or undisputed fact on which PD 1.7.1 would allow an affidavit. [If already acting in the proceedings, Lawyer must apply to be discharged (r 11(3)(a)(ii)).] **C** [Lawyer] and [associate] may not act; they must decline or discharge themselves, with reasonable notice and care for the client (r 26(6) PCR).
+
+*Source note: r 11(1), (3) PCR p21–22; PD 1.7.1 p1; r 26(6) PCR p50; Ho Kon Kim at [61]–[63] SYL p6 ([63] L4 p35), facts L4 p35; rationale L4 p34. Tested PYP22 (a), PYP23 Q2.1.*
+
+### eth-w-0-23 — Can a colleague in the same firm take over or act instead? r 11(3)(b)
+*Keywords: r 11(3)(b), take over, take over conduct, taking over, colleague takes over, another lawyer in the firm, same firm, law practice may continue, continue to act, lawyer as witness, material witness, colleague, partner takes over, prejudice the administration of justice, firm's own conduct in issue, Ho Kon Kim, r 22, r 22(2), r 22(4), law practice's own interest, informed consent in writing, independent legal advice*
+
+**I** The issue is whether [Firm] may continue to act through [colleague] once [Lawyer] steps aside. **C** [Firm] [may / may not] continue to act, because r 11(3)(b) PCR allows the law practice or a member of it to represent the party unless doing so would prejudice the administration of justice.
+**R** Even where a lawyer is a
+material witness, the firm or a member of it may represent the party unless doing so
+would prejudice the administration of justice (r 11(3)(b) PCR). Separately, the firm must
+not act where its own interests conflict with the client's (r 22(2), (4) PCR).
+
+> **Rule in full**
+> - Rule 11(3) PCR applies, which states that where it is known or it appears that a legal practitioner will be required to give evidence material to the determination of a contested issue, the legal practitioner must not act, but (b) the law practice in which the legal practitioner practises, or a member of that law practice, may represent or continue to represent any party to that case, unless doing so would prejudice the administration of justice.
+> - Separately, r 22(2) PCR states that, except as otherwise permitted by the rule, a legal practitioner or law practice must not act for a client if there is, or may reasonably be expected to be, a conflict between
+>   - (a) the duty to serve the best interests of the client; and
+>   - (b) the interests of the legal practitioner or law practice.
+> - Rule 22(4) PCR states that where a law practice has an interest in any matter entrusted to it by its client,
+>   - (a) where the interest is adverse to the client's interests, the law practice must withdraw unless
+>     - (i) it makes a full and frank disclosure of the adverse interest to the client;
+>     - (ii) it advises the client to obtain independent legal advice;
+>     - (iii) if the client does not obtain independent legal advice, it ensures that the client is not under an impression that the law practice is protecting the client's interests; and
+>     - (iv) despite (i) and (ii), the client gives informed consent in writing to the law practice acting or continuing to act; or
+>   - (b) in any other case, the law practice must withdraw unless
+>     - (i) it makes a full and frank disclosure of the interest to the client; and
+>     - (ii) despite that, the client gives informed consent in writing.
+
+**P** In *Ho Kon Kim v Betsy Lim Gek Kim* [2001] SGCA 64 at [61]–[63], neither the conveyancing partner nor the litigation partner should have acted: first, the conveyancing partner would be a material witness; second, the partners had an interest in the case, as it was their firm that had acted in the property transaction.
+
+**A** The question under r 11(3)(b) is whether [colleague] acting would prejudice the administration of justice. Weigh [colleague]'s independence from the witness: [never involved in the transaction / was the witness's trainee and is junior to them / small two-partner firm]. Weigh whether the firm's own conduct is attacked: if the defence says the firm misled the other party, [colleague] would be cross-examining or relying on a partner's evidence about the firm's own conduct, with an interest in vindicating the firm. That risks the appearance of justice, as in *Ho Kon Kim*, and gives the firm an interest adverse to the client under r 22(2) and r 22(4)(a), so the firm could act only if it made full and frank disclosure, advised the client to get independent legal advice, ensured that the client, if not independently advised, was not under the impression that the firm was protecting the client's interests, and obtained the client's informed consent in writing. **C** On balance [Firm] [may not continue, and the client should be advised to instruct another firm / may continue only with full and frank disclosure, advice to obtain independent legal advice, steps to ensure that the client, if not independently advised, is not under the impression that the firm is protecting the client's interests, informed consent in writing under r 22(4)(a)(i)–(iv), and strict separation from [Lawyer]].
+
+*Source note: r 11(3)(b) PCR p22; r 22(2), (4) PCR p41–42; Ho Kon Kim at [61]–[63] SYL p6, facts and two reasons at [63] L4 p35; r 11(3)(b) point L4 p34. No course source states factors for "prejudice the administration of justice"; the weighing in A is application, not a test. Tested PYP22 (b), PYP23 Q2.2.*
 
 ### eth-w-0-49 — Dealing with witnesses: r 12
 *Keywords: witness, r 12, witness coaching, witness preparation, cross-examination, during cross-examination, scandalous questions, vilify, allegation not put, interview other side's witness, witness payment, contingent, Perez De La Sala, Wong Sin Yee, PD 8.8.1, order to attend court, group preparation, own judgment*
@@ -1361,110 +1505,26 @@ must draw the court's attention to apparent errors, omissions or irregularities 
 
 ---
 
-## The lawyer as witness
-
-### eth-w-0-22 — Lawyer will be a material witness: r 11(3)(a)
-*Keywords: lawyer as witness, material witness, contested issue, r 11(3), PD 1.7.1, discharge, attendance notes, representations, drafted the agreement, Ho Kon Kim, material and disputed question of fact, formal or undisputed facts, appellate tribunal, r 26(6)*
-
-**I** The issue is whether [Lawyer] (and [associate]) may act when they are likely to give evidence. **C** [Lawyer] may not act, because r 11(3)(a) PCR forbids a lawyer who will be required to give evidence material to a contested issue to accept instructions from any party, and requires a lawyer already acting to discharge themselves or apply to be discharged.
-**R** Where it is known or appears that a lawyer
-will be required to give evidence material to a contested issue, the lawyer must not
-accept instructions from any party and, if already acting, must discharge themselves or
-apply to be discharged (r 11(3)(a) PCR). A lawyer should not act where they have reason to
-believe they will be a witness on a material and disputed fact, but may swear an
-affidavit on formal or undisputed facts (PD 1.7.1).
-
-> **Rule in full**
-> - Rule 11(3) PCR applies, which states that in any case where it is known or it appears that a legal practitioner will be required to give evidence which is material to the determination of any contested issue before a court or tribunal,
->   - (a) the legal practitioner
->     - (i) must not accept instructions from any party to that case; and
->     - (ii) must, if the legal practitioner was acting for any party to that case, discharge himself or herself, or, where the legal practitioner has represented that party in any proceedings relating to that case, apply to be discharged, from acting further for that party.
-> - PD 1.7.1 states that a legal practitioner shall not represent any party in any case in which he or she has reason to believe that he or she will be a witness in respect of a material and disputed question of fact, and if while appearing it becomes apparent that he or she will be such a witness, should discharge himself or herself and take all reasonable steps to ensure that the client's interests are not jeopardised; that a legal practitioner shall not appear before an appellate tribunal if, in the case under appeal, he or she has been a witness on a material and disputed question of fact in the court below; and that nothing in the PD prevents a legal practitioner from swearing an affidavit as to formal or undisputed facts in matters in which he or she acts or appears. On withdrawal, r 26(6) PCR states that the legal practitioner must
->   - (a) take reasonable care to avoid foreseeable harm to the client, including, where the circumstances permit,
->     - (i) by giving reasonable notice of the withdrawal;
->     - (ii) by giving the client a reasonable amount of time to engage another legal practitioner; and
->     - (iii) by cooperating with the client's new legal practitioner; and
->   - (b) abide by the client's decision on whether, and whom, to appoint to take over.
-
-**P** The rationale is that a witness has a paramount duty to tell the truth, the whole truth and nothing but the truth, while a lawyer has a duty to present the case in the client's best interests, and a lawyer should not be placed where those duties could conflict; the duty to advance the client's case is subject to the duties as an officer of the court (r 11(1) PCR). Where the firm's conveyancing partner would be a material witness in a claim arising from the conveyancing transaction, he should not have acted (*Ho Kon Kim v Betsy Lim Gek Kim* [2001] SGCA 64 at [61]–[63]).
-
-**A** First, is it known or does it appear that [Lawyer] will be required to give evidence? Here [the other side pleads that Lawyer said X at the meeting / Lawyer's attendance notes are the client's key evidence / the opponent intends to call Lawyer]. Second, is the evidence material to a contested issue? What [Lawyer] said or recorded goes to [the misrepresentation / the terms agreed], which is disputed on the pleadings and which only [Lawyer] and [associate] can speak to. An opponent's mere assertion that the lawyer will be a witness is not enough, but here the dispute is on the pleadings. It is not a formal or undisputed fact on which PD 1.7.1 would allow an affidavit. [If already acting in the proceedings, Lawyer must apply to be discharged (r 11(3)(a)(ii)).] **C** [Lawyer] and [associate] may not act; they must decline or discharge themselves, with reasonable notice and care for the client (r 26(6) PCR).
-
-*Source note: r 11(1), (3) PCR p21–22; PD 1.7.1 p1; r 26(6) PCR p50; Ho Kon Kim at [61]–[63] SYL p6 ([63] L4 p35), facts L4 p35; rationale L4 p34. Tested PYP22 (a), PYP23 Q2.1.*
-
-### eth-w-0-23 — Can a colleague in the same firm take over or act instead? r 11(3)(b)
-*Keywords: r 11(3)(b), take over, take over conduct, taking over, colleague takes over, another lawyer in the firm, same firm, law practice may continue, continue to act, lawyer as witness, material witness, colleague, partner takes over, prejudice the administration of justice, firm's own conduct in issue, Ho Kon Kim, r 22, r 22(2), r 22(4), law practice's own interest, informed consent in writing, independent legal advice*
-
-**I** The issue is whether [Firm] may continue to act through [colleague] once [Lawyer] steps aside. **C** [Firm] [may / may not] continue to act, because r 11(3)(b) PCR allows the law practice or a member of it to represent the party unless doing so would prejudice the administration of justice.
-**R** Even where a lawyer is a
-material witness, the firm or a member of it may represent the party unless doing so
-would prejudice the administration of justice (r 11(3)(b) PCR). Separately, the firm must
-not act where its own interests conflict with the client's (r 22(2), (4) PCR).
-
-> **Rule in full**
-> - Rule 11(3) PCR applies, which states that where it is known or it appears that a legal practitioner will be required to give evidence material to the determination of a contested issue, the legal practitioner must not act, but (b) the law practice in which the legal practitioner practises, or a member of that law practice, may represent or continue to represent any party to that case, unless doing so would prejudice the administration of justice.
-> - Separately, r 22(2) PCR states that, except as otherwise permitted by the rule, a legal practitioner or law practice must not act for a client if there is, or may reasonably be expected to be, a conflict between
->   - (a) the duty to serve the best interests of the client; and
->   - (b) the interests of the legal practitioner or law practice.
-> - Rule 22(4) PCR states that where a law practice has an interest in any matter entrusted to it by its client,
->   - (a) where the interest is adverse to the client's interests, the law practice must withdraw unless
->     - (i) it makes a full and frank disclosure of the adverse interest to the client;
->     - (ii) it advises the client to obtain independent legal advice;
->     - (iii) if the client does not obtain independent legal advice, it ensures that the client is not under an impression that the law practice is protecting the client's interests; and
->     - (iv) despite (i) and (ii), the client gives informed consent in writing to the law practice acting or continuing to act; or
->   - (b) in any other case, the law practice must withdraw unless
->     - (i) it makes a full and frank disclosure of the interest to the client; and
->     - (ii) despite that, the client gives informed consent in writing.
-
-**P** In *Ho Kon Kim v Betsy Lim Gek Kim* [2001] SGCA 64 at [61]–[63], neither the conveyancing partner nor the litigation partner should have acted: first, the conveyancing partner would be a material witness; second, the partners had an interest in the case, as it was their firm that had acted in the property transaction.
-
-**A** The question under r 11(3)(b) is whether [colleague] acting would prejudice the administration of justice. Weigh [colleague]'s independence from the witness: [never involved in the transaction / was the witness's trainee and is junior to them / small two-partner firm]. Weigh whether the firm's own conduct is attacked: if the defence says the firm misled the other party, [colleague] would be cross-examining or relying on a partner's evidence about the firm's own conduct, with an interest in vindicating the firm. That risks the appearance of justice, as in *Ho Kon Kim*, and gives the firm an interest adverse to the client under r 22(2) and r 22(4)(a), so the firm could act only if it made full and frank disclosure, advised the client to get independent legal advice, ensured that the client, if not independently advised, was not under the impression that the firm was protecting the client's interests, and obtained the client's informed consent in writing. **C** On balance [Firm] [may not continue, and the client should be advised to instruct another firm / may continue only with full and frank disclosure, advice to obtain independent legal advice, steps to ensure that the client, if not independently advised, is not under the impression that the firm is protecting the client's interests, informed consent in writing under r 22(4)(a)(i)–(iv), and strict separation from [Lawyer]].
-
-*Source note: r 11(3)(b) PCR p22; r 22(2), (4) PCR p41–42; Ho Kon Kim at [61]–[63] SYL p6, facts and two reasons at [63] L4 p35; r 11(3)(b) point L4 p34. No course source states factors for "prejudice the administration of justice"; the weighing in A is application, not a test. Tested PYP22 (b), PYP23 Q2.2.*
-
----
-
-## Other lawyers and other persons
-
-### eth-w-0-24 — Undertakings to other lawyers
-*Keywords: undertaking, solicitor's undertaking, r 7(6), r 7(7), honour, necessary, able to honour, lien, Naidu Priyalatha, solemn promise, condition outside control, third party, Arjan Chotrani Bisham, deliberate breach*
-
-**I** The issue is whether [Lawyer] breached an undertaking given to [other lawyer]. **C** [Lawyer] [did / did not] breach r 7(6) PCR, which requires a legal practitioner to honour every undertaking the legal practitioner gives to another legal practitioner.
-**R** A lawyer must honour every undertaking given to
-another lawyer, and must not give one unless they believe it is necessary and know, when
-giving it, that they can honour it (r 7(6)–(7) PCR).
-
-> **Rule in full**
-> - Rule 7(6) PCR applies, which states that a legal practitioner must honour every undertaking the legal practitioner gives to another legal practitioner.
-> - Rule 7(7) PCR states that a legal practitioner (A) must not give an undertaking to another legal practitioner unless
->   - (a) A believes that the undertaking is necessary; and
->   - (b) A knows (when giving the undertaking) that A is able to honour the undertaking.
-> - Both are read with the guiding principle in r 7(1)(b) PCR, that a legal practitioner must deal with another legal practitioner in good faith and in a manner which is dignified and courteous.
-
-**P** An undertaking by one lawyer to another is a solemn promise, not merely an agreement or contract, on which the other lawyer may rely by making a concession, agreeing to a request or taking or not taking a step (*Law Society of Singapore v Naidu Priyalatha* [2022] SGHC 224). A lawyer should therefore never give an undertaking whose fulfilment depends on a third party or on any other condition outside the lawyer's control. Breach of an undertaking is grave (*Law Society v Arjan Chotrani Bisham* [2001] SGHC 24), and a deliberate breach is more serious than a negligent one: in *Naidu Priyalatha* a lawyer who undertook to release a cashier's order to her client only once a full settlement was agreed, but let it be deposited into the client's account though no settlement was reached, was suspended for three months. **A** Undertaking: here [Lawyer] undertook to [hold the original documents subject to the lien / pay costs on completion], and [the other lawyer] [released documents / took a step] in reliance. Rule 7(7)(a)–(b): did [Lawyer] believe it necessary, and know when giving it that [he / she] could honour it, or did performance depend on [the client / a bank / a third party]? An undertaking that depended on the client's later co-operation breached r 7(7)(b) when it was given. Rule 7(6): [Lawyer] then [released the documents / failed to pay] without protecting [the other lawyer]'s position. That the client later instructed otherwise, or changed lawyers, does not release the undertaking: [Lawyer] had to get the new lawyer's matching undertaking first, or refuse. **C** [Lawyer] [did / did not] breach r 7(6) [and r 7(7)], and should immediately remedy it by retrieving the documents or securing the costs.
-
-*Source note: r 7(1)(b), (6)–(7) PCR p13–14; "solemn promise", reliance, conditions outside the lawyer's control and Arjan Chotrani Bisham L6 p15; Naidu Priyalatha SYL p7, p8 (no pinpoint in sources); "not merely an agreement or contract", deliberate worse than negligent, facts and three-month suspension Cyril §IV.1.4 (secondary). Tested PYP22 (c).*
-
-### eth-w-0-25 — Dealing with an unrepresented person
-*Keywords: unrepresented, litigant-in-person, r 8(2), r 8(1)(c), no legal advice, independent legal advice, impression interests protected, "you don't need a lawyer", Ganesan Krishnan, Ahmad Khalis, implied retainer, power of attorney*
-
-**I** The issue is whether [Lawyer] dealt properly with [X], who had no lawyer. **C** [Lawyer] [did / did not] breach r 8(2) PCR, which requires a legal practitioner dealing for a client with an unrepresented person to decline to give that person legal advice and to take reasonable steps so the person does not think the legal practitioner protects their interests.
-**R** When dealing for the client with someone not
-represented by a lawyer, a lawyer must decline to give that person any legal advice other
-than to get independent legal advice, if the lawyer knows or ought to know their
-interests are or may be adverse to the client's, and must take reasonable steps so that
-the person is not under the impression that the lawyer is protecting their interests
-(r 8(2)(a)–(b) PCR). The lawyer must treat unrepresented persons fairly (r 8(1)(c) PCR).
-
-> **Rule in full**
-> - Rule 8(2) PCR applies, which states that a legal practitioner (A), when dealing on behalf of his or her client with any person who is not represented by another legal practitioner,
->   - (a) must decline to give to the person any legal advice (other than advice to obtain independent legal advice), if A knows or ought reasonably to know that the interests of the person are adverse, or potentially adverse, to the interests of A's client; and
->   - (b) must take reasonable steps to ensure that the person is not under the impression that the person's interests are protected by A.
-> - It is read with the guiding principle in r 8(1)(c) PCR, that a legal practitioner must treat with fairness any person who is not represented by another legal practitioner.
-
-**P** Where a lawyer acts for one party and other parties may reasonably believe the lawyer is advising or protecting them, the lawyer must clearly disabuse them of that impression and, if their interests are adverse or potentially adverse, decline to advise them and tell them to get independent legal advice; failing to tell the donors of a power of attorney, who were not clients, to get independent advice exposed them to significant risk (*Law Society of Singapore v Ganesan Krishnan* [2003] 2 SLR(R) 251). A lawyer introduced to the other beneficiaries as a friend there to "help", who reassured them that his client as sole administrator could not deal with the estate property without their authorisation, was held to have an implied retainer with them and to owe them a duty to keep them informed and explain the documents (*Law Society of Singapore v Ahmad Khalis bin Abdul Ghani* [2006] 4 SLR(R) 308 at [74]). **A** Limb (a): [X] was [the counterparty to the settlement / the other party to the agreement / a beneficiary], whose interests [Lawyer] knew or ought reasonably to have known were adverse or potentially adverse. Statements such as "you do not need a lawyer" or "the terms are fair" are legal advice other than advice to obtain independent legal advice. Limb (b): saying "I am looking after everyone's interests", or letting [X] sign without explanation, is the opposite of reasonable steps to dispel the impression, and a clause reciting that [X] "had the opportunity to obtain independent advice" does not cure oral assurances. If [Lawyer] gave them, they may also found an implied retainer, bringing the multiple-client conflict rules into play. **C** If the allegations are true, [Lawyer] breached r 8(2)(a) and (b), and the dispute makes [Lawyer] a likely witness.
-
-*Source note: r 8(1)(c), (2) PCR p15; Ganesan Krishnan L2 p13, SYL p3; Ahmad Khalis at [74] SYL p3, L2 p12, facts L7 p24–25. Tested PYP22 (a), PYP23 Q2.1.*
+## IV. Other lawyers and other persons
+- **How is the lawyer treating the other side's lawyer?**
+  - Offensive letters, disparaging remarks, bad faith (r 7(1)–(2), r 27) → [0-53](#eth-w-0-53)
+  - Undertaking given to another lawyer: honour it; give only if necessary and able to honour (r 7(6)–(7)) → [0-24](#eth-w-0-24)
+  - Demanding the other lawyer's authority to act (r 7(8)–(9)) → [0-56](#eth-w-0-56)
+  - Investigator used to entrap another lawyer (PD 8.5.5) → [0-57](#eth-w-0-57)
+  - Default judgment without notice to the other lawyer (r 28) → [0-58](#eth-w-0-58)
+  - Allegations against another lawyer in court documents (r 29) → [0-59](#eth-w-0-59)
+  - Writing to the judge alone; disclosing without-prejudice letters (r 30–31) → [0-60](#eth-w-0-60)
+- **Is someone else's client involved?**
+  - Contacting a person who has a lawyer (r 7(3)) → [0-54](#eth-w-0-54)
+  - Second opinion, or taking over another lawyer's client (r 7(4), PD 7.3.3) → [0-55](#eth-w-0-55)
+- **Is the other person unrepresented?**
+  - Decline to advise beyond "get independent advice"; dispel any impression of protection (r 8(2)) → [0-25](#eth-w-0-25)
+- **Is the lawyer pressuring the other side?**
+  - Unfair advantage; demands not recoverable by law; threats of criminal or disciplinary reports (r 8(3)–(5)) → [0-61](#eth-w-0-61)
+- **Private conduct, or acting after mediating?**
+  - Misconduct outside practice (s 83(2)(h)); former mediator acting for a party (r 8(6)) → [0-62](#eth-w-0-62)
+- **Mediation or arbitration?**
+  - Respect, courtesy, good faith, not misleading the mediator (r 8A); advising on ADR (r 17(2)(e), GN 7.1.2) → [0-63](#eth-w-0-63)
 
 ### eth-w-0-53 — Courtesy and fairness to other lawyers
 *Keywords: courtesy, fairness, r 7(1), r 7(2), r 27, good faith, offensive letters, disparaging remarks, social media, PD 8.5.9, draft documents, PD 8.5.3, professional conference, PD 8.5.7, Ravi s/o Madasamy 2023, Terence Tan Bian Chye, China Insurance, disagree without being disagreeable, K Jayakumar Naidu*
@@ -1554,6 +1614,25 @@ release the file on the new lawyer's word and must not contact the former client
 **P** These are manifestations of the duty of courtesy and fairness to other lawyers (r 7(2) PCR). **A** Second opinion: giving one is permitted, with or without [Firm Y]'s knowledge. Improper influence: here [Lawyer] [criticised Firm Y's advice and offered a discount to switch], which goes beyond an opinion. Taking over: [Lawyer] [began work / agreed to act] before the client [discharged Firm Y / changed solicitors on the record], contrary to PD 7.3.3 and PD 7.3.2. Friend: if [Lawyer] was only advising a friend informally, commenting on Firm Y's advice is a gross discourtesy under PD 8.5.2. Former lawyer: if [Firm Y] phoned the client to confirm the new firm's instructions before releasing the file, it breached r 7 as PD 8.3.1 explains. **C** [Lawyer] [did / did not] breach r 7(4) [and PD 7.3.3], and should wait until the retainer is ended in writing.
 
 *Source note: r 7(2), (4) PCR p13–14; PD 7.3.3, 7.3.2, 8.5.2, 8.3.1 (each p1); manifestations of r 7(2) L6 p12–14; Cyril §IV.1.3.7–1.3.11 (secondary).*
+
+### eth-w-0-24 — Undertakings to other lawyers
+*Keywords: undertaking, solicitor's undertaking, r 7(6), r 7(7), honour, necessary, able to honour, lien, Naidu Priyalatha, solemn promise, condition outside control, third party, Arjan Chotrani Bisham, deliberate breach*
+
+**I** The issue is whether [Lawyer] breached an undertaking given to [other lawyer]. **C** [Lawyer] [did / did not] breach r 7(6) PCR, which requires a legal practitioner to honour every undertaking the legal practitioner gives to another legal practitioner.
+**R** A lawyer must honour every undertaking given to
+another lawyer, and must not give one unless they believe it is necessary and know, when
+giving it, that they can honour it (r 7(6)–(7) PCR).
+
+> **Rule in full**
+> - Rule 7(6) PCR applies, which states that a legal practitioner must honour every undertaking the legal practitioner gives to another legal practitioner.
+> - Rule 7(7) PCR states that a legal practitioner (A) must not give an undertaking to another legal practitioner unless
+>   - (a) A believes that the undertaking is necessary; and
+>   - (b) A knows (when giving the undertaking) that A is able to honour the undertaking.
+> - Both are read with the guiding principle in r 7(1)(b) PCR, that a legal practitioner must deal with another legal practitioner in good faith and in a manner which is dignified and courteous.
+
+**P** An undertaking by one lawyer to another is a solemn promise, not merely an agreement or contract, on which the other lawyer may rely by making a concession, agreeing to a request or taking or not taking a step (*Law Society of Singapore v Naidu Priyalatha* [2022] SGHC 224). A lawyer should therefore never give an undertaking whose fulfilment depends on a third party or on any other condition outside the lawyer's control. Breach of an undertaking is grave (*Law Society v Arjan Chotrani Bisham* [2001] SGHC 24), and a deliberate breach is more serious than a negligent one: in *Naidu Priyalatha* a lawyer who undertook to release a cashier's order to her client only once a full settlement was agreed, but let it be deposited into the client's account though no settlement was reached, was suspended for three months. **A** Undertaking: here [Lawyer] undertook to [hold the original documents subject to the lien / pay costs on completion], and [the other lawyer] [released documents / took a step] in reliance. Rule 7(7)(a)–(b): did [Lawyer] believe it necessary, and know when giving it that [he / she] could honour it, or did performance depend on [the client / a bank / a third party]? An undertaking that depended on the client's later co-operation breached r 7(7)(b) when it was given. Rule 7(6): [Lawyer] then [released the documents / failed to pay] without protecting [the other lawyer]'s position. That the client later instructed otherwise, or changed lawyers, does not release the undertaking: [Lawyer] had to get the new lawyer's matching undertaking first, or refuse. **C** [Lawyer] [did / did not] breach r 7(6) [and r 7(7)], and should immediately remedy it by retrieving the documents or securing the costs.
+
+*Source note: r 7(1)(b), (6)–(7) PCR p13–14; "solemn promise", reliance, conditions outside the lawyer's control and Arjan Chotrani Bisham L6 p15; Naidu Priyalatha SYL p7, p8 (no pinpoint in sources); "not merely an agreement or contract", deliberate worse than negligent, facts and three-month suspension Cyril §IV.1.4 (secondary). Tested PYP22 (c).*
 
 ### eth-w-0-56 — Asking another lawyer for their authority to act
 *Keywords: authority to act, r 7(8), r 7(9), warrant to act, written representation, good reason to suspect, PD 7.4.3, give reasons, no privilege, privileged material expunged, Tung Hui Mannequin, aspersions, breach of warranty of authority*
@@ -1685,6 +1764,27 @@ unless both lawyers agree (r 31 PCR).
 
 *Source note: r 27, 30–31 PCR p51–53; Supreme Court PD 2021 paras 21(2) and 71 checked against the e-PD text on judiciary.gov.sg (3 Nov 2026), para 71 also L7 p5–7; scope of r 31 L7 p19; Cyril §IV.4 (secondary).*
 
+### eth-w-0-25 — Dealing with an unrepresented person
+*Keywords: unrepresented, litigant-in-person, r 8(2), r 8(1)(c), no legal advice, independent legal advice, impression interests protected, "you don't need a lawyer", Ganesan Krishnan, Ahmad Khalis, implied retainer, power of attorney*
+
+**I** The issue is whether [Lawyer] dealt properly with [X], who had no lawyer. **C** [Lawyer] [did / did not] breach r 8(2) PCR, which requires a legal practitioner dealing for a client with an unrepresented person to decline to give that person legal advice and to take reasonable steps so the person does not think the legal practitioner protects their interests.
+**R** When dealing for the client with someone not
+represented by a lawyer, a lawyer must decline to give that person any legal advice other
+than to get independent legal advice, if the lawyer knows or ought to know their
+interests are or may be adverse to the client's, and must take reasonable steps so that
+the person is not under the impression that the lawyer is protecting their interests
+(r 8(2)(a)–(b) PCR). The lawyer must treat unrepresented persons fairly (r 8(1)(c) PCR).
+
+> **Rule in full**
+> - Rule 8(2) PCR applies, which states that a legal practitioner (A), when dealing on behalf of his or her client with any person who is not represented by another legal practitioner,
+>   - (a) must decline to give to the person any legal advice (other than advice to obtain independent legal advice), if A knows or ought reasonably to know that the interests of the person are adverse, or potentially adverse, to the interests of A's client; and
+>   - (b) must take reasonable steps to ensure that the person is not under the impression that the person's interests are protected by A.
+> - It is read with the guiding principle in r 8(1)(c) PCR, that a legal practitioner must treat with fairness any person who is not represented by another legal practitioner.
+
+**P** Where a lawyer acts for one party and other parties may reasonably believe the lawyer is advising or protecting them, the lawyer must clearly disabuse them of that impression and, if their interests are adverse or potentially adverse, decline to advise them and tell them to get independent legal advice; failing to tell the donors of a power of attorney, who were not clients, to get independent advice exposed them to significant risk (*Law Society of Singapore v Ganesan Krishnan* [2003] 2 SLR(R) 251). A lawyer introduced to the other beneficiaries as a friend there to "help", who reassured them that his client as sole administrator could not deal with the estate property without their authorisation, was held to have an implied retainer with them and to owe them a duty to keep them informed and explain the documents (*Law Society of Singapore v Ahmad Khalis bin Abdul Ghani* [2006] 4 SLR(R) 308 at [74]). **A** Limb (a): [X] was [the counterparty to the settlement / the other party to the agreement / a beneficiary], whose interests [Lawyer] knew or ought reasonably to have known were adverse or potentially adverse. Statements such as "you do not need a lawyer" or "the terms are fair" are legal advice other than advice to obtain independent legal advice. Limb (b): saying "I am looking after everyone's interests", or letting [X] sign without explanation, is the opposite of reasonable steps to dispel the impression, and a clause reciting that [X] "had the opportunity to obtain independent advice" does not cure oral assurances. If [Lawyer] gave them, they may also found an implied retainer, bringing the multiple-client conflict rules into play. **C** If the allegations are true, [Lawyer] breached r 8(2)(a) and (b), and the dispute makes [Lawyer] a likely witness.
+
+*Source note: r 8(1)(c), (2) PCR p15; Ganesan Krishnan L2 p13, SYL p3; Ahmad Khalis at [74] SYL p3, L2 p12, facts L7 p24–25. Tested PYP22 (a), PYP23 Q2.1.*
+
 ### eth-w-0-61 — Unfair advantage, letters of demand and threats: r 8(3)–(5)
 *Keywords: unfair advantage, r 8(3), deceit, wrongful reference, letter of demand, r 8(4), not recoverable, costs of letter, simple debt, mortgage arrears, instalments, PD 1.8.1, threat of criminal proceedings, police report, r 8(5), PD 9.1.2, statutory penalty, disciplinary complaint threat, offensive letter, copying bank, Terence Tan, Peter Pang, Carolyn Tan Beng Hui 1999, Wong Juan Swee, Chew Kia Heng*
 
@@ -1780,7 +1880,18 @@ assist or permit the client to do so (r 8A(1)–(5) PCR).
 
 ---
 
-## Staff and appointments
+## V. Staff, titles, executive appointments
+- **Who is supervising the staff?**
+  - Paralegals and clerks: constant supervision (r 32, GN 3.7.1) → [0-26](#eth-w-0-26)
+  - Practice trainees (r 32; *Lun Yaodong*) → [0-64](#eth-w-0-64)
+- **Is an unauthorised person practising?**
+  - Staff runs matters or signs as the firm; lawyer lends his name (s 33, s 77 LPA, PD 3.11.2, PD 3.11.1) → [0-27](#eth-w-0-27)
+  - Fees shared with the unauthorised person (r 19) → [0-34](#eth-w-0-34)
+- **What can the lawyer call themselves?**
+  - Titles, descriptions, business cards, "consultant" (r 33, s 75D LPA) → [0-65](#eth-w-0-65)
+- **Outside business or directorship?**
+  - Executive appointment: prohibited businesses (r 34(1)); non-legal business on the Second Schedule conditions (r 34(4)) → [0-28](#eth-w-0-28)
+  - Prohibited business for a law practice (r 38) → [0-28](#eth-w-0-28)
 
 ### eth-w-0-26 — Supervision of staff and paralegals
 *Keywords: supervision, r 32, paralegal, legal executive, clerk, GN 3.7.1, constant supervision, unsupervised, no right of audience, PTC, signs off emails, deals with clients alone, periodic checks, Yeo Siew Chye Troy, Tan See Leh Jonathan*
@@ -1845,56 +1956,6 @@ purport to practise as a solicitor; breach may lead to discipline (s 77(1), (3) 
 
 *Source note: s 32(2) LPA p92; s 33(1)–(3) LPA p92–94; s 77 LPA p202–203; s 83(2)(b), (h) LPA p217–218; PD 3.11.2 p1; PD 3.11.1 p1; r 19(1) PCR p35; Tan See Leh Jonathan L8 p19, SYL p10; K V Sudeep Kumar SYL p10, facts and sanctions read from the judgment on eLitigation (3 Nov 2026); summary of ss 32–33, 77 L8 p9–10, p15–17. Tested PS3 Q2, PYP20 Q2(b).*
 
-### eth-w-0-28 — Executive appointments and outside businesses
-*Keywords: executive appointment, director, business, r 34, First Schedule, Second Schedule, Third Schedule, Fourth Schedule, law-related services, non-executive director, independent director, r 38, s 83(2)(i) LPA, detracts from profession, estate agent, housing agent, debt collection, company secretary, PD 3.8.1*
-
-**I** The issue is whether [Lawyer] may hold [role] in [business]. **C** [Lawyer] [may / may not] hold the role, because r 34(1) PCR forbids a legal practitioner to accept an executive appointment associated with a prohibited business [and r 34(4) PCR allows one in a non-legal business only if every Second Schedule condition is met].
-**R** A lawyer must not accept an executive appointment in a
-business that detracts from or is incompatible with the dignity of the profession, that
-materially interferes with their practice, availability to clients or representation of
-clients, that is likely to unfairly attract legal business, or that shares fees with
-unauthorised persons (r 34(1)(a)–(d) PCR). An appointment in a business that provides no
-legal services is allowed if the Second Schedule conditions are met (r 34(4) PCR). An
-"executive appointment" excludes non-executive and independent directorships (r 34(9)
-PCR). Carrying on a business that detracts from the profession is due cause for
-discipline (s 83(2)(i) Legal Profession Act 1966).
-
-> **Rule in full**
-> - Rule 34(1) PCR applies, which states that a legal practitioner must not accept any executive appointment associated with any of the following businesses:
->   - (a) any business which detracts from, is incompatible with, or derogates from the dignity of, the legal profession;
->   - (b) any business which materially interferes with
->     - (i) the legal practitioner's primary occupation of practising as a lawyer;
->     - (ii) the legal practitioner's availability to those who may seek the legal practitioner's services as a lawyer; or
->     - (iii) the representation of the legal practitioner's clients;
->   - (c) any business which is likely to unfairly attract business in the practice of law;
->   - (d) any business which involves the sharing of the legal practitioner's fees with, or the payment of a commission to, any unauthorised person for legal work performed by the legal practitioner;
->   - (e) any business set out in the First Schedule, which lists a housing or estate agency business and a debt collection business; or
->   - (f) any business which is prohibited by the Act, the Rules or other subsidiary legislation made under the Act, or any practice directions, guidance notes and rulings issued under s 71(6) of the Act or by the Council or the Society.
-> - Rule 34(3) states that, subject to paragraph (1), a legal practitioner may accept an executive appointment in a business entity which provides law-related services, which the Fourth Schedule lists as intellectual property, tax, trust business, company secretarial and Catalist continuing sponsor services.
-> - Rule 34(4) states that, subject to paragraph (1), a legal practitioner (not being a locum solicitor) may accept an executive appointment in a business entity which does not provide any legal services or law-related services, if all of the conditions set out in the Second Schedule are satisfied. Those conditions are that
->   - (1) the business must not jeopardise the professional integrity, independence or competence of the legal practitioner, and must not detract from the standing and dignity of the legal profession;
->   - (2) the entity must not be held out or described so as to suggest that it is a law practice, or that any legal practitioner in it provides services, carries on business or is employed as a regulated legal practitioner;
->   - (3) the legal practitioner's involvement must not impair, and must not be in conflict with, the legal practitioner's duties in the law practice or to any client of that law practice;
->   - (4) the entity's files, records and accounts must be kept separate from and independent of the law practice's;
->   - (5) where a client of the law practice deals with or is referred to the entity, the legal practitioner must make full and frank disclosure to the client of
->     - (a) the relationship between the entity and the law practice and each legal practitioner in it with an interest in the entity,
->     - (b) their financial or other interests in the entity, and
->     - (c) that the statutory protection for clients of a law practice, including compulsory professional indemnity insurance and the Compensation Fund, may not be available to the entity's customers;
->   - (6) the law practice's client account and other client-money accounts must not hold money for the entity or its customers;
->   - (7) the entity's accounts must not hold money for the law practice or its clients; and
->   - (8) the entity must conduct its business at an address separate and distinct from the law practice's, though both may be in the same building and a registered office address alone does not count.
-> - Rule 34(6)(b) states that, except as provided in paragraphs (2) to (5), a legal practitioner must not accept any executive appointment in a business entity, and r 34(7) states that nothing in the rule prohibits any appointment in a Third Schedule institution (the Society, the Academy, the Institute, NUS, SMU, SUSS and any registered charity).
-> - Rule 34(9) defines "executive appointment" as a position associated with a business, or in a business entity or Singapore law practice, which entitles the holder of the position to perform executive functions in relation to it, but excluding any non-executive director or independent director; "business" includes any business, trade or calling in Singapore or elsewhere, whether or not for profit, but excludes the practice of law.
-> - Rule 38 PCR states that a legal practitioner or law practice must not engage in any business, trade or calling which
->   - (a) derogates from the dignity of the legal profession;
->   - (b) is likely to unfairly attract business in the practice of law; or
->   - (c) is prohibited by the Act, the Rules or other subsidiary legislation, or the practice directions, guidance notes and rulings of the Council or the Society.
-> - Section 83(2)(i) LPA makes it due cause that an advocate and solicitor carries on by himself or herself, or any person in his or her employment, any trade, business or calling that detracts from the profession of law or is in any way incompatible with it, or is employed in any such trade, business or calling.
-
-**P** PD 3.8.1 states that (A) an executive partnership or executive directorship in an employment agency, firm or company may transgress s 83(2)(i) LPA; (B) a solicitor may properly be appointed company secretary for consideration, but acting for an external corporate secretarial firm's clients is the practice of law and must be done through the solicitor's law practice, with prior approval, and the resulting conflicts managed; (C) carrying on the business of a housing agent in tandem with practice is incompatible with the profession; and (D) a solicitor who in the course of practice agrees a finder's commission for securing a buyer or seller does not necessarily detract from the profession, but loses that benefit if he or she then acts in the conveyance, and being an estate agent in tandem with practice remains prohibited. **A** Executive or not: here [Lawyer] is [director and shareholder] of [a café] but takes no part in its operations. If the role is non-executive, it is not an "executive appointment" under r 34(9) and r 34 is not engaged. If executive, test r 34(1): a café does not detract from the profession (a), [does not materially interfere with practice] (b), does not attract legal work (c), and involves no fee-sharing (d) or First Schedule business (e). Then r 34(4) and the Second Schedule: separate premises, records and accounts, no holding out as a law practice, and disclosure to any firm client referred to it. Contrast a business that feeds legal work to the firm (r 34(1)(c)), an estate agency or a debt collection business (First Schedule; PD 3.8.1). **C** [Lawyer]'s role [is / is not] permissible [, subject to the Second Schedule].
-
-*Source note: r 34(1) PCR p54; r 34(3)–(4) PCR p55; r 34(6)–(7), (9) PCR p56; r 38 PCR p60; First Schedule PCR p70; Second Schedule paras 1–8 PCR pp70–72; Third and Fourth Schedules PCR p72; s 83(2)(i) LPA p218–219; PD 3.8.1 Parts A–B p1, Parts C–D pp2–3; L8 p24–29, p32. Tested PS3 Q2.*
-
 ### eth-w-0-64 — Supervising practice trainees
 *Keywords: practice trainee, supervision, r 32, supervising solicitor, eligible supervisor, unauthorised person, s 32 LPA, s 33 LPA, s 77 LPA, appear in court, watching brief, PD 3.9.2, Lun Yaodong, substantive work, r 36 non-examinable*
 
@@ -1950,9 +2011,68 @@ that they are lawyers (PD 3.5.2).
 
 *Source note: r 33(1)–(2) PCR p53; r 33(3)–(4) PCR p54; PD 3.5.2 p1; s 75D LPA p202; s 33(1)(b) LPA p93; r 33(1) L8 p22; summary Cyril §V.2 (secondary).*
 
+### eth-w-0-28 — Executive appointments and outside businesses
+*Keywords: executive appointment, director, business, r 34, First Schedule, Second Schedule, Third Schedule, Fourth Schedule, law-related services, non-executive director, independent director, r 38, s 83(2)(i) LPA, detracts from profession, estate agent, housing agent, debt collection, company secretary, PD 3.8.1*
+
+**I** The issue is whether [Lawyer] may hold [role] in [business]. **C** [Lawyer] [may / may not] hold the role, because r 34(1) PCR forbids a legal practitioner to accept an executive appointment associated with a prohibited business [and r 34(4) PCR allows one in a non-legal business only if every Second Schedule condition is met].
+**R** A lawyer must not accept an executive appointment in a
+business that detracts from or is incompatible with the dignity of the profession, that
+materially interferes with their practice, availability to clients or representation of
+clients, that is likely to unfairly attract legal business, or that shares fees with
+unauthorised persons (r 34(1)(a)–(d) PCR). An appointment in a business that provides no
+legal services is allowed if the Second Schedule conditions are met (r 34(4) PCR). An
+"executive appointment" excludes non-executive and independent directorships (r 34(9)
+PCR). Carrying on a business that detracts from the profession is due cause for
+discipline (s 83(2)(i) Legal Profession Act 1966).
+
+> **Rule in full**
+> - Rule 34(1) PCR applies, which states that a legal practitioner must not accept any executive appointment associated with any of the following businesses:
+>   - (a) any business which detracts from, is incompatible with, or derogates from the dignity of, the legal profession;
+>   - (b) any business which materially interferes with
+>     - (i) the legal practitioner's primary occupation of practising as a lawyer;
+>     - (ii) the legal practitioner's availability to those who may seek the legal practitioner's services as a lawyer; or
+>     - (iii) the representation of the legal practitioner's clients;
+>   - (c) any business which is likely to unfairly attract business in the practice of law;
+>   - (d) any business which involves the sharing of the legal practitioner's fees with, or the payment of a commission to, any unauthorised person for legal work performed by the legal practitioner;
+>   - (e) any business set out in the First Schedule, which lists a housing or estate agency business and a debt collection business; or
+>   - (f) any business which is prohibited by the Act, the Rules or other subsidiary legislation made under the Act, or any practice directions, guidance notes and rulings issued under s 71(6) of the Act or by the Council or the Society.
+> - Rule 34(3) states that, subject to paragraph (1), a legal practitioner may accept an executive appointment in a business entity which provides law-related services, which the Fourth Schedule lists as intellectual property, tax, trust business, company secretarial and Catalist continuing sponsor services.
+> - Rule 34(4) states that, subject to paragraph (1), a legal practitioner (not being a locum solicitor) may accept an executive appointment in a business entity which does not provide any legal services or law-related services, if all of the conditions set out in the Second Schedule are satisfied. Those conditions are that
+>   - (1) the business must not jeopardise the professional integrity, independence or competence of the legal practitioner, and must not detract from the standing and dignity of the legal profession;
+>   - (2) the entity must not be held out or described so as to suggest that it is a law practice, or that any legal practitioner in it provides services, carries on business or is employed as a regulated legal practitioner;
+>   - (3) the legal practitioner's involvement must not impair, and must not be in conflict with, the legal practitioner's duties in the law practice or to any client of that law practice;
+>   - (4) the entity's files, records and accounts must be kept separate from and independent of the law practice's;
+>   - (5) where a client of the law practice deals with or is referred to the entity, the legal practitioner must make full and frank disclosure to the client of
+>     - (a) the relationship between the entity and the law practice and each legal practitioner in it with an interest in the entity,
+>     - (b) their financial or other interests in the entity, and
+>     - (c) that the statutory protection for clients of a law practice, including compulsory professional indemnity insurance and the Compensation Fund, may not be available to the entity's customers;
+>   - (6) the law practice's client account and other client-money accounts must not hold money for the entity or its customers;
+>   - (7) the entity's accounts must not hold money for the law practice or its clients; and
+>   - (8) the entity must conduct its business at an address separate and distinct from the law practice's, though both may be in the same building and a registered office address alone does not count.
+> - Rule 34(6)(b) states that, except as provided in paragraphs (2) to (5), a legal practitioner must not accept any executive appointment in a business entity, and r 34(7) states that nothing in the rule prohibits any appointment in a Third Schedule institution (the Society, the Academy, the Institute, NUS, SMU, SUSS and any registered charity).
+> - Rule 34(9) defines "executive appointment" as a position associated with a business, or in a business entity or Singapore law practice, which entitles the holder of the position to perform executive functions in relation to it, but excluding any non-executive director or independent director; "business" includes any business, trade or calling in Singapore or elsewhere, whether or not for profit, but excludes the practice of law.
+> - Rule 38 PCR states that a legal practitioner or law practice must not engage in any business, trade or calling which
+>   - (a) derogates from the dignity of the legal profession;
+>   - (b) is likely to unfairly attract business in the practice of law; or
+>   - (c) is prohibited by the Act, the Rules or other subsidiary legislation, or the practice directions, guidance notes and rulings of the Council or the Society.
+> - Section 83(2)(i) LPA makes it due cause that an advocate and solicitor carries on by himself or herself, or any person in his or her employment, any trade, business or calling that detracts from the profession of law or is in any way incompatible with it, or is employed in any such trade, business or calling.
+
+**P** PD 3.8.1 states that (A) an executive partnership or executive directorship in an employment agency, firm or company may transgress s 83(2)(i) LPA; (B) a solicitor may properly be appointed company secretary for consideration, but acting for an external corporate secretarial firm's clients is the practice of law and must be done through the solicitor's law practice, with prior approval, and the resulting conflicts managed; (C) carrying on the business of a housing agent in tandem with practice is incompatible with the profession; and (D) a solicitor who in the course of practice agrees a finder's commission for securing a buyer or seller does not necessarily detract from the profession, but loses that benefit if he or she then acts in the conveyance, and being an estate agent in tandem with practice remains prohibited. **A** Executive or not: here [Lawyer] is [director and shareholder] of [a café] but takes no part in its operations. If the role is non-executive, it is not an "executive appointment" under r 34(9) and r 34 is not engaged. If executive, test r 34(1): a café does not detract from the profession (a), [does not materially interfere with practice] (b), does not attract legal work (c), and involves no fee-sharing (d) or First Schedule business (e). Then r 34(4) and the Second Schedule: separate premises, records and accounts, no holding out as a law practice, and disclosure to any firm client referred to it. Contrast a business that feeds legal work to the firm (r 34(1)(c)), an estate agency or a debt collection business (First Schedule; PD 3.8.1). **C** [Lawyer]'s role [is / is not] permissible [, subject to the Second Schedule].
+
+*Source note: r 34(1) PCR p54; r 34(3)–(4) PCR p55; r 34(6)–(7), (9) PCR p56; r 38 PCR p60; First Schedule PCR p70; Second Schedule paras 1–8 PCR pp70–72; Third and Fourth Schedules PCR p72; s 83(2)(i) LPA p218–219; PD 3.8.1 Parts A–B p1, Parts C–D pp2–3; L8 p24–29, p32. Tested PS3 Q2.*
+
 ---
 
-## Publicity and touting
+## VI. Publicity and touting
+- **Is the publicity permitted?**
+  - Expertise claims, past clients, success rates, comparisons with other lawyers (r 43) → [0-29](#eth-w-0-29)
+  - Lawyer responsible for an agency's ads; must withdraw improper publicity (r 42) → [0-29](#eth-w-0-29)
+  - Misleading, unverifiable, undignified, unjustified expectations (r 44) → [0-30](#eth-w-0-30)
+  - Good causes, third-party publicity, free advice clinics, publicity abroad (r 45–49) → [0-66](#eth-w-0-66)
+- **Is the lawyer getting work improperly?**
+  - Touting (r 39(1)); rewarding a referrer, incl. discounts for reviews (r 39(2)(b), s 83(2)(d)–(e) LPA) → [0-31](#eth-w-0-31)
+  - Conveyancing referral agreement (r 40) → [0-67](#eth-w-0-67)
+  - Prohibited business (r 38) → [0-28](#eth-w-0-28)
 
 ### eth-w-0-29 — Publicity: expertise, past clients, success rates, comparisons
 *Keywords: publicity, advertising, r 43, r 43(1), r 43(2), expertise, specialisation, success rate, 99%, comparison, criticism of other lawyers, "best of the best", "unlike other lawyers", past clients, confidentiality, judicial appointment, r 43(3), r 42, advertising agency, PD 6.2.1, TV commercial, complimentary advertising*
@@ -2022,43 +2142,6 @@ unjustified expectation about results (r 44(2)(a)–(d) PCR).
 
 *Source note: r 37 PCR p60; r 42 PCR p63; r 44 PCR p65–66, L9 p9–10; PD 6.2.1 Parts B, D p1–2; PD 6.2.2 Parts A, C p1. Tested PYP23 Q2.3, PS3 Q3.*
 
-### eth-w-0-31 — Touting; rewarding referrers and reviews
-*Keywords: touting, r 39, r 39(1), r 39(2), referral, referror, commission, consideration, discount for review, gift vouchers, s 83(2)(d), s 83(2)(e), s 83(2)(f), procuring employment, r 43(4), online referral scheme, GN 6.1.1, hyperlink, PD 6.1.2, flyers, direct solicitation, PD 6.2.2, Chong Wai Yen Michael, Wong Keng Leong Rayney, Yap Kok Kiong, Lillian Bay, Udeh Kumar, Lee Cheong Hoh*
-
-**I** The issue is whether [arrangement] amounts to touting or rewarding a referrer. **C** [Lawyer] breached r 39(2)(b) PCR, which forbids a legal practitioner to reward a referror by any commission or other form of consideration [, and r 39(1), which forbids touting].
-**R** A lawyer must
-not tout, or do anything likely to lead to a reasonable inference of touting (r 39(1)
-PCR). Where a client is referred, the lawyer must not reward the referrer by any commission
-or other consideration, must advise independently, and must communicate directly with the
-client (r 39(2)(b), (d), (g) PCR). Due cause for discipline includes giving or allowing the
-retention, out of a fee, of any gratification for procuring legal business (s 83(2)(d)
-LPA) or procuring employment through a person paid for it (s 83(2)(e) LPA).
-
-> **Rule in full**
-> - Rule 39(1) PCR applies, which states that a legal practitioner or law practice must not tout for business or do anything which is likely to lead to a reasonable inference that it was done for the purpose of touting.
-> - Rule 39(2) states that, without prejudice to paragraph (1), where there is reason to believe that a client is referred by any other person, the legal practitioner or law practice
->   - (a) must maintain the independence and integrity of the profession by not permitting the referror to undermine its professional independence;
->   - (b) must not reward the referror by the payment of any commission or other form of consideration;
->   - (c) must not allow the referral to affect in any way the advice given to the client;
->   - (d) must advise the client impartially and independently;
->   - (e) must ensure that any wish to avoid offending the referror does not affect the advice;
->   - (f) must ensure that the referror does not influence any decision on the nature, style or extent of its practice; and
->   - (g) must communicate directly with the client to obtain or confirm instructions when providing advice and at all appropriate stages of the transaction.
-> - Rule 43(4) states that the Rules do not permit anything which may reasonably be regarded as touting.
-> - Section 83(2) LPA states that due cause is shown where an advocate and solicitor
->   - (d) has tendered or given or consented to retention, out of any fee payable for his or her services, of any gratification for having procured the employment in any legal business of himself or herself or any other advocate and solicitor;
->   - (e) has, directly or indirectly, procured or attempted to procure the employment of himself or herself or any advocate and solicitor through or by the instruction of any person to whom any remuneration for obtaining such employment has been given by him or her or agreed or promised to be so given; or
->   - (f) has accepted employment in any legal business through a person proclaimed a tout under any written law.
-> - GN 6.1.1 paras 35–37 state that taking part in an Internet referral scheme which requires the practice to pay a fee or share fees for work referred breaches the LPA; that even where no fee is paid, taking part in an online introduction or referral service in a way that unfairly attracts work is improper under s 83(2)(b) or (h) LPA; and that demanding a referral fee from another practice for merely referring work is improper "brokering".
-> - PD 6.1.2 states that third-party websites, such as property agents', may hyperlink to a law practice's website provided there is no form of financial arrangement between them, and the hyperlink's description must not suggest that the third party can give legal advice, that the practice was formed by it, or that the viewer must use the practice exclusively.
-> - PD 6.2.2 Part A states that distributing flyers to the public in public places may reasonably be regarded as touting under r 43(4) unless the recipients asked for them, and that direct, in-person solicitation breaches r 39(1).
-
-**P** Paying gratification to a company that procured conveyancing work through referral fees to estate agents is serious misconduct (*Law Society of Singapore v Chong Wai Yen Michael* [2012] 2 SLR 113). An agreement to pay a referral fee is in substance no different from touting for future work (*Wong Keng Leong Rayney v Law Society of Singapore* [2006] 4 SLR(R) 934). Gift vouchers sent to estate agents who referred clients were improper (*Law Society of Singapore v Yap Kok Kiong* [2006] SGDSC 14), as was paying an employee 10% of fees on files he brought in (*Law Society of Singapore v Lee Cheong Hoh* [2001] 1 SLR(R) 197). It is no defence that the "referror" was an investigator in a sting operation (*Law Society of Singapore v Lillian Bay Puay Joo* [2008] 2 SLR(R) 316). A lawyer must communicate directly with a referred client (*Law Society of Singapore v Udeh Kumar s/o Sethuraju* [2013] 3 SLR 875).
-
-**A** First, is there a referral? Here [the contact / client] [referred the matter / is asked to share the website and post a review to bring in new clients]. Second, is the referror rewarded? A [5% payment to the contact / 5% fee discount / gift voucher] is a commission or "other form of consideration" under r 39(2)(b); a discount is also arguably a gratification retained out of the lawyer's fee under s 83(2)(d), given to procure further work. A paid review is also unverifiable and misleading publicity under r 44(2). Third, check the other r 39(2) duties: did [Lawyer] advise independently and communicate directly with the client (r 39(2)(d), (g))? Fourth, for a website link, is there any financial arrangement (PD 6.1.2)? **C** The arrangement breaches r 39(2)(b) and s 83(2)(d)[–(e)] LPA and must be ended.
-
-*Source note: r 39 PCR p61–62, L9 p17; r 43(4) PCR p65; s 83(2)(d)–(f) LPA p218, L9 p23; GN 6.1.1 paras 33–37 p4; PD 6.1.2 p1, L9 p19; PD 6.2.2 Part A p1; Chong Wai Yen Michael, Wong Keng Leong Rayney, Lillian Bay, Lee Cheong Hoh, Udeh Kumar 2013 SYL p11; case summaries L9 p20–21 (Yap Kok Kiong only in L9 p21, not SYL); Lee Cheong Hoh facts Cyril §VI.2.2 (secondary). Tested PYP21 Q3.5, PS3 Q2.*
-
 ### eth-w-0-66 — Good causes, third-party publicity, free advice and publicity abroad: r 45–49
 *Keywords: good cause, donation, sponsorship, r 45, acknowledgment, scholarship, prize, registered charity, third-party publicity, r 46, free legal advice, legal clinic, r 47, business cards, brochures, pro bono, publicity outside Singapore, r 48, r 49, jurisdiction, incidental receipt, PD 6.2.4, public appearances, seminars, non-legal publications, r 37*
 
@@ -2100,6 +2183,43 @@ qualifications (PD 6.2.4).
 
 *Source note: r 37 PCR p60; r 45–49 PCR p66–68, L9 p12–15; PD 6.2.4 Parts A–C p1; summary Cyril §VI.1.9–1.14 (secondary).*
 
+### eth-w-0-31 — Touting; rewarding referrers and reviews
+*Keywords: touting, r 39, r 39(1), r 39(2), referral, referror, commission, consideration, discount for review, gift vouchers, s 83(2)(d), s 83(2)(e), s 83(2)(f), procuring employment, r 43(4), online referral scheme, GN 6.1.1, hyperlink, PD 6.1.2, flyers, direct solicitation, PD 6.2.2, Chong Wai Yen Michael, Wong Keng Leong Rayney, Yap Kok Kiong, Lillian Bay, Udeh Kumar, Lee Cheong Hoh*
+
+**I** The issue is whether [arrangement] amounts to touting or rewarding a referrer. **C** [Lawyer] breached r 39(2)(b) PCR, which forbids a legal practitioner to reward a referror by any commission or other form of consideration [, and r 39(1), which forbids touting].
+**R** A lawyer must
+not tout, or do anything likely to lead to a reasonable inference of touting (r 39(1)
+PCR). Where a client is referred, the lawyer must not reward the referrer by any commission
+or other consideration, must advise independently, and must communicate directly with the
+client (r 39(2)(b), (d), (g) PCR). Due cause for discipline includes giving or allowing the
+retention, out of a fee, of any gratification for procuring legal business (s 83(2)(d)
+LPA) or procuring employment through a person paid for it (s 83(2)(e) LPA).
+
+> **Rule in full**
+> - Rule 39(1) PCR applies, which states that a legal practitioner or law practice must not tout for business or do anything which is likely to lead to a reasonable inference that it was done for the purpose of touting.
+> - Rule 39(2) states that, without prejudice to paragraph (1), where there is reason to believe that a client is referred by any other person, the legal practitioner or law practice
+>   - (a) must maintain the independence and integrity of the profession by not permitting the referror to undermine its professional independence;
+>   - (b) must not reward the referror by the payment of any commission or other form of consideration;
+>   - (c) must not allow the referral to affect in any way the advice given to the client;
+>   - (d) must advise the client impartially and independently;
+>   - (e) must ensure that any wish to avoid offending the referror does not affect the advice;
+>   - (f) must ensure that the referror does not influence any decision on the nature, style or extent of its practice; and
+>   - (g) must communicate directly with the client to obtain or confirm instructions when providing advice and at all appropriate stages of the transaction.
+> - Rule 43(4) states that the Rules do not permit anything which may reasonably be regarded as touting.
+> - Section 83(2) LPA states that due cause is shown where an advocate and solicitor
+>   - (d) has tendered or given or consented to retention, out of any fee payable for his or her services, of any gratification for having procured the employment in any legal business of himself or herself or any other advocate and solicitor;
+>   - (e) has, directly or indirectly, procured or attempted to procure the employment of himself or herself or any advocate and solicitor through or by the instruction of any person to whom any remuneration for obtaining such employment has been given by him or her or agreed or promised to be so given; or
+>   - (f) has accepted employment in any legal business through a person proclaimed a tout under any written law.
+> - GN 6.1.1 paras 35–37 state that taking part in an Internet referral scheme which requires the practice to pay a fee or share fees for work referred breaches the LPA; that even where no fee is paid, taking part in an online introduction or referral service in a way that unfairly attracts work is improper under s 83(2)(b) or (h) LPA; and that demanding a referral fee from another practice for merely referring work is improper "brokering".
+> - PD 6.1.2 states that third-party websites, such as property agents', may hyperlink to a law practice's website provided there is no form of financial arrangement between them, and the hyperlink's description must not suggest that the third party can give legal advice, that the practice was formed by it, or that the viewer must use the practice exclusively.
+> - PD 6.2.2 Part A states that distributing flyers to the public in public places may reasonably be regarded as touting under r 43(4) unless the recipients asked for them, and that direct, in-person solicitation breaches r 39(1).
+
+**P** Paying gratification to a company that procured conveyancing work through referral fees to estate agents is serious misconduct (*Law Society of Singapore v Chong Wai Yen Michael* [2012] 2 SLR 113). An agreement to pay a referral fee is in substance no different from touting for future work (*Wong Keng Leong Rayney v Law Society of Singapore* [2006] 4 SLR(R) 934). Gift vouchers sent to estate agents who referred clients were improper (*Law Society of Singapore v Yap Kok Kiong* [2006] SGDSC 14), as was paying an employee 10% of fees on files he brought in (*Law Society of Singapore v Lee Cheong Hoh* [2001] 1 SLR(R) 197). It is no defence that the "referror" was an investigator in a sting operation (*Law Society of Singapore v Lillian Bay Puay Joo* [2008] 2 SLR(R) 316). A lawyer must communicate directly with a referred client (*Law Society of Singapore v Udeh Kumar s/o Sethuraju* [2013] 3 SLR 875).
+
+**A** First, is there a referral? Here [the contact / client] [referred the matter / is asked to share the website and post a review to bring in new clients]. Second, is the referror rewarded? A [5% payment to the contact / 5% fee discount / gift voucher] is a commission or "other form of consideration" under r 39(2)(b); a discount is also arguably a gratification retained out of the lawyer's fee under s 83(2)(d), given to procure further work. A paid review is also unverifiable and misleading publicity under r 44(2). Third, check the other r 39(2) duties: did [Lawyer] advise independently and communicate directly with the client (r 39(2)(d), (g))? Fourth, for a website link, is there any financial arrangement (PD 6.1.2)? **C** The arrangement breaches r 39(2)(b) and s 83(2)(d)[–(e)] LPA and must be ended.
+
+*Source note: r 39 PCR p61–62, L9 p17; r 43(4) PCR p65; s 83(2)(d)–(f) LPA p218, L9 p23; GN 6.1.1 paras 33–37 p4; PD 6.1.2 p1, L9 p19; PD 6.2.2 Part A p1; Chong Wai Yen Michael, Wong Keng Leong Rayney, Lillian Bay, Lee Cheong Hoh, Udeh Kumar 2013 SYL p11; case summaries L9 p20–21 (Yap Kok Kiong only in L9 p21, not SYL); Lee Cheong Hoh facts Cyril §VI.2.2 (secondary). Tested PYP21 Q3.5, PS3 Q2.*
+
 ### eth-w-0-67 — Conveyancing referral agreements: r 40
 *Keywords: referral agreement, conveyancing, r 40, in writing, referror undertakes, terminate, must terminate, no further referrals, free conveyancing, property agent, bank, client's choice of lawyer, r 39, motor accident referrals, PD 7.4.3 Part D, Chong Wai Yen Michael, Wong Keng Leong Rayney*
 
@@ -2139,99 +2259,21 @@ referrals (r 40(2)–(3) PCR).
 
 ---
 
-## Fees and client money
-
-### eth-w-0-32 — Overcharging; fixed and non-refundable fees
-*Keywords: overcharging, r 17(7), r 17(8), reasonable legal practitioner in good faith, standing and experience, fixed fee, agreed fee, gross sum, non-refundable deposit, disproportionate, PD 5.2.2, s 111 LPA, s 113 LPA, unfair or unreasonable, declared void, reopen agreement, Syn Kok Kay, Ang Chin Peng, Low Yong Sen*
-
-**I** The issue is whether the agreed fee of [$X] amounts to overcharging. **C** [Lawyer] [breached / would breach] r 17(7) PCR, which forbids charging a fee that constitutes overcharging even if a fee agreement permits it.
-**R** A lawyer must charge fairly (r 17(1) PCR) and must not charge
-a fee that is overcharging even if a fee agreement permits it (r 17(7) PCR). There is
-overcharging if a reasonable lawyer could not in good faith charge the amount, given the
-lawyer's standing and experience, the nature of the work, the time needed, the client's
-instructions and other circumstances (r 17(8) PCR).
-
-> **Rule in full**
-> - Rule 17(7) PCR applies, which states that a legal practitioner must not charge any fee or disbursements, or render a bill (whether or not subject to assessment) for an amount, which constitutes overcharging, even if there is a fee agreement that permits the charging of the fee, disbursements or amount.
-> - Rule 17(8) states that there is overcharging if a reasonable legal practitioner cannot in good faith charge the fee, disbursements or amount, taking into account all of
->   - (a) the legal practitioner's standing and experience;
->   - (b) the nature of the legal work concerned;
->   - (c) the time necessary to undertake the legal work;
->   - (d) the instructions and requirements of the client concerned; and
->   - (e) any other relevant circumstances.
-> - The guiding principle is that a lawyer must act in the client's best interests and charge the client fairly for work done (r 17(1)).
-> - Section 111(1) LPA allows a solicitor to make an agreement in writing with a client on the amount and manner of payment of costs for contentious business, by a gross sum or otherwise, at the same rate as, or a greater or lesser rate than, the solicitor would otherwise be entitled to; s 111(2) requires it to be signed by the client and makes it subject to Part 8.
-> - Under s 113, every question on the agreement's validity or effect may be examined and determined, and the agreement enforced or set aside, on application to the court (s 113(2)); it may be enforced if it is in all respects fair and reasonable (s 113(3)); if its terms are deemed unfair or unreasonable, it may be declared void (s 113(4)) and the costs assessed as if there were no agreement (s 113(5)); and within 12 months after payment the court may, if special circumstances require it, reopen the agreement, order assessment and order the whole or part of the amount received to be repaid (s 113(7)).
-> - PD 5.2.2 Part A states that s 111 does not give solicitors a carte blanche to agree an unreasonable fee, and that overcharging, whether in a bill of costs or otherwise, may amount to professional misconduct; Part B states that a lawyer is not, in all cases, entitled to keep fees collected as a non-refundable deposit or retainer irrespective of the amount of work done, even if the client agreed, and that members must comply with ss 111–113.
-
-**P** A fee agreement does not end the inquiry into whether the amount charged is fair; a fee fixed as a percentage of the estate's value, with no correlation to the complexity of the matter, time spent or documents prepared, was overcharging (*Law Society of Singapore v Ang Chin Peng* [2013] 1 SLR 946). Overcharging hidden by billing through an apparently independent conveyancing secretary connected to the lawyer's brother was misconduct (*Law Society of Singapore v Low Yong Sen* [2009] 1 SLR(R) 802). In assessing gravity the court considers (a) the extent of the overcharging, by quantum and disproportionality; (b) the solicitor's intention during the period of overcharging; (c) the solicitor's conduct after the overcharging; and (d) other offender-specific aggravating and mitigating factors, such as seniority, antecedents, dishonesty, restitution and willingness to offer the bill for assessment (*Law Society of Singapore v Syn Kok Kay* [2023] SGHC 7 at [38], discussed at [28]–[37]); there a $1.34m bill taxed down to $288,000 led to three years' suspension for the overcharging (at [52]).
-
-**A** Here the fee of [$4m] is [two thirds] of the [$6m] claim, payable in full even if the case settles early. Walk through r 17(8): (a) [Lawyer] is [a senior partner / a junior], which [may / cannot] justify a premium; (b) the work is [a straightforward claim for the price of goods]; (c) the time needed is [modest, and nil if it settles early]; (d) the client [asked only for prompt recovery / required senior counsel and urgent work]; and (e) [other circumstances]. Unless complexity, seniority or the client's requirements justify it, no reasonable lawyer could charge this in good faith. Being an agreed gross sum under s 111 does not save it: the court may declare it void as unfair or unreasonable under s 113(4) and order assessment, and under PD 5.2.2 Part B a "non-refundable" fee may not be kept regardless of work done. **C** The term [breaches / risks breaching] r 17(7); the fee should be tied to work done or reduced.
-
-*Source note: r 17(1), (7)–(8) PCR p31, p33, L10 p39–40; s 111 LPA p270; s 113(2)–(7) LPA p271–272; PD 5.2.2 Parts A–B p1; Ang Chin Peng and Low Yong Sen SYL p12, facts Cyril Master Notes §VII.4.5 (secondary); Syn Kok Kay SYL p12, gravity factors [38] and outcome [52] read from the judgment on eLitigation (3 Nov 2026). Tested PYP21 Q3.1.*
-
-### eth-w-0-33 — Contingency and success fees
-*Keywords: contingency fee, success fee, bonus, uplift fee, r 18, s 107(1)(b) LPA, payment only in the event of success, interest in the subject matter, proportionate to amount recovered, champerty, maintenance, s 107(3) LPA, conditional fee agreement, r 18A, s 115A, s 115B, prescribed proceedings, GN 5.6.1, PD 5.2.1, party and party costs, Kurubalan, Lau See Jin Jeffrey, Legis Point, impecunious client, equity in lieu of fees, shares in lieu of fees, PD 5.1.1, shares as security, no win less fee, discount if the case is lost, discount on conviction, criminal fees*
-
-**I** The issue is whether the [success bonus / percentage fee] is a prohibited contingency fee. **C** The [bonus / percentage fee] breaches s 107(1)(b) LPA [and r 18 PCR], which prohibit an agreement for contentious proceedings that stipulates for or contemplates payment only in the event of success [and negotiating for remuneration proportionate to the amount the client recovers].
-**R** A solicitor must not enter an agreement for contentious
-proceedings that stipulates for or contemplates payment only in the event of success
-(s 107(1)(b) Legal Profession Act 1966), and must not negotiate for an interest in the subject
-matter or for remuneration proportionate to the amount the client recovers (r 18 PCR). The
-only exception is a conditional fee agreement complying with Part 8A, which may provide an
-"uplift fee" payable in specified circumstances (s 107(3AA), s 115A(1) LPA), but only in
-prescribed proceedings: arbitration, certain SICC proceedings and related court and mediation
-proceedings (GN 5.6.1 para 8).
-
-> **Rule in full**
-> - Section 107(1) of the Legal Profession Act 1966 applies, which states that a solicitor must not
->   - (a) purchase or agree to purchase the interest, or any part of the interest, of his or her client or of any party in any suit, action or other contentious proceeding brought or to be brought or maintained; or
->   - (b) enter into any agreement by which he or she is retained or employed to prosecute any suit or action or other contentious proceeding which stipulates for or contemplates payment only in the event of success in that suit, action or proceeding. Nothing in the Act gives validity to any such purchase or agreement (s 107(2)), and a solicitor is subject to the law of maintenance and champerty like any other person (s 107(3)).
-> - Rule 18 PCR states that a legal practitioner or law practice must not enter into any negotiations with a client
->   - (a) for an interest in the subject matter of litigation or of any other contentious proceedings; or
->   - (b) except to the extent permitted by any applicable scale of costs, for remuneration proportionate to the amount which may be recovered by the client in the proceedings.
-> - PD 5.2.1 Part C states that any fee arrangement providing for solicitor and client costs contingent on the amount of party and party costs recovered by the client breaches s 107 and r 18, because the solicitor would have an interest in the subject matter of the litigation.
-> - There is one statutory exception, which the syllabus marks non-examinable.
-> - Section 107(3AA) states that s 107 does not prevent a solicitor from entering into a conditional fee agreement that complies with Part 8A, and r 18A(1) states that rules 17 and 18 do not prevent entering into such an agreement or charging fees payable only in the circumstances it specifies; r 18A(2) keeps rules 17 and 18 applying in all other respects.
-> - A "conditional fee agreement" is an agreement on the remuneration and costs of contentious proceedings that provides for them, or part of them, to be payable only in specified circumstances, and may provide for an uplift fee (s 115A(1)); it may be made only in "prescribed proceedings" (s 115B(1)), which in broad terms are international and domestic arbitration, certain SICC proceedings, and court and mediation proceedings related to them (GN 5.6.1 para 8); it must be in writing and signed by the client, and must not provide for remuneration payable as a percentage or proportion of the damages or other amounts recovered (s 115B(4)(a)–(b)).
-> - GN 5.6.1 para 6 states that contingency fee agreements, where the lawyer takes an agreed percentage of the sum recovered, continue to be prohibited.
-> - GN 5.6.1 paras 11–13 state that a conditional fee agreement may be "no win, no fee" or "no win, less fee"; in a "no win, less fee" agreement, a discounted professional fee is payable if the specified circumstances are not met.
-> - PD 5.1.1 Part A(b)(i) states that a law practice cannot agree to accept equity in lieu of fees in a contentious matter where the agreement amounts to a contingency fee arrangement, and that an agreement where the acquiring of shares is contingent on the outcome of a contentious matter, or where the shares are themselves the subject matter of the litigation, amounts to a contingency fee arrangement under s 107 LPA; it also reminds members of s 107(3) on maintenance and champerty.
-> - PD 5.1.1 Part A(b)(iii) states that the law practice must not put its commercial interests above the client's interest, nor allow its judgement, objectivity and loyalty to the client to be compromised by its equity involvement, and that rules 20–22 PCR on conflicts should be carefully considered.
-
-**P** The traditional rationale is that such arrangements would tempt the champertous maintainer to subvert the course of justice, and effective representation needs the lawyer to keep enough detachment to discharge his duty to the court (*Law Society of Singapore v Kurubalan s/o Manickam Rengaraju* [2013] 4 SLR 91 at [42], [45]); there the agreement gave the lawyer 30% or 40% of the amount recovered (at [2]). It is permissible, and even honourable, to act for an impecunious client knowing that fees will likely be recovered only if the claim succeeds or a costs order is obtained (*Kurubalan* at [2]), provided the lawyer has examined the case and honestly concluded that there is a good cause of action or defence which, but for the client's impecuniosity, would likely be litigated. A fee of 20% of damages, rising to 25% if damages exceeded $5m, was a contingency fee; the court noted the lack of attendance notes and rejected a lower standard for small firms (*Law Society of Singapore v Lau See Jin Jeffrey* [2017] SGHC 30). Compare *Legis Point LLC v Tay Choon Ai* [2017] SGHC 325 at [51]–[56], where a cap of $28,000 on the firm's fees and disbursements applied whether the client won or lost, so fees were not payable only on success and the cap did not contravene s 107(1)(b) or r 18; the court contrasted an improper arrangement limiting fees to the costs recovered from the other side.
-
-**A** First, the matter is a [court suit], which is contentious proceedings. Second, the extra [$500,000] is payable only if [the suit is won / settles above $X], so that part of the agreement stipulates for payment only in the event of success under s 107(1)(b); a fixed base fee does not save the success element. Third, if the fee is [a percentage of the amount recovered], it is also remuneration proportionate to the recovery under r 18(b). Fourth, the conditional fee agreement exception does not apply: [an ordinary court suit is not prescribed proceedings / the agreement is a percentage of damages, which s 115B(4)(b) forbids]. Fifth, this is not the impecunious-client situation, because [the client can pay and the fee is expressly conditional on success]. A discount if the case is lost [or the accused is convicted after trial] is the same thing seen from the other side: it is the "no win, less fee" form that GN 5.6.1 paras 11–13 treat as a conditional fee agreement, so outside prescribed proceedings (and criminal proceedings never are) part of the fee is payable only on success, within s 107(1)(b). Shares: if [Lawyer] is to take [shares in the client's company] in lieu of fees, or as security, and [their acquisition depends on the outcome / the shares are the subject of the suit], PD 5.1.1 Part A(b)(i) treats that as a contingency fee arrangement, and the shareholding also engages r 22. **C** The bonus breaches s 107(1)(b) [and r 18(b)] and should be removed.
-
-*Source note: s 107 LPA p265–266; s 115A(1) LPA p275–276; s 115B(1), (4) LPA p276–277; r 18, r 18A PCR p34; PD 5.2.1 Part C p1; GN 5.6.1 paras 6, 8 and illustrations p1–2, paras 11–13 p2; PD 5.1.1 Part A(b)(i) p2, (iii) p3; Kurubalan L10 p45–47 (PD 5.2.1 cites it as [2013] SGHC 135), impecunious-client condition L10 p47; Lau See Jin Jeffrey L10 p48; Legis Point SYL p12 ("C.f."), holding [51]–[56] read from the judgment on eLitigation (3 Nov 2026; Cyril's "cap at party and party costs" gloss is wrong). SYL p13 marks r 18A conditional fee agreements non-examinable. No case decides a bonus on top of a fixed fee, or a discount payable on failure; the conclusion rests on s 107(1)(b), s 107(3AA), s 115B and GN 5.6.1. Tested PYP21 Q3.2, PYP18 Q1(b), PYP20 Q1(b), PYP20 Q2(c).*
-
-### eth-w-0-34 — Sharing fees with unauthorised persons
-*Keywords: fee sharing, r 19, unauthorised person, s 32(2) LPA, practising certificate, paralegal, GN 3.7.1, 50/50 split, commission, expired practising certificate, Tan See Leh Jonathan, debt collectors, PD 5.4.1, referral commission, r 39(2)(b)*
-
-**I** The issue is whether [Lawyer]'s arrangement with [X] shares fees with an unauthorised person. **C** [Lawyer] breached r 19(1) PCR, which forbids a lawyer to share fees with, or pay a commission to, any unauthorised person for legal work performed by the lawyer.
-**R** A lawyer or law practice must not
-share fees with, or pay a commission to, any unauthorised person for legal work performed
-by the lawyer or practice (r 19(1)–(2) PCR). An unauthorised person is anyone who is not on
-the roll with a current practising certificate, which includes paralegals (s 32(2) Legal
-Profession Act 1966; GN 3.7.1).
-
-> **Rule in full**
-> - Rule 19(1) PCR applies, which states that a legal practitioner must not share the legal practitioner's fees with, or pay a commission to, any unauthorised person for any legal work performed by the legal practitioner; r 19(2) imposes the same prohibition on a law practice. "Unauthorised person" has the meaning in s 32(2) LPA (r 2(1) PCR), which states that a person is an unauthorised person unless he or she is
->   - (a) a person whose name is on the roll of advocates and solicitors and who has in force a practising certificate; or
->   - (b) a person whose name is on the roll of lawyers (NP), who has in force a provisional practising certificate and who, when carrying out the act in question, is under the supervision of a solicitor.
-> - GN 3.7.1 paras 1–2 state that a "paralegal" includes a legal executive, legal secretary or legal clerk and any other employee who performs paralegal functions without a practising certificate, and that paralegals fall within the category of unauthorised persons.
-> - PD 5.4.1 states that lawyers and law practices are not to engage, directly or indirectly, the services of debt collectors (any person engaged in any business of collecting debts, or who regularly collects or attempts to collect debts owed to another) to recover outstanding legal fees and expenses, because
->   - (a) debt collectors may use abusive, deceptive and unfair practices and are not bound by professional standards;
->   - (b) their remuneration may breach the rules on fee sharing and commissions under r 19;
->   - (c) their use may breach confidentiality and derogate from the dignity and standing of the profession; and
->   - (d) lawyers owe fiduciary obligations to clients and the courts are the ultimate arbiters of the recovery of legal fees.
-> - Separately, r 39(2)(b) states that where there is reason to believe that a client was referred by any other person, the lawyer must not reward the referror by the payment of any commission or other form of consideration.
-
-**P** A lawyer who agreed to share about 50% of his fees with a paralegal whose practising certificate had lapsed, and who held himself out as a solicitor, committed serious misconduct: an unauthorised person who holds himself out commits an offence and cannot recover fees, the fee agreement facilitated the offences, and the law makes no distinction between types of unauthorised persons (*Law Society of Singapore v Tan See Leh Jonathan* [2020] SGHC 102).
-
-**A** First, is [X] an unauthorised person? [The paralegal is not on the roll with a current practising certificate / his certificate has lapsed], so yes. Second, is there sharing of fees or a commission? [Lawyer] and [X] split [50/50] the fees on [non-contentious matters]. Third, is it for legal work performed by the lawyer or practice? [The fees are the firm's professional fees for that work.] That [X] does the work makes it worse, not better, since it shows [X] is practising in substance. The further [5%] paid to the referrer is a commission to an unauthorised person under r 19 and a reward for a referral under r 39(2)(b). [If the firm passes overdue bills to a debt collector paid a percentage of recoveries, that breaches PD 5.4.1 and may breach r 19.] **C** [Lawyer] breached r 19(1) [and the firm r 19(2)], and the 5% to the referrer also breaches r 39(2)(b).
-
-*Source note: r 2(1) PCR p6; r 19 PCR p35; r 39(2)(b) PCR p61; s 32(2) LPA p92, L10 p52; GN 3.7.1 paras 1–2 p1; PD 5.4.1 p1, L10 p55; Tan See Leh Jonathan SYL p13, L10 p54. Tested PS3 Q2.*
+## VII. Fees and accounts
+- **Was the client told about fees?**
+  - Basis of charging, estimates, costs risks at the start (r 17(3)–(4)) → [0-70](#eth-w-0-70)
+  - Right to taxation or review of a bill or fee agreement (r 17(5)–(6), GN 7.1.1) → [0-70](#eth-w-0-70)
+- **Is the fee too high?**
+  - Overcharging (r 17(7)–(8)); non-refundable deposits (PD 5.2.2); agreement void if unfair (s 113 LPA) → [0-32](#eth-w-0-32)
+- **Does the fee depend on the result?**
+  - Payment only on success, percentage of recovery (s 107(1)(b) LPA, r 18) → [0-33](#eth-w-0-33)
+  - Costs capped at party-and-party costs recovered (PD 5.2.1 Part C); discount if the case is lost; shares in lieu of fees (PD 5.1.1) → [0-33](#eth-w-0-33)
+- **Are fees shared?**
+  - With an unauthorised person or debt collector (r 19, PD 5.4.1) → [0-34](#eth-w-0-34)
+- **Client money?**
+  - Pay into client account without delay; withdraw only as the LPSAR allow (r 16 PCR) → [0-68](#eth-w-0-68)
+- **Money laundering?**
+  - Customer due diligence, beneficial owners, PEPs, suspicious transaction reports (AML Rules) → [0-69](#eth-w-0-69)
 
 ### eth-w-0-68 — Client money and the Solicitors' Accounts Rules
 *Keywords: client money, client's money, client account, r 16 PCR, LPSAR, Solicitors' Accounts Rules, pay in without delay, r 3(1), r 6, r 9 exceptions, agreed fee, office account, r 7 withdrawal, bill of costs, two working days, PD 3.3.1, r 8, two signatories, $5,000, book-keeper, $30,000, 3 years' practice, records, monthly reconciliation, 6 years, GN 3.3.1, Dhanwant Singh, Yong Wei Kuen Paul, Tay Choon Leng John, Lim Tean, Tan Chwee Wan Allan, Zulkifli*
@@ -2414,3 +2456,95 @@ must explain that a larger amount may be claimed and allowed (r 17(6)).
 **A** On r 17(3), [Lawyer] [never told the client the hourly rate or how disbursements would be billed / gave an estimate of $X but billed $3X without telling the client in writing of changed circumstances]. On r 17(4), this was a contentious matter, and [Lawyer] [did not explain that the client pays her own costs in full regardless of any costs order, that she may pay the other side's costs if she loses, or that she may not recover full costs even if she wins]. On r 17(5), [client] [queried the bill]; [Lawyer] [threatened to sue instead of telling her in writing of her right to have it assessed or the fee agreement reviewed], and there is nothing to suggest she already knew of the right. If assessment follows, r 17(6) requires [Lawyer] to warn her that a larger amount may be claimed and allowed. **C** [Lawyer] breached r 17[(3) / (4) / (5)] and should now inform the client in writing of the right to assessment and seek to resolve the dispute by negotiation or mediation.
 
 *Source note: r 17(3)–(6) PCR p32–33, L10 p35–38; GN 7.1.1 paras 2–6 p1–2; Andre Ravindran at [32]–[33] quoted in GN 7.1.1 and L10 p37, SYL p12; summary Cyril Master Notes §VII.4.2–4.4 (secondary).*
+
+### eth-w-0-32 — Overcharging; fixed and non-refundable fees
+*Keywords: overcharging, r 17(7), r 17(8), reasonable legal practitioner in good faith, standing and experience, fixed fee, agreed fee, gross sum, non-refundable deposit, disproportionate, PD 5.2.2, s 111 LPA, s 113 LPA, unfair or unreasonable, declared void, reopen agreement, Syn Kok Kay, Ang Chin Peng, Low Yong Sen*
+
+**I** The issue is whether the agreed fee of [$X] amounts to overcharging. **C** [Lawyer] [breached / would breach] r 17(7) PCR, which forbids charging a fee that constitutes overcharging even if a fee agreement permits it.
+**R** A lawyer must charge fairly (r 17(1) PCR) and must not charge
+a fee that is overcharging even if a fee agreement permits it (r 17(7) PCR). There is
+overcharging if a reasonable lawyer could not in good faith charge the amount, given the
+lawyer's standing and experience, the nature of the work, the time needed, the client's
+instructions and other circumstances (r 17(8) PCR).
+
+> **Rule in full**
+> - Rule 17(7) PCR applies, which states that a legal practitioner must not charge any fee or disbursements, or render a bill (whether or not subject to assessment) for an amount, which constitutes overcharging, even if there is a fee agreement that permits the charging of the fee, disbursements or amount.
+> - Rule 17(8) states that there is overcharging if a reasonable legal practitioner cannot in good faith charge the fee, disbursements or amount, taking into account all of
+>   - (a) the legal practitioner's standing and experience;
+>   - (b) the nature of the legal work concerned;
+>   - (c) the time necessary to undertake the legal work;
+>   - (d) the instructions and requirements of the client concerned; and
+>   - (e) any other relevant circumstances.
+> - The guiding principle is that a lawyer must act in the client's best interests and charge the client fairly for work done (r 17(1)).
+> - Section 111(1) LPA allows a solicitor to make an agreement in writing with a client on the amount and manner of payment of costs for contentious business, by a gross sum or otherwise, at the same rate as, or a greater or lesser rate than, the solicitor would otherwise be entitled to; s 111(2) requires it to be signed by the client and makes it subject to Part 8.
+> - Under s 113, every question on the agreement's validity or effect may be examined and determined, and the agreement enforced or set aside, on application to the court (s 113(2)); it may be enforced if it is in all respects fair and reasonable (s 113(3)); if its terms are deemed unfair or unreasonable, it may be declared void (s 113(4)) and the costs assessed as if there were no agreement (s 113(5)); and within 12 months after payment the court may, if special circumstances require it, reopen the agreement, order assessment and order the whole or part of the amount received to be repaid (s 113(7)).
+> - PD 5.2.2 Part A states that s 111 does not give solicitors a carte blanche to agree an unreasonable fee, and that overcharging, whether in a bill of costs or otherwise, may amount to professional misconduct; Part B states that a lawyer is not, in all cases, entitled to keep fees collected as a non-refundable deposit or retainer irrespective of the amount of work done, even if the client agreed, and that members must comply with ss 111–113.
+
+**P** A fee agreement does not end the inquiry into whether the amount charged is fair; a fee fixed as a percentage of the estate's value, with no correlation to the complexity of the matter, time spent or documents prepared, was overcharging (*Law Society of Singapore v Ang Chin Peng* [2013] 1 SLR 946). Overcharging hidden by billing through an apparently independent conveyancing secretary connected to the lawyer's brother was misconduct (*Law Society of Singapore v Low Yong Sen* [2009] 1 SLR(R) 802). In assessing gravity the court considers (a) the extent of the overcharging, by quantum and disproportionality; (b) the solicitor's intention during the period of overcharging; (c) the solicitor's conduct after the overcharging; and (d) other offender-specific aggravating and mitigating factors, such as seniority, antecedents, dishonesty, restitution and willingness to offer the bill for assessment (*Law Society of Singapore v Syn Kok Kay* [2023] SGHC 7 at [38], discussed at [28]–[37]); there a $1.34m bill taxed down to $288,000 led to three years' suspension for the overcharging (at [52]).
+
+**A** Here the fee of [$4m] is [two thirds] of the [$6m] claim, payable in full even if the case settles early. Walk through r 17(8): (a) [Lawyer] is [a senior partner / a junior], which [may / cannot] justify a premium; (b) the work is [a straightforward claim for the price of goods]; (c) the time needed is [modest, and nil if it settles early]; (d) the client [asked only for prompt recovery / required senior counsel and urgent work]; and (e) [other circumstances]. Unless complexity, seniority or the client's requirements justify it, no reasonable lawyer could charge this in good faith. Being an agreed gross sum under s 111 does not save it: the court may declare it void as unfair or unreasonable under s 113(4) and order assessment, and under PD 5.2.2 Part B a "non-refundable" fee may not be kept regardless of work done. **C** The term [breaches / risks breaching] r 17(7); the fee should be tied to work done or reduced.
+
+*Source note: r 17(1), (7)–(8) PCR p31, p33, L10 p39–40; s 111 LPA p270; s 113(2)–(7) LPA p271–272; PD 5.2.2 Parts A–B p1; Ang Chin Peng and Low Yong Sen SYL p12, facts Cyril Master Notes §VII.4.5 (secondary); Syn Kok Kay SYL p12, gravity factors [38] and outcome [52] read from the judgment on eLitigation (3 Nov 2026). Tested PYP21 Q3.1.*
+
+### eth-w-0-33 — Contingency and success fees
+*Keywords: contingency fee, success fee, bonus, uplift fee, r 18, s 107(1)(b) LPA, payment only in the event of success, interest in the subject matter, proportionate to amount recovered, champerty, maintenance, s 107(3) LPA, conditional fee agreement, r 18A, s 115A, s 115B, prescribed proceedings, GN 5.6.1, PD 5.2.1, party and party costs, Kurubalan, Lau See Jin Jeffrey, Legis Point, impecunious client, equity in lieu of fees, shares in lieu of fees, PD 5.1.1, shares as security, no win less fee, discount if the case is lost, discount on conviction, criminal fees*
+
+**I** The issue is whether the [success bonus / percentage fee] is a prohibited contingency fee. **C** The [bonus / percentage fee] breaches s 107(1)(b) LPA [and r 18 PCR], which prohibit an agreement for contentious proceedings that stipulates for or contemplates payment only in the event of success [and negotiating for remuneration proportionate to the amount the client recovers].
+**R** A solicitor must not enter an agreement for contentious
+proceedings that stipulates for or contemplates payment only in the event of success
+(s 107(1)(b) Legal Profession Act 1966), and must not negotiate for an interest in the subject
+matter or for remuneration proportionate to the amount the client recovers (r 18 PCR). The
+only exception is a conditional fee agreement complying with Part 8A, which may provide an
+"uplift fee" payable in specified circumstances (s 107(3AA), s 115A(1) LPA), but only in
+prescribed proceedings: arbitration, certain SICC proceedings and related court and mediation
+proceedings (GN 5.6.1 para 8).
+
+> **Rule in full**
+> - Section 107(1) of the Legal Profession Act 1966 applies, which states that a solicitor must not
+>   - (a) purchase or agree to purchase the interest, or any part of the interest, of his or her client or of any party in any suit, action or other contentious proceeding brought or to be brought or maintained; or
+>   - (b) enter into any agreement by which he or she is retained or employed to prosecute any suit or action or other contentious proceeding which stipulates for or contemplates payment only in the event of success in that suit, action or proceeding. Nothing in the Act gives validity to any such purchase or agreement (s 107(2)), and a solicitor is subject to the law of maintenance and champerty like any other person (s 107(3)).
+> - Rule 18 PCR states that a legal practitioner or law practice must not enter into any negotiations with a client
+>   - (a) for an interest in the subject matter of litigation or of any other contentious proceedings; or
+>   - (b) except to the extent permitted by any applicable scale of costs, for remuneration proportionate to the amount which may be recovered by the client in the proceedings.
+> - PD 5.2.1 Part C states that any fee arrangement providing for solicitor and client costs contingent on the amount of party and party costs recovered by the client breaches s 107 and r 18, because the solicitor would have an interest in the subject matter of the litigation.
+> - There is one statutory exception, which the syllabus marks non-examinable.
+> - Section 107(3AA) states that s 107 does not prevent a solicitor from entering into a conditional fee agreement that complies with Part 8A, and r 18A(1) states that rules 17 and 18 do not prevent entering into such an agreement or charging fees payable only in the circumstances it specifies; r 18A(2) keeps rules 17 and 18 applying in all other respects.
+> - A "conditional fee agreement" is an agreement on the remuneration and costs of contentious proceedings that provides for them, or part of them, to be payable only in specified circumstances, and may provide for an uplift fee (s 115A(1)); it may be made only in "prescribed proceedings" (s 115B(1)), which in broad terms are international and domestic arbitration, certain SICC proceedings, and court and mediation proceedings related to them (GN 5.6.1 para 8); it must be in writing and signed by the client, and must not provide for remuneration payable as a percentage or proportion of the damages or other amounts recovered (s 115B(4)(a)–(b)).
+> - GN 5.6.1 para 6 states that contingency fee agreements, where the lawyer takes an agreed percentage of the sum recovered, continue to be prohibited.
+> - GN 5.6.1 paras 11–13 state that a conditional fee agreement may be "no win, no fee" or "no win, less fee"; in a "no win, less fee" agreement, a discounted professional fee is payable if the specified circumstances are not met.
+> - PD 5.1.1 Part A(b)(i) states that a law practice cannot agree to accept equity in lieu of fees in a contentious matter where the agreement amounts to a contingency fee arrangement, and that an agreement where the acquiring of shares is contingent on the outcome of a contentious matter, or where the shares are themselves the subject matter of the litigation, amounts to a contingency fee arrangement under s 107 LPA; it also reminds members of s 107(3) on maintenance and champerty.
+> - PD 5.1.1 Part A(b)(iii) states that the law practice must not put its commercial interests above the client's interest, nor allow its judgement, objectivity and loyalty to the client to be compromised by its equity involvement, and that rules 20–22 PCR on conflicts should be carefully considered.
+
+**P** The traditional rationale is that such arrangements would tempt the champertous maintainer to subvert the course of justice, and effective representation needs the lawyer to keep enough detachment to discharge his duty to the court (*Law Society of Singapore v Kurubalan s/o Manickam Rengaraju* [2013] 4 SLR 91 at [42], [45]); there the agreement gave the lawyer 30% or 40% of the amount recovered (at [2]). It is permissible, and even honourable, to act for an impecunious client knowing that fees will likely be recovered only if the claim succeeds or a costs order is obtained (*Kurubalan* at [2]), provided the lawyer has examined the case and honestly concluded that there is a good cause of action or defence which, but for the client's impecuniosity, would likely be litigated. A fee of 20% of damages, rising to 25% if damages exceeded $5m, was a contingency fee; the court noted the lack of attendance notes and rejected a lower standard for small firms (*Law Society of Singapore v Lau See Jin Jeffrey* [2017] SGHC 30). Compare *Legis Point LLC v Tay Choon Ai* [2017] SGHC 325 at [51]–[56], where a cap of $28,000 on the firm's fees and disbursements applied whether the client won or lost, so fees were not payable only on success and the cap did not contravene s 107(1)(b) or r 18; the court contrasted an improper arrangement limiting fees to the costs recovered from the other side.
+
+**A** First, the matter is a [court suit], which is contentious proceedings. Second, the extra [$500,000] is payable only if [the suit is won / settles above $X], so that part of the agreement stipulates for payment only in the event of success under s 107(1)(b); a fixed base fee does not save the success element. Third, if the fee is [a percentage of the amount recovered], it is also remuneration proportionate to the recovery under r 18(b). Fourth, the conditional fee agreement exception does not apply: [an ordinary court suit is not prescribed proceedings / the agreement is a percentage of damages, which s 115B(4)(b) forbids]. Fifth, this is not the impecunious-client situation, because [the client can pay and the fee is expressly conditional on success]. A discount if the case is lost [or the accused is convicted after trial] is the same thing seen from the other side: it is the "no win, less fee" form that GN 5.6.1 paras 11–13 treat as a conditional fee agreement, so outside prescribed proceedings (and criminal proceedings never are) part of the fee is payable only on success, within s 107(1)(b). Shares: if [Lawyer] is to take [shares in the client's company] in lieu of fees, or as security, and [their acquisition depends on the outcome / the shares are the subject of the suit], PD 5.1.1 Part A(b)(i) treats that as a contingency fee arrangement, and the shareholding also engages r 22. **C** The bonus breaches s 107(1)(b) [and r 18(b)] and should be removed.
+
+*Source note: s 107 LPA p265–266; s 115A(1) LPA p275–276; s 115B(1), (4) LPA p276–277; r 18, r 18A PCR p34; PD 5.2.1 Part C p1; GN 5.6.1 paras 6, 8 and illustrations p1–2, paras 11–13 p2; PD 5.1.1 Part A(b)(i) p2, (iii) p3; Kurubalan L10 p45–47 (PD 5.2.1 cites it as [2013] SGHC 135), impecunious-client condition L10 p47; Lau See Jin Jeffrey L10 p48; Legis Point SYL p12 ("C.f."), holding [51]–[56] read from the judgment on eLitigation (3 Nov 2026; Cyril's "cap at party and party costs" gloss is wrong). SYL p13 marks r 18A conditional fee agreements non-examinable. No case decides a bonus on top of a fixed fee, or a discount payable on failure; the conclusion rests on s 107(1)(b), s 107(3AA), s 115B and GN 5.6.1. Tested PYP21 Q3.2, PYP18 Q1(b), PYP20 Q1(b), PYP20 Q2(c).*
+
+### eth-w-0-34 — Sharing fees with unauthorised persons
+*Keywords: fee sharing, r 19, unauthorised person, s 32(2) LPA, practising certificate, paralegal, GN 3.7.1, 50/50 split, commission, expired practising certificate, Tan See Leh Jonathan, debt collectors, PD 5.4.1, referral commission, r 39(2)(b)*
+
+**I** The issue is whether [Lawyer]'s arrangement with [X] shares fees with an unauthorised person. **C** [Lawyer] breached r 19(1) PCR, which forbids a lawyer to share fees with, or pay a commission to, any unauthorised person for legal work performed by the lawyer.
+**R** A lawyer or law practice must not
+share fees with, or pay a commission to, any unauthorised person for legal work performed
+by the lawyer or practice (r 19(1)–(2) PCR). An unauthorised person is anyone who is not on
+the roll with a current practising certificate, which includes paralegals (s 32(2) Legal
+Profession Act 1966; GN 3.7.1).
+
+> **Rule in full**
+> - Rule 19(1) PCR applies, which states that a legal practitioner must not share the legal practitioner's fees with, or pay a commission to, any unauthorised person for any legal work performed by the legal practitioner; r 19(2) imposes the same prohibition on a law practice. "Unauthorised person" has the meaning in s 32(2) LPA (r 2(1) PCR), which states that a person is an unauthorised person unless he or she is
+>   - (a) a person whose name is on the roll of advocates and solicitors and who has in force a practising certificate; or
+>   - (b) a person whose name is on the roll of lawyers (NP), who has in force a provisional practising certificate and who, when carrying out the act in question, is under the supervision of a solicitor.
+> - GN 3.7.1 paras 1–2 state that a "paralegal" includes a legal executive, legal secretary or legal clerk and any other employee who performs paralegal functions without a practising certificate, and that paralegals fall within the category of unauthorised persons.
+> - PD 5.4.1 states that lawyers and law practices are not to engage, directly or indirectly, the services of debt collectors (any person engaged in any business of collecting debts, or who regularly collects or attempts to collect debts owed to another) to recover outstanding legal fees and expenses, because
+>   - (a) debt collectors may use abusive, deceptive and unfair practices and are not bound by professional standards;
+>   - (b) their remuneration may breach the rules on fee sharing and commissions under r 19;
+>   - (c) their use may breach confidentiality and derogate from the dignity and standing of the profession; and
+>   - (d) lawyers owe fiduciary obligations to clients and the courts are the ultimate arbiters of the recovery of legal fees.
+> - Separately, r 39(2)(b) states that where there is reason to believe that a client was referred by any other person, the lawyer must not reward the referror by the payment of any commission or other form of consideration.
+
+**P** A lawyer who agreed to share about 50% of his fees with a paralegal whose practising certificate had lapsed, and who held himself out as a solicitor, committed serious misconduct: an unauthorised person who holds himself out commits an offence and cannot recover fees, the fee agreement facilitated the offences, and the law makes no distinction between types of unauthorised persons (*Law Society of Singapore v Tan See Leh Jonathan* [2020] SGHC 102).
+
+**A** First, is [X] an unauthorised person? [The paralegal is not on the roll with a current practising certificate / his certificate has lapsed], so yes. Second, is there sharing of fees or a commission? [Lawyer] and [X] split [50/50] the fees on [non-contentious matters]. Third, is it for legal work performed by the lawyer or practice? [The fees are the firm's professional fees for that work.] That [X] does the work makes it worse, not better, since it shows [X] is practising in substance. The further [5%] paid to the referrer is a commission to an unauthorised person under r 19 and a reward for a referral under r 39(2)(b). [If the firm passes overdue bills to a debt collector paid a percentage of recoveries, that breaches PD 5.4.1 and may breach r 19.] **C** [Lawyer] breached r 19(1) [and the firm r 19(2)], and the 5% to the referrer also breaches r 39(2)(b).
+
+*Source note: r 2(1) PCR p6; r 19 PCR p35; r 39(2)(b) PCR p61; s 32(2) LPA p92, L10 p52; GN 3.7.1 paras 1–2 p1; PD 5.4.1 p1, L10 p55; Tan See Leh Jonathan SYL p13, L10 p54. Tested PS3 Q2.*

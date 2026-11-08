@@ -295,7 +295,7 @@ def lint_charts(fname, sec, shorts):
     """AD-5 checks that warn rather than fail: top-down, leaf IDs that exist."""
     srcs = re.findall(r"^```mermaid[^\n]*\n(.*?)^```", "\n".join(sec["intro"]), re.M | re.S)
     cheatsheet = any(re.match(r"\s*[-*+] ", ln) for ln in sec["intro"])
-    if fname == "flowcharts.md" and not srcs and not cheatsheet:
+    if fname in ("flowcharts.md", "prewrites.md") and not srcs and not cheatsheet:  # AD-5: every Topic
         WARNINGS.append(f"{fname}:{sec['line']}: Topic '{sec['title']}' has no chart or cue list directly under it "
                         "(fine only if its coverage rows say none: <reason>)")
     for src in srcs:
@@ -481,7 +481,7 @@ OPTION = re.compile(r"(?:[A-H]|[IVX]+)\. ")
 QCSS = """
 .q{break-inside:avoid;border-top:1px solid #ccc;padding-top:4px;margin:0 0 10px} .q.long{break-inside:auto}
 .q h4{margin:0 0 2px} .q p{margin:0 0 3px} .q h4,.q .kw{break-after:avoid}
-.facts{margin:0 0 8px} .tocq{column-count:2;column-gap:16px}
+.facts{margin:0 0 8px} table.qtoc td:first-child{width:46%} .ql{white-space:nowrap}
 .ans{border-left:3px solid #888;background:#f6f6f6;padding:3px 8px;margin:4px 0 0}
 .toc{margin:0 0 2px 14px;font-size:9pt}
 """
@@ -548,7 +548,43 @@ def question_html(q, topic, subs, kws, charts, written=False):
             + (f"<div class='ans'>{md(ans, charts, q['id'])}</div>" if ans else "") + "</div>")
 
 
-def questions_html(paper, subjects, rendered, built, pages, facts, by_topic=None):
+def contents_table(names, subjects, rows, written, pg):
+    """The Reference Pack's contents table, with questions in the right column: one row per coverage
+    Sub-point (MCQ) or per coverage Topic (written), listing every question whose Keys fall in it."""
+    if not rows:
+        return []
+    qs = [q for s in subjects for t in s["topics"] for q in t["qs"]]
+    unit = (lambda r: (r["subj"], r["topic"])) if written else (lambda r: r["key"])
+    hits = {}
+    for q in qs:
+        for u in dict.fromkeys(unit(r) for r in rows if r["key"] in q["keys"]):
+            hits.setdefault(u, []).append(q)
+    links = lambda found: ", ".join(
+        f"<span class='ql'><a href='#q-{q['id']}'>{q['id']}</a> p <a href='#q-{q['id']}'>{pg('q-' + q['id'])}</a></span>"
+        for q in found) or "—"
+    out = [f"<table class='qtoc'><tr><th>{'Topic' if written else 'Sub-point'}</th><th>Questions</th></tr>"]
+    subj = topic = last = None
+    for r in rows:
+        if len(names) > 1 and r["subj"] != subj:
+            subj, topic = r["subj"], None
+            out.append(f"<tr class='subj'><td colspan=2>{r['subj']} · {html.escape(names[r['subj']])}</td></tr>")
+        if written:
+            if unit(r) != last:
+                last = unit(r)
+                out.append(f"<tr><td><b>{inline(r['topic'] or names[r['subj']])}</b></td><td>{links(hits.get(last, []))}</td></tr>")
+            continue
+        if r["topic"] and r["topic"] != topic:
+            topic = r["topic"]
+            out.append(f"<tr class='topic'><td colspan=2>{inline(topic)}</td></tr>")
+        out.append(f"<tr><td>{r['key']} {inline(r['sub'])}</td><td>{links(hits.get(r['key'], []))}</td></tr>")
+    loose = [q for q in qs if not any(r["key"] in q["keys"] for r in rows)]
+    if loose:
+        out.append(f"<tr><td><i>Not tagged to a coverage Key</i></td><td>{links(loose)}</td></tr>")
+    out.append("</table>")
+    return out
+
+
+def questions_html(paper, subjects, rendered, built, pages, facts, rows, written):
     name = PAPERS[paper][0]
     pg = lambda key: str(pages.get(key, "000"))
     total = sum(len(t["qs"]) for s in subjects for t in s["topics"])
@@ -556,32 +592,23 @@ def questions_html(paper, subjects, rendered, built, pages, facts, by_topic=None
            f"<style>{CSS.replace('PAPER_NAME', name + ' model questions')}{QCSS}</style></head><body>",
            f"<h1>{html.escape(name)} Model Questions</h1>",
            f"<p class='stamp'>Built {built} from study/{paper}/model-questions.md: {total} questions by "
-           f"{'paper (contents by Topic)' if by_topic is not None else 'Subject and Topic'}, each answer directly below its question. If you fixed anything since then, "
+           f"{'paper (contents by Topic)' if written else 'Subject and Topic'}, each answer directly below its question. If you fixed anything since then, "
            "rebuild and copy this file again.</p>",
            "<p>Find a question by Ctrl-F on its Keywords (Topic, Sub-point, terms, sections, cases), or by the "
            "Contents below. \"End point\" names the block in the Reference Pack that holds the rule.</p>",
-           "<h2>Contents</h2><div class='secs'>"]
-    if by_topic is not None:  # Written: questions under each coverage Topic their Keys fall in, then papers
-        groups = {q["id"]: t["title"] for s in subjects for t in s["topics"] for q in t["qs"]}
-        for topic in dict.fromkeys(v[0] for v in by_topic.values()):
-            qs = [q for s in subjects for t in s["topics"] for q in t["qs"]
-                  if any(by_topic.get(k, ("",))[0] == topic for k in q["keys"])]
-            if not qs:
-                continue
-            out.append(f"<p><b>{inline(topic)}</b> · {len(qs)} question{'s' * (len(qs) != 1)}</p><div class='tocq'>")
-            out += [f"<p class='toc'><a href='#q-{q['id']}'>{q['id']}</a> {inline(q['source'])} · "
-                    f"{inline(groups[q['id']].split(' — ')[0].split(' · ')[0])} · p <a href='#q-{q['id']}'>{pg('q-' + q['id'])}</a></p>"
-                    for q in qs]
-            out.append("</div>")
-        out.append("<p><b>By paper</b></p>")
+           "<h2>Contents</h2>"]
+    out += contents_table(PAPERS[paper][2], subjects, rows, written, pg)
+    if written:  # the body runs by paper
+        out.append("<div class='secs'><p><b>By paper</b></p>")
         out += [f"<p class='toc'><a href='#{t['anchor']}'>{inline(t['title'])}</a> · {len(t['qs'])} question{'s' * (len(t['qs']) != 1)}"
                 f" · p <a href='#{t['anchor']}'>{pg(t['anchor'])}</a></p>" for s in subjects for t in s["topics"]]
+        out.append("</div>")
     else:
-        for s in subjects:
-            out.append(f"<p><b>{inline(s['title'])}</b></p>")
-            out += [f"<p class='toc'><a href='#{t['anchor']}'>{inline(t['title'])}</a> · {len(t['qs'])} questions"
-                    f" · p <a href='#{t['anchor']}'>{pg(t['anchor'])}</a></p>" for t in s["topics"]]
-    out.append("</div>")
+        out.append("<div class='secs'><p><b>By section</b></p>")
+        out += [f"<p><b>{inline(s['title'])}</b>: " + " · ".join(
+                f"<a href='#{t['anchor']}'>{inline(t['title'])}</a> p <a href='#{t['anchor']}'>{pg(t['anchor'])}</a>"
+                for t in s["topics"]) + "</p>" for s in subjects]
+        out.append("</div>")
     for s in subjects:
         out.append(f"<div class='part'><h2>{inline(s['title'])}</h2>")
         for t in s["topics"]:
@@ -598,7 +625,7 @@ def build_questions(paper, d):
     if not src.exists():
         print(f"BUILD FAILED: {src.relative_to(ROOT)} does not exist", file=sys.stderr)
         return 1
-    subs = {}
+    subs, rows = {}, []
     if (d / "coverage.md").exists():
         rows = parse_coverage((d / "coverage.md").read_text(), paper, len(PAPERS[paper][2]))
         subs = {r["key"]: (r["topic"] or "", r["sub"]) for r in rows}
@@ -620,10 +647,10 @@ def build_questions(paper, d):
     tmp = Path(tempfile.mkdtemp(prefix=f"build_pack-{paper}-questions-"))
     try:
         built, pdf, pages, stable = datetime.now().strftime("%-d %b %Y %H:%M"), tmp / "pack.pdf", {}, False
-        targets = set(rendered) | ({f"q-{q['id']}" for s in subjects for t in s["topics"] for q in t["qs"]} if written else set())
+        targets = set(rendered) | {f"q-{q['id']}" for s in subjects for t in s["topics"] for q in t["qs"]}
         for _ in range(3 if not ERRORS else 0):
             try:
-                print_pdf(questions_html(paper, subjects, rendered, built, pages, facts, subs if written else None), pdf, tmp)
+                print_pdf(questions_html(paper, subjects, rendered, built, pages, facts, rows, written), pdf, tmp)
             except (RuntimeError, subprocess.TimeoutExpired) as e:
                 ERRORS.append(f"Chrome could not print the questions: {e}")
                 break
@@ -633,7 +660,10 @@ def build_questions(paper, d):
                 stable = True
                 break
             pages = found
-        if not stable and not ERRORS:
+        missing = sorted(targets - set(pages))
+        if stable and missing:
+            ERRORS.append(f"page lookup found no page for: {', '.join(missing[:20])}")
+        elif not stable and not ERRORS:
             ERRORS.append("page numbers did not settle after 3 passes")
         total = sum(len(t["qs"]) for s in subjects for t in s["topics"])
         print(f"{paper} — model questions: {len(subjects)} Subjects, {len(rendered)} Topics, {total} questions")

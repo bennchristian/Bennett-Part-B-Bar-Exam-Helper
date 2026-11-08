@@ -19,8 +19,8 @@ Bennett is sitting the 2026 Part B (Session 2) Singapore Bar Examinations: eight
 papers, Tue 1 – Fri 11 Dec 2026, all 2:30–4:30pm, open book with a second reference
 device. This repo is the workspace: one **main session** coordinates, and one **paper
 session** per paper builds a searchable Reference Pack in `study/<paper-id>/` from the
-course library in `Bar Exam/` — I-CRUPAC Pre-writes for the written papers, Q&A Cheatsheets
-for the MCQ papers. Progress lives in the **Part B
+course library in `Bar Exam/` — a Q&A Cheatsheet per Topic for every paper, then I-CRUPAC Pre-writes
+(written papers) or end points (MCQ papers). Progress lives in the **Part B
 tracker** artifact (<https://claude.ai/artifact/QKBF5HvcsMUjirCfmZAMzK>), which shows the
 33-day study plan, per-subject progress, admin tasks and the exam timetable.
 

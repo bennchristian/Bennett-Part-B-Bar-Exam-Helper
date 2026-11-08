@@ -61,7 +61,7 @@ summary only. Terms are as defined in PRD §3.
 |---|---|---|---|
 | `coverage.md` | all | Coverage List, written first | AD-2 table: `Key` · `Sub-point` · `Tested` · `Covered by` |
 | `question-bank.md` | written | Likely questions by Source Tier | `QB-<n>` rows (Conventions) |
-| `prewrites.md` | written | I-CRUPAC Pre-writes | AD-4 blocks, IDs per AD-3 |
+| `prewrites.md` | written | A Cheatsheet per Topic, then that Topic's I-CRUPAC Pre-writes | AD-5 list + AD-4 blocks, IDs per AD-3 |
 | `templates.md` | `drp-w` | Written Advocacy Templates | AD-4 blocks |
 | `flowcharts.md` | MCQ | Q&A Cheatsheet per Topic plus end-point blocks (file name predates Cheatsheets) | AD-5 + AD-4 |
 | `drills.md` | all | Drills and Practice Papers (`pyp-<year>` / `mock-<n>`, `Covers:` line), answers, marks | AD-8 |

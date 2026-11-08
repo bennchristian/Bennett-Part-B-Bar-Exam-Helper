@@ -131,15 +131,15 @@ flowchart TD
   - **Preamble:** text before a file's first `## ` is that file's preamble and goes into the pack as is, e.g. stock opening and closing lines.
   - **Source aliases:** an alias must be defined in the Paper's source key, which is `outline.md`'s key or a `## Source key` section in `coverage.md`.
 
-### AD-5 — Cheatsheet = Q&A cue list per Topic + text end points `[ADOPTED; revised 4 Nov 2026]`
+### AD-5 — Cheatsheet = Q&A cue list per Topic + text end points `[ADOPTED; revised 4 and 8 Nov 2026]`
 
-- **Binds:** FR-1, FR-2, MCQ Papers (`drp-m`, `pcp-m`, `ccp-1`, `ccp-2`, `clk-m`); also `drp-w` Civil Litigation (Bennett, 6 Nov 2026): each `## 0.<Topic>` in `prewrites.md` opens with a Cheatsheet whose lines link to that Topic's Pre-writes
+- **Binds:** FR-1, FR-2, every Paper: MCQ Papers (`drp-m`, `pcp-m`, `ccp-1`, `ccp-2`, `clk-m`) in `flowcharts.md`; Written Papers (`drp-w`, `eth-w`, `pcp-w`) in `prewrites.md` (`drp-w` from 6 Nov, all Written Papers from 8 Nov 2026, Bennett). Written Advocacy's `templates.md` is excepted.
 - **Prevents:** answers sometimes in the cue list and sometimes in the text; cross-references that are dead or carry no page.
 - **Rule:**
-  - **Placement:** `flowcharts.md` (the name predates Cheatsheets and is kept) has one `## <Topic>` per Topic. Directly under it sits that Topic's Cheatsheet, a nested `- ` list. Below the list come the Topic's end-point blocks (AD-4).
-  - **Content:** top-level lines are **bold** question cues, broad to specific. Nested lines (two-space indent per level) narrow to the Sub-point. An answering line ends `→ [<short id>](#<full id>)`, e.g. `→ [0-12](#clk-m-0-12)`; the builder turns it into a link and prints the target's page. A line may carry a short answer, but the rule and its source live in the end-point block.
+  - **Placement:** `flowcharts.md` (MCQ; the name predates Cheatsheets and is kept) or `prewrites.md` (Written) has one `## <Topic>` per coverage Topic. Directly under it sits that Topic's Cheatsheet, a nested `- ` list. Below the list come the Topic's end-point blocks or Pre-writes (AD-4).
+  - **Content:** top-level lines are **bold** question cues, broad to specific. Nested lines (two-space indent per level) narrow to the Sub-point. An answering line ends `→ [<short id>](#<full id>)`, e.g. `→ [0-12](#clk-m-0-12)`; the builder turns it into a link and prints the target's page. A line may carry a short answer, but the rule and its source live in the end-point block or Pre-write.
   - **No Mermaid charts** for MCQ Topics. Bennett replaced them with Cheatsheets on 4 Nov 2026.
-  - **Topic without a Cheatsheet:** its `coverage.md` rows say `none: <reason>`. The builder warns when a Topic has neither a list nor a chart.
+  - **Topic without a Cheatsheet:** its `coverage.md` rows say `none: <reason>`. The builder warns when a `flowcharts.md` or `prewrites.md` Topic has neither a list nor a chart.
 
 ### AD-6 — One builder, `tools/build_pack.py` `[ADOPTED]`
 
@@ -254,7 +254,7 @@ tools/
 
 | Capability | Lives in | Governed by |
 | --- | --- | --- |
-| FR-1/FR-2 MCQ Cheatsheets | `flowcharts.md` + `coverage.md` | AD-2, AD-4, AD-5, AD-6 |
+| FR-1/FR-2 Cheatsheets | `flowcharts.md` / `prewrites.md` + `coverage.md` | AD-2, AD-4, AD-5, AD-6 |
 | FR-3/FR-4 Pre-writes | `prewrites.md` + `coverage.md` | AD-2, AD-3, AD-4 |
 | FR-5 Templates | `drp-w/templates.md` | AD-2, AD-4 |
 | FR-6 Question Bank | `question-bank.md`, `Tested` column | AD-2, conventions |

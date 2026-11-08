@@ -88,11 +88,12 @@ because there is one person working the system and the jobs below cover it.
   Conclusion.
 - **Template**: an annotated skeleton of a document Written Advocacy may ask Bennett to
   draft (e.g. letter of demand, reply, written submissions).
-- **Cheatsheet**: a Q&A cue list for one Topic of an MCQ Paper, written as nested text
-  lines. It runs from broad question cues to the Sub-point, and each answering line links
-  to the end point that holds the rule (it replaced Mermaid Cheatsheets on 4 Nov 2026).
-- **Reference Pack**: one PDF per Paper that collects its Pre-writes and Templates, or
-  its Cheatsheets. It has text he can search, a contents page and a keyword index.
+- **Cheatsheet**: a Q&A cue list ("framework") for one Topic of any Paper, written as nested
+  text lines. It runs from broad question cues to the Sub-point, and each answering line links
+  to the end point (MCQ) or Pre-write (Written) that holds the rule. On MCQ Papers it replaced
+  Mermaid flowcharts on 4 Nov 2026; Written Papers have them from 8 Nov 2026.
+- **Reference Pack**: one PDF per Paper that collects its Cheatsheets, with its Pre-writes
+  and Templates (Written) or its end points (MCQ). It has text he can search, a contents page and a keyword index.
 - **Drill**: a set of questions for Bennett on one or more Subjects, then marked.
 - **Practice Paper**: a full Paper sat timed, with its Reference Pack, then marked. It is
   a past-year paper, or a mock where none exists.
@@ -108,17 +109,19 @@ because there is one person working the system and the jobs below cover it.
 
 Features are listed in priority order (see §7).
 
-### 4.1 MCQ Cheatsheets
+### 4.1 Cheatsheets (every Paper)
 
-**Description:** For each MCQ Paper, the Paper Session builds one Cheatsheet per Topic. A
+**Description:** For each Paper, MCQ and Written, the Paper Session builds one Cheatsheet per Topic. A
 Cheatsheet starts from the cues a question gives (the words, facts and parties that signal
 the Topic). It branches to the specific Sub-point and ends at the rule or answer, with a
-source for each end point. The Cheatsheets are compiled into the Paper's Reference Pack. This
-is the minimum Bennett will not go into an MCQ Paper without.
+source for each end point. On a Written Paper the Cheatsheet heads the Topic's Pre-writes and
+its lines link to them. The Cheatsheets are compiled into the Paper's Reference Pack. This
+is the minimum Bennett will not go into any Paper without.
 
 #### FR-1: One Cheatsheet per Topic
 
-A Paper Session produces a Cheatsheet for every Topic of every Subject in an MCQ Paper.
+A Paper Session produces a Cheatsheet for every Topic of every Subject in every Paper
+(Written Advocacy excepted: its Templates serve instead).
 
 **Consequences (testable):**
 - The Subject's Coverage List is written before its Cheatsheets.
@@ -335,7 +338,7 @@ The Main Session records the Tracker levels as follows.
 
 If a Block runs short, work is cut in this order, last item first:
 
-1. **Cheatsheets for every MCQ Topic.** Cannot be cut.
+1. **Cheatsheets for every Topic** (MCQ and Written). Cannot be cut.
 2. **Pre-writes for every Sub-point the past-year papers have tested.** Cannot be cut.
    This is the Written Paper equivalent of item 1, and needs Question Bank tier 1 (the
    past-year papers) to identify those Sub-points.
@@ -392,10 +395,11 @@ Pre-writes are finished from its outline in time left over during Block 2.
 
 ## 10. Assumptions Index
 
-None open. Added by Bennett on 5 Nov 2026: every Paper, MCQ and Written, has two exam-day
+None open. Changed by Bennett on 8 Nov 2026: every Reference Pack, Written included, has a
+Cheatsheet per Topic (§3, §4.1, FR-1, §7 item 1). Added by Bennett on 5 Nov 2026: every Paper, MCQ and Written, has two exam-day
 PDFs, its Reference Pack and a model Q&A PDF (questions by Topic, each answer directly
 under its question, Keywords per question, contents linked to Topics). Changed by Bennett on 4 Nov 2026: MCQ Papers use Q&A Cheatsheets instead
-of Mermaid Cheatsheets (§3, FR-1, FR-2). Changed by Bennett on 3 Nov 2026: Pre-writes keep a short Rule part, add a
+of Mermaid flowcharts (§3, FR-1, FR-2). Changed by Bennett on 3 Nov 2026: Pre-writes keep a short Rule part, add a
 Rule in full box, and have no word cap (FR-4). Confirmed by Bennett on 2 Nov 2026: a failed lookup counts as a Weak Spot (FR-10); Pre-writes on Sub-points the past papers
 have tested cannot be cut (§7); target of zero unresolved failed lookups (SM-4); the
 Tracker level meanings and the `full[paperId]` write (FR-11).
