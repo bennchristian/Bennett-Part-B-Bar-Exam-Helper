@@ -1,0 +1,5 @@
+# Statute, rules and case copies from SSO, eLitigation, institutions and the library: keep them out of git.
+*
+!.gitignore
+!INDEX.md
+!*/
