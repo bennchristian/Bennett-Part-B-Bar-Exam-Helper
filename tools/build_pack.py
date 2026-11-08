@@ -1,6 +1,6 @@
 """Build study/<paper-id>/reference-pack.pdf from coverage.md and the Paper's content files.
 
-Usage: python3 tools/build_pack.py <paper-id> [--questions | --check]
+Usage: python3 tools/build_pack.py <paper-id | pack folder> [--questions | --check]
 
 With --check it runs every coverage/format check and prints the coverage report, but renders
 nothing and writes no PDF (the default until Bennett approves PDFs — CLAUDE.md, 9 Nov 2026).
@@ -48,6 +48,11 @@ PAPERS = {
     "clk-m": ("CLK MCQ", "Fri 11 Dec 2026", ["Data Protection & Cyber", "Law & Tech",
                                             "Comparative Laws", "Conflict of Laws"]),
 }
+
+# Packs with their own folder, mapped to their Paper. drp-w's two Subjects are examined in different
+# formats, so each has its own pack (Bennett, 9 Nov 2026); block IDs stay drp-w-<subject#>-<n>.
+PACKS = {"drp-w-cl": "drp-w", "drp-w-wa": "drp-w"}
+FOLDER = None  # study/<FOLDER>/ being built; set in main()
 
 KEY = re.compile(r"(?:(\d+)\.)?([IVXLC]+)\.(\d+)")
 ANY_ID = re.compile(r"\b(?:drp|eth|pcp|ccp|clk)-[wm12]-\d+-\d+\b")
@@ -335,7 +340,7 @@ def build_html(paper, parts, rows, blocks, index, built, pages):
            f"<h1>{html.escape(name)} Reference Pack</h1>",
            f"<p><b>{paper}</b> · {html.escape(' · '.join(f'{i} {s}' for i, s in enumerate(subjects)))} · "
            f"exam {exam}, 2:30–4:30pm</p>",
-           f"<p class='stamp'>Built {built} from study/{paper}/ ({', '.join(['coverage.md'] + [p['file'] for p in parts])}). "
+           f"<p class='stamp'>Built {built} from study/{FOLDER}/ ({', '.join(['coverage.md'] + [p['file'] for p in parts])}). "
            "If you fixed anything since then, rebuild and copy this file again.</p>",
            "<p>Find things by Ctrl-F (keyword, case name, section or rule number), by the Contents below "
            "(Subject → Topic → Sub-point → block, with page numbers), or by the Keyword index at the end. "
@@ -527,7 +532,7 @@ def questions_html(paper, subjects, rendered, built, pages, facts, rows, written
     out = [f"<!doctype html><html><head><meta charset='utf-8'><title>{name} Model Questions</title>"
            f"<style>{CSS.replace('PAPER_NAME', name + ' model questions')}{QCSS}</style></head><body>",
            f"<h1>{html.escape(name)} Model Questions</h1>",
-           f"<p class='stamp'>Built {built} from study/{paper}/model-questions.md: {total} questions by "
+           f"<p class='stamp'>Built {built} from study/{FOLDER}/model-questions.md: {total} questions by "
            f"{'paper (contents by Topic)' if written else 'Subject and Topic'}, each answer directly below its question. If you fixed anything since then, "
            "rebuild and copy this file again.</p>",
            "<p>Find a question by Ctrl-F on its Keywords (Topic, Sub-point, terms, sections, cases), or by the "
@@ -644,20 +649,23 @@ def main():
     questions = "--questions" in args
     check = "--check" in args
     args = [a for a in args if a not in ("--questions", "--check")]
-    if len(args) != 1 or args[0] not in PAPERS or (questions and check):
-        print(f"usage: python3 tools/build_pack.py <paper-id> [--questions | --check]   (one of: {', '.join(PAPERS)})",
+    names = [p for p in PAPERS if p not in PACKS.values()] + list(PACKS)
+    if len(args) != 1 or args[0] not in names or (questions and check):
+        print(f"usage: python3 tools/build_pack.py <paper-id | pack folder> [--questions | --check]   (one of: {', '.join(names)})",
               file=sys.stderr)
         return 2
-    paper = args[0]
+    global FOLDER
+    FOLDER = args[0]
+    paper = PACKS.get(FOLDER, FOLDER)
     if questions:
         if not Path(CHROME).exists():
             print(f"missing: {CHROME}", file=sys.stderr)
             return 2
-        return build_questions(paper, ROOT / "study" / paper)
+        return build_questions(paper, ROOT / "study" / FOLDER)
     if not check and not Path(CHROME).exists():
         print(f"missing: {CHROME}", file=sys.stderr)
         return 2
-    d = ROOT / "study" / paper
+    d = ROOT / "study" / FOLDER
     dst = d / "reference-pack.pdf"
     nsubj = len(PAPERS[paper][2])
     if not (d / "coverage.md").exists():
@@ -676,7 +684,7 @@ def main():
     parts, blocks, wide_verify = [], {}, 0
     files = [f for f in CONTENT_FILES if (d / f).exists()]
     if not files:
-        ERRORS.append(f"study/{paper}/ has none of {', '.join(CONTENT_FILES)}")
+        ERRORS.append(f"study/{FOLDER}/ has none of {', '.join(CONTENT_FILES)}")
     for f in files:
         text = (d / f).read_text()
         preamble, sections = split_sections(f, text)

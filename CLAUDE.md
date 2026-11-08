@@ -37,7 +37,8 @@ tracker** artifact (<https://claude.ai/artifact/QKBF5HvcsMUjirCfmZAMzK>), which 
 - **Two phases (Bennett, 9 Nov — to save usage; see `PRD.md` §7):**
   - **Phase 1, now:** build every paper's Reference Pack as Markdown only — `coverage.md`,
     then `cheatsheets.md` / `prewrites.md` / `templates.md` in the pack format. Validate with
-    `python3 tools/build_pack.py <paper-id> --check` (all checks + coverage report, no PDF).
+    `python3 tools/build_pack.py <paper-id> --check` (all checks + coverage report, no PDF);
+    for `drp-w` use the pack folder, `drp-w-cl` or `drp-w-wa`.
     No new PDFs; existing ones stay as they are.
   - **Phase 2, only after all 8 packs are built AND Bennett says "make the PDFs":** PDFs
     (`build_pack.py <paper-id>` and `--questions`), Model Q&A, PYP coverage checks (Question

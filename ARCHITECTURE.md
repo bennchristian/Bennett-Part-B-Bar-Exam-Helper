@@ -231,10 +231,10 @@ sequenceDiagram
 ## Structural Seed
 
 ```text
-study/<paper-id>/
+study/<paper-id>/          # drp-w is split: drp-w-cl/ (Civil Litigation), drp-w-wa/ (Written Advocacy)
   coverage.md             # Coverage List table (AD-2)
   prewrites.md            # Written Papers
-  templates.md            # drp-w Written Advocacy
+  templates.md            # drp-w-wa Written Advocacy
   cheatsheets.md          # MCQ Papers
   question-bank.md        # Written Papers
   drills.md               # Drills + Practice Papers, answers, marks
@@ -260,7 +260,7 @@ tools/
 | --- | --- | --- |
 | FR-1/FR-2 Cheatsheets | `cheatsheets.md` / `prewrites.md` + `coverage.md` | AD-2, AD-4, AD-5, AD-6 |
 | FR-3/FR-4 Pre-writes | `prewrites.md` + `coverage.md` | AD-2, AD-3, AD-4 |
-| FR-5 Templates | `drp-w/templates.md` | AD-2, AD-4 |
+| FR-5 Templates | `drp-w-wa/templates.md` | AD-2, AD-4 |
 | FR-6 Question Bank | `question-bank.md`, `Tested` column | AD-2, conventions |
 | FR-7 Reference Pack | `reference-pack.pdf` via `tools/build_pack.py` | AD-1, AD-6 |
 | FR-8 Source priority | Source notes, `Conflict:` | AD-4, RULES.md |

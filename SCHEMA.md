@@ -53,7 +53,7 @@ Progress per paper = sum of all `n`, `p` and `s` values ÷ max (4 per subject + 
 
 ## Study outputs (`study/`)
 
-Written by Paper Sessions, one folder per paper ID. **`ARCHITECTURE.md` is the authority**
+Written by Paper Sessions, one folder per paper ID, except `drp-w`: its Subjects are examined in different formats, so each has its own pack, `study/drp-w-cl/` (Civil Litigation) and `study/drp-w-wa/` (Written Advocacy) (Bennett, 9 Nov 2026). Block IDs keep the paper ID (`drp-w-0-n`, `drp-w-1-n`); the builder takes the folder name. **`ARCHITECTURE.md` is the authority**
 on this file set and its formats (AD-1 to AD-5, Consistency Conventions); this table is a
 summary only. Terms are as defined in PRD §3.
 
@@ -62,7 +62,7 @@ summary only. Terms are as defined in PRD §3.
 | `coverage.md` | all | Coverage List, written first | AD-2 table: `Key` · `Sub-point` · `Tested` · `Covered by` |
 | `question-bank.md` | written | Likely questions by Source Tier | `QB-<n>` rows (Conventions) |
 | `prewrites.md` | written | A Cheatsheet per Topic, then that Topic's I-CRUPAC Pre-writes | AD-5 list + AD-4 blocks, IDs per AD-3 |
-| `templates.md` | `drp-w` | Written Advocacy Templates | AD-4 blocks |
+| `templates.md` | `drp-w-wa` | Written Advocacy Templates | AD-4 blocks |
 | `cheatsheets.md` | MCQ | Q&A Cheatsheet per Topic plus end-point blocks (was `flowcharts.md` until 8 Nov 2026) | AD-5 + AD-4 |
 | `drills.md` | all | Drills and Practice Papers (`pyp-<year>` / `mock-<n>`, `Covers:` line), answers, marks | AD-8 |
 | `weak-spots.md` | all | `WS-<n>` rows linked to the content ID fixed | Conventions |
