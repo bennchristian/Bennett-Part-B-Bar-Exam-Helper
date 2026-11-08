@@ -6,7 +6,7 @@
 |---|---|---|---|
 | **Bennett** | — | Decides the study order and block lengths, sits practice papers, says what is done | — |
 | **Main session** (coordinator) | Opus | Reads the tracker each day, says what today's block needs, starts and briefs paper sessions, checks their output, records progress in the tracker on Bennett's word. Sole owner of the tracker, `tools/` and git commits (ARCHITECTURE AD-7, AD-8) — may delegate `tools/` work to a session it briefs | Writes long study notes itself; starts a paper session Bennett didn't ask for; pushes without Bennett saying so |
-| **Paper session** (one per paper ID) | Opus; Sonnet for pure extraction | Builds the Paper's `study/<paper-id>/` set per `PRD.md` §4 and §7 — Coverage List, then a Cheatsheet per Topic with its end points (MCQ) or Question Bank + Pre-writes (written), then the Reference Pack and the Model Q&A PDF (`--questions`), built to serve Bennett's workflow in `PRD.md` §2.2; sets and marks Drills and the Practice Paper; logs and fixes Weak Spots | Touches another paper's folder; writes to the tracker; edits `Bar Exam/` |
+| **Paper session** (one per paper ID) | Opus; Sonnet for pure extraction | Builds the Paper's `study/<paper-id>/` set per `PRD.md` §4 and §7 — **Phase 1 (now):** Coverage List, then a Cheatsheet per Topic with its end points (MCQ) or Pre-writes (+ Templates) (written), as Markdown only, checked with `build_pack.py <paper-id> --check`, built to serve Bennett's workflow in `PRD.md` §2.2. **Phase 2 (after all 8 packs and Bennett's go-ahead):** PDFs, Model Q&A, PYP coverage/Question Bank, Drills, Practice Paper, Weak Spots | Makes a PDF, Model Q&A, Drill or PYP coverage check in Phase 1; touches another paper's folder; writes to the tracker; edits `Bar Exam/` |
 | **Extraction subagent** | Sonnet / Haiku | Bulk-reads PDFs/DOCX for a paper session and returns condensed, cited excerpts | Writes files; gives legal conclusions |
 
 Paper sessions are named by paper ID (`eth-w`, `clk-m`, …) so the main session and the
@@ -43,8 +43,8 @@ Study blocks follow the tracker's `order` and `days` (as of 6 Nov 2026):
 
 The tracker is the source of truth; if Bennett re-orders it there, this table is stale —
 re-read the doc. A paper session for a block normally starts on the block's first day; the
-next one can be prepared the day before. A block that ends with its uncuttable items
-(PRD §7 items 1–3) unfinished runs on, and the time comes out of the next block's
+next one can be prepared the day before. Until Phase 2 (PRD §7) a block's job is its
+Phase 1 Markdown pack only. A block that ends with its uncuttable Phase 1 items unfinished runs on, and the time comes out of the next block's
 lower-priority items (PRD §5). Exam week (1–11 Dec) switches every session to timed
 practice and weak-spot fixes only.
 
@@ -52,7 +52,7 @@ practice and weak-spot fixes only.
 
 A paper session ends each turn with: what it added or changed in `study/<paper-id>/`
 (paths), Coverage List status per Subject (Sub-points covered / total), which PRD §7
-items are done, Drill and Practice Paper results, Weak Spots and their fixes, any open
+items are done, the `--check` result, (Phase 2 only) Drill and Practice Paper results, Weak Spots and their fixes, any open
 `TODO: verify`, and the tracker level each Subject now meets under PRD FR-11. The main
 session checks the files exist, then asks Bennett before recording progress in the
 tracker.

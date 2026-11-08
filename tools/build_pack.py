@@ -1,6 +1,9 @@
 """Build study/<paper-id>/reference-pack.pdf from coverage.md and the Paper's content files.
 
-Usage: python3 tools/build_pack.py <paper-id> [--questions]
+Usage: python3 tools/build_pack.py <paper-id> [--questions | --check]
+
+With --check it runs every coverage/format check and prints the coverage report, but renders
+nothing and writes no PDF (the default until Bennett approves PDFs — CLAUDE.md, 9 Nov 2026).
 
 With --questions it instead builds study/<paper-id>/model-questions.pdf from model-questions.md:
 questions by Subject and Topic, each with a Keywords line (Topic, Sub-point from coverage.md, and
@@ -639,9 +642,10 @@ def report(paper, rows, blocks, parts, wide_verify, cov_verify):
 def main():
     args = sys.argv[1:]
     questions = "--questions" in args
-    args = [a for a in args if a != "--questions"]
-    if len(args) != 1 or args[0] not in PAPERS:
-        print(f"usage: python3 tools/build_pack.py <paper-id> [--questions]   (one of: {', '.join(PAPERS)})",
+    check = "--check" in args
+    args = [a for a in args if a not in ("--questions", "--check")]
+    if len(args) != 1 or args[0] not in PAPERS or (questions and check):
+        print(f"usage: python3 tools/build_pack.py <paper-id> [--questions | --check]   (one of: {', '.join(PAPERS)})",
               file=sys.stderr)
         return 2
     paper = args[0]
@@ -650,7 +654,7 @@ def main():
             print(f"missing: {CHROME}", file=sys.stderr)
             return 2
         return build_questions(paper, ROOT / "study" / paper)
-    if not Path(CHROME).exists():
+    if not check and not Path(CHROME).exists():
         print(f"missing: {CHROME}", file=sys.stderr)
         return 2
     d = ROOT / "study" / paper
@@ -714,6 +718,21 @@ def main():
     for i, b in blocks.items():
         for term in b["kws"] + b["cases"]:
             index.setdefault(term, set()).add(i)
+
+    if check:
+        print(f"{paper} — {PAPERS[paper][0]} (check only, no PDF)")
+        report(paper, rows, blocks, parts, wide_verify, cov_verify)
+        print(f"Index terms: {len(index)}")
+        for w in WARNINGS:
+            print(f"warning: {w}")
+        if ERRORS:
+            sys.stdout.flush()
+            print(f"\nCHECK FAILED — {len(ERRORS)} problem(s):", file=sys.stderr)
+            for e in ERRORS:
+                print(f"  {e}", file=sys.stderr)
+            return 1
+        print("Check passed")
+        return 0
 
     tmp = Path(tempfile.mkdtemp(prefix=f"build_pack-{paper}-"))
     try:

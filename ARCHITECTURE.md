@@ -215,7 +215,7 @@ sequenceDiagram
 | Weak Spot entry | Table row: ID · date · from (Drill/PP ID) · coverage `Key` · kind (`wrong law` / `missed issue` / `failed lookup`) · fix = content ID + what changed (`keywords` / `title` / `body` / `cheatsheet` / `new block`) · `open`/`fixed` |
 | Source conflict (FR-8) | A `Conflict:` sentence inside the Source note, naming both sources; the text follows the Course Materials |
 | Unknowns | `TODO: verify` for an unsourced proposition (RULES.md); counted by the build. SM-5 = zero at exam time |
-| Rebuild | At the end of any Paper Session turn that changed `coverage.md` or a content file, and before every Practice Paper |
+| Rebuild | Phase 1: `--check` only (no PDF) at the end of any Paper Session turn that changed `coverage.md` or a content file. Phase 2 (Bennett's go-ahead, PRD §7): full build then, and before every Practice Paper |
 | Dates | `D Mon YYYY` (e.g. 2 Nov 2026) |
 | Raw material | `outline.md` (`eth-w`, `clk-m`) stays as is; content moves into content files and is not deleted |
 

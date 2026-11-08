@@ -388,6 +388,14 @@ The Main Session records the Tracker levels as follows.
 
 ## 7. MVP Scope and Cut Order
 
+**Two phases (Bennett, 9 Nov 2026, to save usage).** Phase 1 builds every Paper's Reference
+Pack as Markdown (Coverage List, Cheatsheets, Pre-writes, Templates), all 8 Papers, with no
+PDFs. Phase 2 starts only when all 8 packs are built **and** Bennett gives the final say on
+PDFs; only then are PDFs built and Model Q&A, PYP coverage checks (Question Bank, `Tested`),
+Drills and Practice Papers started, for any Paper. In Phase 1, item 2 below reads "Pre-writes
+for every Sub-point on the Coverage List, past-paper-tested ones first where already known";
+item 3 waits for Phase 2.
+
 If a Block runs short, work is cut in this order, last item first:
 
 1. **Cheatsheets for every Topic** (MCQ and Written). Cannot be cut.
@@ -448,7 +456,9 @@ Pre-writes are finished from its outline in time left over during Block 2.
 
 ## 10. Assumptions Index
 
-None open. Recorded from Bennett on 8 Nov 2026: his study workflow (§2.2), the lookup path
+None open. Changed by Bennett on 9 Nov 2026: two phases — Markdown packs for all 8 Papers
+first; PDFs, Model Q&A, PYP coverage checks, Drills and Practice Papers only after his final
+say (§7). Recorded from Bennett on 8 Nov 2026: his study workflow (§2.2), the lookup path
 it implies (§4.4, FR-7) and the Model Q&A as FR-12 (§3). Changed by Bennett on 8 Nov 2026: every Reference Pack, Written included, has a
 Cheatsheet per Topic (§3, §4.1, FR-1, §7 item 1). Added by Bennett on 5 Nov 2026: every Paper, MCQ and Written, has two exam-day
 PDFs, its Reference Pack and a model Q&A PDF (questions by Topic, each answer directly

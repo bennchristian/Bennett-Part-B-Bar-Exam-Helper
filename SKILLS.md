@@ -23,8 +23,9 @@ directly. BMAD's build, story and sprint skills are for software and are not use
 | Read or update tracker progress | `ArtifactData` tool on the tracker URL (see `SCHEMA.md`) | republishing the artifact |
 | Change the tracker page itself | `artifact-design` + `artifact-capabilities`, then `Artifact` publish to the same URL | `design-html`, `design-shotgun`, `canva` |
 | Diagram a procedure (e.g. civil timeline) | `artifact-diagramming` | `diagram`, `infographic-and-data-viz`, `figma:*` |
-| Build a paper's Reference Pack PDF | `python3 tools/build_pack.py <paper-id>` (ARCHITECTURE AD-6) | `make-pdf`, `anthropic-skills:pdf`, `anthropic-skills:docx`, `document-generate` |
-| Write study outlines, set and mark drills | none — do it directly per `RULES.md` | `educational-content-and-how-to`, `carousel-writer` |
+| Check a paper's Markdown pack (Phase 1) | `python3 tools/build_pack.py <paper-id> --check` — no PDF | — |
+| Build a paper's Reference Pack PDF (Phase 2 only, on Bennett's go-ahead) | `python3 tools/build_pack.py <paper-id>` (ARCHITECTURE AD-6) | `make-pdf`, `anthropic-skills:pdf`, `anthropic-skills:docx`, `document-generate` |
+| Write study outlines; set and mark drills (Phase 2) | none — do it directly per `RULES.md` | `educational-content-and-how-to`, `carousel-writer` |
 | Recurring daily check-in | `schedule` (only if Bennett asks) | `loop` |
 | Scaffold planning docs | `scaffold-project` | `init` |
 
