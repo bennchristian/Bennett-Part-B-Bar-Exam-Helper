@@ -25,3 +25,12 @@ Paper session `ccp-2`, 10–11 Nov 2026. Resume: read this file, then coverage.m
 - 11 Nov 2026: passed; IP 56/56, M&A 46/46, Competition 25/25, Taxation 22/22; 143 blocks; 0 flags.
 
 STATUS: DONE
+
+## Model Q&A (Markdown only, 15 Nov 2026)
+- `model-questions.md` built on Bennett's 14 Nov instruction. No PDF built (`--questions` waits for Phase 2).
+- 207 questions: 94 real (40 SQ with the official key; 54 from the 2023 CCP Paper 2, transcribed from Examplify screenshots, with no key) and 113 own. 12 Drills: 9 by Topic, using all 207 once, and 3 mixed mocks. Timing is 2 min/Q.
+- Sub-points: IP 56/56, M&A 46/46, Competition 25/25, Taxation 22/22 = 149/149. 0 TODO: verify.
+- `check_model_qna.py ccp-2` exits 0, and `build_pack.py ccp-2 --check` passes. The builder's parse_questions finds 4 Subjects and 207 questions, every Key and end-point ID resolves, and every question has an Answer line.
+- 2023 questions left out: Q22, Q33, Q37, Q48, Q53, Q54 (the reasons are in the file header).
+- Three 2023 answers rest on the CCCS register rather than the course materials: Q41 Grab/Uber directions, Q42 LSEG/Refinitiv commitments, and Q36 (backed by the CL1 s6 slide). Two rest on elimination, where the sources contradict every other option: Q13 (I-Admin remedy) and Q28 (stamp duty paid upfront, per Cyril-TX §3.2.3).
+- The earlier candidate's on-screen selections are wrong in places: Q3, Q8, Q27 (and others not flagged).

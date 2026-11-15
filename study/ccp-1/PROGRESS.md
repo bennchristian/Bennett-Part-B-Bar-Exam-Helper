@@ -25,3 +25,8 @@ Phase 1 pack (Markdown only) for CCP MCQ 1, Wed 9 Dec 2026. Built 10–11 Nov 20
 - 11 Nov 2026: `python3 tools/build_pack.py ccp-1 --check` — Check passed (196 rows, 196 blocks, zero open verify flags).
 
 STATUS: DONE
+
+## Model Q&A (Phase 2 item, Markdown only — Bennett, 14 Nov)
+- 15 Nov 2026: model-questions.md built. 260 questions (139 real: SQ 40, 2023 CCP Paper 1 51, 2021 INS 32, ADM2 8, ADM1 8; 121 own), 14 Drills.
+  196/196 Sub-points tagged; 0 TODO: verify. `check_model_qna.py ccp-1` exits 0; `build_pack.py ccp-1 --check` passes. No PDF built.
+- Left out (see the file's "Left out" note): 2023 Q23, Q34, Q38, Q41, Q54, Q56 (Q42, Q44, Q53 not held); 2021 INS Q1, Q32, Q34, Q36.
