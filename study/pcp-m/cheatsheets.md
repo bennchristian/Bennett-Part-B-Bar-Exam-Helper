@@ -481,7 +481,7 @@ Take instructions from the testator, alone if a beneficiary brought him, and kee
 *Source note: PR-6a p10–25 (paras 5–9); PR-SYL p4 item 8(e)–(j); Cyril-PR §1.7.2 (clause table and model wording).*
 
 ### pcp-m-0-34 — Who cannot or should not be appointed executor
-*Keywords: executor, minor executor, infant, s 21 PAA, lunatic, mentally disordered executor, s 22 PAA, undischarged bankrupt, s 400 IRDA, leave of court, failure of executors, s 13 PAA, s 15 PAA, s 27 PAA, substitute executor, renounce, letters of administration with will annexed*
+*Keywords: executor, minor executor, infant, s 21 PAA, lunatic, mentally disordered executor, s 22 PAA, undischarged bankrupt, s 400 IRDA, leave of court, failure of executors, s 13 PAA, s 15 PAA, s 27 PAA, substitute executor, renounce, letters of administration with will annexed, executor lacks mental capacity, executor mentally incapable, LPA donee of executor, deputy of executor, grant for use and benefit, who can apply for grant of representation*
 
 **End point:**
 - **Minor:** a minor cannot take the grant; administration may be granted for his use and benefit until he reaches 21 (s 21 PAA).
@@ -746,17 +746,19 @@ So advise a testator who leaves out a dependant to record dated reasons. An orde
 - **Deceased domiciled abroad** → P 6 r 22 → [0-59](#pcp-m-0-59)
 - **Who has priority?**
   - **Will but no executor / executor dead or refuses / residuary legatee predeceased** → LA with will annexed, s 13(2) order → [0-60](#pcp-m-0-60)
+  - **Named executor has lost mental capacity; his LPA donee or deputy** → s 22 PAA: grant to the donee/deputy for the executor's use and benefit → [0-34](#pcp-m-0-34)
   - **No will: who can apply for letters of administration?** s 18 PAA, ISA priority (*Toh Seok Kheng*); same class need not join → [0-61](#pcp-m-0-61)
   - **Person with higher priority will not act** → renunciation (ss 3, 5); citation → [0-62](#pcp-m-0-62)
   - **Minor beneficiary or life interest: how many administrators?** 2 or a trust corporation (s 6) → [0-63](#pcp-m-0-63)
 - **Filing: documents, death certificate, will, searches, translations, 4.30pm next working day, delay over 6 months** → [0-64](#pcp-m-0-64)
+  - **Died abroad (e.g. Dubai): foreign death certificate, translation, passport? original will?** → only the original will; translate the certificate; no passport → [0-64](#pcp-m-0-64)
 - **Supporting affidavit (14 days), Schedule of Assets, amending it, extraction** → [0-65](#pcp-m-0-65)
-- **Administration bond and 2 sureties: when? dispensing with them** → [0-66](#pcp-m-0-66)
+- **Administration bond and 2 sureties: when (estate over S$5m, minor, life interest, creditor)? dispensing with them** → [0-66](#pcp-m-0-66)
 - **Foreign (Commonwealth / Hong Kong) grant: resealing** → [0-67](#pcp-m-0-67)
 - **Contentious: probate action, revocation of grant, passing over executor, administration pending suit, costs** → [0-68](#pcp-m-0-68)
   - **Stop a grant: caveat (6 months); warning; notice of intention to contest within 14 days (Form 172)** → [0-69](#pcp-m-0-69)
   - **Force someone to take or refuse a grant / prove a will: citation** → [0-70](#pcp-m-0-70)
-- **Can the executor / administrator / beneficiary sue before the grant? One administrator signs alone?** → [0-71](#pcp-m-0-71)
+- **Who has legal capacity to commence or continue proceedings for the estate? Executor before grant, spouse or child, LPA donee, applicant before grant? One administrator signs alone?** → only the named executor → [0-71](#pcp-m-0-71)
 
 ### pcp-m-0-55 — Probate terms
 *Keywords: probate, grant of probate, letters of administration, administration, testate, intestate, personal representative, executor, administrator, trustee, caveator, grant of representation*
@@ -819,7 +821,7 @@ So advise a testator who leaves out a dependant to record dated reasons. An orde
 *Source note: PR-SYL p7 item 3(c); PR5 s12, s20; FJ(PAOM)R 2024 P 6 r 22 (SSO, current at 10 Nov 2026); P 6 r 3(5) (the application must state where the deceased died domiciled).*
 
 ### pcp-m-0-60 — Letters of administration with will annexed: failure of executors and the s 13(2) order
-*Keywords: letters of administration with will annexed, s 13 PAA, failure of executors, no executor appointed, executor predeceased, executor renounces, executor incapable, s 13(2) priority, universal or residuary legatee, personal representative of residuary legatee, legatee, creditor, SQ Terrence Daisy*
+*Keywords: letters of administration with will annexed, s 13 PAA, failure of executors, no executor appointed, executor predeceased, executor renounces, executor incapable, s 13(2) priority, universal or residuary legatee, personal representative of residuary legatee, legatee, creditor, SQ Terrence Daisy, executor lacks capacity*
 
 **End point:** Where no executor is appointed, or none survives, is capable, is willing, or appears to take probate, the court grants administration with the will annexed to the fittest person (s 13(1)). Priority under s 13(2):
 1. universal or residuary legatee;
@@ -827,6 +829,8 @@ So advise a testator who leaves out a dependant to record dated reasons. An orde
 3. beneficiaries who would have been entitled to a grant on an intestacy;
 4. a legatee with a beneficial interest;
 5. a creditor.
+
+If the named executor is alive but lacks mental capacity, the grant goes for his use and benefit to his LPA donee or deputy under s 22 PAA ([0-34](#pcp-m-0-34); SQ p72 Q3, key A).
 
 In SQ p73 Q6, Terrence's will names no executor and the residuary legatee (sister Daisy) predeceased him, so Daisy's personal representative has the prior right, ahead of the wife and parents (specific legatees) and the creditor (key B).
 
@@ -854,7 +858,7 @@ In SQ p73 Q6, Terrence's will names no executor and the residuary legatee (siste
 *Source note: PR5 s33, s37; PR3 s6 (heading).*
 
 ### pcp-m-0-64 — Filing the originating application: documents and timing
-*Keywords: originating application without notice, Form 162, certified true copy of will, digital death certificate, death extract, Administration Oath, Form 167, s 28 PAA, translation, court interpreter, Malay words, affidavit of due execution, affidavit of foreign law, P 6 r 13, caveat search, probate search, 15 December 2003, original will 4.30pm next working day, Probate Counter, delay more than 6 months, P 6 r 3(8), aliases, P 6 r 4, electronic checklist, original passport not needed*
+*Keywords: originating application without notice, Form 162, certified true copy of will, digital death certificate, death extract, Administration Oath, Form 167, s 28 PAA, translation, court interpreter, Malay words, affidavit of due execution, affidavit of foreign law, P 6 r 13, caveat search, probate search, 15 December 2003, original will 4.30pm next working day, Probate Counter, delay more than 6 months, P 6 r 3(8), aliases, P 6 r 4, electronic checklist, original passport not needed, documents required, died overseas, died abroad, Dubai, Arabic death certificate, English translation, passport, original will needed*
 
 **End point:** File an originating application without notice (Form 162) with:
 - a certified true copy of the will (certified on every page or by a cover page);
@@ -936,7 +940,7 @@ The Public Trustee gives no security (s 29(4)). Sureties may ordinarily be dispe
 *Source note: PR-SYL p9 item 5(c)(ii); PR5 s36; FJ(PAOM)R 2024 P 6 rr 38–40 (SSO, current at 10 Nov 2026). Conflict: Cyril-PR §4.5.2 gives 8 days to enter an appearance (2014 Rules); the 2024 Rules give 14 days to file Form 172, which is followed.*
 
 ### pcp-m-0-71 — When personal representatives can act; acting jointly
-*Keywords: executor before grant, Lee Han Tiong v Tay Yok Swee, executor authority from will, administrator only after grant, Teo Gim Tiong v Krishnasamy Pushpavathi, relation back, Wong Moy exception, beneficiary sues to protect estate, Mustaq Ahmad v Ayaz Ahmed, one executor binds estate, administrators act jointly, Tacplas Property Services v Lee Peter Michael, ratified*
+*Keywords: executor before grant, Lee Han Tiong v Tay Yok Swee, executor authority from will, administrator only after grant, Teo Gim Tiong v Krishnasamy Pushpavathi, relation back, Wong Moy exception, beneficiary sues to protect estate, Mustaq Ahmad v Ayaz Ahmed, one executor binds estate, administrators act jointly, Tacplas Property Services v Lee Peter Michael, ratified, legal capacity, commence legal proceedings, continue legal proceedings, sue on behalf of estate, standing, locus standi, LPA donee no authority after death, spouse or child cannot sue, applicant before grant extracted*
 
 **End point:**
 - **Executor:** his authority comes from the will, so he may start proceedings before probate. He needs the grant to get judgment or enforce (*Lee Han Tiong v Tay Yok Swee* [1996] 2 SLR(R) 833).
@@ -1415,7 +1419,7 @@ SQ p78 Q3: Mr Tan (purchaser) must sign the Acceptance Copy on the original OTP,
 *Source note: RE-CS1 s22–30; RE4 s18–25; Cyril-RE §1.2.*
 
 ### pcp-m-1-17 — Stakeholding of the option exercise monies
-*Keywords: stakeholder, stakeholding clause, deposit held by vendor's solicitors, CVY account, conveyancing account, Singapore Academy of Law, SAL Conveyancing Money Service, release deposit to vendor, purchaser consent, vendor insolvency, encumbrances, refund of deposit, non-stakeholding*
+*Keywords: stakeholder, stakeholding clause, deposit held by vendor's solicitors, CVY account, conveyancing account, Singapore Academy of Law, SAL Conveyancing Money Service, release deposit to vendor, purchaser consent, vendor insolvency, encumbrances, refund of deposit, non-stakeholding, release monies early, seller needs money urgently, redeem personal loan, purchaser has not consented, option exercise monies*
 
 **End point:** The 4% exercise money is usually held by the vendor's solicitors (in their conveyancing account) or by SAL as stakeholders until completion, and then released to the vendor through the completion account. Purchaser: stakeholding makes a refund easier if the vendor defaults or becomes insolvent, and helps ensure the encumbrances can be discharged. Vendor: he would rather have it directly. If the purchaser agrees to non-stakeholding, his solicitor should check the encumbrances, or that the balance price comfortably covers them. Whether to stakehold is a commercial term.
 
@@ -2648,7 +2652,7 @@ Hospitalisation leave is the lesser of the cap and the outpatient days plus the 
 ### pcp-m-3-11 — Retirement, re-employment and the EAP
 *Keywords: Retirement and Re-employment Act, RRA, minimum retirement age 64, from 1 July 2026, raised from 63, re-employment up to 69, eligibility, Employment Assistance Payment, EAP, no suitable vacancy, s 8 RRA, dismissal on grounds of age prohibited, EAP is not retrenchment benefit*
 
-**End point:** The minimum retirement age is 64, raised from 63 on 1 Jul 2026. Employers must offer re-employment to eligible employees reaching 64, up to age 69. If there is no suitable vacancy, they must pay an Employment Assistance Payment (EAP). An employee may not be dismissed on the ground of age before the minimum retirement age (RRA s 8). Retrenchment is a different matter: SQ p81 Q3 (Richard, 63, department made redundant): he can be retrenched and has no statutory retrenchment benefit. The EAP is not a retrenchment payment (key D).
+**End point:** The minimum retirement age is 64, raised from 63 on 1 Jul 2026. Employers must offer re-employment to eligible employees reaching 64, up to age 69. If there is no suitable vacancy, they must pay an Employment Assistance Payment (EAP). An employee may not be dismissed on the ground of age before the minimum retirement age (RRA s 8). Retrenchment is a different matter: SQ p81 Q3 (Richard, 63, department made redundant): he can be retrenched and has no statutory retrenchment benefit. The EAP is not a retrenchment payment (key D). Had Richard been 64, the answer would be the same: a department-wide redundancy is not dismissal on the ground of age, and the EAP is due only where an eligible employee reaching retirement age cannot be offered re-employment. TODO: verify whether the Tripartite Guidelines on re-employment call for an EAP where a re-employed employee (64–69) is later retrenched.
 
 *Source note: EM1 s15, EM-CS1 s10 (64 / 69 from 1 Jul 2026); EM2 s25 (s 8 RRA); SQ p81 Q3 (key p129: D). Conflict: Cyril-EM §1.3.5 gives re-employment at 63 up to 68 (2025 law); the Course Materials (64 / 69 from 1 Jul 2026) are followed.*
 
@@ -2664,7 +2668,7 @@ Hospitalisation leave is the lesser of the cap and the outpatient days plus the 
 *Source note: EM1 s16.*
 
 ### pcp-m-3-13 — Workplace safety (WSHA) and work injury compensation (WICA)
-*Keywords: Workplace Safety and Health Act, employer duty, reasonably practicable, persons at work, principals, contractors, criminal penalties, officers personally liable, Work Injury Compensation Act, WICA, no civil suit needed, all employees, excluded independent contractors, self-employed, domestic workers, uniformed personnel, arising out of and in course of employment, occupational diseases Second Schedule, compulsory insurance, claim within 1 year*
+*Keywords: Workplace Safety and Health Act, employer duty, reasonably practicable, persons at work, principals, contractors, criminal penalties, officers personally liable, Work Injury Compensation Act, WICA, no civil suit needed, all employees, excluded independent contractors, self-employed, domestic workers, uniformed personnel, arising out of and in course of employment, occupational diseases Second Schedule, compulsory insurance, claim within 1 year, workmen's compensation, compensation claim, work injury compensation claim not in ECT*
 
 **End point:**
 - **WSHA:** employers must take reasonably practicable measures for the safety and health of their workers and of others affected by their work. Principals must protect their contractors and sub-contractors. Persons at work must use protective equipment and cooperate. Breach is criminal, with personal liability for officers.
@@ -2875,7 +2879,7 @@ Notice must be in writing, and the day it is given counts (s 10(5)). Either part
 *Source note: EM2 s21; EM-Statutes EA s 11(1).*
 
 ### pcp-m-3-31 — Termination without notice
-*Keywords: summary termination, s 11(2) wilful breach of condition, s 13(1) employer fails to pay salary deemed breach, s 13(2) absent more than 2 days continuously, no prior leave, no reasonable excuse, does not inform, s 14(1) misconduct, common law repudiation, RDC Concrete v Sato Kogyo, four situations, Phosagro Asia v Piattchanine, Uday Mehra v L Capital, redundancy not a ground, SQ Heather*
+*Keywords: summary termination, s 11(2) wilful breach of condition, s 13(1) employer fails to pay salary deemed breach, s 13(2) absent more than 2 days continuously, no prior leave, no reasonable excuse, does not inform, s 14(1) misconduct, common law repudiation, RDC Concrete v Sato Kogyo, four situations, Phosagro Asia v Piattchanine, Uday Mehra v L Capital, redundancy not a ground, SQ Heather, failure to pay salary, unpaid salary, employee may leave without notice, grounds for immediate termination, absent 2 days despite contract, contract says 5 days*
 
 **End point:** Without notice, a contract may end:
 - **s 11(2):** on a wilful breach by the other party of a condition of service;
@@ -2935,7 +2939,7 @@ If the Tribunal agrees, it may order reinstatement with the wages lost, or compe
 *Source note: EM2 s28; SQ p83 Q7 (key p129: C).*
 
 ### pcp-m-3-36 — TADM and the Employment Claims Tribunal
-*Keywords: Employment Claims Act 2016, ECA, Tripartite Alliance for Dispute Management, TADM, mediation, e-negotiation, Employment Claims Tribunal, ECT, wrongful dismissal limit $20,000, $30,000 union assisted, combined with salary claim $40,000, $60,000, discrimination claims excluded, file within 1 month after last day of employment, pregnancy exception, s 3 ECA, cap claim, WICA claims not in ECT, CDCSA maternity benefits, contractual retrenchment benefits*
+*Keywords: Employment Claims Act 2016, ECA, Tripartite Alliance for Dispute Management, TADM, mediation, e-negotiation, Employment Claims Tribunal, ECT, wrongful dismissal limit $20,000, $30,000 union assisted, combined with salary claim $40,000, $60,000, discrimination claims excluded, file within 1 month after last day of employment, pregnancy exception, s 3 ECA, cap claim, WICA claims not in ECT, CDCSA maternity benefits, contractual retrenchment benefits, claims ECT cannot hear, ECT jurisdiction, workmen's compensation, compensation claim*
 
 **End point:** A claim under the EA or ECA goes first to TADM (e-negotiation, then mediation). If unresolved, it is referred to the ECT. Limits per claim:
 
@@ -3058,7 +3062,7 @@ SQ p85 Q1: bringing the vehicle to a reporting centre or authorised workshop wit
 *Source note: PI2 s4–6, s8; SQ p85 Q1 (key p129: A).*
 
 ### pcp-m-4-7 — Duty to report; consequences of not reporting
-*Keywords: Singapore Accident Report, report regardless of claim, private settlement, failure to report, insurer disclaims coverage, late report beyond 24 hours, no claim discount, NCD reduced, report first decide later, SQ David*
+*Keywords: Singapore Accident Report, report regardless of claim, private settlement, failure to report, insurer disclaims coverage, late report beyond 24 hours, no claim discount, NCD reduced, report first decide later, SQ David, settle privately, settle the matter privately, without notifying insurers, minor accident no injury, no need to report*
 
 **End point:** The Singapore Accident Report must be made whether or not the motorist wants to claim. Failing to report is enough for the insurer to disclaim its contractual obligation to cover. Reporting after 24 hours may reduce the no-claim discount. Report first and decide later. Even if both sides plan a private settlement, comply with the MCF reporting requirement (SQ p88 Q9, key B).
 
@@ -3142,7 +3146,7 @@ There is no protocol for High Court claims that stay there; the practice is to s
 *Source note: PI-PD App B para 1.2; PI3 s2, s4, s6; SQ p86 Q3 (key p129: D). Conflict: PI3 s6 says the protocol does not apply to "claims that result in fatal accidents"; App B para 1.2(a)(iii) expressly includes them, as SQ Q3 assumes. The PD text is followed.*
 
 ### pcp-m-4-14 — NIMA: notice of accident and pre-repair survey
-*Keywords: notice of accident, 3 working days, pre-repair survey, PRS, insurer reply 2 working days, list of three motor surveyors, deemed agreement, single joint expert surveyor, survey within 2 working days, negotiate repair cost, post-repair inspection, repaired without survey, costs sanctions para 14, SQ Mei*
+*Keywords: notice of accident, 3 working days, pre-repair survey, PRS, insurer reply 2 working days, list of three motor surveyors, deemed agreement, single joint expert surveyor, survey within 2 working days, negotiate repair cost, post-repair inspection, repaired without survey, costs sanctions para 14, SQ Mei, repair costs, cost sanctions, sent car for repair immediately, no pre-repair survey, claim not automatically dismissed, claim not barred*
 
 **End point:**
 
@@ -3191,7 +3195,7 @@ For Magistrate's Court-value claims, he proposes experts (para 3.3). A non-resid
 *Source note: PI-PD App B paras 11.2, 15.2; PI3 s11; SQ p86 Q5, p89 Q10 (key p129: C, C).*
 
 ### pcp-m-4-18 — Non-compliance: sanctions and costs guidelines
-*Keywords: non-compliance, costs sanctions, court discretion, good reasons, other ADR attempted, para 15.1, pre-action costs guidelines, NIMA costs $300 to $1,000, PI settlement under $20,000 costs $1,500 to $2,500, claim not dismissed*
+*Keywords: non-compliance, costs sanctions, court discretion, good reasons, other ADR attempted, para 15.1, pre-action costs guidelines, NIMA costs $300 to $1,000, PI settlement under $20,000 costs $1,500 to $2,500, claim not dismissed, cost sanctions, automatically dismissed, claim barred, sanction for non-compliance*
 
 **End point:** Non-compliance leads to costs sanctions at the court's discretion, not dismissal. No sanctions are imposed where there are good reasons, such as trying another ADR forum (para 15.1). Pre-action costs guide where settled before action (para 13):
 
