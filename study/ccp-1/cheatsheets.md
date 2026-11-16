@@ -42,7 +42,7 @@ Topic headings read `<subject>.<Topic>`.
 *Source note: BF1 s5; RL-Methods p1–3 (English-law note); Cyril-BF §1.1.*
 
 ### ccp-1-0-3 — Equity v debt: key features
-*Keywords: equity v debt, shares v loan, shareholder, lender, dividends, profits, directors' discretion, interest, repayment, maturity date, increase in value, capital appreciation, insolvency, ranking, liquidation, creditors paid first, no market for private company shares, liability v asset, characterisation, Part B Course Pte Ltd, Big Whale LLP*
+*Keywords: equity v debt, shares v loan, shareholder, lender, dividends, profits, directors' discretion, interest, repayment, maturity date, increase in value, capital appreciation, insolvency, ranking, liquidation, creditors paid first, no market for private company shares, liability v asset, characterisation, Part B Course Pte Ltd, Big Whale LLP, annual payouts, dividend payments, payouts, no-lose investment, get all money back, sell shares for a profit*
 
 **End point:** The course compares facilities on six features: characterisation, how the money is returned or realised, maturity date, returns, increase in value, and treatment in insolvency. A lender must be repaid on the agreed date(s) and receives interest whatever the company's profits, but does not share in its success. A shareholder's money is not repaid; he gets dividends only if the company has profits available and the directors decide to pay them, and can profit from a rise in value by selling (though there is no market for shares in a private company). On insolvency, creditors are paid first and shareholders rank last, so shareholders usually get nothing back because debts exceed assets. Shareholders are not liable to pay the company's debts.
 
@@ -203,7 +203,7 @@ Topic headings read `<subject>.<Topic>`.
 - **Subsidiary guarantees parent's loan / gives security for purchase of its own shares** → corporate benefit; s 76 CA financial assistance; ss 162–163 CA → [0-26](#ccp-1-0-26)
 
 ### ccp-1-0-18 — Why take security; what happens on the borrower's insolvency
-*Keywords: reasons for taking security, protection on insolvency, enforce security, sell secured asset, proceeds of sale, shortfall, unsecured creditor for balance, ABCBanklegalofficer, priority over unsecured creditors*
+*Keywords: reasons for taking security, protection on insolvency, enforce security, sell secured asset, proceeds of sale, shortfall, unsecured creditor for balance, ABCBanklegalofficer, priority over unsecured creditors, bank will always get back all the money, only lose out on interest, X.com post, secured bank insolvent borrower*
 
 **End point:** Security protects the lender if the borrower becomes insolvent. The lender enforces the security, typically by selling the secured asset, and the proceeds go to the lender. If they are not enough, the lender claims the balance as an unsecured creditor, competing with the other unsecured creditors, and may not recover it in full. So a secured bank does not "always get back all the money it lent" (SQ p11 Q8, key D). An unsecured lender ranks equally with the other unsecured creditors.
 
@@ -440,7 +440,7 @@ Topic headings read `<subject>.<Topic>`.
 *Source note: BF3 s9; Cyril-BF §3.2; RL-VC p18; CA ss 18(1)(b), 161(1), (6) (SSO, current at 11 Nov 2026).*
 
 ### ccp-1-0-47 — Steps and documents: due diligence, SSA, SHA
-*Keywords: share subscription agreement, SSA, warranties, due diligence, legal financial tax commercial, shareholders' agreement, SHA, protective provisions, corporate governance rights, board appointment, reserved matters, anti-dilution, pre-emption, transfer restrictions, right of first refusal, exit mechanisms, co-sale, tag-along, Big Fish VC LLP, MSH Company Pte Ltd*
+*Keywords: share subscription agreement, SSA, warranties, due diligence, legal financial tax commercial, shareholders' agreement, SHA, protective provisions, corporate governance rights, board appointment, reserved matters, anti-dilution, pre-emption, transfer restrictions, right of first refusal, exit mechanisms, co-sale, tag-along, Big Fish VC LLP, MSH Company Pte Ltd, steps to implement the deal, venture capital fund invests, offering to one investor only, no offering to the public, no prospectus needed, convert to public company, due diligence on the investor, sole shareholder*
 
 **End point:** Usual steps: the investor carries out due diligence on the company (legal, financial, tax, commercial); the company and investor negotiate and sign the share subscription agreement (terms and conditions of the subscription, including warranties about the company's state); and the shareholders (founder and investor) negotiate and sign a shareholders' agreement (protective provisions for the investor, governance rights such as board seats and reserved matters, anti-dilution mechanisms, transfer restrictions such as rights of first refusal, and exit mechanisms such as co-sale/tag-along rights). No prospectus is needed for an offer to one VC investor, the company need not become public, and the founder does not usually do due diligence on the VC (SQ p9 Q5, key B: II, III and VI).
 
@@ -637,7 +637,7 @@ Topic headings read `<subject>.<Topic>`.
 *Source note: CG2 s7 (Rules 702, 703; Appendix 7.1 para 5); LM r 702, r 703(5); SQ p13 Q2 (option II wrong) and p17 Q10 (option II wrong), keys p114.*
 
 ### ccp-1-1-12 — Personal matters of a director or CEO
-*Keywords: personal affairs, Chairman, CEO, police investigation, false police report, Penal Code, traffic accident, coma, hospitalised, unable to perform duties, video on social media, wait until charged, wait until recovers, Fondue Limited, Unlucky Limited*
+*Keywords: personal affairs, Chairman, CEO, police investigation, false police report, Penal Code, traffic accident, coma, hospitalised, unable to perform duties, video on social media, wait until charged, wait until recovers, Fondue Limited, Unlucky Limited, Listing Rules, announce investigation, official statement to the local press, chairman investigated*
 
 **End point:** Information about a Chairman/CEO is not excluded just because it concerns his personal affairs: if it is material (it could create a false market or materially affect the share price, e.g. an investigation into serious offences, or his being in a coma and unable to act as Chairman and CEO), it must be announced immediately via SGXNET. The issuer cannot wait to see whether he is charged or until he regains consciousness, cannot use a press statement instead of SGXNET, and cannot rely on the matter already being public on social media. In both Sample Questions every statement suggesting otherwise was false.
 
@@ -1155,7 +1155,7 @@ Topic headings read `<subject>.<Topic>`.
 *Source note: INS1 s17; INS-SYL p1; Cyril-INS §1.2.3 (factors).*
 
 ### ccp-1-2-8 — Disputed debt and cross-claim; abuse of process
-*Keywords: disputed debt, substantial grounds, bona fide, genuine cross-claim, triable issues, stay or dismiss winding up application, injunction restraining application, abuse of process, Metalform Asia v Holland Leedon, Mohd Zain bin Abdullah v Chimbusco, RCMA Asia v Sun Electric exceptional, cross-claim exceeds debt, escrow, personal guarantee, Papaya Tree, Mega Farmer, Stoke, United*
+*Keywords: disputed debt, substantial grounds, bona fide, genuine cross-claim, triable issues, stay or dismiss winding up application, injunction restraining application, abuse of process, Metalform Asia v Holland Leedon, Mohd Zain bin Abdullah v Chimbusco, RCMA Asia v Sun Electric exceptional, cross-claim exceeds debt, escrow, personal guarantee, Papaya Tree, Mega Farmer, Stoke, United, coerce a debtor to pay, judgment against applicant unpaid, undisputed debt, supplier wants to wind up customer*
 
 **End point:** Where the debt is undisputed, the Court will ordinarily wind the company up (*Metalform Asia v Holland Leedon* [2007] 2 SLR(R) 268). But if the company genuinely disputes the debt on substantial grounds, or has a genuine cross-claim on substantial grounds, it may have the application stayed or dismissed, or restrain it by injunction, since presenting it would be an abuse of process; the standard is a triable issue (as on summary judgment). A cross-claim defeats the application where it equals or exceeds the debt: so a supplier owed an undisputed debt can apply to wind up only if its claim exceeds the debtor's unpaid judgment against it (SQ p18 Q1, key C), and a company sued-upon can resist if its genuine cross-claim on substantial grounds is equal to or more than the creditor's claim (SQ p19 Q2, key D) — the creditor need not first call on a personal guarantee, and the company need not already hold a judgment. In exceptional cases the Court may wind up despite a substantial dispute (*RCMA Asia v Sun Electric* [2020] SGHC 205).
 
@@ -1450,7 +1450,7 @@ Topic headings read `<subject>.<Topic>`.
 *Source note: INS3 s6–8; INS-CS1 p39–40; INS-SYL p8 (s 89); Cyril-INS §3.1; SQ p22 Q10 and p114 (key D).*
 
 ### ccp-1-2-40 — Who may apply (s 90); procedure; interim judicial manager
-*Keywords: s 90 IRDA, who can apply, company by members' resolution, directors by board resolution, any creditor, originating application, affidavit, s 91 court's power, s 92 interim judicial manager, licensed insolvency practitioner, s 50, nominee opposed by creditors, Marina, Mr Shenton*
+*Keywords: s 90 IRDA, who can apply, company by members' resolution, directors by board resolution, any creditor, originating application, affidavit, s 91 court's power, s 92 interim judicial manager, licensed insolvency practitioner, s 50, nominee opposed by creditors, Marina, Mr Shenton, creditor apply for judicial management, locus standi, standing, sell business as a going concern, smoother transition to liquidation, interests of shareholders*
 
 **End point:** A court JM application may be made by (a) the company (by members' resolution), (b) its directors (by board resolution), or (c) any creditor (s 90), by originating application in open court supported by affidavit. A creditor of a struggling company can therefore apply, if JM is likely to achieve a s 89 purpose — e.g. there is a reasonable prospect of selling the business as a going concern (SQ p22 Q9, key C); a smoother route to liquidation, or benefit to shareholders, is not the test. The Court may appoint an interim judicial manager pending the hearing (s 92). The judicial manager must be a licensed insolvency practitioner (s 50); creditors may oppose the company's nominee.
 
@@ -1935,7 +1935,7 @@ Topic headings read `<subject>.<Topic>`.
 *Source note: ADM1 s11; Cyril-ADM §4.3.*
 
 ### ccp-1-3-21 — Release from arrest; caveats against release; judicial sale
-*Keywords: release from arrest, security posted, settlement, instrument of release, O 33 r 13, undertaking for Sheriff's fees, caveat against release Form 55, 24 hours' written notice, intervener, take over arrest, appraisement and sale, judicial sale, lengthy arrest, GUNNERS Ltd, BLUES Ltd, reserve rights*
+*Keywords: release from arrest, security posted, settlement, instrument of release, O 33 r 13, undertaking for Sheriff's fees, caveat against release Form 55, 24 hours' written notice, intervener, take over arrest, appraisement and sale, judicial sale, lengthy arrest, GUNNERS Ltd, BLUES Ltd, reserve rights, release as expeditiously as possible, advice should not form part, set aside warrant wrongly invoked, new owner arrested for old owner crew wages*
 
 **End point:** Once security is provided (or the claim is settled), a party applies for an instrument of release (O 33 r 13), undertaking to pay the Sheriff's fees and expenses; it must search for caveats against release and, if one exists, give the caveator at least 24 hours' written notice to withdraw it or arrest in its own action. If no security is posted and there is no settlement, the arrest continues, and the Court may order the ship's appraisement and judicial sale. A new owner whose ship is arrested for the old owner's crew wages (a valid maritime lien claim) should not apply to set aside the arrest for want of jurisdiction; to release the ship quickly it should demand that the old owner provide security (claim, 3 years' interest, costs) while reserving its rights, and if the old owner refuses, put up the security itself under reservation (SQ p44 Q4, key A: option A is the advice NOT to give).
 
