@@ -48,6 +48,12 @@ tracker** artifact (<https://claude.ai/artifact/QKBF5HvcsMUjirCfmZAMzK>), which 
   `model-questions.md` the same way. Every paper gets both PDFs (Bennett, 5 Nov). For `eth-w`, `model-questions.md` is generated:
   run `python3 tools/assemble_eth_questions.py` after changing `model-answers.md`,
   `drills.md` or `pyp-facts.md`, never edit it by hand.
+- **Practice Pack (Bennett, 17 Nov):** `python3 tools/build_practice.py <paper-id>` writes
+  `study/<folder>/<paper-id>-practice.pdf` (drp-w → `study/drp-w-cl/`, CL + WA merged): contents,
+  past papers (2026 SQ, then years newest first, paper order, facts boxed), Drills (every other
+  question, timed by Topic), then the answer key. It only rearranges the Model Q&A Markdown — fix
+  content there and rebuild. A question counts as past-paper if its tag-line source starts
+  `PYP <year>`, `<year> ` or names the Sample Questions.
 - **Recording progress:** only on Bennett's word; read the doc, update the `subj` / `full` /
   `tasks` fields, set `updated`, pin `if_version`.
 - **Finding sources** (in `RULES.md` source order): `Bar Exam/Modules/<module>/<n.
