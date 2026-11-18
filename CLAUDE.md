@@ -34,15 +34,12 @@ tracker** artifact (<https://claude.ai/artifact/QKBF5HvcsMUjirCfmZAMzK>), which 
   `data/users/me` / `tracker`), work out today's block from `order` + `days` starting
   29 Oct, and say what that paper still needs.
 - **Starting a paper session:** brief it per `AGENTS.md`; name it by paper ID.
-- **Two phases (Bennett, 9 Nov — to save usage; see `PRD.md` §7):**
-  - **Phase 1, now:** build every paper's Reference Pack as Markdown only — `coverage.md`,
-    then `cheatsheets.md` / `prewrites.md` / `templates.md` in the pack format. Validate with
-    `python3 tools/build_pack.py <paper-id> --check` (all checks + coverage report, no PDF);
-    for `drp-w` use the pack folder, `drp-w-cl` or `drp-w-wa`.
-    No new PDFs; existing ones stay as they are.
-  - **Phase 2, only after all 8 packs are built AND Bennett says "make the PDFs":** PDFs
-    (`build_pack.py <paper-id>` and `--questions`), Model Q&A, PYP coverage checks (Question
-    Bank, `Tested` mapping), Drills, Practice Papers. Do none of these before then, for any paper.
+- **Phases (`PRD.md` §7):** Phase 1 (Markdown packs) and Phase 2 (PDFs, Model Q&A,
+  Practice Packs) are both done for all 8 papers (Bennett, 18 Nov). Bennett practises from
+  the PDFs, so any Markdown fix now means: run `build_pack.py <paper-id> --check`, rebuild
+  the affected PDF, and save it as the next version beside the old one
+  (e.g. `drpm-reference-pack-v2.pdf` → `-v3.pdf`; the builder writes `reference-pack.pdf`,
+  so rename it). For `drp-w` use the pack folder, `drp-w-cl` or `drp-w-wa`.
 - **Building a Reference Pack (Phase 2):** `python3 tools/build_pack.py <paper-id>` — the only
   builder; paper sessions run it, never edit it. The PDF is generated and git-ignored. `--questions` builds `model-questions.pdf` from
   `model-questions.md` the same way. Every paper gets both PDFs (Bennett, 5 Nov). For `eth-w`, `model-questions.md` is generated:
