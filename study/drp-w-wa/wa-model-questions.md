@@ -6,7 +6,7 @@ Paper `drp-w`, Subject 1 Written Advocacy (Question 5 of DRP Paper 1, about 30 m
 turns them into timed Drills. Markdown only (Phase 2 go-ahead for this file, Bennett, 11 Nov
 2026); no PDF yet.
 
-**What's in it (29 questions):**
+**What's in it (33 questions):**
 
 | Source | Questions |
 |---|---|
@@ -26,8 +26,8 @@ the source · the marks or time · the Template blocks in the Reference Pack it 
 
 Model answers are this pack's own drafting. Only the 2024 sample has a SILE guide answer
 (SQ p119–121), and only the Worked Examples have SILE worked answers (WE). Where those
-exist, the notes say how this answer differs. `TODO: verify` marks any point of law the
-sources do not settle.
+exist, the notes say how this answer differs. A `TODO: verify` tag would mark any point of
+law the sources do not settle; none is open (checked 18 Nov 2026).
 
 **Practice Paper warning:** if you mean to sit the 2025 paper (pyp-2025) unseen, don't
 read Q1-12 (in 1.III), which is its Written Advocacy question. The 2023 question is Q1-19
@@ -143,6 +143,227 @@ Name the fallacy in each sentence of this draft submission, and say how to fix i
    prejudice: drp-w-1-17).
 
 *Cite: SN5 ¶4, B–E; drp-w-1-3.*
+
+**Q1-30** · `1.I.3` · New · 8 minutes · `drp-w-1-3`
+
+*Sub-point 1.I.3: logic and reasoning, the SN5 fallacies Q1-3 does not test.*
+
+The other side's written submissions in a claim for unpaid invoices contain these sentences.
+Name the fallacy in each, and write the one-line reply you would put in your own submissions.
+
+1. "The Claimant cannot prove that the Defendant never received the replacement parts, so
+   the Defendant must be taken to have received them and set off their value."
+2. "The Defendant did not refuse to pay the invoices; it merely deferred payment
+   indefinitely."
+3. "It is standard practice in the printing industry for customers to pay 90 days late, so
+   the Defendant was not in breach."
+4. "The Claimant's sales fell in the month after the Defendant's new contract began, so the
+   Defendant caused the Claimant's losses."
+5. "The Defendant has paid late on the last four invoices, so it is bound to pay this one on
+   time and summary judgment is unnecessary."
+6. "Each of the 12 deliveries was only a day or two late, so the supply contract as a whole
+   was performed on time."
+7. "The Claimant is a reputable listed company, so each of its employees' statements in the
+   affidavits must be accurate."
+8. "If the goods had been defective, the Defendant could have rejected them. The goods were
+   not defective. So the Defendant had no right to terminate."
+
+**Answer.**
+
+| # | Fallacy (SN5) | Reply |
+|---|---|---|
+| 1 | **Negative proof** (¶21–22) | The Defendant asserts the set-off and bears the onus of proving it; the Claimant's inability to disprove receipt is not proof of receipt |
+| 2 | **Distinction without a difference** (¶12–14) | Deferring payment indefinitely after the due date is, in substance, refusing to pay: the invoices remain unpaid |
+| 3 | **Ad populum** (¶25–26) | What others in the industry do is irrelevant; the contract's 30-day term governs |
+| 4 | **False cause** (¶33–34) | Correlation is not causation; the Defendant points to no act of the Claimant that caused the fall |
+| 5 | **Gambler's fallacy** (¶31–32) | Past late payments say nothing about whether this invoice will be paid; it is due now and unpaid |
+| 6 | **Composition** (¶37–38) | What is true of each delivery is not true of the whole: 12 late deliveries are 12 breaches of the delivery dates |
+| 7 | **Division** (¶39–40) | The company's standing says nothing about the accuracy of any one employee's evidence; test each against the documents |
+| 8 | **Denying the antecedent** (¶44–46) | "If A then B; not A; so not B" is invalid: the Defendant may have had other grounds to terminate (e.g. repeated late delivery) |
+
+Marker's notes:
+
+- One mark for the name and one for a reply that answers **this** argument, not a general
+  definition.
+- Reply 1 uses DOTER's **Onus** (drp-w-1-2): the strongest answer to negative proof.
+- Keep the reply courteous: exposing a fallacy is not an attack on counsel (ad hominem;
+  PCR r 7(2)).
+
+*Cite: SN5 ¶2–4, ¶12–14, ¶21–22, ¶25–26, ¶31–34, ¶37–40, ¶44–46; drp-w-1-3.*
+
+**Q1-31** · `1.I.2` · New · 8 minutes · `drp-w-1-29`, `drp-w-1-2`
+
+*Sub-point 1.I.2: usage, composition and style (SN1 D–F).*
+
+Correct each sentence from a draft affidavit and statement of claim, and give the SN1 rule.
+
+1. "The Claimant delivered the goods, the Defendant did not pay."
+2. "The Defendant's director, Mr. Tan signed the contract on behalf of the company and it's
+   board."
+3. "Each of the Defendants were aware of the confidentiality clause."
+4. "The Defendant blatantly and deliberately ignored our client's very reasonable requests."
+5. "The Claimant would say that the Defendant may have been somewhat late in paying."
+6. "The Defendant was not very prompt. The goods were analyzed and found to be of poor
+   colour."
+7. "On 3 March the Defendant emails the Claimant and on 4 March it refused to pay."
+
+**Answer.**
+
+1. "The Claimant delivered the goods; the Defendant did not pay." No comma splice: join
+   independent clauses with a semicolon, or a conjunction and a comma (SN1 ¶42–43).
+2. "The Defendant's director, Mr Tan, signed the contract on behalf of the company and its
+   board." Parenthetic name between two commas (¶33); "its" is the possessive (¶26, ¶28);
+   "Mr" with no full stop (¶63).
+3. "Each of the Defendants **was** aware …" *Each* takes a singular verb (¶54).
+4. "The Defendant did not reply to the Claimant's letters of 1, 2 and 5 September 2025."
+   State facts, not opinion: adverbs carry opinion, qualifiers weaken (¶93(a), (f), (g));
+   specific and concrete (¶83).
+5. "The Defendant paid on [DATE], [N] days after the due date of [DATE]." Use *would, may*
+   only to convey uncertainty (¶82); no qualifiers (¶93(g)).
+6. "The Defendant paid 30 days late. The goods were analysed and found to be discoloured."
+   Positive form, not negative (¶79–80); British spelling, consistently (¶58–65).
+7. "On 3 March 2026 the Defendant emailed the Claimant, and on 4 March 2026 it refused to
+   pay." One tense in a narrative (¶87–88); comma before the conjunction joining
+   independent clauses (¶40); full dates (house style).
+
+Marker's notes:
+
+- Spelling alone is not penalised in the exam (OB 49), but sentences 1–3 change or blur
+  meaning, and 4–5 put argument and opinion into a document of fact (drp-w-1-10).
+
+*Cite: SN1 ¶26–28, ¶33, ¶40–43, ¶54, ¶58–65, ¶79–88, ¶93; drp-w-1-29; drp-w-1-2.*
+
+**Q1-32** · `1.I.2` · New (WE facts) · 8 minutes · `drp-w-1-2`
+
+*Sub-point 1.I.2: case analysis, good / bad / neutral facts, case theory (SN2 ¶22–28).*
+
+On the Worked Examples facts (Mr Tang lent Mr Chan S$90,000 by WhysApp on 1 April 2025,
+transferred 2 April, repayable "maybe by end August"; Mr Chan replied "Ya", "OK" and "Sorry,
+I just need some time" to reminders from 31 August to 5 September 2025), Mr Tang also tells
+you: "He's a crook: he did the same to his last business partner. I'm sure he's spent it on
+his gambling. There was no written loan agreement."
+
+- (a) Sort the material into fact, opinion, assumption, conjecture and inference.
+- (b) Classify the good, bad and neutral facts, and say how you deal with the bad one.
+- (c) State the case theory in two sentences for the opening of the summary judgment
+  submissions.
+
+**Answer.**
+
+**(a)** Facts: the messages, the transfer, the dates. Opinion: "he's a crook". Conjecture:
+"spent it on his gambling"; "did the same to his last business partner" is untested
+hearsay. Inference: the requests for time acknowledge the debt (WE [19] ¶9). Assumption:
+that "maybe by end August" fixed a due date of 31 August 2025; test it, because it is the
+point the Defendant could take.
+
+**(b)** Good: "$90k received, thank you"; repeated requests for time; no denial; no reply to
+the letter of demand. Neutral: they were friends; Mr Chan's business. Bad: no signed loan
+agreement, and "maybe by end August" is loose. Address it, don't hide it: the WhysApp
+exchange is the written agreement (WE [21] ¶15), and the reply "Ya" to the 31 August
+reminder accepts that date. Leave out the opinion and conjecture: they are not evidence
+and would cost ethos (SN1 ¶93(a); SN2 ¶35).
+
+**(c)** "This is a straightforward claim for a loan of S$90,000 that the Defendant
+acknowledged receiving and agreed to repay by 31 August 2025. He has never denied the debt;
+he has only asked for more time, and his Defence is a bare non-admission."
+
+Marker's notes:
+
+- The SN2 ¶22(d) distinction is the step most candidates skip.
+- A Bad Fact must be met (SN2 ¶24); an opening that ignores the missing written agreement
+  invites the reply.
+
+*Cite: SN2 ¶22–28, ¶35; SN1 ¶93; WE Annex 1(1), Annex 2(4) ¶1, ¶9, ¶15; drp-w-1-2.*
+
+**Q1-33** · `1.I.4` · New (WE facts) · 15 minutes · `drp-w-1-30`
+
+*Sub-point 1.I.4: opinion or advice to a client.*
+
+Mr Tang (WE facts, Q1-32) asks for short written advice before he decides whether to sue
+Mr Chan for the S$90,000. Your partner wants a letter to Mr Tang, not a memo. Draft it. You
+have reviewed the WhysApp messages of 1 April to 5 September 2025 and the OOBC transfer
+screenshot of 2 April 2025. Today is 15 September 2025; no letter of demand has been sent.
+
+**Answer.**
+
+```text
+PRIVATE AND CONFIDENTIAL
+15 September 2025
+Mr Tang Lee Ming
+74B Hibiscus Lane, Singapore 323074
+
+Dear Mr Tang,
+
+ADVICE ON RECOVERING YOUR S$90,000 LOAN TO MR CHAN LONG CHUENG
+
+A. SUMMARY
+1.  You have a strong claim against Mr Chan for S$90,000. He agreed in
+    writing to repay by the end of August 2025, confirmed he received the
+    money, and has since only asked for more time. We recommend a letter of
+    demand and a written offer to settle now, and a claim in the District
+    Court if he does not pay within 14 days.
+
+B. WHAT WE HAVE RELIED ON
+2.  We have reviewed: (a) your WhysApp messages with Mr Chan from 1 April
+    to 5 September 2025; and (b) the OOBC transfer screenshot of
+    2 April 2025. This advice is based on those documents and on what you
+    told us on [DATE]. It may change if further information or documents
+    come to light, so please tell us of any other dealings with Mr Chan
+    about this money.
+
+C. THE FACTS
+3.  On 1 April 2025 Mr Chan asked to borrow S$90,000 and said he would repay
+    "maybe by end August". You agreed. On 2 April 2025 you transferred
+    S$90,000 to his PPSB account, and he replied "$90k received, thank you".
+4.  Since 31 August 2025 you have reminded him repeatedly. He has not paid.
+    He has not denied the debt; he has asked for more time.
+
+D. THE QUESTIONS
+5.  You asked: (a) can you recover the S$90,000; and (b) what are the next
+    steps?
+
+E. OUR ADVICE
+Can you recover the money?
+6.  Yes, in our view. The messages are a written record of the loan and
+    its terms, and his "thank you" and later requests for time show he
+    accepts he owes it. The weak point is the words "maybe by end August",
+    which he could argue left the date open. But he answered "Ya" to your
+    31 August reminder, which supports that date.
+7.  The court can also award you interest (usually at 5.33% a year) and part
+    of your legal costs.
+
+What happens next?
+8.  The court rules require you to try to settle before suing. So we will
+    send (a) a formal letter demanding payment within 14 days, and (b) a
+    separate written offer to settle, for example S$87,500 in up to three
+    instalments by the end of September if you wish to offer a discount.
+9.  If he does not pay, we can start a claim. If his defence only says he
+    "does not admit" the claim, we can apply for judgment without a full
+    trial (summary judgment).
+
+F. WHAT WE NEED FROM YOU
+10. Please confirm (a) whether you wish to offer a discount or instalments,
+    and on what terms; and (b) your bank details for payment.
+
+Yours sincerely,
+[NAME]
+Legal Excellence LLP
+```
+
+Marker's notes:
+
+- **Executive summary first** (SN2 ¶14): the answer and the recommendation.
+- **Documents relied on, and the caveat** that the advice may change (SN2 ¶11).
+- **Facts and issues at the outset**, succinctly (SN2 ¶12); headings throughout (¶13).
+- **No legalese** (SN2 ¶9–10): "judgment without a full trial (summary judgment)", not "O 9
+  r 17 application for want of a bona fide defence"; no case names for a lay client.
+- **The Bad Fact is addressed** ("maybe by end August": SN2 ¶24).
+- Facts match the WE (Annex 1(1): the S$87,500, 3 instalments, end September offer).
+  Interest at 5.33% under CLA s 12 is in the court's discretion (drp-w-1-20); the O 5
+  offer before commencing is drp-w-1-6.
+- **Not** included: Mr Tang's views on Mr Chan's character (opinion, conjecture: Q1-32).
+
+*Cite: SN2 ¶9–15, ¶24; WE Annex 1(1); drp-w-1-30, drp-w-1-6, drp-w-1-20, drp-w-1-26.*
 
 ### 1.II Correspondence
 
@@ -2109,6 +2330,9 @@ Q1-2 (8 min), Q1-3 (6 min), Q1-6 (5 min), Q1-11 (6 min), Q1-21 (5 min). Mark aga
 model answer: one point per correct identification or rewrite. The aim is speed on the rules
 that cost marks in every document.
 
+**Drill 7B — Skills set 2 (24 min):** Q1-30 (8 min), Q1-31 (8 min), Q1-32 (8 min). Same
+marking: one point per correct identification, rewrite or classification.
+
 ### Drill 8 — Reply letter and extension affidavit (36 min)
 
 Q1-8 (20 min) and Q1-18 (16 min). Marking points:
@@ -2127,13 +2351,14 @@ Q1-8 (20 min) and Q1-18 (16 min). Marking points:
 
 Every Sub-point in `coverage.md` and the questions that test it.
 
-**Result:** 28 of 28 Sub-points have at least one question.
+**Result:** 29 of 29 Sub-points have at least one question. Q1-30 to Q1-33 (added 18 Nov 2026 after the audit) sit under 1.I, out of number order. Between them Q1-3 and Q1-30 test 13 of SN5's 17 fallacies (not equivocation, red herring, straw man or affirming the consequent, which are in the drp-w-1-3 table).
 
 | Key | Sub-point | Questions |
 |---|---|---|
 | 1.I.1 | Reading the drafting task; limb-to-fact map | Q1-1 |
-| 1.I.2 | Principles of good and legal writing | Q1-2 |
-| 1.I.3 | Logic and reasoning: fallacies | Q1-3 |
+| 1.I.2 | Principles of good and legal writing; usage | Q1-2, Q1-31, Q1-32 |
+| 1.I.3 | Logic and reasoning: fallacies | Q1-3, Q1-30 |
+| 1.I.4 | Opinion or advice to a client; research memo | Q1-33 |
 | 1.II.1 | Letter of demand | Q1-4, Q1-5 |
 | 1.II.2 | What a letter may not demand or threaten | Q1-5, Q1-6 |
 | 1.II.3 | Order 5 offer of amicable resolution | Q1-7 |

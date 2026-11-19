@@ -876,7 +876,7 @@ See Q2021-5b under 0.IX.3 (preserving the surveillance footage under O 13 r 2).
 
 ### 0.XII Further arguments and appeals
 
-Sub-points 0.XII.1–0.XII.7. Tested: 0.XII.2, 0.XII.3, 0.XII.4, 0.XII.6, 0.XII.7. Questions sit under 0.XII.2 (Q2022-6b, Q2022-6c, Q2025-4-1), 0.XII.3 (Q2022-6d, Q2023-4-1, Q2025-4-2), 0.XII.4 (Q2021-6, Q2022-6a, Q2023-4-2, Q2025-3-2), 0.XII.6 (Q2022-6e) and 0.XII.7 (Q2021-8). Drill 21 covers 0.XII.1.
+Sub-points 0.XII.1–0.XII.8 (0.XII.5 is background only). Tested: 0.XII.2, 0.XII.3, 0.XII.4, 0.XII.6, 0.XII.7. Questions sit under 0.XII.2 (Q2022-6b, Q2022-6c, Q2025-4-1), 0.XII.3 (Q2022-6d, Q2023-4-1, Q2025-4-2), 0.XII.4 (Q2021-6, Q2022-6a, Q2023-4-2, Q2025-3-2), 0.XII.6 (Q2022-6e) and 0.XII.7 (Q2021-8). Drills 21 and 25 cover 0.XII.1 and 0.XII.8 (added 18 Nov 2026).
 
 ### 0.XII.2 — Which appeal track (O 18 or O 19); when time runs; no automatic stay
 
@@ -1237,7 +1237,7 @@ Therefore P will probably receive her costs up to the date of the offer, but the
 
 ## 0 · Civil Litigation — Drills
 
-Part 2. One drill for each of the 22 Sub-points no past paper has tested, in `coverage.md` order, plus Drills 17 (0.X.1) and 23 (0.XIV.3), whose Sub-points past papers raised only inside a larger question. Each is a short hypothetical, a question and a model answer, written for this file on 11 Nov 2026 from `prewrites.md`. Self-study only.
+Part 2. One drill for each of the 23 Sub-points no past paper has tested (Drill 25, for 0.XII.8, added 18 Nov 2026), in `coverage.md` order, plus Drills 17 (0.X.1) and 23 (0.XIV.3), whose Sub-points past papers raised only inside a larger question. Each is a short hypothetical, a question and a model answer, written for this file on 11 Nov 2026 from `prewrites.md`. Self-study only.
 
 ### 0.I Courts, jurisdiction and sources — drills
 
@@ -1601,7 +1601,7 @@ Therefore India should apply without notice to a Judge for a narrowly framed For
 
 ### 0.XII Further arguments and appeals — drills
 
-Drill 21 covers 0.XII.1.
+Drills 21 and 25 cover 0.XII.1 and 0.XII.8.
 
 ### 0.XII.1 — Further arguments
 
@@ -1618,6 +1618,22 @@ Section 29B applies to a decision of a General Division Judge "after any hearing
 The decision was made in chambers on an application, not after a trial, so s 29B applies. The 15th day after 2 November 2026 is 17 November 2026; Kilo must file before then, and before the order is extracted. The new Court of Appeal authority is a proper new argument. Kilo should also note that an appeal against "an order refusing to strike out an action, pleading or part" needs permission (Fifth Schedule para 3(e) SCJA), which is why the further-arguments request must come first (O 18 r 29(2)).
 
 Therefore Kilo should file a Request for further arguments with the new authority before extraction and by 17 November 2026; its time to seek permission to appeal will run from the Judge's response (or 14 days of silence).
+
+### 0.XII.8 — Appeals from a District Court or Magistrate's Court to the General Division
+
+**Qdrill-25** · `0.XII.8` · drill-25 · `drp-w-0-84`
+
+Mike Pte Ltd sued November Pte Ltd in the District Court for $48,000. On Thursday 5 November 2026 the District Judge, in chambers, gave November unconditional permission to defend on Mike's summary judgment application. In a separate District Court action, Oscar Pte Ltd's $180,000 claim against Papa Pte Ltd was dismissed after trial on the same day. Advise Mike and Oscar on whether and how they can appeal.
+
+**Answer.**
+
+The issues are whether an appeal lies to the General Division in each case, whether permission is needed, and the steps and deadlines. Mike needs permission, both because the amount in dispute is $60,000 or less and because the order gave unconditional permission to defend, and must first ask the District Judge within 14 days; Oscar may appeal as of right and must file its notice of appeal within 14 days of the judgment.
+
+The appellate civil jurisdiction of the General Division includes "the hearing of appeals from District Courts and Magistrates' Courts" (s 20(b) SCJA). An appeal lies "only with the permission of that District Court or Magistrate's Court or the General Division" in "(a) any case where the amount in dispute, or the value of the subject matter … (excluding interest and costs) does not exceed $60,000 …; (b) any case specified in the Third Schedule" (s 21(1)), and the Third Schedule includes an order "giving unconditional permission to defend any proceedings" (para (a)). The General Division's order on permission is final (s 21(2A)). Decisions on applications are appealed under Order 18 Division 3: where permission is required, the party applies to the District Judge within 14 days after the decision, and, if refused, to the General Division within 14 days after the refusal; if granted, the Form 35 notice of appeal is due within 14 days after the grant (O 18 rr 17, 19). Judgments after the trial of an originating claim are appealed under Order 19 Division 2, with the Form 35 notice due within 14 days after the judgment (O 19 rr 13(1)(a), 14(1)). Security for the respondent's costs of $5,000 for a District Court action must be provided when the notice of appeal is filed (O 18 r 20(5)(b); O 19 r 16(5)(b)). The appeal is a rehearing, and further evidence needs permission and special grounds unless it concerns later events (s 22(1), (4)–(5)).
+
+Mike: the order on a summary judgment application is a decision on an application in the action, so Order 18 Division 3 applies. Permission is needed twice over: $48,000 does not exceed $60,000 (s 21(1)(a)), and the order is in the Third Schedule (para (a)). Mike must apply to the District Judge by Thursday 19 November 2026 (14 days after 5 November, O 3 r 3); if refused, it must apply to the General Division within 14 days of the refusal, and that decision is final. If permission is granted, it files Form 35 within 14 days with a $5,000 Form 36 certificate. Oscar: the dismissal after trial is a judgment in a trial of an originating claim, so Order 19 Division 2 applies; $180,000 exceeds $60,000 and a dismissal after trial is not a Third Schedule order, so no permission is needed. Oscar must file and serve Form 35 by Thursday 19 November 2026, with $5,000 security. Order 20 does not apply to either, because it does not apply to an appeal from a State Court (O 20 r 1(2)).
+
+Therefore Mike must seek the District Judge's permission to appeal by 19 November 2026 (then, if refused, the General Division's), and Oscar may appeal to the General Division as of right by filing its notice of appeal and $5,000 security by 19 November 2026.
 
 ### 0.XIV Costs — drills
 

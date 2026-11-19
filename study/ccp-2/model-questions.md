@@ -2,7 +2,7 @@
 
 Paper `ccp-2`, CCP Paper 2 (MCQ), Thu 10 Dec 2026, 2:30–4:30pm, open book. Subjects: 0 Intellectual Property · 1 Mergers & Acquisitions · 2 Competition Law · 3 Taxation. Written 15 Nov 2026 as Markdown only, on Bennett's instruction of 14 Nov. No PDF is built until Phase 2 (`python3 tools/build_pack.py ccp-2 --questions`).
 
-**How the file runs.** *Part 1* holds the questions by Subject → Topic → Sub-point, in `coverage.md` order. Each real question sits under the Sub-point it mainly tests. Any other Sub-point it tests is named in its tag line and gets a "See also" line. Where no real question reaches a Sub-point, an own question fills the gap. Every one of the 149 Sub-points has at least one question whose tag line names it. *Part 2* holds the Drills: timed sets built from Part 1 questions, by Topic or mixed, each with a time limit and an answer key.
+**How the file runs.** *Part 1* holds the questions by Subject → Topic → Sub-point, in `coverage.md` order. Each real question sits under the Sub-point it mainly tests. Any other Sub-point it tests is named in its tag line and gets a "See also" line. Where no real question reaches a Sub-point, an own question fills the gap. Every one of the 171 Sub-points has at least one question whose tag line names it. *Part 2* holds the Drills: timed sets built from Part 1 questions, by Topic or mixed, each with a time limit and an answer key.
 
 **How to read a question.** The tag line gives four things: the question ID, the Sub-point Keys it raises (`coverage.md`), the source, and the end-point block(s) in `cheatsheets.md` that hold the rule. The answer follows the options. It says why the right option is right and why each other option is wrong, then gives the cite. Cites use the source aliases in `coverage.md` → "Source key" and statute sections. Cover the answer, answer the question, then check. Log every miss in `weak-spots.md` under its Key.
 
@@ -21,20 +21,15 @@ Paper `ccp-2`, CCP Paper 2 (MCQ), Thu 10 Dec 2026, 2:30–4:30pm, open book. Sub
 
 Self-study only: never use this file with a live quiz, the Mock Exam or any other assessment (Handbook §7.11).
 
-**Left out of the 2023 paper:** six questions the pack cannot settle to one answer.
-- Q22: s 13W and a mix of ordinary and preference shares. Under the current s 13W (see `ccp-2-3-9`) every option is wrong. The 2023 answer depended on the preference-share rules as they then stood, which the pack does not hold.
-- Q33: which category of the fresh-chicken conduct the Competition Appeal Board found unproven. The course materials and the CCCS media release do not say.
-- Q37: an example of a "temporal" market. The term appears in no course material.
-- Q48: whether a cousin and a grandchild are "close relatives" under the Take-over Code. The definition is not in the slides or Cyril's notes.
-- Q53: the s 161 Companies Act share-issue mandate, and Q54: s 76 financial assistance. Both are outside the M&A Coverage List (s 76 is only named on the reading list) and the pack holds no rule for them.
+**The 2023 paper:** every one of the 60 questions held is now in Part 1. Q22, Q33, Q37, Q48, Q53 and Q54 were left out until 18 Nov 2026, when the pack gained the rules they need (s 13W preference shares, the CAB chicken appeal, temporal markets, close relatives, s 161, s 76).
 
 | Subject | Real questions | Own questions | Total |
 |---|---|---|---|
-| 0 Intellectual Property | 26 (SQ 10; 2023 16) | 43 | 69 |
-| 1 Mergers & Acquisitions | 23 (SQ 10; 2023 13) | 36 | 59 |
-| 2 Competition Law | 22 (SQ 10; 2023 12) | 20 | 42 |
-| 3 Taxation | 23 (SQ 10; 2023 13) | 14 | 37 |
-| **Total** | **94** (SQ 40; 2023 54) | **113** | **207** |
+| 0 Intellectual Property | 26 (SQ 10; 2023 16) | 49 | 75 |
+| 1 Mergers & Acquisitions | 26 (SQ 10; 2023 16) | 37 | 63 |
+| 2 Competition Law | 24 (SQ 10; 2023 14) | 31 | 55 |
+| 3 Taxation | 24 (SQ 10; 2023 14) | 17 | 41 |
+| **Total** | **100** (SQ 40; 2023 60) | **134** | **234** |
 
 Part 2 has 12 Drills. The own questions' answer letters were spread across A–D after drafting, so a letter pattern gives nothing away. The real questions keep their original lettering.
 
@@ -46,7 +41,7 @@ Part 2 has 12 Drills. The own questions' answer letters were spread across A–D
 
 ### 0.I Trade marks: what a mark is, why register, absolute grounds
 
-Sub-points 0.I.1–0.I.6. Real questions: QSQ-IP1, Q23-1, Q23-3. Own questions: Q0-1, Q0-2, Q0-3.
+Sub-points 0.I.1–0.I.8. Real questions: QSQ-IP1, Q23-1, Q23-3. Own questions: Q0-1, Q0-2, Q0-3, Q0-44, Q0-45.
 
 ### 0.I.1 — Definition of trade mark and sign (s 2(1) TMA); graphical representation
 
@@ -145,6 +140,34 @@ D. I, II, III and IV
 *Cite: TMA ss 7(1)(b)–(c), 7(2), 23(1)–(2); IP1 s11–23, s57; `ccp-2-0-5`, `ccp-2-0-14`*
 
 See also QSQ-IP1 under 0.I.1 ("LOVE" for jewellery; s 7(1)(b) and (c) overlap).
+
+### 0.I.7 — Why trade marks (origin, quality, just desserts); trade marks v patents v copyright compared
+
+**Q0-44** · `0.I.7` · own question · `ccp-2-0-54`
+
+Which statement about trade marks, patents and copyright in Singapore is CORRECT?
+
+A. All three arise automatically once the work, invention or mark exists.
+B. A patent lasts 20 years from filing if renewal fees are paid; a registered trade mark lasts 10 years from the filing date and can be renewed indefinitely; copyright arises without registration.
+C. A trade mark must be registered before it can be used in Singapore.
+D. Copyright in a literary work lasts 20 years from publication.
+
+**Answer: B.** A patent is in force from grant until 20 years from filing, subject to renewal fees (s 36 PA); a trade mark is registered for 10 years from the (deemed) registration date, the filing date, renewable for further 10-year periods (ss 15(2), 18 TMA); copyright is automatic (CA). A is wrong: patents and registered marks need registration. C is wrong: registration is not needed to use a mark, only to sue for infringement (otherwise passing off). D is wrong: authorial works last life plus 70 years.
+*Cite: IP1 s5–10; TMA ss 15(2), 18; PA s 36; CA s 114; `ccp-2-0-54`*
+
+### 0.I.8 — Certification and collective marks; who may file; no time limit; marks common to the trade, immoral or deceptive (TM Infopack)
+
+**Q0-45** · `0.I.8` · own question · `ccp-2-0-55`
+
+An industry association wants a mark that only its members may use on their goods, to show membership. What kind of mark is it, and what must accompany the application?
+
+A. A certification mark; the association must itself trade in the goods.
+B. An ordinary trade mark; nothing further is needed.
+C. A collective mark; regulations governing its use must be filed within 9 months of the filing date.
+D. A collective mark; it can be registered only if the members are Singapore citizens.
+
+**Answer: C.** A collective mark distinguishes members' goods or services from non-members'; applications for collective (and certification) marks must be followed by regulations governing use within 9 months. A is wrong: a certification mark certifies characteristics, and its owner should not trade in the certified goods. D is wrong: there is no nationality requirement, though an address for service in Singapore is needed.
+*Cite: TM Infopack pp 6, 8, 15; `ccp-2-0-55`*
 
 ### 0.II Trade marks: relative grounds and the Staywell test
 
@@ -537,7 +560,7 @@ D. The specification need only disclose enough for an expert scientist to recons
 
 ### 0.VII Patents: grant process and pre-filing considerations
 
-Sub-points 0.VII.1–0.VII.5. All own questions (Q23-7 also touches 0.VII.1): Q0-20 to Q0-24.
+Sub-points 0.VII.1–0.VII.6. All own questions (Q23-7 also touches 0.VII.1): Q0-20 to Q0-24, Q0-46.
 
 ### 0.VII.1 — Filing date, publication at 18 months, effect of publication (s 26, 27, 76)
 
@@ -610,6 +633,20 @@ D. Neither assignment is effective until the patent expires.
 
 **Answer: C.** A patent is personal property that may be assigned, mortgaged or licensed (s 41(1)–(4) PA). An assignment is void unless in writing and signed by or on behalf of the assignor (s 41(6)). A person claiming under a later transaction also takes priority over an earlier unregistered one if he did not know of it (s 43(1)). Had Psi delayed registration beyond 6 months, it would have lost damages for infringements before registration (s 75). A, B and D are wrong.
 *Cite: PA ss 41, 43, 75; `ccp-2-0-31`*
+
+### 0.VII.6 — First to file; foreign-filing authorisation (s 34); application contents; "patent pending"
+
+**Q0-46** · `0.VII.6` · own question · `ccp-2-0-56`
+
+A Singapore-resident inventor wants to file a patent application in the United States first, before filing anywhere else. Which statement is CORRECT?
+
+A. She may do so freely; Singapore law does not regulate foreign filings.
+B. She needs the Registrar's written authority, unless she files in Singapore at least 2 months before the US filing and no secrecy direction is in force; filing abroad without it is an offence.
+C. She must wait 18 months after any Singapore filing before filing abroad.
+D. She may file abroad only after the Singapore patent is granted.
+
+**Answer: B.** s 34(1) PA bars a Singapore resident from filing abroad without the Registrar's written authority unless the same invention was filed in Singapore at least 2 months earlier and no s 33 direction applies; breach is a criminal offence. C and D invent conditions; 18 months is the publication point.
+*Cite: PA s 34(1); Patents Infopack pp 7, 30–31; `ccp-2-0-56`*
 
 ### 0.VIII Patents: infringement, defences and revocation
 
@@ -776,7 +813,7 @@ D. Copyright cannot be assigned in part or for future works.
 
 ### 0.X Copyright: exclusive rights, duration, infringement and permitted uses
 
-Sub-points 0.X.1–0.X.5. Real questions: Q23-9, Q23-11. Own questions: Q0-32, Q0-33.
+Sub-points 0.X.1–0.X.6. Real questions: Q23-9, Q23-11. Own questions: Q0-32, Q0-33, Q0-47.
 
 ### 0.X.1 — Copyright is a negative right; exclusive rights by type of work (reproduce, publish, communicate, perform, adapt)
 
@@ -864,9 +901,23 @@ D. Fair use is assessed only by how much of the work was copied.
 
 See Q23-11 under 0.X.3 (option D: a leak 10 years ago is time-barred).
 
+### 0.X.6 — Collective management organisations; © symbol; equitable remuneration for public performance of sound recordings
+
+**Q0-47** · `0.X.6` · own question · `ccp-2-0-57`
+
+A restaurant plays commercially released recorded music for its customers. It already holds a licence from COMPASS. Which statement is MOST ACCURATE?
+
+A. It needs nothing more: the COMPASS licence covers every right in the recordings.
+B. Because the CDs carry no © symbol, no copyright licence is needed.
+C. It may also need a licence for the public performance of the sound recordings themselves (e.g. from MRSS), because sound recording owners are entitled to equitable remuneration for public performance.
+D. Public performance of recorded music in a business is a permitted use.
+
+**Answer: C.** COMPASS licenses the musical works and lyrics; the owner of a sound recording has a separate right to equitable remuneration for its public performance (s 121(b) CA), licensed e.g. through MRSS. B is wrong: the © symbol neither creates copyright nor is needed. D is wrong: there is no such permitted use.
+*Cite: CA s 121(b); Copyright 101 Infopack pp 6–7, 10, 12; `ccp-2-0-57`*
+
 ### 0.XI Remedies; defence and counterclaim
 
-Sub-points 0.XI.1–0.XI.4. Real question: Q23-10 (QSQ-IP7, QSQ-IP2 and Q23-8 also touch it). Own questions: Q0-36, Q0-37.
+Sub-points 0.XI.1–0.XI.5. Real question: Q23-10 (QSQ-IP7, QSQ-IP2 and Q23-8 also touch it). Own questions: Q0-36, Q0-37, Q0-48.
 
 ### 0.XI.1 — Statutory damages: copyright (s 308) and counterfeit trade marks (s 31(5)–(6))
 
@@ -940,9 +991,23 @@ D. File a defence only. Validity cannot be raised in infringement proceedings.
 **Answer: A.** When sued on a patent or registered mark, the defendant files a defence and counterclaim putting validity in issue: revocation of a patent under s 80 PA (here for lack of novelty, s 80(1)(a)), or invalidation or revocation of a mark under ss 23 or 22 TMA. If the counterclaim succeeds there is no right to sue on. D is wrong. C: there is no opposition to a granted patent. B: re-examination (non-examinable) is no answer to a pending infringement claim.
 *Cite: PA s 80(1); IP2 s14–16; `ccp-2-0-47`*
 
+### 0.XI.5 — Relief: injunction, delivery up, declaration (s 31 TMA, s 67 PA, s 305 CA); innocent copyright infringer (s 306)
+
+**Q0-48** · `0.XI.5` · own question · `ccp-2-0-58`
+
+A defendant copied a photograph believing, on reasonable grounds, that it was out of copyright; it was not. Under the Copyright Act 2021, which relief is NOT available to the owner?
+
+A. An injunction.
+B. Damages.
+C. An account of profits.
+D. A delivery up order.
+
+**Answer: B.** No damages may be ordered against a defendant who did not know and could not reasonably have known that the act infringed; other remedies, including an account of profits, remain (s 306 CA). Contrast s 69 PA, which bars both damages and an account against an innocent patent infringer.
+*Cite: CA ss 305(1), 306; PA s 69; `ccp-2-0-58`*
+
 ### 0.XII Confidential information
 
-Sub-points 0.XII.1–0.XII.3. Real questions: Q23-12, QSQ-IP8, Q23-13. Own questions: Q0-40, Q0-41.
+Sub-points 0.XII.1–0.XII.4. Real questions: Q23-12, QSQ-IP8, Q23-13. Own questions: Q0-40, Q0-41, Q0-49.
 
 ### 0.XII.1 — Protecting confidential information: contract, access, awareness; NDA considerations
 
@@ -1014,6 +1079,20 @@ D. The defendant must pay the claimant's lost profits and a licence fee cumulati
 
 **Answer: A.** *Wrotham Park* damages are an alternative to an injunction. Once they are paid, the defendant is regarded as having made an outright purchase of the information (*Clearlab* at [335]). C confuses them with the damages for hurt feelings and mental distress that only private individuals can claim. D is wrong: lost profits apply if the claimant would not have licensed the information, and licence fees if it would have; they are alternatives.
 *Cite: IP7 s14–15; `ccp-2-0-50`*
+
+### 0.XII.4 — Trade secrets: qualities, Computer Misuse Act, confidentiality factors, employees, public interest, remedies
+
+**Q0-49** · `0.XII.4` · own question · `ccp-2-0-59`
+
+Which statement about trade secrets is CORRECT?
+
+A. A trade secret must be registered with IPOS to be protected.
+B. A trade secret is protected for 20 years from the date it is created.
+C. After leaving, an ex-employee who logs in to the former employer's server without authority to download customer data may commit an offence under the Computer Misuse Act, besides breaching confidence.
+D. Disclosing confidential information is never justified.
+
+**Answer: C.** Trade secrets need no registration and last as long as they stay secret (A, B wrong). Unauthorised access to computer data is an offence under s 3(1) of the Computer Misuse Act 1993. D is wrong: public interest can justify disclosure, e.g. to the police (*Lion Laboratories v Evans*).
+*Cite: Trade Secrets Enterprise Guide pp 2–3, 7; `ccp-2-0-59`*
 
 ### 0.XIII IP in business
 
@@ -1471,7 +1550,7 @@ See also QSQ-MA6 under 1.III.2.
 
 ### 1.IV Public take-overs: the Take-over Code and other sources of law
 
-Sub-points 1.IV.1–1.IV.4. Real question: Q23-50. Own questions: Q1-16, Q1-17, Q1-18.
+Sub-points 1.IV.1–1.IV.6. Real questions: Q23-50, Q23-54, Q23-53. Own questions: Q1-16, Q1-17, Q1-18.
 
 ### 1.IV.1 — Ambit of the Take-over Code; persons and acts covered
 
@@ -1547,6 +1626,42 @@ D. Section 210 Companies Act: compulsory acquisition.
 
 **Answer: C.** Section 140 SFA creates the offence. Rule 1105 suspends trading at 90%. Rule 723 is the 10% free float, so A and B swap them. Section 210 CA is schemes of arrangement; compulsory acquisition is s 215 (D).
 *Cite: MA3 s11–14; `ccp-2-1-21`*
+
+### 1.IV.5 — Financial assistance (ss 76, 76A CA): who is caught, exceptions, whitewash, consequences
+
+**Q23-54** · `1.IV.5` · 2023 CCP Paper 2 Q54 (no official answer) · `ccp-2-1-44`
+
+A private equity investor wishes to acquire the shares of a target company (the "Target") and has incorporated Bidco to acquire the Target. The Target is a public company incorporated in Singapore and is a holding company for a subsidiary incorporated in Singapore. Bidco is funding the acquisition through loans from banks. Which of the following could fall within the prohibition against the giving of financial assistance under Section 76 of the Companies Act?
+
+I. The giving of a guarantee by the Target to the banks to secure the loan taken out by Bidco to fund the acquisition.
+II. The creation of charges over the assets of the Target subsidiary in favour of the banks to secure the loan taken out by Bidco to fund the acquisition.
+III. The creation of a charge over the Target's shares of the Target subsidiary in favour of the banks to secure the loan taken out by Bidco to fund the acquisition.
+
+A. I only
+B. II only
+C. All of the statements
+D. None of the statements
+
+**Answer: C.** s 76(1) catches a public company, and a company whose holding company is public, giving financial assistance (including a guarantee or security, s 76(2)) for the acquisition of shares in itself or its holding company. I and III are assistance by the public Target for the acquisition of its own shares; II is assistance by a subsidiary of a public company for the acquisition of shares in its holding company. Each is prohibited unless a whitewash under s 76(9A)–(10) is used. The earlier candidate's selection (C) agrees.
+*Cite: CA ss 76(1)–(2), (9A)–(10); `ccp-2-1-44`*
+
+### 1.IV.6 — Directors need prior approval to issue shares (s 161 CA)
+
+**Q23-53** · `1.IV.6` · 2023 CCP Paper 2 Q53 (no official answer) · `ccp-2-1-46`
+
+Company A is a company incorporated in Singapore. It wishes to issue shares to a new investor but does not have a general mandate under Section 161(2) of the Companies Act in force. Based on the foregoing, which of the following statements is true?
+
+I. The board of directors of Company A can authorize the issue of shares without the approval of shareholders.
+II. In the interests of time, Company A can issue shares to the new investor and obtain shareholders' approval to ratify the transaction later.
+III. Company A has to seek the prior approval of its shareholders before issuing any shares to the new investor.
+
+A. I only
+B. II only
+C. III only
+D. None of the statements
+
+**Answer: C.** Directors must not issue shares without the prior approval of the company in general meeting, whatever the constitution says (s 161(1)). An issue without it is void (s 161(6)), so later ratification (II) does not work, and the board alone cannot authorise it (I). The earlier candidate's selection (C) agrees.
+*Cite: CA s 161(1), (6); `ccp-2-1-46`*
 
 ### 1.V General offers: mandatory, voluntary and partial
 
@@ -1662,7 +1777,7 @@ D. Concert party agreements that automatically trigger a mandatory offer.
 
 ### 1.VI Schemes, delisting, amalgamation and approvals
 
-Sub-points 1.VI.1–1.VI.4. Real questions: Q23-47, QSQ-MA4, Q23-51. Own questions: Q1-25, Q1-26.
+Sub-points 1.VI.1–1.VI.5. Real questions: Q23-47, QSQ-MA4, Q23-51. Own questions: Q1-25, Q1-26, Q1-37.
 
 ### 1.VI.1 — Scheme of arrangement (s 210 CA): approvals and thresholds
 
@@ -1749,9 +1864,23 @@ D. II, III and IV only
 
 See also Q23-47 under 1.VI.1 and QSQ-MA4 under 1.VI.2.
 
+### 1.VI.5 — Compulsory acquisition and sell-out (s 215 CA); schemes ss 211–212
+
+**Q1-37** · `1.VI.5` · own question · `ccp-2-1-45`
+
+An offeror's general offer for all the shares of a Singapore company is accepted, within 4 months, by holders of 92% of the shares it did not already own. Which statement is CORRECT under s 215 of the Companies Act?
+
+A. The offeror automatically owns all the shares on the close of the offer.
+B. The offeror may, within 2 months, give notice to acquire the dissenters' shares on the offer terms; a dissenter may apply to court within 1 month of the notice.
+C. Dissenters cannot challenge the acquisition in court.
+D. The offeror must first obtain a court order sanctioning the acquisition under s 210.
+
+**Answer: B.** With 90% acceptances within 4 months, the offeror may give notice within 2 months and is then entitled and bound to acquire on the offer terms unless a dissenter applies to court within 1 month and the court orders otherwise (s 215(1)). Remaining holders also have a sell-out right within 3 months once the offeror reaches 90% (s 215(3)). D confuses s 215 with a scheme under s 210.
+*Cite: CA s 215(1)–(3); `ccp-2-1-45`*
+
 ### 1.VII Concert parties
 
-Sub-points 1.VII.1–1.VII.2. Real question: QSQ-MA5. Own question: Q1-27.
+Sub-points 1.VII.1–1.VII.2. Real questions: QSQ-MA5, Q23-48. Own question: Q1-27.
 
 ### 1.VII.1 — Definition of persons acting in concert
 
@@ -1768,6 +1897,23 @@ D. Acting in concert matters only for schemes of arrangement.
 *Cite: MA3 s48–51; `ccp-2-1-32`*
 
 ### 1.VII.2 — Presumed concert parties (associated company = 20–50%)
+
+**Q23-48** · `1.VII.2` · 2023 CCP Paper 2 Q48 (no official answer) · `ccp-2-1-32`
+
+Which of the following parties is presumed to be acting in concert with each other under the Singapore Code on Take-overs and Mergers?
+
+I. A company with any of its directors.
+II. An individual with his or her cousin.
+III. A company with a corporate shareholder that has 25% of the voting rights of the company.
+IV. A director and his or her grandchildren.
+
+A. I only
+B. I and II only
+C. I, II and III only
+D. I, II, III and IV
+
+**Answer: C.** I: a company with any of its directors is presumption (b). II: an individual with their close relatives is presumption (h), and "close relatives" include cousins. III: a company with a 25% corporate shareholder is presumption (a), since a 20–50% holding makes the company an associated company of that shareholder. IV: grandchildren are not in the Code's list of close relatives (immediate family, uncles and aunts and their children, nephews and nieces), so no presumption arises. The earlier candidate's selection (C) agrees.
+*Cite: Take-over Code, Definitions ('acting in concert' (a), (b), (h); 'close relatives'); `ccp-2-1-32`*
 
 **QSQ-MA5** · `1.VII.2` `1.VII.1` · SQ p29 Q5 [Part B 2024], official key C · `ccp-2-1-32`
 
@@ -2113,7 +2259,7 @@ See also Q23-36 under 2.I.1 (sector regulators).
 
 ### 2.II Section 34: anti-competitive agreements
 
-Sub-points 2.II.1–2.II.6. Real questions: Q23-31, Q23-32, QSQ-CL2. Own questions: Q2-3 to Q2-7.
+Sub-points 2.II.1–2.II.7. Real questions: Q23-31, Q23-32, QSQ-CL2, Q23-33. Own questions: Q2-3 to Q2-7, Q2-24.
 
 ### 2.II.1 — Agreements, decisions of associations, concerted practices; extraterritorial reach
 
@@ -2211,6 +2357,18 @@ D. Block exemptions must be notified agreement by agreement.
 
 ### 2.II.6 — Core cases: Broiler Chickens, Ferry Operators, Ball Bearings, SIA/ANA; pricing algorithms
 
+**Q23-33** · `2.II.6` · 2023 CCP Paper 2 Q33 (no official answer) · `ccp-2-2-9`
+
+In 2018, the CCCS issued an infringement decision against 13 fresh chicken distributors and imposing a collective financial penalty amounting to S$26,948,639 in CCCS 500/7002/14 (fresh chickens) in respect of two categories of alleged anti-competitive conduct. A total of 8 of the chicken distributors appealed against the CCCS' infringement decision. In 2020, the Competition Appeal Board reduced the collective fine on the basis that liability had not been established against 7 out of the 8 appellants in respect of one of the two categories of conduct. Which is the category of conduct which the "CAB" had adjudicated that the CCCS had not established liability in?
+
+A. "Price Discussions" which were alleged to be discussions amount the appellants in respect of the quantum and timing of price movements in relation to the sale and distribution of fresh chickens in Singapore, including the exchange of future pricing attentions.
+B. "Non-Aggression Pact" which was alleged to be a market sharing agreement under which the appellants agreed not to compete for each other's customers.
+C. "Slaughter Control" which was alleged to be a production limitation agreement under which the appellants agreed to slaughter less chickens on agreed days of each month in order to drive up prices.
+D. "Floor Price Treaty" which was alleged to be a price-fixing agreement where price floors for 6 categories of chickens were agreed.
+
+**Answer: B.** The two categories in the infringement decision were the Price Discussions (price fixing) and the Non-Aggression Pact (market sharing). The CAB ([2020] SGCAB 1) allowed the appeals on liability for the Non-Aggression Pact, finding the evidence insufficient against those appellants, and dismissed the appeals on the Price Discussions; only Prestige Fortune lost on both. C and D were not part of the case. The earlier candidate's selection (D) is wrong. (Options transcribed as on screen, typos included.)
+*Cite: CAB [2020] SGCAB 1; CCCS ID 500/7002/14; `ccp-2-2-9`*
+
 **QSQ-CL2** · `2.II.6` `2.II.1` · SQ p33 Q2 [Part B 2024], official key A · `ccp-2-2-9` `ccp-2-2-4`
 
 Manufacturer A (60% market share) and Manufacturer B (30% market share) are the only suppliers of medical device X in Singapore. They implement nearly identical "dynamic pricing" algorithms that adjust prices based on market conditions. A smaller competitor complains of de facto price coordination. However: A developed its algorithm internally; B licensed a third-party algorithm; both claim the similarity is due to responding to the same market factors. Which scenario is MOST LIKELY to raise concerns under Section 34 of the Competition Act 2004?
@@ -2225,9 +2383,23 @@ D. This scenario is unlikely to raise concerns without additional evidence.
 
 See also Q23-32 under 2.II.3 (Ferry Operators).
 
+### 2.II.7 — s 34(2) list; Guidelines examples: trade association price recommendations, trading conditions, joint buying/selling, advertising, standards
+
+**Q2-24** · `2.II.7` · own question · `ccp-2-2-28`
+
+A trade association circulates 'recommended' minimum prices to its members. The recommendation is not binding and some members ignore it. Which statement is MOST ACCURATE under the CCCS s 34 Guidelines?
+
+A. It cannot infringe s 34 because it is not binding.
+B. It may be price fixing by an association: a price recommendation can create a focal point and restrict independent pricing, whatever its form.
+C. Only the members who follow it can infringe; the association cannot.
+D. It infringes only if the members' combined share exceeds 20%.
+
+**Answer: B.** Decisions of associations include non-binding recommendations, even if not fully complied with, and price recommendations or collective price coordination may be price fixing regardless of form (s34G paras 2.15–2.16, 3.5). Price fixing is appreciable by nature, so the 20% safe harbour does not help (D wrong). The association itself may be liable (C wrong).
+*Cite: Act s 34(1)–(2); s34G paras 2.15–2.16, 2.24, 3.5; `ccp-2-2-28`*
+
 ### 2.III Market definition
 
-Sub-point 2.III.1. Real questions: QSQ-CL4, QSQ-CL9. Own question: Q2-8.
+Sub-points 2.III.1–2.III.4. Real questions: QSQ-CL4, QSQ-CL9, Q23-37. Own questions: Q2-8, Q2-21, Q2-22, Q2-23, Q2-25 (Q2-21 to Q2-23 test points found only in the *Merger Control in Singapore* extract, MCS pp 69–97, and are not from a past paper).
 
 ### 2.III.1 — Product and geographic market; SSNIP / hypothetical monopolist; demand- and supply-side substitution; SATS/SFI
 
@@ -2267,9 +2439,75 @@ D. Whether the CCS accepts the parties' own market definition.
 **Answer: A.** That is the hypothetical monopolist (SSNIP) test, considering demand-side and supply-side substitution. B confuses it with the merger thresholds. C is wrong: substitutes need not be identical. D is wrong: the CCS need not accept the parties' definition (*SATS/SFI*). In practice competition economists are engaged.
 *Cite: CL3 s7, s16–17; CL-LP p6; `ccp-2-2-10`*
 
+### 2.III.2 — Evidence of substitution; supply-side and geographic market; imports; CCS market-definition cases (CSH/SCS, Fresenius, Wacker, Kraft/Danone, Dubai Drydocks, SATS/SFI, F&N/King's)
+
+**Q2-21** · `2.III.2` · own question, not from a past paper (textbook only: MCS) · `ccp-2-2-26`
+
+A biscuit maker notifies the acquisition of a rival to the CCCS. The parties argue that (i) sweet and savoury biscuits form one product market, as both are made on the same production lines and production can switch in hours, and (ii) the geographic market is Singapore only, as tastes in biscuits differ from country to country. The CCCS finds that most biscuits eaten in Singapore are imported, and that its view of the merger's effect is the same whether or not sweet and savoury biscuits are separate markets. Which statement is MOST ACCURATE?
+
+A. Supply-side switching is irrelevant to market definition; only buyers' views count, so sweet and savoury biscuits must be separate markets.
+B. The CCCS may leave the product market open, as its analysis is the same on either definition, and the significant imports suggest the geographic market is wider than Singapore.
+C. Because tastes are local, the geographic market must be Singapore, whatever the level of imports.
+D. The CCCS must define the product market precisely before it can assess the merger.
+
+**Answer: B.** This is *Kraft Foods/Groupe Danone* (CCS 400/006/07). The CCS left open whether biscuits split into sweet and savoury, because the result was the same either way. It held the geographic market broader than Singapore, contrary to the parties' claim, because most biscuits consumed here are imported. A is wrong: supply-side substitution counts if it is quick, effective and needs no substantial sunk investment. C is wrong: significant imports point to a wider market, especially in a small open economy, and both demand and supply sides are weighed. D is wrong: where every plausible definition gives the same result, the market need not be defined precisely.
+*Cite: MCS pp 70, 80–81, 89; `ccp-2-2-26`*
+
+### 2.III.3 — Price discrimination, chains of substitution, temporal markets, aftermarkets (system, multiple, dual), captive sales
+
+**Q23-37** · `2.III.3` · 2023 CCP Paper 2 Q37 (no official answer) · `ccp-2-2-27`
+
+Market definition broadly analyses product or service markets and geographic markets starting with a focal product. What is an example of a temporal market?
+
+A. The supply of vegetables at a supermarket between the time that it opens and closes.
+B. The supply of investment-linked insurance products.
+C. The supply of engine oil at petrol stations.
+D. The supply of tour packages targeted at families with children during the school holidays in June and December.
+
+**Answer: D.** A temporal market is one defined by the time at which a product is bought or supplied, where buyers cannot switch between periods: peak and off-peak services (the textbook names travel packages) and seasonal products. School-holiday family tour packages are a peak-period travel market. A is only a shop's opening hours: the vegetables sold are the same product whenever bought, so there is no separate period market. B is an ordinary product market. C is a secondary or aftermarket product (complements to cars), not a temporal one. The earlier candidate's selection on the screen (D) agrees. Earlier left out because no course material used the term; *Merger Control in Singapore* p93 now covers it.
+*Cite: MCS p93; `ccp-2-2-27`*
+
+**Q2-22** · `2.III.3` · own question, not from a past paper (textbook only: MCS) · `ccp-2-2-27`
+
+Which of the following is the BEST example of a temporal market?
+
+A. The supply of hairy crabs, which exists only during a certain season of the year.
+B. Petrol, which car buyers can use in any make of car.
+C. Groceries in Singapore, whose prices are constrained by prices in Johor, which are in turn constrained by prices in Perak.
+D. Ink cartridges that fit only one brand of printer.
+
+**Answer: A.** A temporal market is defined by when a product is made or bought: peak and off-peak services, seasonal goods (truffles, hairy crabs, fa gao), and inter-generational products where buyers wait for the next model. B describes a dual aftermarket (all secondary products fit all primary products). C is a chain of substitution in a geographic market. D is an aftermarket where buyers are locked in to the brand (assessed as a system market or a separate secondary market).
+*Cite: MCS pp 91–97; `ccp-2-2-27`*
+
+**Q2-23** · `2.III.3` · own question, not from a past paper (textbook only: MCS) · `ccp-2-2-27`
+
+Once a buyer has bought a car of a particular make and model, the buyer can choose from a range of tyre brands and specifications compatible with that car, but not from every tyre on the market. How does *Merger Control in Singapore* classify the market for car tyres in this situation?
+
+A. A system market: cars and tyres together form one market.
+B. A dual market: one market for cars and one market for all brands of tyres.
+C. Multiple markets: one market for cars, but a separate secondary market for the tyres compatible with each brand of car.
+D. A captive market: tyre sales are excluded from market-share figures.
+
+**Answer: C.** Multiple markets arise where buyers are locked in to a limited number of compatible secondary products after buying the primary product (the textbook's example is cars and car tyres). A is the system market (e.g. cars and car servicing), suited where buyers weigh whole-life cost and are locked in to one brand of secondary product. B is the dual market, where every secondary product fits every primary product (cars and petrol). D confuses aftermarkets with captive sales, meaning sales to a firm's own subsidiaries, which are generally left out of merchant-market shares.
+*Cite: MCS pp 94–97; `ccp-2-2-27`*
+
+### 2.III.4 — Asymmetric substitution; benchmark price and cellophane fallacy; differentiated products and bundles; multi-sided platforms and zero-price markets
+
+**Q2-25** · `2.III.4` · own question · `ccp-2-2-30`
+
+In a s 47 investigation, the CCCS starts the hypothetical monopolist test from the firm's current price, finds that customers would switch to inferior substitutes at that price, and widens the market to include them. What error is this?
+
+A. The zero-one approach.
+B. The cellophane fallacy: the current price may already be above the competitive level, so substitutes that constrain only at that inflated price should not be included.
+C. Asymmetric substitution.
+D. The chain of substitution error.
+
+**Answer: B.** Under s 47 the current price may already reflect the dominant firm's power; including substitutes that only bite at that price overstates the market and understates dominance (the cellophane fallacy). The CCCS may use the price absent the conduct. In merger cases, by contrast, the prevailing price is the benchmark.
+*Cite: MDG paras 5.3–5.6; MG para 5.3; `ccp-2-2-30`*
+
 ### 2.IV Section 47: abuse of a dominant position
 
-Sub-points 2.IV.1–2.IV.4. Real questions: QSQ-CL5, QSQ-CL7, Q23-35, Q23-34. Own questions: Q2-9, Q2-10.
+Sub-points 2.IV.1–2.IV.5. Real questions: QSQ-CL5, QSQ-CL7, Q23-35, Q23-34. Own questions: Q2-9, Q2-10, Q2-26.
 
 ### 2.IV.1 — Three-step test; dominance (60% indicative; barriers; buyer power; collective dominance)
 
@@ -2365,9 +2603,23 @@ D. Both may be objectively justified: refusing to supply a buyer with poor credi
 **Answer: D.** A dominant firm may show objective justification, with the burden on it, and must show that its conduct is proportionate. Examples: Ramsey pricing, long-run incremental cost pricing, refusing to supply poor credit risks. Dominance gained by efficiency, or the legitimate exercise of IP rights, is not abuse. Third Schedule exclusions also apply to s 47.
 *Cite: CL3 s15; Cyril-CL §3.1–3.3; `ccp-2-2-14`*
 
+### 2.IV.5 — Abuse in related markets (four scenarios); counterfactual not a legal requirement (SISTIC CAB)
+
+**Q2-26** · `2.IV.5` · own question · `ccp-2-2-29`
+
+Company Y is dominant in market A and also competes, without being dominant, in related market B. It ties the sale of its A product to the purchase of its B product. Where are the dominance, the abuse and the effect, per the CCCS s 47 Guidelines?
+
+A. All three in market A.
+B. Dominance in A; abuse and effect in B.
+C. Dominance and abuse in A; effect in B.
+D. Dominance and effect in A; abuse in B.
+
+**Answer: B.** Leveraging by tying A to B: dominance in A, abuse and effect in B (s47G para 4.7). C describes refusing rivals in B an essential input from A; D describes discounts in B to keep loyalty in A; A describes predation in A.
+*Cite: s47G para 4.7; `ccp-2-2-29`*
+
 ### 2.V Section 54: merger control — substance
 
-Sub-points 2.V.1–2.V.5. Real questions: Q23-38, QSQ-CL6, Q23-39, Q23-40. Own questions: Q2-12, Q2-13, Q2-14.
+Sub-points 2.V.1–2.V.9. Real questions: Q23-38, QSQ-CL6, Q23-39, Q23-40. Own questions: Q2-12, Q2-13, Q2-14, Q2-27 to Q2-30.
 
 ### 2.V.1 — What is a merger: legal and de facto control, minority shareholdings, full-function JVs
 
@@ -2475,9 +2727,65 @@ D. Unquantified press statements.
 **Answer: C.** A merger that would substantially lessen competition is not prohibited if net economic efficiencies outweigh it. Profits for the parties alone are unlikely to count (A). Pass-through is not required but is persuasive. Efficiencies must be merger-specific (B fails) and verifiable (D fails).
 *Cite: CL4 s13; Cyril-CL §4.2.4; `ccp-2-2-19`*
 
+### 2.V.6 — Counterfactual; failing firm and failing division conditions
+
+**Q2-27** · `2.V.6` · own question · `ccp-2-2-31`
+
+An acquirer argues that its target is a failing firm. Which is NOT one of the conditions in the CCCS Merger Guidelines?
+
+A. Without the merger, the firm and its assets would exit the market in the near future.
+B. The firm cannot meet its financial obligations in the near future and has no serious prospect of reorganising.
+C. There is no less anti-competitive alternative purchaser, even at a price lower than the acquirer's.
+D. The acquirer offers the highest price for the firm's assets.
+
+**Answer: D.** The three conditions are A, B and C (MG 4.17). Any offer at a commercially reasonable price, even below the acquirer's, is a less anti-competitive alternative; the price the acquirer pays is irrelevant.
+*Cite: MG paras 4.17–4.20; `ccp-2-2-31`*
+
+### 2.V.7 — Horizontal non-coordinated effects (closest competitors, bidding markets, emerging competitor, buyer mergers); coordinated effects three conditions
+
+**Q2-28** · `2.V.7` · own question · `ccp-2-2-32`
+
+Which set of conditions does the CCCS treat as necessary for coordinated effects to arise after a merger?
+
+A. The merged firm has a market share above 40%; prices are rising; entry is impossible.
+B. The firms can reach and align terms of coordination; they have an incentive to keep to them because deviation can be detected and credibly punished; and the coordination is sustainable against outsiders such as entrants and buyers.
+C. The merger removes the parties' closest competitor; customers face switching costs; the market is a bidding market.
+D. The firms have a written agreement; they meet regularly; they exchange price lists.
+
+**Answer: B.** These are the three conditions in MG 5.39 (factors at 5.41–5.44). C describes non-coordinated effects. D describes an express agreement under s 34; coordinated effects include tacit collusion.
+*Cite: MG paras 5.33–5.45; `ccp-2-2-32`*
+
+### 2.V.8 — Entry and expansion (likely, timely, sufficient); countervailing buyer power; rivalry-enhancing efficiencies
+
+**Q2-29** · `2.V.8` · own question · `ccp-2-2-33`
+
+Merging parties argue that new entry will defeat any price rise. Which statement reflects the CCCS Merger Guidelines?
+
+A. Any entry, however small, defeats an SLC.
+B. Entry must be likely, timely and sufficient; the CCCS has treated entry within about 2 years as timely, and small-scale or niche entry is generally not enough.
+C. Entry is irrelevant in Singapore because the market is small.
+D. Entry counts only if the entrant will match the merged firm's size.
+
+**Answer: B.** MG 5.48 requires entry to be likely, sufficient in extent and timely; 5.56 notes 2 years as an indication of timeliness; 5.53–5.55: niche entry is insufficient, but entrants need not replicate the merged firm (D wrong). Imports matter in Singapore's open economy (C wrong).
+*Cite: MG paras 5.46–5.59; `ccp-2-2-33`*
+
+### 2.V.9 — Vertical (input and customer foreclosure; ability, incentive, effect) and conglomerate mergers
+
+**Q2-30** · `2.V.9` · own question · `ccp-2-2-34`
+
+A manufacturer that supplies a large share of an important input acquires a downstream producer, then stops supplying rival downstream producers. What is this called, and how does the CCCS assess it?
+
+A. Customer foreclosure; by market shares alone.
+B. Input foreclosure; by asking whether the merged firm has the ability and the incentive to foreclose, and whether the effect would substantially lessen competition.
+C. Portfolio power; by whether rivals can replicate the portfolio.
+D. Coordinated effects; by the three coordination conditions.
+
+**Answer: B.** Diverting an important input to its own downstream arm is input foreclosure (MG 6.11); the test is ability, incentive and effect (6.13). Customer foreclosure is the reverse (the merged firm, as buyer, sources only internally). C is a conglomerate theory.
+*Cite: MG paras 6.9–6.13, 6.23; `ccp-2-2-34`*
+
 ### 2.VI Section 54: filing, remedies and core merger cases
 
-Sub-points 2.VI.1–2.VI.3. Real questions: QSQ-CL3, QSQ-CL8, Q23-42, Q23-41. Own question: Q2-16.
+Sub-points 2.VI.1–2.VI.4. Real questions: QSQ-CL3, QSQ-CL8, Q23-42, Q23-41. Own questions: Q2-16, Q2-31.
 
 ### 2.VI.1 — Voluntary, non-suspensory regime; risks of not notifying; cross-border mergers
 
@@ -2556,6 +2864,20 @@ D. Grab/Delivery Hero: the CCS issued interim directions (no integration; preser
 
 **Answer: D.** iNova/Mundipharma was notified and cleared (5 Dec 2023), so A is wrong. Pathology/Innovative/Quest was conditionally cleared on 4-year commitments with annual audits, so C is wrong. Grab/Uber completed without notification and was penalised, and the CAB dismissed Uber's appeal, so B is wrong.
 *Cite: CL4 s18–21, s25; CCCS-Reg; `ccp-2-2-22`*
+
+### 2.VI.4 — Merger procedure: s 55A advice, ss 57–58 notification, Ministerial exemption, s 58A interim measures, ss 59–60 immunity, ss 60A–60B commitments
+
+**Q2-31** · `2.VI.4` · own question · `ccp-2-2-35`
+
+Parties to a confidential anticipated merger, not yet announced, want the CCCS's view before deciding whether to notify. Which statement is CORRECT?
+
+A. They must notify under s 57 before they can get any view from the CCCS.
+B. They may apply under s 55A for confidential advice, which does not bind the CCCS.
+C. Confidential advice under s 55A gives immunity from penalties.
+D. Confidential advice is available only after the merger is completed.
+
+**Answer: B.** s 55A allows a party to an anticipated merger that is not in the public domain to seek the CCCS's confidential advice; the advice is not binding (s 55A(4)), and immunity follows only a clearance decision on notification (ss 59–60).
+*Cite: Act ss 55A, 57, 59–60; `ccp-2-2-35`*
 
 ### 2.VII Enforcement
 
@@ -2794,7 +3116,7 @@ See also Q23-19 under 3.I.4 (goodwill).
 
 ### 3.II Goods and services tax
 
-Sub-points 3.II.1–3.II.3. Real questions: QSQ-TX5, Q23-18. Own questions: Q3-2, Q3-3.
+Sub-points 3.II.1–3.II.4. Real questions: QSQ-TX5, Q23-18. Own questions: Q3-2, Q3-3, Q3-15.
 
 ### 3.II.1 — GST rate 9%; charging provision s 8(1) and its five elements; exempt v zero-rated
 
@@ -2862,11 +3184,37 @@ D. The US firm, because it is the supplier.
 
 See also QSQ-TX5 under 3.II.2 (OVR thresholds) and Q23-18.
 
+### 3.II.4 — Place of supply (ss 13, 15); international services (s 21(3)); exports (60 days); imports and import GST schemes
+
+**Q3-15** · `3.II.4` · own question · `ccp-2-3-23`
+
+A GST-registered Singapore company sells goods to an overseas customer and arranges the shipment itself. When may it zero-rate the supply?
+
+A. Always, because the customer is overseas.
+B. Only if, at the time of supply, the goods will be exported and it holds the required export documents within 60 days of the time of supply.
+C. Only if the goods leave Singapore within 12 months.
+D. Never: exports are exempt supplies.
+
+**Answer: B.** Direct exports may be zero-rated if the supplier is certain at the time of supply that the goods will be exported and holds the export documents within 60 days from the time of supply; otherwise GST at 9% applies (IRAS, GST Guide on Exports). D is wrong: exports are zero-rated taxable supplies, not exempt.
+*Cite: IRAS 'Exporting of goods'; GSTA s 21; `ccp-2-3-23`*
+
 ### 3.III Share sale v asset sale
 
-Sub-points 3.III.1–3.III.5. Real questions: Q23-26, Q23-24, QSQ-TX9, Q23-23. Own questions: Q3-4, Q3-5, Q3-6.
+Sub-points 3.III.1–3.III.6. Real questions: Q23-22, Q23-26, Q23-24, QSQ-TX9, Q23-23. Own questions: Q3-4, Q3-5, Q3-6, Q3-16.
 
 ### 3.III.1 — Share sale: seller's income tax (capital v revenue; s 13W safe harbour); GST exempt
+
+**Q23-22** · `3.III.1` · 2023 CCP Paper 2 Q22 (no official answer) · `ccp-2-3-9`
+
+A corporate shareholder held 30% of the ordinary shares in the company and also owned preference shares of the company. As a result of a restructuring, the corporate shareholder divested all of its shares in the company and derived a gain. Which of the following statements is correct?
+
+A. If the tax exemption provided under Section 13W of the Income tax Act is not available, the corporate shareholder will be subject to tax on the gain on divestment.
+B. The tax exemption provided under Section 13W of the Income Tax Act will not apply to the gain derived by the corporate shareholder as it did not own 100% of the shares of the company that it divested.
+C. The tax exemption provided under Section 13W of the Income Tax Act will not cover all the gain derived by the corporate shareholder from the divestment of its ordinary and preference shares of the company.
+D. The tax exemption provided under Section 13W of the Income Tax Act is not relevant in this case as gain on divestment from corporate restructuring is capital in nature.
+
+**Answer: C** (on the law at the time; see the note). In 2023, s 13W exempted gains on ordinary shares only, so the gain on the preference shares fell outside it. A is wrong: without s 13W the gain is taxed only if it is income in nature, and a capital gain is not taxed. B is wrong: the threshold is 20%, not 100%. D is wrong: a restructuring gain is not automatically capital. **Note:** for disposals from 1 Jan 2026 (Budget 2025), s 13W also covers preference shares accounted for as equity, so C is right today only if these preference shares are not equity-accounted. The earlier candidate's selection (A) is wrong.
+*Cite: ITA s 13W(1) (held text); `ccp-2-3-9`*
 
 **Q3-4** · `3.III.1` · own question · `ccp-2-3-9`
 
@@ -2978,6 +3326,20 @@ D. Tax warranties give damages subject to proof of loss, remoteness and mitigati
 *Cite: TX2 s11–15; Cyril-TX §2.3; `ccp-2-3-13`*
 
 See also Q23-26 under 3.III.4 (indirect transfers).
+
+### 3.III.6 — M&A allowance and 200% transaction-cost deduction (s 37O)
+
+**Q3-16** · `3.III.6` · own question · `ccp-2-3-24`
+
+A Singapore company makes a qualifying acquisition of 60% of a target's ordinary shares for S$60m. What M&A allowance may it claim?
+
+A. 25% of S$60m = S$15m in the year of acquisition.
+B. 25% of the capped value of S$40m = S$10m, written off over 5 years.
+C. S$60m, deducted in full.
+D. Nothing: the M&A scheme lapsed on 31 Mar 2020.
+
+**Answer: B.** The allowance is 25% of the value of acquisition, with the value capped at S$40m (S$10m maximum), written down straight-line over 5 years (s 37O ITA; IRAS). The scheme runs to 31 Dec 2030 after Budget 2025; it is the stamp duty relief (s 15A SDA) that lapsed on 31 Mar 2020 (D wrong).
+*Cite: ITA s 37O; IRAS 'M&A allowance'; SDA s 15A; `ccp-2-3-24`*
 
 ### 3.IV Acquisition of IP and royalties
 
@@ -3124,7 +3486,7 @@ D. Relief is automatic for every amalgamation.
 
 ### 3.VI Borrowing costs and withholding tax on interest
 
-Sub-points 3.VI.1–3.VI.2. Real question: QSQ-TX8 (QSQ-TX3 and Q23-30 also touch it). Own questions: Q3-12, Q3-13.
+Sub-points 3.VI.1–3.VI.3. Real question: QSQ-TX8 (QSQ-TX3 and Q23-30 also touch it). Own questions: Q3-12, Q3-13, Q3-17.
 
 ### 3.VI.1 — Interest deduction s 14(1)(a); direct link test (Andermatt; JD); interaction with s 15; other borrowing costs
 
@@ -3174,6 +3536,20 @@ D. None: interest is never subject to withholding tax.
 
 See also Q23-30 under 3.IV.1 (option B: 10% is wrong for interest).
 
+### 3.VI.3 — Hybrid instruments: debt or equity
+
+**Q3-17** · `3.VI.3` · own question · `ccp-2-3-25`
+
+A company issues perpetual securities with discretionary, non-cumulative distributions. How does IRAS decide whether they are debt or equity for income tax?
+
+A. By their accounting treatment alone.
+B. By their legal form first and, if that is unclear, by weighing all the facts and circumstances (nature of the return, redemption, ranking, rights); no single factor decides.
+C. They are always debt because they pay a return.
+D. They are always equity because they have no maturity date.
+
+**Answer: B.** IRAS looks first at legal form and then at the facts and circumstances; accounting treatment is not determinative (IRAS e-Tax Guide on Hybrid Instruments). If debt, distributions are interest; if equity, dividends.
+*Cite: IRAS e-Tax Guide 'Income Tax Treatment of Hybrid Instruments'; `ccp-2-3-25`*
+
 ### 3.VII Section 10L and Pillar Two
 
 Sub-points 3.VII.1–3.VII.2. Real questions: QSQ-TX6, QSQ-TX7. Own question: Q3-14.
@@ -3222,7 +3598,7 @@ D. Singapore has implemented the UTPR.
 
 # Part 2 — Drills
 
-Timed sets built only from Part 1 questions; find each by its ID (Ctrl-F the ID). Sit the set closed-book first, then check against the answer key and the explanation in Part 1, and log every miss in `weak-spots.md` under its Key. **Time limits** follow the real pace: CCP Paper 2 is a two-hour MCQ paper, and the 2023 sitting had 60 questions ("24 of 60 questions" on the Examplify screens), so each Drill allows 2 minutes per question, rounded up to the next 5 minutes. Drills 1–9 run by Topic and together use every one of the 207 questions in Part 1 once. Drills 10–12 re-use them as mixed mocks. Drill 10 is the 40 Sample Questions with the official key. Drill 11 is the 54 held questions of the 2023 paper in their original order (Subject split: IP 16, Taxation 13, Competition 12, M&A 13), the closest thing to a full sitting. Drill 12 samples the own questions across all four Subjects.
+Timed sets built only from Part 1 questions; find each by its ID (Ctrl-F the ID). Sit the set closed-book first, then check against the answer key and the explanation in Part 1, and log every miss in `weak-spots.md` under its Key. **Time limits** follow the real pace: CCP Paper 2 is a two-hour MCQ paper, and the 2023 sitting had 60 questions ("24 of 60 questions" on the Examplify screens), so each Drill allows 2 minutes per question, rounded up to the next 5 minutes. Drills 1–9 run by Topic and together use every one of the 234 questions in Part 1 once. Drills 10–12 re-use them as mixed mocks. Drill 10 is the 40 Sample Questions with the official key. Drill 11 is all 60 questions of the 2023 paper in their original order (Subject split: IP 16, Taxation 14, Competition 14, M&A 16), the closest thing to a full sitting. Drill 12 samples the own questions across all four Subjects.
 
 | Drill | Covers | Questions | Time |
 |---|---|---|---|
@@ -3239,23 +3615,23 @@ Timed sets built only from Part 1 questions; find each by its ID (Ctrl-F the ID)
 | 11 | Mixed mock: the 2023 CCP Paper 2 questions held, in paper order | 54 | 110 min |
 | 12 | Mixed mock: every third own question, across all four Subjects | 38 | 80 min |
 
-### Drill 1 — Intellectual Property: trade marks (0.I–0.V) · 20 questions · 40 minutes
+### Drill 1 — Intellectual Property: trade marks (0.I–0.V) · 22 questions · 45 minutes
 
-**Questions:** QSQ-IP1, Q0-1, Q0-2, Q0-3, Q23-1, Q23-3, QSQ-IP6, Q0-4, Q0-5, Q0-6, Q23-2, Q23-4, Q0-7, Q0-8, QSQ-IP2, Q0-9, Q23-6, QSQ-IP7, Q23-5, Q0-10.
+**Questions:** QSQ-IP1, Q0-1, Q0-2, Q0-3, Q23-1, Q23-3, QSQ-IP6, Q0-4, Q0-5, Q0-6, Q23-2, Q23-4, Q0-7, Q0-8, QSQ-IP2, Q0-9, Q23-6, QSQ-IP7, Q23-5, Q0-10, Q0-44, Q0-45.
 
-**Answer key:** QSQ-IP1 B · Q0-1 C · Q0-2 D · Q0-3 D · Q23-1 D · Q23-3 D · QSQ-IP6 D · Q0-4 A · Q0-5 C · Q0-6 C · Q23-2 C · Q23-4 B · Q0-7 A · Q0-8 D · QSQ-IP2 C · Q0-9 C · Q23-6 A · QSQ-IP7 D · Q23-5 C · Q0-10 A.
+**Answer key:** QSQ-IP1 B · Q0-1 C · Q0-2 D · Q0-3 D · Q23-1 D · Q23-3 D · QSQ-IP6 D · Q0-4 A · Q0-5 C · Q0-6 C · Q23-2 C · Q23-4 B · Q0-7 A · Q0-8 D · QSQ-IP2 C · Q0-9 C · Q23-6 A · QSQ-IP7 D · Q23-5 C · Q0-10 A · Q0-44 B · Q0-45 C.
 
-### Drill 2 — Intellectual Property: patents (0.VI–0.VIII) · 20 questions · 40 minutes
+### Drill 2 — Intellectual Property: patents (0.VI–0.VIII) · 21 questions · 45 minutes
 
-**Questions:** Q0-11, QSQ-IP3, Q0-12, Q23-7, Q0-13, Q0-14, Q0-15, Q0-16, Q0-17, Q0-18, Q0-19, Q0-20, Q0-21, Q0-22, Q0-23, Q0-24, Q0-25, Q0-26, Q0-27, Q23-8.
+**Questions:** Q0-11, QSQ-IP3, Q0-12, Q23-7, Q0-13, Q0-14, Q0-15, Q0-16, Q0-17, Q0-18, Q0-19, Q0-20, Q0-21, Q0-22, Q0-23, Q0-24, Q0-25, Q0-26, Q0-27, Q23-8, Q0-46.
 
-**Answer key:** Q0-11 C · QSQ-IP3 C · Q0-12 D · Q23-7 C · Q0-13 A · Q0-14 C · Q0-15 A · Q0-16 C · Q0-17 A · Q0-18 C · Q0-19 C · Q0-20 D · Q0-21 D · Q0-22 C · Q0-23 A · Q0-24 C · Q0-25 B · Q0-26 C · Q0-27 C · Q23-8 C.
+**Answer key:** Q0-11 C · QSQ-IP3 C · Q0-12 D · Q23-7 C · Q0-13 A · Q0-14 C · Q0-15 A · Q0-16 C · Q0-17 A · Q0-18 C · Q0-19 C · Q0-20 D · Q0-21 D · Q0-22 C · Q0-23 A · Q0-24 C · Q0-25 B · Q0-26 C · Q0-27 C · Q23-8 C · Q0-46 B.
 
-### Drill 3 — Intellectual Property: copyright, remedies, confidential information, IP in business (0.IX–0.XIII) · 29 questions · 60 minutes
+### Drill 3 — Intellectual Property: copyright, remedies, confidential information, IP in business (0.IX–0.XIII) · 32 questions · 65 minutes
 
-**Questions:** QSQ-IP4, Q0-28, Q0-29, QSQ-IP10, Q0-30, Q0-31, Q23-9, Q0-32, Q0-33, Q23-11, Q0-34, Q0-35, Q0-36, Q0-37, Q23-10, Q0-38, Q0-39, Q23-12, Q0-40, QSQ-IP8, Q23-13, Q0-41, QSQ-IP5, QSQ-IP9, Q23-14, Q23-15, Q0-42, Q23-16, Q0-43.
+**Questions:** QSQ-IP4, Q0-28, Q0-29, QSQ-IP10, Q0-30, Q0-31, Q23-9, Q0-32, Q0-33, Q23-11, Q0-34, Q0-35, Q0-36, Q0-37, Q23-10, Q0-38, Q0-39, Q23-12, Q0-40, QSQ-IP8, Q23-13, Q0-41, QSQ-IP5, QSQ-IP9, Q23-14, Q23-15, Q0-42, Q23-16, Q0-43, Q0-47, Q0-48, Q0-49.
 
-**Answer key:** QSQ-IP4 D · Q0-28 D · Q0-29 C · QSQ-IP10 C · Q0-30 C · Q0-31 C · Q23-9 D · Q0-32 D · Q0-33 D · Q23-11 A · Q0-34 C · Q0-35 C · Q0-36 C · Q0-37 D · Q23-10 D · Q0-38 C · Q0-39 A · Q23-12 D · Q0-40 D · QSQ-IP8 A · Q23-13 C · Q0-41 A · QSQ-IP5 D · QSQ-IP9 D · Q23-14 D · Q23-15 B · Q0-42 C · Q23-16 B · Q0-43 B.
+**Answer key:** QSQ-IP4 D · Q0-28 D · Q0-29 C · QSQ-IP10 C · Q0-30 C · Q0-31 C · Q23-9 D · Q0-32 D · Q0-33 D · Q23-11 A · Q0-34 C · Q0-35 C · Q0-36 C · Q0-37 D · Q23-10 D · Q0-38 C · Q0-39 A · Q23-12 D · Q0-40 D · QSQ-IP8 A · Q23-13 C · Q0-41 A · QSQ-IP5 D · QSQ-IP9 D · Q23-14 D · Q23-15 B · Q0-42 C · Q23-16 B · Q0-43 B · Q0-47 C · Q0-48 B · Q0-49 C.
 
 ### Drill 4 — Mergers & Acquisitions: private acquisitions, the SPA, due diligence (1.I–1.III) · 23 questions · 50 minutes
 
@@ -3263,11 +3639,11 @@ Timed sets built only from Part 1 questions; find each by its ID (Ctrl-F the ID)
 
 **Answer key:** Q1-1 A · Q23-56 A · Q23-58 D · Q1-2 D · Q1-3 D · Q1-4 C · Q1-5 C · Q1-6 C · Q1-7 A · Q1-8 D · Q1-9 C · Q1-10 C · QSQ-MA7 A · Q1-11 D · Q23-57 D · Q1-12 A · Q1-13 C · QSQ-MA6 B · Q23-60 A · Q1-14 A · Q23-59 C · Q1-15 C · Q23-55 D.
 
-### Drill 5 — Mergers & Acquisitions: public take-overs and concert parties (1.IV–1.VII) · 19 questions · 40 minutes
+### Drill 5 — Mergers & Acquisitions: public take-overs and concert parties (1.IV–1.VII) · 23 questions · 50 minutes
 
-**Questions:** Q23-50, Q1-16, Q1-17, Q1-18, Q1-19, Q1-20, Q23-49, Q1-21, Q1-22, Q23-52, Q1-23, Q1-24, Q23-47, Q1-25, QSQ-MA4, Q1-26, Q23-51, Q1-27, QSQ-MA5.
+**Questions:** Q23-50, Q1-16, Q1-17, Q1-18, Q1-19, Q1-20, Q23-49, Q1-21, Q1-22, Q23-52, Q1-23, Q1-24, Q23-47, Q1-25, QSQ-MA4, Q1-26, Q23-51, Q1-27, QSQ-MA5, Q23-54, Q23-53, Q1-37, Q23-48.
 
-**Answer key:** Q23-50 C · Q1-16 D · Q1-17 D · Q1-18 D · Q1-19 C · Q1-20 C · Q23-49 B · Q1-21 C · Q1-22 C · Q23-52 A · Q1-23 B · Q1-24 A · Q23-47 D · Q1-25 D · QSQ-MA4 C · Q1-26 C · Q23-51 D · Q1-27 B · QSQ-MA5 C.
+**Answer key:** Q23-50 C · Q1-16 D · Q1-17 D · Q1-18 D · Q1-19 C · Q1-20 C · Q23-49 B · Q1-21 C · Q1-22 C · Q23-52 A · Q1-23 B · Q1-24 A · Q23-47 D · Q1-25 D · QSQ-MA4 C · Q1-26 C · Q23-51 D · Q1-27 B · QSQ-MA5 C · Q23-54 C · Q23-53 C · Q1-37 B · Q23-48 C.
 
 ### Drill 6 — Mergers & Acquisitions: joint ventures (1.VIII–1.X) · 17 questions · 35 minutes
 
@@ -3275,23 +3651,23 @@ Timed sets built only from Part 1 questions; find each by its ID (Ctrl-F the ID)
 
 **Answer key:** Q1-28 D · QSQ-MA1 D · QSQ-MA8 D · Q23-45 D · QSQ-MA2 B · QSQ-MA9 B · Q23-46 D · Q1-29 D · Q1-30 D · QSQ-MA3 B · QSQ-MA10 B · Q1-31 C · Q1-32 A · Q1-33 C · Q1-34 D · Q1-35 A · Q1-36 C.
 
-### Drill 7 — Competition Law: overview, s 34, market definition, s 47 (2.I–2.IV) · 22 questions · 45 minutes
+### Drill 7 — Competition Law: overview, s 34, market definition, s 47 (2.I–2.IV) · 30 questions · 60 minutes
 
-**Questions:** Q23-43, Q23-36, Q2-1, Q2-2, Q23-31, Q2-3, Q2-4, Q23-32, Q2-5, Q2-6, Q2-7, QSQ-CL2, QSQ-CL4, QSQ-CL9, Q2-8, Q2-9, QSQ-CL5, QSQ-CL7, Q23-35, Q23-34, Q2-10, Q2-11.
+**Questions:** Q23-43, Q23-36, Q2-1, Q2-2, Q23-31, Q2-3, Q2-4, Q23-32, Q2-5, Q2-6, Q2-7, QSQ-CL2, QSQ-CL4, QSQ-CL9, Q2-8, Q2-21, Q23-37, Q2-22, Q2-23, Q2-9, QSQ-CL5, QSQ-CL7, Q23-35, Q23-34, Q2-10, Q2-11, Q23-33, Q2-24, Q2-25, Q2-26.
 
-**Answer key:** Q23-43 A · Q23-36 A · Q2-1 D · Q2-2 A · Q23-31 D · Q2-3 C · Q2-4 D · Q23-32 B · Q2-5 C · Q2-6 D · Q2-7 B · QSQ-CL2 A · QSQ-CL4 D · QSQ-CL9 A · Q2-8 A · Q2-9 B · QSQ-CL5 C · QSQ-CL7 C · Q23-35 D · Q23-34 B · Q2-10 D · Q2-11 D.
+**Answer key:** Q23-43 A · Q23-36 A · Q2-1 D · Q2-2 A · Q23-31 D · Q2-3 C · Q2-4 D · Q23-32 B · Q2-5 C · Q2-6 D · Q2-7 B · QSQ-CL2 A · QSQ-CL4 D · QSQ-CL9 A · Q2-8 A · Q2-21 B · Q23-37 D · Q2-22 A · Q2-23 C · Q2-9 B · QSQ-CL5 C · QSQ-CL7 C · Q23-35 D · Q23-34 B · Q2-10 D · Q2-11 D · Q23-33 B · Q2-24 B · Q2-25 B · Q2-26 B.
 
-### Drill 8 — Competition Law: merger control and enforcement (2.V–2.VII) · 20 questions · 40 minutes
+### Drill 8 — Competition Law: merger control and enforcement (2.V–2.VII) · 25 questions · 50 minutes
 
-**Questions:** Q23-38, Q2-12, Q2-13, Q2-14, QSQ-CL6, Q23-39, Q23-40, Q2-15, QSQ-CL3, QSQ-CL8, Q23-42, Q2-16, Q23-41, Q2-17, Q2-18, Q23-44, Q2-19, QSQ-CL1, QSQ-CL10, Q2-20.
+**Questions:** Q23-38, Q2-12, Q2-13, Q2-14, QSQ-CL6, Q23-39, Q23-40, Q2-15, QSQ-CL3, QSQ-CL8, Q23-42, Q2-16, Q23-41, Q2-17, Q2-18, Q23-44, Q2-19, QSQ-CL1, QSQ-CL10, Q2-20, Q2-27, Q2-28, Q2-29, Q2-30, Q2-31.
 
-**Answer key:** Q23-38 A · Q2-12 A · Q2-13 D · Q2-14 A · QSQ-CL6 B · Q23-39 B · Q23-40 D · Q2-15 C · QSQ-CL3 B · QSQ-CL8 A · Q23-42 A · Q2-16 A · Q23-41 D · Q2-17 D · Q2-18 C · Q23-44 C · Q2-19 C · QSQ-CL1 D · QSQ-CL10 A · Q2-20 C.
+**Answer key:** Q23-38 A · Q2-12 A · Q2-13 D · Q2-14 A · QSQ-CL6 B · Q23-39 B · Q23-40 D · Q2-15 C · QSQ-CL3 B · QSQ-CL8 A · Q23-42 A · Q2-16 A · Q23-41 D · Q2-17 D · Q2-18 C · Q23-44 C · Q2-19 C · QSQ-CL1 D · QSQ-CL10 A · Q2-20 C · Q2-27 D · Q2-28 B · Q2-29 B · Q2-30 B · Q2-31 B.
 
-### Drill 9 — Taxation: all Topics (3.I–3.VII) · 37 questions · 75 minutes
+### Drill 9 — Taxation: all Topics (3.I–3.VII) · 41 questions · 85 minutes
 
-**Questions:** QSQ-TX2, Q23-17, QSQ-TX1, Q23-20, Q3-1, QSQ-TX3, Q23-19, QSQ-TX4, Q23-21, Q3-2, QSQ-TX5, Q23-18, Q3-3, Q3-4, Q23-24, Q3-5, QSQ-TX9, Q3-6, Q23-23, Q23-26, Q3-7, Q23-30, Q3-8, QSQ-TX10, Q23-25, Q23-27, Q3-9, Q23-29, Q3-10, Q23-28, Q3-11, QSQ-TX8, Q3-12, Q3-13, QSQ-TX6, QSQ-TX7, Q3-14.
+**Questions:** QSQ-TX2, Q23-17, QSQ-TX1, Q23-20, Q3-1, QSQ-TX3, Q23-19, QSQ-TX4, Q23-21, Q3-2, QSQ-TX5, Q23-18, Q3-3, Q3-4, Q23-24, Q3-5, QSQ-TX9, Q3-6, Q23-23, Q23-26, Q3-7, Q23-30, Q3-8, QSQ-TX10, Q23-25, Q23-27, Q3-9, Q23-29, Q3-10, Q23-28, Q3-11, QSQ-TX8, Q3-12, Q3-13, QSQ-TX6, QSQ-TX7, Q3-14, Q23-22, Q3-15, Q3-16, Q3-17.
 
-**Answer key:** QSQ-TX2 C · Q23-17 D · QSQ-TX1 A · Q23-20 C · Q3-1 C · QSQ-TX3 C · Q23-19 B · QSQ-TX4 D · Q23-21 D · Q3-2 D · QSQ-TX5 B · Q23-18 C · Q3-3 C · Q3-4 D · Q23-24 B · Q3-5 C · QSQ-TX9 B · Q3-6 C · Q23-23 B · Q23-26 A · Q3-7 D · Q23-30 C · Q3-8 D · QSQ-TX10 B · Q23-25 B · Q23-27 D · Q3-9 B · Q23-29 A · Q3-10 B · Q23-28 B · Q3-11 C · QSQ-TX8 B · Q3-12 D · Q3-13 C · QSQ-TX6 B · QSQ-TX7 C · Q3-14 B.
+**Answer key:** QSQ-TX2 C · Q23-17 D · QSQ-TX1 A · Q23-20 C · Q3-1 C · QSQ-TX3 C · Q23-19 B · QSQ-TX4 D · Q23-21 D · Q3-2 D · QSQ-TX5 B · Q23-18 C · Q3-3 C · Q3-4 D · Q23-24 B · Q3-5 C · QSQ-TX9 B · Q3-6 C · Q23-23 B · Q23-26 A · Q3-7 D · Q23-30 C · Q3-8 D · QSQ-TX10 B · Q23-25 B · Q23-27 D · Q3-9 B · Q23-29 A · Q3-10 B · Q23-28 B · Q3-11 C · QSQ-TX8 B · Q3-12 D · Q3-13 C · QSQ-TX6 B · QSQ-TX7 C · Q3-14 B · Q23-22 C · Q3-15 B · Q3-16 B · Q3-17 B.
 
 ### Drill 10 — Mixed mock: all 40 Sample Questions, official key · 40 questions · 80 minutes
 
@@ -3299,11 +3675,11 @@ Timed sets built only from Part 1 questions; find each by its ID (Ctrl-F the ID)
 
 **Answer key:** QSQ-IP1 B · QSQ-IP6 D · QSQ-IP2 C · QSQ-IP7 D · QSQ-IP3 C · QSQ-IP4 D · QSQ-IP10 C · QSQ-IP8 A · QSQ-IP5 D · QSQ-IP9 D · QSQ-MA7 A · QSQ-MA6 B · QSQ-MA4 C · QSQ-MA5 C · QSQ-MA1 D · QSQ-MA8 D · QSQ-MA2 B · QSQ-MA9 B · QSQ-MA3 B · QSQ-MA10 B · QSQ-CL2 A · QSQ-CL4 D · QSQ-CL9 A · QSQ-CL5 C · QSQ-CL7 C · QSQ-CL6 B · QSQ-CL3 B · QSQ-CL8 A · QSQ-CL1 D · QSQ-CL10 A · QSQ-TX2 C · QSQ-TX1 A · QSQ-TX3 C · QSQ-TX4 D · QSQ-TX5 B · QSQ-TX9 B · QSQ-TX10 B · QSQ-TX8 B · QSQ-TX6 B · QSQ-TX7 C.
 
-### Drill 11 — Mixed mock: the 2023 CCP Paper 2 questions held, in paper order · 54 questions · 110 minutes
+### Drill 11 — Mixed mock: the 2023 CCP Paper 2 questions held, in paper order · 60 questions · 120 minutes
 
-**Questions:** Q23-1, Q23-2, Q23-3, Q23-4, Q23-5, Q23-6, Q23-7, Q23-8, Q23-9, Q23-10, Q23-11, Q23-12, Q23-13, Q23-14, Q23-15, Q23-16, Q23-17, Q23-18, Q23-19, Q23-20, Q23-21, Q23-23, Q23-24, Q23-25, Q23-26, Q23-27, Q23-28, Q23-29, Q23-30, Q23-31, Q23-32, Q23-34, Q23-35, Q23-36, Q23-38, Q23-39, Q23-40, Q23-41, Q23-42, Q23-43, Q23-44, Q23-45, Q23-46, Q23-47, Q23-49, Q23-50, Q23-51, Q23-52, Q23-55, Q23-56, Q23-57, Q23-58, Q23-59, Q23-60.
+**Questions:** Q23-1, Q23-2, Q23-3, Q23-4, Q23-5, Q23-6, Q23-7, Q23-8, Q23-9, Q23-10, Q23-11, Q23-12, Q23-13, Q23-14, Q23-15, Q23-16, Q23-17, Q23-18, Q23-19, Q23-20, Q23-21, Q23-22, Q23-23, Q23-24, Q23-25, Q23-26, Q23-27, Q23-28, Q23-29, Q23-30, Q23-31, Q23-32, Q23-33, Q23-34, Q23-35, Q23-36, Q23-37, Q23-38, Q23-39, Q23-40, Q23-41, Q23-42, Q23-43, Q23-44, Q23-45, Q23-46, Q23-47, Q23-48, Q23-49, Q23-50, Q23-51, Q23-52, Q23-53, Q23-54, Q23-55, Q23-56, Q23-57, Q23-58, Q23-59, Q23-60.
 
-**Answer key:** Q23-1 D · Q23-2 C · Q23-3 D · Q23-4 B · Q23-5 C · Q23-6 A · Q23-7 C · Q23-8 C · Q23-9 D · Q23-10 D · Q23-11 A · Q23-12 D · Q23-13 C · Q23-14 D · Q23-15 B · Q23-16 B · Q23-17 D · Q23-18 C · Q23-19 B · Q23-20 C · Q23-21 D · Q23-23 B · Q23-24 B · Q23-25 B · Q23-26 A · Q23-27 D · Q23-28 B · Q23-29 A · Q23-30 C · Q23-31 D · Q23-32 B · Q23-34 B · Q23-35 D · Q23-36 A · Q23-38 A · Q23-39 B · Q23-40 D · Q23-41 D · Q23-42 A · Q23-43 A · Q23-44 C · Q23-45 D · Q23-46 D · Q23-47 D · Q23-49 B · Q23-50 C · Q23-51 D · Q23-52 A · Q23-55 D · Q23-56 A · Q23-57 D · Q23-58 D · Q23-59 C · Q23-60 A.
+**Answer key:** Q23-1 D · Q23-2 C · Q23-3 D · Q23-4 B · Q23-5 C · Q23-6 A · Q23-7 C · Q23-8 C · Q23-9 D · Q23-10 D · Q23-11 A · Q23-12 D · Q23-13 C · Q23-14 D · Q23-15 B · Q23-16 B · Q23-17 D · Q23-18 C · Q23-19 B · Q23-20 C · Q23-21 D · Q23-22 C · Q23-23 B · Q23-24 B · Q23-25 B · Q23-26 A · Q23-27 D · Q23-28 B · Q23-29 A · Q23-30 C · Q23-31 D · Q23-32 B · Q23-33 B · Q23-34 B · Q23-35 D · Q23-36 A · Q23-37 D · Q23-38 A · Q23-39 B · Q23-40 D · Q23-41 D · Q23-42 A · Q23-43 A · Q23-44 C · Q23-45 D · Q23-46 D · Q23-47 D · Q23-48 C · Q23-49 B · Q23-50 C · Q23-51 D · Q23-52 A · Q23-53 C · Q23-54 C · Q23-55 D · Q23-56 A · Q23-57 D · Q23-58 D · Q23-59 C · Q23-60 A.
 
 ### Drill 12 — Mixed mock: every third own question, across all four Subjects · 38 questions · 80 minutes
 

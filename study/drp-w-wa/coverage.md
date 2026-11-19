@@ -17,8 +17,17 @@ The paper prints the rule and the facts. It is marked on substance: "whether you
 contains all the necessary facts in support of the Application" (PYP25 p8 ¶10). Submissions
 and a Defence have not yet been set.
 
+**Audit, 18 Nov 2026.** `audits/drp-w-audit.md` checked 132 Written Advocacy items against the
+Learning Plan, SN1–SN5 and the Worked Examples. Every real thin or missing item is now filled
+(drp-w-1-2, 1-3, 1-4, 1-5, 1-9, 1-10, 1-18, 1-19, 1-22, 1-24, 1-26, 1-27, 1-28 and the new
+1-29 and 1-30, with Sub-point 1.I.4 added for the client opinion). Left out: the Learning
+Plan's optional textbooks, recommended reading and video links (LP-WA p3 fn 1, p4; SN5
+fn 2–19), which carry no examinable content.
+
 **Columns** (ARCHITECTURE AD-2): `Key` = `1.<Topic roman>.<n>`. `Tested` = tier-1 entries in
-`question-bank.md`. `Covered by` = the template block ID(s) in `templates.md`.
+`question-bank.md` only, so a '—' does not mean untested: every Sub-point has Model Q&A
+questions (see the Coverage check in `wa-model-questions.md`). `Covered by` = the template
+block ID(s) in `templates.md`.
 
 ## Source key
 
@@ -44,8 +53,9 @@ Every cite is `ALIAS pN` (PDF page) or `ALIAS ¶N` (paragraph). Paths are under 
 | Form13 | SCPD Appendix A Form 13, current version (PDF dated 14 Jul 2026), read 9 Nov 2026 from the link in `authorities/scpd-2021.md` (Appendix A). It differs from the 2022 library copy (`…/1a. DRP 1/Civ Liti/2. Civ Liti Forms/SUPCT_new PDs (Appendix A - Form 13).pdf`): SOC (n) / DEF (n) boxed layout, General Points, and Reply / Reply to Defence to Counterclaim added |
 | Form31 | SCPD Appendix A Form 31 (Affidavit), current version read 9 Nov 2026 from the same Appendix A link; same text as the 2022 library copy in `…/Civ Liti/2. Civ Liti Forms/` |
 | CLA | Civil Law Act 1909, library copy `study/drp-w-cl/authorities/Civil Law Act 1909 (Whole).pdf` (version in force from 1 Aug 2022); PDF page |
-| PCR | Legal Profession (Professional Conduct) Rules 2015, as quoted in SN3 ¶3–7 and SN4 ¶17 |
+| PCR | Legal Profession (Professional Conduct) Rules 2015, as quoted in SN3 ¶3–7 and SN4 ¶17; rules cited but not quoted in the notes (r 7(1), r 9(1)(c), r 9(2)(c), cited in SN2 fn 4–6) read from `Modules/Ethics & Professional Responsibility/Materials for Ethics/Legal Profession (Professional Conduct) Rules 2015.pdf` (informal consolidation in force from 4 May 2022) |
 | LSS-PD | Law Society Practice Directions 1.8.1 (letters of demand) and 9.1.2 (letters threatening criminal proceedings), as summarised in SN3 ¶5–6 |
+| PCR-Comm | Legal Profession (Professional Conduct) Rules 2015 – A Commentary (Academy Publishing, 2016) at 09.086, as quoted in SN3 ¶8 (not held in the library) |
 | Cyril-WAN | `Seniors Notes/Cyril - Part B/For exam/finalised muggers/Dispute Resolution Practice (DRP)/Paper 1 - Written Advocacy Notes.docx` (secondary) |
 | Cyril-Aff | `…/finalised muggers/Dispute Resolution Practice (DRP)/20251114 Written Advocacy -  Note On Drafting Affidavits.pdf` (SILE note, Nov 2025, held only in Cyril's files) |
 | Nic-SOC | `Seniors Notes/Nic_s Part B Package/4. Nic Exam Go Pack/1a. DRP 1/Written Advocacy/1. Written Advo SOC Template.pdf` (secondary) |
@@ -58,8 +68,9 @@ Every cite is `ALIAS pN` (PDF page) or `ALIAS ¶N` (paragraph). Paths are under 
 | Key | Sub-point | Tested | Covered by |
 |---|---|---|---|
 | 1.I.1 | Reading the drafting task; mapping limbs and elements to facts; the 36-minute plan (LP-WA objective 2) | QB-1, QB-2, QB-3 | drp-w-1-1 |
-| 1.I.2 | Principles of good and legal writing: audience, aim, DOTER, good/bad/neutral facts, structure and style (SN1, SN2) | — | drp-w-1-2 |
-| 1.I.3 | Logic and reasoning: fallacies to avoid in writing (SN5) | — | drp-w-1-3 |
+| 1.I.2 | Principles of good and legal writing: logos/ethos/pathos, audience, aim, case analysis, good/bad/neutral facts, DOTER, case theory, rules governing the document, composition and style; punctuation, grammar and British spelling (SN1, SN2 ¶1–8, ¶16–37) | — | drp-w-1-2, drp-w-1-29 |
+| 1.I.3 | Logic and reasoning: SN5's 17 fallacies, to avoid in writing and to expose in the other side's argument (SN5) | — | drp-w-1-3 |
+| 1.I.4 | Opinion or advice to a client; research memorandum for a partner: no legalese, documents relied on, facts and issues first, executive summary, firm's format (SN2 ¶9–15) | — | drp-w-1-30 |
 
 ### 1.II Correspondence
 

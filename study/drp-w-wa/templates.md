@@ -12,6 +12,7 @@ then:
 | offer of amicable resolution; Order 5; without prejudice offer | [1-6](#drp-w-1-6) |
 | reply; response to their letter; letter to opposing counsel | [1-7](#drp-w-1-7) |
 | affidavit in support of an application | 1.III: Cheatsheet ("What does the affidavit support?"), then [1-9](#drp-w-1-9) |
+| opinion; advice to the client; research memorandum for the partner | [1-30](#drp-w-1-30) |
 | statement of claim; plead the claim | 1.IV: Cheatsheet, then [1-18](#drp-w-1-18) |
 | defence; defence and counterclaim; reply | [1-22](#drp-w-1-22), [1-23](#drp-w-1-23) |
 | written submissions; skeletal arguments | 1.V: Cheatsheet, then [1-24](#drp-w-1-24) |
@@ -23,6 +24,11 @@ must contain, and the common mistakes. The **facts checklists** (1.III) list eac
 the rule, the fact that proves it, and the exhibit. Ctrl-F works on form numbers ("Form 9",
 "Form 31"), rules ("7 r 7", "9 r 17"), and stock phrases ("WE HEREBY DEMAND", "WITHOUT
 PREJUDICE SAVE AS TO COSTS", "AND THE CLAIMANT CLAIMS").
+
+**SILE's own caveat.** The Worked Examples behind many skeletons "are not to be treated as
+templates since the facts and circumstances of each particular case will vary", and they are
+"only a starting point" (WE [1] ¶3, [3] ¶20). Use a skeleton for the order and the stock
+wording, then build every paragraph from the facts in the paper.
 
 **The 36-minute plan** (2 hours, no time allocation is given: OB 49):
 
@@ -42,7 +48,8 @@ PREJUDICE SAVE AS TO COSTS", "AND THE CLAIMANT CLAIMS").
   again.
 - Write dates as 1 July 2025 and sums as S$70,000.00.
 - No legal argument in a letter of fact, an affidavit or a pleading.
-- Spelling is not penalised (OB 49); missing facts are.
+- British spelling and usage ("recognise", "colour", "Mr" with no full stop), used
+  consistently (SN1 ¶58–65; 1-29). Spelling is not penalised (OB 49); missing facts are.
 
 *Source note* lines are for checking only and are never retyped. Aliases are in
 `coverage.md` (Source key).
@@ -51,7 +58,9 @@ PREJUDICE SAVE AS TO COSTS", "AND THE CLAIMANT CLAIMS").
 
 - **Any drafting task: where do I start?**
   - Find the rule or cause of action; turn it into limbs; put one fact (and its annex) against each limb → [1-1](#drp-w-1-1)
-  - Who reads it, what it must achieve, and DOTER → [1-2](#drp-w-1-2)
+  - Who reads it, what it must achieve, case analysis, good / bad / neutral facts, DOTER, case theory, style → [1-2](#drp-w-1-2)
+  - Punctuation, grammar and spelling (Oxford comma, apostrophes, semicolons, subject-verb agreement, British spelling) → [1-29](#drp-w-1-29)
+  - The document is an opinion or advice to a client, or a research memo for a partner → [1-30](#drp-w-1-30)
 - **Is the reasoning sound?**
   - Fallacies to avoid in the document → [1-3](#drp-w-1-3)
 
@@ -90,58 +99,278 @@ affidavit "contains all the necessary facts in support of the Application" (PYP2
 
 *Source note: SQ p49–50, p55, p119–121; PYP23 p6–8; PYP25 p6–8; OB 47–51; LP-WA p1 (objectives); SN2 ¶22 (begin with the end in mind). Cyril-WAN: "Exam question will be very clear what we need to draft"; "exam is more of substance than form".*
 
-### drp-w-1-2 — Writing principles: audience, aim, DOTER, structure and style
-*Keywords: audience, aim, objective, DOTER, dispute onus test evidence reliefs, good fact bad fact neutral fact, case theory, signposting, one idea per paragraph, primacy and recency, active voice, plain English, sentence length*
+### drp-w-1-2 — Writing principles: audience, aim, case analysis, DOTER, structure and style
+*Keywords: audience, aim, objective, persuasion, logos ethos pathos, Aristotle, case analysis, begin with the end in mind, Goal, fact opinion assumption conjecture inference, missing facts, good fact bad fact neutral fact, DOTER, dispute onus test evidence reliefs, case theory, tribunal requirements, judge's preferences, rules governing the document, Evidence Act, why comply with rules, brevity, Occam's razor, tone, signposting, one idea per paragraph, primacy and recency, active voice, positive form, definite specific concrete, one tense in summaries, emphatic words at the end, facts not opinion, adverbs, qualifiers, fancy words, similes and metaphors, revise and rewrite, plain English, sentence length*
 
-**Before writing:** who is the reader (client, partner, the other side, the Court) and what
-must the document achieve (SN2 B–C)? Run DOTER: **D**ispute, **O**nus, **T**est, **E**vidence,
-**R**eliefs (SN2 ¶25). Sort the facts into good, bad and neutral (SN2 ¶23).
+**Persuasion has three parts (SN1 ¶3–6, after Aristotle):**
+
+- **logos:** the logic. Sequential propositions backed by provable facts, consistent with
+  common sense. The main driver in legal writing (SN2 ¶6; SN5 ¶1).
+- **ethos:** the writer's credibility. Compliance with the rules builds it; non-compliance,
+  overstatement or a less than forthright point loses it (SN2 ¶35).
+- **pathos:** emotional pull. Keep it restrained in a legal document: avoid emotive
+  language, embellishment and exaggeration (SN2 ¶37(k)).
+
+**Before writing: four questions (SN2 ¶2).**
+
+1. **Who is the audience?** Client, partner, the other side, a registrar, a judge, the Court
+   of Appeal. The tone must match the stakes: never flippant, never humorous (SN2 ¶4–5).
+2. **What is the aim?** An opinion for the client (1-30), a research memo for the partner
+   (1-30), or submissions the Court should accept (1-24). Know the destination first
+   (SN2 ¶18–21).
+3. **What rules govern the document?** See "Rules that govern the document" below.
+4. **What goes in, and how is it presented?** Style and structure, below.
+
+**Before a tribunal (SN2 ¶16–17):** know that tribunal's requirements and practice on form,
+content and style. If you know who the judge, registrar or arbitrator is, ask colleagues who
+have appeared before them about their preferences and dislikes, and tailor the work to them.
+
+> **Case analysis (SN2 ¶22)**
+> - (a) begin with the end in mind: set the ideal result (the "Goal");
+> - (b) find the known facts relevant to the Goal in the documents and instructions;
+> - (c) identify the facts or information you lack;
+> - (d) sort the known material into **facts, opinions, assumptions, conjectures and inferences**;
+> - (e) research the statutes and case law relevant to the Goal;
+> - (f) identify the causes of action or defences available;
+> - (g) identify the further facts needed to establish them;
+> - (h) list your assumptions, conjectures and inferences and test their reasonableness;
+> - (i) step back and assess your chances against the known and unknown facts and the law;
+> - (j) refine, recalibrate or change the Goal.
+
+**Good / Bad / Neutral facts (SN2 ¶23–24).** A **Good Fact** helps establish the Goal, cause
+of action or defence; a **Bad Fact** does the opposite; a **Neutral Fact** does neither. A Bad
+Fact **must be considered and addressed**: give it a credible explanation, never ignore it.
+
+**DOTER (SN2 ¶25):** **D**ispute (the facts in dispute), **O**nus (who must prove them),
+**T**est (the legal test for the cause of action or defence), **E**vidence (the documents,
+how they are proved, and the witnesses), **R**eliefs (the specific remedies).
+
+**Case theory (SN2 ¶27–28):** the story the analysis produces, which decides what you tell
+the reader and how. It stresses the facts in your favour and gives a credible explanation
+for the facts against you. State it in the opening paragraph (below).
+
+**Rules that govern the document (SN2 ¶29–33).** Before drafting, identify:
+
+- (a) legislation, e.g. the **Evidence Act** (what an affidavit may contain: personal
+  knowledge, admissibility: 1-10);
+- (b) subsidiary legislation, e.g. the Rules of Court and the PCR (1-5, 1-10, 1-19, 1-25);
+- (c) practice directions on format, style, content, page limits and time (SCPD / StCPD);
+- (d) professional body guidelines, e.g. the Law Society's Practice Directions (1-5).
+
+**Why comply (SN2 ¶34–35):** it shows the reader you know what you are doing; the reader
+knows the rules, so compliance makes reading easier; non-compliance distracts and weakens
+persuasion; a court or tribunal may reject a non-compliant document; and compliance builds
+ethos.
+
+**Brevity (SN2 ¶7–8).** A short, tightly reasoned document in direct, simple language
+persuades best. Apply **Occam's razor**: the simplest explanation is preferable to a more
+complex one.
 
 **Structure and style (SN2 ¶37):**
 
-- Start strong: one or two paragraphs that capture the case theory.
-- Signpost, and use sub-headings.
+- Start strong: one or two paragraphs that capture the case theory, dealing with any
+  adverse fact you must address.
+- Signpost, and use sub-headings; each topic leads into the next.
 - One idea per paragraph; number paragraphs consistently.
 - Vary sentence length. A sentence over three lines is probably too long.
 - Put the strongest points first (primacy) and end strong with a summary (recency).
-- Drop weak points.
-- Avoid emotive language.
+- Drop weak points: if you lose on the strong ones, you won't win on the weak.
+- Avoid emotive language, embellishment and exaggeration.
 
-**Usage (SN1; Cyril-WAN):**
+**Composition (SN1 E):**
 
-- Active voice: "The Defendant failed to pay" rather than "Payment was not made".
+- Plan the outline from the end: what will the document conclude or ask for? (SN1 ¶68–71)
+- Make the paragraph the unit of composition; common words, short sentences (¶72–74).
+- Active voice: "The Defendant failed to pay", not "Payment was not made" (¶75–78).
+- **Positive form:** say what is, not what is not ("He ignored her", not "He would not answer
+  her"). Use *would, could, should, may, might, can* only to convey uncertainty (¶79–82).
+- **Definite, specific, concrete language:** "It rained all day", not "The weather was
+  terrible". Give the dates, sums and names (¶83–85).
+- Omit needless words: "every word tell" (¶86).
+- **In summaries, keep to one tense**, the present unless the past is more natural (¶87–88).
+  In a Background section or an affidavit's narrative, the past tense is the natural one:
+  keep to it.
+- Put the emphatic words at the end of the sentence (¶89–91).
+
+**Style (SN1 ¶93):**
+
+- (a) state facts, not opinion, when describing facts. **Adverbs often carry opinion**
+  ("clearly", "blatantly", "deliberately");
+- (b) keep yourself in the background: the narrative is the focus;
+- (c) natural, but never flippant, breezy or inappropriate for the reader;
+- (d) do not overstate or exaggerate;
+- (e) do not repeat or overwrite: make the point and move on;
+- (f) write with nouns and verbs, not adverbs;
+- (g) **avoid qualifiers** ("quite", "rather", "somewhat", "very"): they weaken the writing;
+- (h) **avoid fancy words** when simple ones will do;
+- (i) use similes and metaphors sparingly, only to make a point clear;
+- (j) revise and rewrite, after a pause. In the exam that pause is the 4-minute check
+  (time plan, above).
+
+**Usage (Cyril-WAN):**
+
 - Cut words that do no work: "hereto", "In the circumstances", bridging sentences.
 - Write "7 days", not "seven (7) days"; better still, give the date.
+- Punctuation, grammar and spelling: 1-29.
 
 **Common mistakes:**
 
+- ignoring a Bad Fact instead of explaining it;
+- treating an assumption or the client's opinion as a fact (SN2 ¶22(d), (h));
 - pleasantries and long summaries of the other side's letter;
 - defining terms you never use again;
-- flowery language (SN4 ¶19).
+- flowery language (SN4 ¶19); adverbs and qualifiers that carry opinion (SN1 ¶93).
 
-*Source note: SN2 ¶22–25, ¶37 (as extracted 8 Nov 2026); SN1 D–F; SN4 ¶18–19; Cyril-WAN ("Legal writing comments"; "Response to Letter of Demand"; "Affidavit").*
+*Source note: SN1 ¶3–6 (logos, ethos, pathos), ¶67–91 (composition), ¶93 (style); SN2 ¶2–8, ¶16–37; SN4 ¶18–19; SN5 ¶1; Cyril-WAN ("Legal writing comments"; "Response to Letter of Demand"; "Affidavit"). All re-read in full 18 Nov 2026.*
+
+### drp-w-1-29 — Usage: punctuation, grammar and spelling
+*Keywords: punctuation, Oxford comma, serial comma, Oakhurst Dairy, possessive, apostrophe, its it's, contraction, parenthetic expression, non-restrictive clause, which, restrictive, comma before conjunction, independent clause, comma splice, semicolon, colon, dash, subject-verb agreement, each either neither everyone, one of, British spelling, American spelling, ise ize, Mr Mrs Dr no full stop, consistency, spellcheck, proofreading*
+
+**Use when** checking the draft in the last 4 minutes. Spelling is not penalised (OB 49), but
+punctuation can change meaning, and meaning is marked.
+
+| Rule (SN1 D) | Write | Not |
+|---|---|---|
+| **Oxford (serial) comma:** in a list of three or more with one conjunction, a comma after each term except the last (¶14–22) | "the Claimant, the First Defendant, and the Second Defendant" | a list where the last two items can be read as one |
+| Possessive of a singular noun: add **'s** (¶23) | the Defendant's director | |
+| Word ending in s: apostrophe after the s (¶24); for ancient names, "the laws of Moses" (¶25) | Jess' hair | |
+| Pronoun possessives take **no** apostrophe: hers, its, theirs, ours, yours (¶26) | The company changed its name | it's name |
+| Indefinite pronouns take one (¶27) | one's obligations; someone else's burden | |
+| **it's** = it is (a contraction; avoid in formal writing); **its** = possessive (¶28) | its | it's (in a pleading) |
+| Parenthetic expressions take **two** commas or none, never one (¶31–34) | The director, Mr Tan, signed the contract. | The director, Mr Tan signed the contract. |
+| No comma before a restrictive term of identification (¶35) | the physicist Albert Einstein | |
+| Non-restrictive clauses (often *which, when, where*) go between commas (¶36–38) | The Premises, which the Claimant leased in 2024, flooded. | |
+| Comma after an introductory phrase or subordinate clause (¶39) | On 2 April 2025, the Claimant transferred S$90,000. | |
+| Comma before a conjunction introducing an independent clause (¶40–41) | The Defendant received the goods, and it did not pay. | |
+| Do not join two independent clauses with a comma: use a semicolon, or a conjunction with a comma (¶42–44) | The goods were late; the Claimant rejected them. | The goods were late, the Claimant rejected them. |
+| **Colon:** introduces a list, or a sentence explaining the one before (¶45–46, ¶48) | The Defendant breached two terms: cl 3 and cl 7. | |
+| **Semicolon:** joins two related complete sentences without *and, or, but, yet, while*; separates list items that contain commas (¶47–49) | | |
+| **Dash:** an abrupt break, or a summary (¶51–52). Rare in a legal document | | |
+| **Subject-verb agreement:** compound subject with *and* is plural (¶53); *each, either, everyone, neither, nobody, someone* are singular (¶54); words in between don't change it (¶55); "one of the lawyers **is**" (¶56); "one of the few lawyers who **have**" (¶57) | Each of the Defendants **is** liable. | Each of the Defendants are liable. |
+
+**Spelling and abbreviations (SN1 ¶58–66):**
+
+- British, not American: colour, analyse, recognise, travelling, centre (¶58–62).
+- Mr, Mrs, Dr, St with **no full stop** (British: the abbreviation keeps the first and last
+  letters of the word) (¶63–64); degrees without full stops: PhD, MA (fn 4).
+- **Be consistent:** never switch between British and American usage (¶65).
+- Run the spell and grammar check, but its default is American English: watch for
+  Americanisms (¶66). Proofread (¶30).
+
+**Common mistakes:** one comma around a parenthetic phrase; "it's" for "its"; a comma splice
+joining two facts in a pleading; "Each of the Defendants are"; "recognize" in one paragraph
+and "recognise" in the next.
+
+*Source note: SN1 ¶14–66 and fn 4 (Oxford comma: Kevin O'Connor v Oakhurst Dairy, US Court of Appeals, First Circuit, 13 March 2017, where the missing serial comma cost the dairy US$5 million, ¶20–21). Examples in the table are this pack's, in the form SN1 uses; read in full 18 Nov 2026.*
+
+### drp-w-1-30 — Opinion or advice to a client; research memorandum for a partner
+*Keywords: opinion, advice, legal opinion, client advice, letter of advice, research memorandum, memo, partner, legalese, documents relied on, opinion may change, further information, facts and issues at the outset, executive summary, headings, firm's preferred format, audience, client*
+
+**Use when** the task is to advise the client or write up research for a partner, not to
+draft a court document or a letter to the other side. Not set in 2023–2025 (PYP23, SQ,
+PYP25), but SN2 ¶9–15 lays down the rules.
+
+```text
+[LETTERHEAD]                                                            [1]
+PRIVATE AND CONFIDENTIAL
+[DATE]
+[CLIENT NAME AND ADDRESS]  /  MEMORANDUM To: [PARTNER] From: [ ] Re: [ ]
+
+Dear [ ],
+
+[SUBJECT: ADVICE ON [MATTER]]
+
+A. EXECUTIVE SUMMARY                                                    [2]
+1.  [The answer, in two to four sentences: what the client can do, the
+    likely outcome, and what we recommend.]
+
+B. DOCUMENTS AND INFORMATION RELIED ON                                  [3]
+2.  We have reviewed and relied on: (a) [DOCUMENT, date]; (b) [ ];
+    (c) your instructions at our meeting on [DATE].
+3.  This advice is based on those documents and that information. It may
+    change if further information or documents become available.
+
+C. FACTS                                                                [4]
+4.  [The relevant facts, succinctly, in date order.]
+
+D. ISSUES                                                               [5]
+5.  You have asked us to advise on: (a) whether [ ]; (b) [ ].
+
+E. ANALYSIS                                                             [6]
+[Heading per issue, stated as the answer]
+6.  [Rule, in plain words → the facts → the conclusion on this issue.]
+
+F. RECOMMENDATIONS AND NEXT STEPS                                       [7]
+7.  [What to do, by when; what further facts or documents we need.]
+
+Yours faithfully,  /  [NAME]
+```
+
+**Part notes:**
+
+- [1] Client advice is a letter to the client; research for a partner is a memorandum.
+  For a memo, check the firm's or partner's preferred format first: it varies from firm to
+  firm (SN2 ¶15).
+- [2] Executive summary at the start of any lengthy opinion: the key points and the
+  conclusion. A busy client may read nothing else, and it signposts the rest (SN2 ¶14).
+- [3] Set out the information and documents reviewed and relied on (in the body or an
+  appendix), say you relied on them, and say the advice may change if more come to light
+  (SN2 ¶11).
+- [4]–[5] At the outset, state succinctly the facts ascertained and the issues on which
+  advice is sought (SN2 ¶12).
+- [6] Headings and sub-headings that guide the reader from topic to topic (SN2 ¶13). **No
+  legalese** for a client: explain, don't show off (SN2 ¶9–10). For a partner's memo,
+  technical language matters less (SN2 ¶15). Deal with the Bad Facts (1-2): an opinion that
+  hides them is worthless to the client.
+- [7] End with what the client should do.
+
+**Common mistakes:**
+
+- Latin and legal jargon in a letter to a lay client;
+- no list of documents relied on, and no caveat that the advice may change;
+- the answer buried at the end of a long opinion with no executive summary;
+- an opinion that states only the strong points (case analysis: 1-2).
+
+*Source note: SN2 ¶2(b), ¶9–15, ¶22–28 (read in full 18 Nov 2026). The skeleton is this pack's arrangement of the SN2 ¶11–14 requirements; SILE gives no model opinion.*
 
 ### drp-w-1-3 — Logic and reasoning: fallacies to keep out of the document
-*Keywords: logic, reasoning, fallacy, equivocation, ad hominem, straw man, red herring, circular reasoning, slippery slope, false alternatives, appeal to authority, composition, division, affirming the consequent, denying the antecedent*
+*Keywords: logic, reasoning, fallacy, logical fallacy, officer of the Court, expose opponent's fallacies, equivocation, distinction without a difference, ad hominem, poisoning the well, circular reasoning, negative proof, red herring, ad populum, appeal to popularity, straw man, slippery slope, domino, gambler's fallacy, false cause, correlation causation, false alternatives, false dilemma, composition, division, affirming the consequent, denying the antecedent, appeal to authority*
 
-**Check before submitting.** "Avoid fallacies at all costs in your written and oral work"
-(SN5 ¶4). The ones that creep into drafting:
+**Why it matters (SN5 ¶1–5).** A fallacy is "a hole in an argument's reasoning or logic"
+that makes it invalid. "Avoid fallacies at all costs in your written and oral work": as an
+officer of the Court you must present fair and principled arguments (SN5 ¶3–4). Use the same
+list **offensively**: knowing the fallacies is how you expose the flaws in your opponent's
+argument (SN5 ¶2), e.g. in a reply letter (1-7) or submissions (1-25).
 
-| Fallacy | What it looks like | Fix |
-|---|---|---|
-| Ad hominem / poisoning the well | Attacking the other party or counsel, not the point | State the fact and its effect |
-| Straw man | Answering a weaker version of the other side's case | Quote their position, then answer it |
-| Red herring | Facts that do not go to any limb | Cut anything not on the limb-by-fact map (1-1) |
-| Circular reasoning | "He has no defence because his defence is bad" | Give the reason: e.g. bare non-admissions, no particulars |
-| False alternatives | "Either he pays or he is dishonest" | Allow the real options |
-| Slippery slope | "If this is allowed, every debtor will …" | Argue this case |
-| Equivocation | One word used in two senses (e.g. "deposit") | Define the term once and stick to it |
-| Affirming the consequent / denying the antecedent | "If served, he would know; he knows, so he was served" | Prove each limb with its own fact |
+**SN5's 17 fallacies, in its order:**
+
+| # | Fallacy | What it is (SN5 example) | In a legal document | Fix / reply |
+|---|---|---|---|---|
+| B1 | Equivocation (¶7–11) | One word in two senses ("lemon" = fruit and defective car) | "Deposit" meaning the security deposit in one paragraph and a part-payment in another | Define the term once and stick to it |
+| B2 | Distinction without a difference (¶12–14) | Different words for the same thing ("I did not lie; I presented alternative facts") | "The Defendant did not refuse to pay; it merely withheld payment" | Look at the substance: it is still non-payment |
+| C1 | Ad hominem (¶15–16) | Attacking the person, not the argument ("fresh out of law school") | Attacking opposing counsel or the party's character | State the fact and its effect |
+| C2 | Poisoning the well (¶17–18) | Discrediting someone in advance by background, nationality, race, gender | "The director has been sued before, so his evidence should not be believed" | Test the evidence against the documents |
+| C3 | Circular reasoning (¶19–20) | The conclusion is its own evidence; also "if an expert says it, it must be true" | "He has no defence because his defence is bad" | Give the reason: e.g. bare non-admissions, no particulars |
+| C4 | Negative proof (¶21–22) | True because not proven false, or false because not proven true | "The Defendant cannot prove it did not receive the invoice, so it received it" | The party with the onus must prove it (DOTER: 1-2); the opponent's failure to disprove is not proof |
+| C5 | Red herring (¶23–24) | A distraction from the real issue ("we can't raise salaries, but we give great benefits") | Facts that go to no limb; a reply that answers a different point | Cut anything not on the limb-by-fact map (1-1); in reply, bring it back to the issue |
+| C6 | Ad populum, appeal to popularity (¶25–26) | True because most people accept it | "It is common practice in the industry not to pay deposits back on time" | What the contract and the law require |
+| C7 | Straw man (¶27–28) | Distorting the other side's position to attack it | Answering a weaker version of the other side's case | Quote their position, then answer it |
+| D1 | Slippery slope / domino (¶29–30) | One step will lead to a chain of drastic results | "If this late defence is allowed, no deadline will ever be respected" | Argue this case: delay, reasons, prejudice |
+| D2 | Gambler's fallacy (¶31–32) | A past independent outcome changes the odds of the next | "The Defendant paid late four times, so it is bound to pay on time now" | Each event on its own evidence |
+| D3 | False cause (¶33–34) | Correlation taken for causation (the rooster and the sunrise) | "Sales fell after the ex-employee joined the competitor, so he caused the loss" | Plead and prove the causal link: what he did and how it caused the loss |
+| D4 | False alternatives (¶35–36) | Only two options assumed when there are more | "Either he pays or he is dishonest" | Allow the real options |
+| D5 | Composition (¶37–38) | True of the parts, so true of the whole ("atoms are colourless, so cats are") | "Each delivery was only slightly late, so the contract was performed on time" | Assess the whole on its own facts |
+| D6 | Division (¶39–40) | True of the whole, so true of each part ("the All Blacks are great, so each player is") | "The company is reputable, so its director's statement must be true" | Assess each part on its own facts |
+| E1 | Affirming the consequent (¶41–43) | If A then B; B; so A ("dogs growl; it growls; so it is a dog") | "If served, he would know of the claim; he knows of it, so he was served" | Prove each limb with its own fact |
+| E2 | Denying the antecedent (¶44–46) | If A then B; not A; so not B ("no petrol, car won't run; there is petrol, so it runs") | "If the goods were defective, the Claimant could reject them; they were not defective, so it had no right to terminate" (other grounds may exist) | Check for other routes to B |
+
+**Not in SN5:** "appeal to authority" comes from Cyril's list. SN5 treats "if an expert says
+it's true, it must be true" as circular reasoning (¶19).
 
 **Common mistake:** an emotive or insulting phrase. It is a fallacy, and in a letter or
 affidavit it also breaks PCR r 7(2) and O 15 r 25(2) (1-5, 1-10).
 
-*Source note: SN5 ¶4, B–E (headings as extracted 8 Nov 2026); Cyril-WAN ("Logic and reasoning" list); O 15 r 25(2) ROC p147.*
+*Source note: SN5 ¶1–46 (read in full 18 Nov 2026; the 17 headings in Parts B–E). The "In a legal document" column is this pack's application. Cyril-WAN ("Logic and reasoning" list); O 15 r 25(2) ROC p147.*
 
 ## 1.II Correspondence
 
@@ -203,7 +432,11 @@ cc. client
 - [2] Subject line: what is claimed and how much.
 - [3] One line.
 - [4] Only the facts that found the claim: contract, key term, the client's performance, the
-  due date. Leave out the chasing calls (Cyril-WAN: "less is more").
+  due date (Cyril-WAN: "less is more"). One short sentence on the client's requests to pay,
+  with their dates, is safe and is what SILE does: "Despite our client's request by way of
+  WhysApp messages on 31 August 2025 … you failed, refused and/or neglected to do so", and
+  "notwithstanding our client's numerous reminders … sent on 1 to 3 and 5 September 2025"
+  (WE [8], Annex 2(1A) ¶4–5). Don't quote the messages or narrate each call.
 - [5] Name the term breached.
 - [6] The demand: what, how much, a deadline (a date beats "seven (7) days": Cyril-WAN), and
   where to pay.
@@ -217,9 +450,10 @@ cc. client
 - threatening the police or the Law Society (1-5);
 - marking the letter without prejudice;
 - putting the settlement offer inside the open letter;
-- reciting evidence (phone calls, screenshots) instead of the material facts.
+- reciting evidence (quoting messages, describing screenshots) instead of the material
+  facts. A dated reference to the reminders is fine (part note [4]).
 
-*Source note: SQ p49–55 (task), p119–120 (guide answer); WE [8] (Annex 2(1A)); SN3 ¶3–6, ¶12–15; Cyril-WAN ("Letter of demand"). Conflict: Cyril-WAN says "Without Prejudice - always have it!" for a letter of demand; SILE's guide answer and Worked Example send an open letter and a separate WP offer. The Template follows SILE.*
+*Source note: SQ p49–55 (task), p119–120 (guide answer); WE [8] (Annex 2(1A)); SN3 ¶3–6, ¶12–15; Cyril-WAN ("Letter of demand"). Conflict: Cyril-WAN says "Without Prejudice - always have it!" for a letter of demand; SILE's guide answer and Worked Example send an open letter and a separate WP offer. The Template follows SILE. Part note [4] on reminders also follows SILE (WE Annex 2(1A) ¶4–5) over Cyril-WAN's "less is more".*
 
 ### drp-w-1-5 — What a letter may not demand or threaten (PCR r 8(4)–(5), r 7(2); LSS-PD 1.8.1, 9.1.2)
 *Keywords: not recoverable by due process of law, costs of letter of demand, simple debt, interest, inconvenience, threaten criminal proceedings, police report, disciplinary proceedings, Law Society complaint, offensive letter, courtesy, rule 8(4), rule 8(5), rule 7(2), PD 1.8.1, PD 9.1.2*
@@ -233,7 +467,12 @@ cc. client
 > **Rule in full**
 > - PCR r 8(4): when a legal practitioner issues a letter of demand, the legal practitioner must not demand in the letter anything that is not recoverable by due process of law.
 > - PCR r 8(5): where any civil claim made against a person, by a client of a legal practitioner, remains unsatisfied, the legal practitioner must not threaten the institution of any criminal or disciplinary proceedings against the person.
+> - PCR r 7(1) principles guiding the rule (cited in SN2 fn 4 for correspondence with another lawyer):
+>   - (a) always accord another legal practitioner the proper respect due to a member of a noble and honourable profession;
+>   - (b) deal with another legal practitioner in good faith and in a dignified and courteous manner, so that the matters can be properly and satisfactorily resolved in the best interests of both clients;
+>   - (c) do not deal with another legal practitioner in any way that may adversely affect the reputation and good standing of the profession.
 > - PCR r 7(2): a legal practitioner must treat other legal practitioners with courtesy and fairness.
+> - PCR r 9(1)(c) principle (also cited in SN2 fn 4): a legal practitioner must always be truthful and accurate in communications with any person involved in or associated with proceedings before a court or tribunal. So a letter to opposing counsel about a pending case must not misstate a fact.
 > - LSS-PD 1.8.1 (letters of demand):
 >   - (a) do not demand anything not properly recoverable by due process of law;
 >   - (b) it is improper to demand costs when collecting a simple debt;
@@ -258,7 +497,7 @@ commenced* (SQ p120 ¶7).
 - "our client reserves the right to report this matter to the police";
 - sarcasm or insults about the other side or its lawyers.
 
-*Source note: SN3 ¶3–6 (PCR rr 7(2), 8(4), 8(5); LSS-PD 1.8.1 and 9.1.2 as summarised there); SQ p55 ¶10, p119–120; Cyril-WAN ("Response to Letter of Demand": do not threaten a LawSoc complaint).*
+*Source note: SN3 ¶3–6 (PCR rr 7(2), 8(4), 8(5); LSS-PD 1.8.1 and 9.1.2 as summarised there); SN2 ¶30 and fn 4–5 (PCR r 7(1)(a)–(b), r 9(1)(c), r 8(4)); PCR r 7(1), r 9(1)(c) text read 18 Nov 2026 from `Bar Exam/Modules/Ethics & Professional Responsibility/Materials for Ethics/Legal Profession (Professional Conduct) Rules 2015.pdf` (informal consolidation in force from 4 May 2022; SN2 fn 4 calls them "s 7" and "s 9", but they are rules); SQ p55 ¶10, p119–120; Cyril-WAN ("Response to Letter of Demand": do not threaten a LawSoc complaint).*
 
 ### drp-w-1-6 — Written offer of amicable resolution (Order 5): skeleton and part notes
 *Keywords: offer of amicable resolution, Order 5, O 5 r 1, O 5 r 2, without prejudice save as to costs, WP offer, open for 14 days, full and final settlement, instalments, repayment schedule, lapse, settlement offer, mediation*
@@ -461,7 +700,21 @@ AFFIDAVIT OF [NAME] AFFIRMED ON [DATE] BEFORE ME, A COMMISSIONER FOR OATHS]
   (Claimant / Defendant / Third Party / Witness / Others). A colour photograph is needed only
   for an AEIC in an originating claim (O 15 r 19(2)).
 - [4] Form 31 Notes 1–2: state the purpose of the affidavit, and whether the maker knows the
-  facts are true or only believes them, giving the grounds for any belief.
+  facts are true or only believes them, giving the grounds for any belief. SN4 Annex 3 ¶1
+  uses the short form: "Insofar as the matters herein are within my knowledge, they are
+  true. Insofar as they are not within my knowledge, they are true to the best of my
+  information and belief."
+- **Belief and advice paragraphs.** Where the maker states a belief, give its source. For a
+  matter of law or a view of the claim, SILE's affidavits use: "I have been advised and
+  verily believe that [the Defendant has no defence to my claim]" (WE [11] Annex 2(3) ¶4,
+  ¶15) and "The Defendant has been advised and verily believes that [the Claimant has not
+  validly commenced these proceedings]" (SN4 Annex 3 ¶3, ¶8). Use it for the conclusion
+  only, never instead of the facts that prove it, and leave the argument to the solicitors
+  (part note [8]).
+- **Jurisdiction challenge:** the deponent says nothing on the merits. "While the Defendant
+  has a substantive defence to raise (on the merits), it respectfully chose not to do so in
+  the present instance as we have been advised that it may amount to a submission to
+  jurisdiction" (SN4 Annex 3 ¶6). See O 6 r 7(6) (1-27).
 - Form 31 Notes 3–5: number paragraphs consecutively; write dates, sums and other numbers in
   figures, not words; set out the facts clearly and in time order (or another logical order).
 - [5] Tie the affidavit to the application and the orders sought (in 2025 the memo set out
@@ -472,6 +725,12 @@ AFFIDAVIT OF [NAME] AFFIRMED ON [DATE] BEFORE ME, A COMMISSIONER FOR OATHS]
   and assume it is exhibited (PYP25 p8 ¶9.2; WE [2] ¶14).
 - [8] End with the orders sought. "I leave the legal arguments to my solicitors" is
   acceptable (WE [15] ¶17).
+- **Physical form** (SCPD 78(1)(a), (b), (e), (f), current text): a margin of at least
+  35mm on all 4 sides; text typed on white paper and double-spaced (headings, cover pages,
+  tables of contents, quoted authorities and transcripts may be single-spaced); minimum
+  Times New Roman 12; hard copies printed on both sides is "strongly encouraged". Not
+  marked in a typed Examplify answer, but know it. SN3 ¶10 quotes the older version, where
+  both-sided printing was para (4).
 - [9] Jurat (Form 31): "[Affirmed/sworn] on [date] at [location] (through the interpretation
   of [name of interpreter]) Before me, Commissioner for Oaths". The exhibit
   separator page is not needed in the 2025 format (PYP25 p8 ¶9.3).
@@ -484,7 +743,7 @@ AFFIDAVIT OF [NAME] AFFIRMED ON [DATE] BEFORE ME, A COMMISSIONER FOR OATHS]
 - referring to a document without exhibiting it;
 - repeating facts already in the heading (Cyril-WAN).
 
-*Source note: Form31 (Form 31, Notes 1–5 and jurat; current version, same text as the 2022 library copy); O 15 r 19 ROC p145; SCPD 78(1)(c), (1)(d), (3) and StCPD 60(1)–(2) (downloaded 8 Nov 2026); WE [12]–[16] (Annex 2(3)); PYP25 p8 ¶9–10; SN3 ¶9–10; Cyril-WAN ("Affidavit"). Conflict: SN3 ¶10 (2024) says the page number goes at the centre top; current SCPD 78(1)(d) says the top right corner. Follow the current PD.*
+*Source note: Form31 (Form 31, Notes 1–5 and jurat; current version, same text as the 2022 library copy); O 15 r 19 ROC p145; SCPD 78(1)(a)–(f), (3) and StCPD 60(1)–(2) (downloaded 8 Nov 2026; 78(1)(a), (b), (e), (f) re-read 18 Nov 2026); SN4 Annex 3 ¶1, ¶3, ¶6, ¶8; WE [11] (Annex 2(3) ¶4, ¶15); WE [12]–[16] (Annex 2(3)); PYP25 p8 ¶9–10; SN3 ¶9–10; Cyril-WAN ("Affidavit"). Conflict: SN3 ¶10 (2024) says the page number goes at the centre top; current SCPD 78(1)(d) says the top right corner. Follow the current PD.*
 
 ### drp-w-1-10 — Affidavit content: facts only, the deponent's evidence, nothing improper
 *Keywords: contents of affidavit, O 15 r 25, relevant facts only, no legal argument, no conclusions, deponent's own words, information and belief, source of information, PCR r 9(2)(h), allegation of fraud, without prejudice letter, vulgar or insulting words, AEIC, Registrar's circulars 2025*
@@ -512,16 +771,36 @@ giving evidence in person, with the source of anything not within personal knowl
 >   - translated for a deponent who does not understand English;
 >   - no false evidence, nothing unsupported by instructions, no fraud allegation without clear instructions and credible material, and no allegation against another lawyer unless that lawyer has had a chance to respond and the response is disclosed (PCR rr 9, 29).
 
+**Personal knowledge and the rules of evidence (SN2 ¶32).** An affidavit of evidence in
+chief must not contain anything outside the personal knowledge of a witness of fact, or
+anything that infringes a rule of evidence (the Evidence Act: SN2 ¶33(a)). So: what the
+maker saw, did, heard or received; hearsay only where allowed and with its source stated
+("I am informed by [name], and verily believe, that …"); no opinion from a witness of fact.
+
+**The lawyer's role: form, not substance** (SN3 ¶8, quoting the PCR Commentary at 09.086):
+
+- the lawyer may express the substance of the witness's evidence as effectively and
+  succinctly as possible;
+- but must not alter its substance, and must not include anything the client or the
+  instructions do not support (r 9(2)(h)(i));
+- must not assume everything the client says is true or belongs in the affidavit;
+- must give the deponent a full opportunity to read the draft, and make them feel free to
+  change it in any way;
+- must not pressure or influence the deponent into swearing or affirming it because it
+  helps the client;
+- must tell the deponent the duty to tell the truth is the same as in the witness box.
+
 **Common mistakes:**
 
 - "The Defendant is clearly evading service" or "the Defence is bound to fail" with no facts
-  behind it. Give the facts, and leave the conclusion to the submissions;
+  behind it. Give the facts, and leave the conclusion to the submissions. Adverbs such as
+  "clearly", "deliberately" and "blatantly" carry opinion: cut them (SN1 ¶93(a), (f));
 - referring to a without prejudice letter: it may be expunged, with a Law Society complaint
   to follow (Cyril-WAN). Refer to the open letter of demand only;
 - exhibiting what is already on the court file (Cyril-WAN: more pages, more fees);
 - insults or emphasis (bold, capitals) aimed at the other side.
 
-*Source note: O 15 r 25 ROC p147; SN3 ¶7–9 (PCR r 9(2)(h)); Cyril-Aff p1–2 ¶1–9 (SILE note, Nov 2025); Cyril-WAN ("Affidavit").*
+*Source note: O 15 r 25 ROC p147; SN2 ¶32–33; SN3 ¶7–9 (PCR r 9(2)(h); ¶8 quoting Legal Profession (Professional Conduct) Rules 2015 – A Commentary (2016) at 09.086); SN1 ¶93; Cyril-Aff p1–2 ¶1–9 (SILE note, Nov 2025); Cyril-WAN ("Affidavit").*
 
 ### drp-w-1-11 — Affidavit for substituted service (O 7 r 7): facts to depose
 *Keywords: substituted service, O 7 r 7, impractical to serve personally, two reasonable attempts, SCPD 65, StCPD 28, AR registered post, posting on door, electronic means, email account active, IRAS SLA HDB ACRA search, advertisement last resort, service endorsement, facts checklist*
@@ -586,7 +865,7 @@ every fact needs its exhibit.
 - no explanation of the delay;
 - hiding a weak reason. The deponent must tell the truth (PCR r 9(2)(h)(iv)).
 
-*Source note: SN3 ¶16–28 (exercise; suggested cases Mercurine Pte Ltd v Canberra Development Pte Ltd [2008] 4 SLR(R) 907, U Myo Nyunt v First Property Holdings Pte Ltd [2021] 2 SLR 816, Zhou Wenjing v Shun Heng Credit Pte Ltd [2022] SGHC 313); drp-w-0-23 (default judgment; O 3 r 2(8), (10); O 9 r 6(2)); Cyril-WAN ("Response to Letter of Demand"). The limbs follow the law frame in 1-28, checked against Mercurine [2008] SGCA 38 at [43], [60], [74], [97] and U Myo Nyunt [2021] SGCA 73 at [60]–[65], read on eLitigation 9 Nov 2026.*
+*Source note: SN3 ¶16–28 (exercise; suggested cases Mercurine Pte Ltd v Canberra Development Pte Ltd [2008] 4 SLR(R) 907, U Myo Nyunt v First Property Holdings Pte Ltd [2021] 2 SLR 816, Zhou Wenjing v Shun Heng Credit Pte Ltd [2022] SGHC 313); drp-w-0-23 (default judgment; O 3 r 2(8), (10); O 9 r 6(2)); SN3 Annex B1 (the summons: grounds O 3 r 2(8) and/or 2(2); 1-28); Cyril-WAN ("Response to Letter of Demand"). The limbs follow the law frame in 1-28, checked against Mercurine [2008] SGCA 38 at [43], [60], [74], [97] and U Myo Nyunt [2021] SGCA 73 at [60]–[65], read on eLitigation 9 Nov 2026.*
 
 ### drp-w-1-13 — Affidavit for summary judgment (claimant, O 9 r 17(2)): facts to depose
 *Keywords: summary judgment, O 9 r 17, affidavit in support, all evidence necessary or material, no defence, bare defence, non-admission, prima facie case, triable issue, acknowledgement of debt, loan, WhatsApp messages, bank transfer*
@@ -776,6 +1055,9 @@ above.
 - [6] Loss. If it can't be quantified, plead damages to be assessed (1-20).
 - [7] Plead the demand. Never mention the O 5 offer.
 - [8] The prayer (1-20).
+- **Precedents** (Bullen & Leake & Jacob's *Singapore Precedents of Pleadings*; *Singapore
+  Precedent of Pleadings*) are a starting point only: each case's facts must be woven in
+  (SN4 ¶11, fn 9).
 - [9] Certification as in Form 9. In 2023 the client's HR and Admin Director signed, because
   the CEO was away (PYP23 p8 ¶6).
 
@@ -788,10 +1070,17 @@ above.
 - an injunction prayer with no pleaded facts showing a continuing threat;
 - leaving out interest and costs.
 
-*Source note: Form9 p1–2; O 6 r 5 ROC p70 (drp-w-0-20); WE [10]–[11] (Annex 2(2)); PYP23 p6–13; SN4 ¶4–11; Nic-SOC p1–4 (secondary; uses the pre-2021 "Plaintiff").*
+*Source note: Form9 p1–2; O 6 r 5 ROC p70 (drp-w-0-20); WE [10]–[11] (Annex 2(2)); PYP23 p6–13; SN4 ¶4–11 and fn 9; Nic-SOC p1–4 (secondary; uses the pre-2021 "Plaintiff").*
 
 ### drp-w-1-19 — What to plead and what not to plead (Form 9 ¶2–3; SCPD 61)
 *Keywords: material facts, not evidence, points of law, legal argument, particulars, misrepresentation, fraud, breach of trust, wilful deceit, undue influence, condition of mind, knowledge, factual matrix, Sembcorp Marine, SCPD 61, Wong Leng Si Rachel v Wu Su Han Olivia, chaff, emphasis, exhibits in pleadings*
+
+**Why pleadings matter** (SN4 ¶1–2, ¶6): "[t]he key purpose of pleadings is to set the
+parameters of the issues that lie for the court's determination" (*Tarun Hotchand Chainani v
+Avinderpal Singh s/o Ranjit Singh* [2023] SGHCR 5 at [31], quoted in SN4 ¶2). They let each
+party prepare for trial, **tie a party down** to its position so the other side is not taken
+by surprise, and let the Court focus on what is disputed (admitted facts become agreed facts).
+So a fact not pleaded may not be run at trial: plead every element.
 
 **Must plead:** material facts. Plead particulars of any misrepresentation, fraud, breach of
 trust, wilful deceit or undue influence, and of any condition of mind except knowledge
@@ -813,6 +1102,10 @@ affidavits" (SN4 ¶5).
 >   - (a) evidence by which material facts are to be proved;
 >   - (b) points of law;
 >   - (c) legal arguments and submissions.
+> - PCR r 9(2): in proceedings for a client, a legal practitioner must not
+>   - (b) fabricate any fact or evidence in any communication with, or representation or submission to, the court or tribunal;
+>   - (c) include, in any document used for those proceedings, any statement of fact which the practitioner knows to be false.
+>   - SN2 ¶32 applies (b) and (c) to pleadings: "you must not knowingly make a false or misleading statement or assertion". See also r 9(2)(h) (no fact unsupported by instructions; fraud only with clear instructions and credible material: 1-10).
 > - SCPD 61(2) (Sembcorp Marine Ltd v PPL Holdings Pte Ltd [2013] 4 SLR 193 at [73]):
 >   - (a) plead with specificity each fact of the factual matrix relied on to construe the contract;
 >   - (b) plead with sufficient particularity the circumstances in which those facts were known to the parties;
@@ -832,7 +1125,7 @@ it is evidence: leave it for the affidavit.
 - an incomplete cause of action, missing an element, which can be struck out (O 9 r 16).
   Amendment may save it, but the amending party usually pays the costs (SN4 ¶8).
 
-*Source note: Form9 p1; SCPD 61 (downloaded 8 Nov 2026); SN4 ¶4–11 (Wong Leng Si at [3]–[8] and SCPD 61 quoted there); O 9 rr 14, 16 ROC p92.*
+*Source note: Form9 p1; SCPD 61 (downloaded 8 Nov 2026); SN4 ¶1–2 and fn 3 (Tarun Hotchand Chainani at [31]), ¶4–11 (Wong Leng Si at [3]–[8] and SCPD 61 quoted there); O 9 rr 14, 16 ROC p92; SN2 ¶32 and fn 6 (PCR r 9(2)(b), (c)); PCR r 9(2)(b), (c) text read 18 Nov 2026 from the Ethics module copy (informal consolidation in force from 4 May 2022).*
 
 ### drp-w-1-20 — The prayer: what the claimant claims (Form 9 ¶4–7)
 *Keywords: prayer, AND THE CLAIMANT CLAIMS, relief, liquidated sum, damages to be assessed, interest, contractual interest, Civil Law Act s 12, 5.33%, costs, contractual costs, injunction, delivery up, declaration, account of profits, further or other relief, medical report, special damages, provisional damages*
@@ -938,7 +1231,10 @@ Defendant [Name]                    Solicitor for the defendant [Name]
 
 **Part notes:**
 
-- [1] File within 21 days of service of the SOC (5 weeks if served out of Singapore) (O 6
+- [1] Before the defence: the notice of intention to contest or not contest (Form 10) within
+  14 days of service of the SOC (21 days if served out of Singapore); filing it is not a
+  submission to jurisdiction (O 6 r 6(1)–(4) ROC p70–71; the OC form ¶3(b)(ii), SN4 Annex 1).
+  File the defence within 21 days of service of the SOC (5 weeks if served out of Singapore) (O 6
   r 7(1)–(2)). Form 13 is mandatory (O 6 r 7(3)).
 - [2] Form 13 Defence ¶2–4: say whether it is contended that the Court has no jurisdiction or
   should not exercise it, and whether the proceedings should be stayed, struck out or other
@@ -968,7 +1264,7 @@ Defendant [Name]                    Solicitor for the defendant [Name]
   paragraph. Cyril-WAN says an unanswered paragraph is "deemed admitted", but no ROC 2021
   rule says so: that was ROC 2014 O 18 r 13. Answer every paragraph anyway.
 
-*Source note: Form13 (current version, PDF dated 14 Jul 2026: General Points 1–3; (a) Defence ¶1–8; certification); O 6 r 7(1)–(4) ROC p71; SN4 ¶21–22; Cyril-WAN ("Defence to SOC"); WE [21]–[22]. Conflict: Cyril-WAN's "deemed admitted" rule: a word search of the library ROC 2021 for "deemed to admit", "admitted" and "traverse" found no general deemed-admission rule for pleadings (the only one is for a defaulting third party, O 10 r 5(1)(a) ROC p104); the current SSO text could not be read (SSO refuses automated access), so the Template does not rely on it.*
+*Source note: Form13 (current version, PDF dated 14 Jul 2026: General Points 1–3; (a) Defence ¶1–8; certification); O 6 r 6(1)–(4), r 7(1)–(4) ROC p70–71; SN4 ¶21–22 and Annex 1 ¶3; Cyril-WAN ("Defence to SOC"); WE [21]–[22]. Conflict: Cyril-WAN's "deemed admitted" rule: a word search of the library ROC 2021 for "deemed to admit", "admitted" and "traverse" found no general deemed-admission rule for pleadings (the only one is for a defaulting third party, O 10 r 5(1)(a) ROC p104); the current SSO text could not be read (SSO refuses automated access), so the Template does not rely on it.*
 
 ### drp-w-1-23 — Counterclaim, defence to counterclaim and reply (O 6 rr 8–10; O 9 r 15; Form 13)
 *Keywords: counterclaim, defence and counterclaim, defence to counterclaim, DTCC, CC (1), reply, REP (1), further pleadings, permission granted by the Court, O 6 r 8, O 6 r 9, O 6 r 10, O 9 r 15, Form 13, 14 days*
@@ -1060,6 +1356,10 @@ Dated this [ ] day of [MONTH] [YEAR].
 
 **Part notes:**
 
+- **When submissions are filed** (SN4 ¶3, ¶14, ¶16, fn 4): closing submissions after trial;
+  interlocutory applications such as summary judgment or striking out usually need them;
+  the Court may order reply submissions to clarify points and let each side answer the
+  other. Filed ahead, they tell the Court each side's position and shorten the hearing.
 - [1] A cover page and table of contents can be assumed (WE [3] ¶18).
 - [2] Start strong (1-25), and state the orders sought.
 - [3] Facts with pinpoint references to the affidavits and exhibits. Quote only the decisive
@@ -1078,7 +1378,7 @@ Dated this [ ] day of [MONTH] [YEAR].
 - going over a page limit (35 pages for an originating application, O 9 r 25(14); 15 pages
   for permission to appeal, O 18 r 29). The exercises had none (SN4 ¶25).
 
-*Source note: WE [3] ¶15–19, [17]–[22] (Annex 2(4)); SN4 ¶12–19, ¶25; Cyril-WAN ("Written Submissions": suggested sub-headers Orders Sought, Grounds of Application, Supporting Affidavit, Relevant Law, Relief Sought); O 9 r 25(14) ROC p98.*
+*Source note: WE [3] ¶15–19, [17]–[22] (Annex 2(4)); SN4 ¶3, ¶12–19, ¶25 and fn 4; Cyril-WAN ("Written Submissions": suggested sub-headers Orders Sought, Grounds of Application, Supporting Affidavit, Relevant Law, Relief Sought); O 9 r 25(14) ROC p98.*
 
 ### drp-w-1-25 — Persuasion and ethics in submissions
 *Keywords: persuasive writing, start strong, plain and clear, case theory, signposting, strongest point first, primacy and recency, abandon weak points, emotive language, PCR r 9(2)(b), PCR r 9(2)(f), fabricate, cite law out of context, Newton v Public Prosecutor*
@@ -1119,7 +1419,14 @@ quoted in SN4 ¶13).
 
 1. **Procedure.** The claimant may apply after the defence is served, on the ground that the
    defendant has no defence (O 9 r 17(1)(a)). The application must be made within 28 days of
-   service of the defence unless the Court permits otherwise (r 17(13)).
+   service of the defence unless the Court permits otherwise (r 17(13)). Affidavits: the
+   claimant's must contain all the evidence necessary or material to the claim (r 17(2));
+   a defendant who disputes the application must file and serve its affidavit within 14 days
+   of service of the application and affidavit (r 17(3)), containing all the evidence
+   necessary or material to the defence (r 17(4)); a claimant who disputes anything in it
+   files a responsive affidavit within 14 days (r 17(5)); no further affidavits without the
+   Court's approval (r 17(6)). In the WE the defendant's 2-page affidavit only mirrored the
+   non-admissions, so no r 17(5) affidavit was needed (WE [3] ¶16).
 2. **Old cases still apply.** The principles under O 14 of ROC 2014 continue to apply
    (*Horizon Capital Fund v Ollech David* [2023] SGHC 164 at [58]–[59]).
 3. **Stage 1.** The claimant must show a prima facie case (*Ritzland Investment Pte Ltd v
@@ -1129,8 +1436,11 @@ quoted in SN4 ¶13).
    trial (*Ritzland* at [44]; *M2B World Asia Pacific Pte Ltd v Matsumura Akihiko* [2015]
    1 SLR 325 at [19]). The burden that shifts is "a tactical burden, not the legal or even an
    evidential burden of proof" (*Ritzland* at [45]).
-5. **Bare assertions fail.** Assertions that are equivocal, imprecise, inconsistent with the
-   contemporaneous documents or inherently improbable will be rejected (*M2B* at [19]). The
+5. **Bare assertions fail.** "The judge has a duty to reject assertions which are equivocal,
+   lacking in precision, inconsistent with undisputed contemporary documents or other
+   statements by the same deponent, or inherently improbable in themselves" (*Bank Negara
+   Malaysia v Mohd Ismail* [1992] 1 MLJ 400, cited with approval in *M2B* at [19]; quoted in
+   WE [20] ¶12(c)). The
    principles are collected in *Progress ABMS Pte Ltd v Progress Welded Mesh Sdn Bhd* [2024]
    SGHC 20 at [7]–[8].
 6. **Orders.** The Court may dismiss the application, give unconditional permission to
@@ -1143,14 +1453,21 @@ quoted in SN4 ¶13).
 - show the defence is bare: non-admissions with no particulars (*Horizon Capital* at
   [63]–[65]);
 - point to what the defendant never denied (e.g. the debt; requests for more time are an
-  acknowledgement).
+  acknowledgement);
+- the defendant did not reply to the letter of demand before proceedings began (WE [22]
+  ¶21, citing the claimant's affidavit exhibit CLM-3). Cite the open letter only, never the
+  O 5 offer.
 
-*Source note: O 9 r 17 ROC p92–94; drp-w-0-42, drp-w-0-43 (M2B at [17]–[19]; Horizon Capital at [58]–[60]); WE [19]–[22] (Annex 2(4), quoting Progress ABMS at [8] and Ritzland at [43]–[47]). Progress ABMS [2024] SGHC 20 at [7]–[8] and Ritzland [2014] SGHC 62 at [43]–[45] read on eLitigation 9 Nov 2026. Conflict: the 2026 WE cites Progress ABMS as [2024] SGHC 204, which is a different case; the correct citation is [2024] SGHC 20.*
+*Source note: O 9 r 17 ROC p92–94; drp-w-0-42, drp-w-0-43 (M2B at [17]–[19]; Horizon Capital at [58]–[60]); WE [3] ¶16; WE [19]–[22] (Annex 2(4), quoting Progress ABMS at [8], Ritzland at [43]–[47] and Bank Negara Malaysia v Mohd Ismail [1992] 1 MLJ 400 via M2B at [19]; ¶21 on the unanswered letter); O 9 r 17(2)–(6) re-read 18 Nov 2026 from the library ROC p93. Progress ABMS [2024] SGHC 20 at [7]–[8] and Ritzland [2014] SGHC 62 at [43]–[45] read on eLitigation 9 Nov 2026. Conflict: the 2026 WE cites Progress ABMS as [2024] SGHC 204, which is a different case; the correct citation is [2024] SGHC 20.*
 
 ### drp-w-1-27 — Law frame: stay for arbitration (IAA s 6; AA s 6; O 9 r 7(2))
 *Keywords: stay for arbitration, stay of proceedings, arbitration agreement, International Arbitration Act s 6, Arbitration Act s 6, mandatory stay, discretionary stay, null and void, inoperative, incapable of being performed, prima facie standard, Tomolugen, step in the proceedings, Carona, O 9 r 7(2), O 6 r 7(4)*
 
-**Procedure:** the defendant raises the challenge in its defence (O 6 r 7(4)). The Court
+**Procedure:** the defendant raises the challenge in its defence (O 6 r 7(4)), which need not
+plead the merits, and "[a] defence filed under paragraph (4) is not treated as a submission to
+jurisdiction" (O 6 r 7(6)). Likewise filing the notice of intention to contest is not a
+submission (O 6 r 6(4)). That is why the supporting affidavit stays off the merits (SN4
+Annex 3 ¶6; 1-9, 1-16), and why SN4 ¶24 sends you to O 6 r 7(4)–(6). The Court
 directs the application and affidavit within 14 days of the case conference, the reply
 affidavit 14 days later, and a hearing within 14 days after that (O 9 r 7(2); drp-w-0-30).
 
@@ -1196,7 +1513,7 @@ affidavit 14 days later, and a hearing within 14 days after that (O 9 r 7(2); dr
    - "the clause was forced on us" matters only if it makes the agreement null and void,
      inoperative or incapable of being performed.
 
-*Source note: IAA s 6(1)–(2) as set out in Tomolugen Holdings Ltd v Silica Investors Ltd [2015] SGCA 57 at [27], and the test at [63]–[64]; Carona Holdings Pte Ltd v Go Go Delicacy Pte Ltd [2008] SGCA 34 at [55] (both read on eLitigation 9 Nov 2026); SN4 ¶23–24; O 9 r 7(2) ROC p85–86 (drp-w-0-30); O 6 r 7(4) (drp-w-0-24). IAA ss 5–6 and AA s 6 read from the informal consolidations in force from 9 Mar 2025 (`Bar Exam/Seniors Notes/Cyril - Part B/Stuff/4. Dispute Resolution Practice (DRP)/2. Arbitration/Additional Materials/`), checked 9 Nov 2026; the s 6(1) timing words in both Acts were amended by Act 25 of 2021 with effect from 1 Apr 2022 (notice of intention to contest or not contest replaces appearance). Not re-checked on SSO for changes after 9 Mar 2025, because SSO refuses automated access.*
+*Source note: IAA s 6(1)–(2) as set out in Tomolugen Holdings Ltd v Silica Investors Ltd [2015] SGCA 57 at [27], and the test at [63]–[64]; Carona Holdings Pte Ltd v Go Go Delicacy Pte Ltd [2008] SGCA 34 at [55] (both read on eLitigation 9 Nov 2026); SN4 ¶23–24; O 9 r 7(2) ROC p85–86 (drp-w-0-30); O 6 r 7(4) (drp-w-0-24); O 6 r 6(4), r 7(4)–(6) read 18 Nov 2026 from the library ROC p71–72; SN4 ¶24, Annex 3 ¶6. IAA ss 5–6 and AA s 6 read from the informal consolidations in force from 9 Mar 2025 (`Bar Exam/Seniors Notes/Cyril - Part B/Stuff/4. Dispute Resolution Practice (DRP)/2. Arbitration/Additional Materials/`), checked 9 Nov 2026; the s 6(1) timing words in both Acts were amended by Act 25 of 2021 with effect from 1 Apr 2022 (notice of intention to contest or not contest replaces appearance). Not re-checked on SSO for changes after 9 Mar 2025, because SSO refuses automated access.*
 
 ### drp-w-1-28 — Law frame: setting aside a default judgment
 *Keywords: setting aside default judgment, regular judgment, irregular judgment, ex debito justitiae, prima facie defence, triable or arguable issues, threshold requirement, delay, cogent, Mercurine Pte Ltd v Canberra Development, U Myo Nyunt v First Property Holdings, Zhang Jinhua v Yip Zhao Lin, O 3 r 2(8)(a), interests of justice*
@@ -1208,7 +1525,12 @@ affidavit 14 days later, and a hearing within 14 days after that (O 9 r 7(2); dr
    to, or in the absence of, the party affected" (O 3 r 2(8)(a)). A default judgment obtained
    without notice falls within it (*Zhang Jinhua v Yip Zhao Lin* [2024] SGHC 180 at [28]).
    The application is made within 14 days of the party learning of the judgment (O 3 r 2(10);
-   drp-w-0-23).
+   drp-w-0-23). SILE's summons in the SN3 exercise cites "Order 3 Rules 2(8) and/or 2(2)"
+   (SN3 Annex B1). O 3 r 2(2) is the residual power: "[w]here there is no express provision
+   in these Rules or any other written law on any matter, the Court may do whatever the Court
+   considers necessary on the facts of the case before it to ensure that justice is done or
+   to prevent an abuse of the process of the Court, so long as it is not prohibited by law
+   and is consistent with the Ideals". Plead it in the alternative.
 2. **Regular or irregular?** "Case law, quite logically, draws a distinction between regular
    and irregular default judgments" (*Mercurine Pte Ltd v Canberra Development Pte Ltd* [2008]
    4 SLR(R) 907; [2008] SGCA 38 at [43]). For an irregular judgment, the ex debito justitiae
@@ -1234,5 +1556,5 @@ affidavit 14 days later, and a hearing within 14 days after that (O 9 r 7(2); dr
      S$15,000 (cl 8.4). These raise triable issues against a S$1.25 million claim, so there
      is a prima facie defence.
 
-*Source note: Mercurine [2008] SGCA 38 at [43], [60], [74], [97]; U Myo Nyunt [2021] SGCA 73 at [60]–[61], [64]–[65]; Zhang Jinhua [2024] SGHC 180 at [27]–[28]; Zhou Wenjing [2022] SGHC 313 at [53] (a permission-to-appeal decision under O 19 ROC 2021 about a default judgment entered for non-attendance); all read on eLitigation 9 Nov 2026. O 3 r 2(8)(a) as quoted in Zhang Jinhua at [28]; O 3 r 2(10) from drp-w-0-23. SN3 ¶16–28. Correction: U Myo Nyunt is [2021] SGCA 73 (not SGCA 31).*
+*Source note: Mercurine [2008] SGCA 38 at [43], [60], [74], [97]; U Myo Nyunt [2021] SGCA 73 at [60]–[61], [64]–[65]; Zhang Jinhua [2024] SGHC 180 at [27]–[28]; Zhou Wenjing [2022] SGHC 313 at [53] (a permission-to-appeal decision under O 19 ROC 2021 about a default judgment entered for non-attendance); all read on eLitigation 9 Nov 2026. O 3 r 2(8)(a) as quoted in Zhang Jinhua at [28]; O 3 r 2(10) from drp-w-0-23; O 3 r 2(2) read 18 Nov 2026 from the library ROC p53–54; SN3 Annex B1 (summons grounds). SN3 ¶16–28. Correction: U Myo Nyunt is [2021] SGCA 73 (not SGCA 31).*
 

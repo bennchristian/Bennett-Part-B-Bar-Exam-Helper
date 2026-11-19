@@ -273,10 +273,27 @@ for start, title, pre, parts in DRILLS:
         qs.append(q(f"{pre}-{num.replace('.', '-')}", keys, f"{title.split(' · ')[0].split(' — ')[0]} {num}; own, tier 3", marks, call, H(head)))
     G.append((title, facts, qs))
 
+# Drill 6 (set 18 Nov 2026): same two-part shape as Drill 1, but its "### Model answer" is the
+# second one in model-answers.md, so find it under the Drill 6 heading.
+d6_facts, d6_calls = split_calls(drill_block("### Drill 6 question (30 marks, 36 minutes)", ("---", "### ")))
+d6_i = MA.index("### Model answer", MA.index("## Drill 6 — Lim & Partners: the missing email and the thank-you gift")) + 1
+d6_ans = []
+for ln in MA[d6_i:]:
+    if ln.startswith(("### ", "## ", "> **Spoiler")) or ln == "---":
+        break
+    d6_ans.append(ln)
+d6_ans = "\n".join(d6_ans).strip()
+cut6 = d6_ans.index("**(b) ")
+assert len(d6_calls) == 2, d6_calls
+G.append(("Drill 6 — Lim & Partners · own question (QB-42) · 30 marks", d6_facts, [
+    q("QD6-a", "III.9 III.8 III.2 II.10", "Drill 6 (a); own, tier 3", "15 marks", d6_calls[0], d6_ans[:cut6].strip()),
+    q("QD6-b", "II.24 II.8 II.19", "Drill 6 (b); own, tier 3", "15 marks", d6_calls[1], d6_ans[cut6:].strip()),
+]))
+
 # ---- write ----
 out = ["# ETH-W — Model Questions and Answers", "",
        "Paper `eth-w`. Every ETH hypothetical held, with its model answer: the past-year papers newest first, "
-       "then the practice-session questions that match no paper held (probably 2024), then Drills 1–5. "
+       "then the practice-session questions that match no paper held (probably 2024), then Drills 1–6. "
        "Built 5 Nov 2026 for `python3 tools/build_pack.py eth-w --questions`.", "",
        "**Sources.** Question text is transcribed from the past papers in `Bar Exam/Seniors Notes/Nic_s Part B Package/3. PYP/` "
        "(the 2018–2020, 2022, 2023 and 2025 papers are scans, read by OCR, cleaned up by hand and spot-checked against the page images; margin notes "

@@ -12,10 +12,19 @@ conflicts are recorded in the Source notes in `cheatsheets.md`).
 
 Source aliases are defined in `outline.md` → "Source key".
 
-**Status (4 Nov 2026):** every Topic except 0.X has a Q&A cheatsheet (the Mermaid charts were
-replaced on 4 Nov at Bennett's request), and there are no `TODO` rows. 224 of 227 Sub-points
-are covered. The 3 `none` rows are DPCR AI regulation, which is Non-Core
-(blue) in the learning plan and has no slides in the library. Three rows were added on 3 Nov:
+**Status (18 Nov 2026):** every Topic has a Q&A cheatsheet (the Mermaid charts were
+replaced on 4 Nov at Bennett's request), and there are no `TODO` or `none` rows. All 259
+Sub-points are covered. On 19 Nov, after the syllabus audit (`audits/clk-m-audit.md`), 32 rows
+were added: 24 in Subject 0 (PDPA Parts 2 and 10, ss 48K/48M, the Eleventh Schedule, CYSA ss 21-23
+and the First Schedule, the POHA and POFMA subsidiary legislation and POFMA sections, the
+Online Safety (Relief and Accountability) Act 2025, and the optional PDPC/CSA readings and
+decisions), 2 in Subject 1 (Soh on automated vehicles; Gutnick), and 6 in Subject 2 (fact-pattern
+issues: defects of consent, Art 1266, the arbitration clause, wrong party, costs). Conflict of
+Laws reading-list items were not added: the plan says the reading list is "for your information
+only" and examinable content comes solely from the lectures and slides [CoL-Plan p4]. On 18 Nov, at Bennett's request, 0.X AI regulation (Non-Core, blue in
+the learning plan, no slides in the library) got a short cheatsheet and end points
+clk-m-0-73 to 0-75, sourced from the PDPC's published guidance and marked "non-core; outside
+course materials". clk-m-3-30 (COCAA) was expanded from the Act. Three rows were added on 3 Nov:
 - 0.VII.10–11, for CYSA ss 16A and 17 [DP-Plan p5; SSO-CYSA];
 - 0.IX.8, for the POHA administrator orders [SSO-POHA].
 
@@ -24,9 +33,9 @@ failure).
 
 | Subject | Topics | Rows | Covered by an ID | none (Non-Core) | TODO |
 |---|---|---|---|---|---|
-| 0 Data Protection & Cyber Regulation | 10 | 75 | 72 | 3 | 0 |
-| 1 Law & Technology | 10 | 61 | 61 | 0 | 0 |
-| 2 Comparative Laws | 8 | 45 | 45 | 0 | 0 |
+| 0 Data Protection & Cyber Regulation | 10 | 99 | 99 | 0 | 0 |
+| 1 Law & Technology | 10 | 63 | 63 | 0 | 0 |
+| 2 Comparative Laws | 8 | 51 | 51 | 0 | 0 |
 | 3 Conflict of Laws | 10 | 46 | 46 | 0 | 0 |
 
 ## 0 · Data Protection & Cyber Regulation
@@ -94,6 +103,14 @@ failure).
 | 0.V.3 | Reconsideration and appeals | — | clk-m-0-37 |
 | 0.V.4 | Offences by individuals (Part 9B) | — | clk-m-0-38 |
 | 0.V.5 | SingHealth case study | — | clk-m-0-39 |
+| 0.V.6 | PDPC and administration (Part 2, ss 5-10) | — | clk-m-0-76 |
+| 0.V.7 | Directions and penalties: procedure and District Court enforcement (ss 48K, 48M) | — | clk-m-0-77 |
+| 0.V.8 | Part 10 offences and penalties (ss 51, 54-56) | — | clk-m-0-78 |
+| 0.V.9 | Corporate officers and employer liability (ss 52, 52A, 53) | — | clk-m-0-79 |
+| 0.V.10 | Re-identification defence: Eleventh Schedule specified purposes | — | clk-m-0-80 |
+| 0.V.11 | PDPC Guide on Active Enforcement (optional) | — | clk-m-0-81 |
+| 0.V.12 | Re Spize Concepts [2019] SGPDPC 22 (optional) | — | clk-m-0-82 |
+| 0.V.13 | Re RedMart [2023] SGPDPC 1 (optional) | — | clk-m-0-83 |
 
 ### 0.VI Protection obligation and data breach notification
 
@@ -105,6 +122,9 @@ failure).
 | 0.VI.4 | Assessing a suspected breach | — | clk-m-0-43 |
 | 0.VI.5 | Notifying the PDPC — 3 calendar days | — | clk-m-0-44 |
 | 0.VI.6 | Notifying affected individuals | — | clk-m-0-45 |
+| 0.VI.7 | Singtel, Case DP-2102-B7878: no breach (optional) | — | clk-m-0-84 |
+| 0.VI.8 | Re Marina Bay Sands [2025] SGPDPC 6 (optional) | — | clk-m-0-85 |
+| 0.VI.9 | PDPC Guide on Managing and Notifying Data Breaches (optional) | — | clk-m-0-86 |
 
 ### 0.VII Cybersecurity Act — critical information infrastructure
 
@@ -122,6 +142,10 @@ failure).
 | 0.VII.10 | Third-party-owned CII — designated provider (s 16A) | — | clk-m-0-69 |
 | 0.VII.11 | System of temporary cybersecurity concern (s 17) | — | clk-m-0-70 |
 | 0.VII.12 | What is a "computer" and a "computer system" (CYSA s 2) | — | clk-m-0-72 |
+| 0.VII.13 | Emergency measures, technical experts and ID cards (ss 21-23) | — | clk-m-0-87 |
+| 0.VII.14 | Essential services (First Schedule) | — | clk-m-0-88 |
+| 0.VII.15 | The Singapore Cybersecurity Strategy 2021 (optional) | — | clk-m-0-89 |
+| 0.VII.16 | Singapore Cyber Landscape 2021 (optional) | — | clk-m-0-90 |
 
 ### 0.VIII POHA — offences and civil remedies
 
@@ -134,6 +158,8 @@ failure).
 | 0.VIII.5 | Unlawful stalking (s 7) | — | clk-m-0-59 |
 | 0.VIII.6 | Statutory tort and abolition of the common-law tort | — | clk-m-0-60 |
 | 0.VIII.7 | Protection orders | — | clk-m-0-61 |
+| 0.VIII.8 | Lai Kwok Kin v Teo Zien Jackson [2020] SGHC 95 (optional) | — | clk-m-0-91 |
+| 0.VIII.9 | POHA (Exempt Class of Persons) Order 2014 (non-core) | — | clk-m-0-92 |
 
 ### 0.IX False statements — POHA orders and POFMA
 
@@ -147,16 +173,23 @@ failure).
 | 0.IX.6 | Requirements common to the false-statement orders | — | clk-m-0-67 |
 | 0.IX.7 | POFMA (non-core) | — | clk-m-0-68 |
 | 0.IX.8 | Administrator orders (ss 15CA, 15CB) | — | clk-m-0-71 |
+| 0.IX.9 | POHA (Prescribed Internet Intermediaries and Others) Regulations 2020 (non-core) | — | clk-m-0-93 |
+| 0.IX.10 | POFMA offences and Part 3 directions (ss 7-16) (non-core) | — | clk-m-0-94 |
+| 0.IX.11 | POFMA Part 4 directions (ss 20-28) (non-core) | — | clk-m-0-95 |
+| 0.IX.12 | POFMA declared online locations and account restriction (ss 32-34, 40-43) (non-core) | — | clk-m-0-96 |
+| 0.IX.13 | POFMA codes of practice and the Prominence Code (s 48) (non-core) | — | clk-m-0-97 |
+| 0.IX.14 | POFMA Regulations 2019, regs 3-8 (non-core) | — | clk-m-0-98 |
+| 0.IX.15 | Online Safety (Relief and Accountability) Act 2025 (non-core) | — | clk-m-0-99 |
 
 ### 0.X AI regulation
 
 | Key | Sub-point | Tested | Covered by |
 |---|---|---|---|
-| 0.X.1 | PDPC Model AI Governance Framework | — | none: Non-Core (blue in the learning plan) [DP-Plan p1, p4] |
-| 0.X.2 | Application of the PDPA to AI systems | — | none: Non-Core (blue in the learning plan) [DP-Plan p1, p4] |
-| 0.X.3 | AI ethics and data governance | — | none: Non-Core (blue in the learning plan) [DP-Plan p1, p4] |
+| 0.X.1 | PDPC Model AI Governance Framework | — | clk-m-0-73 |
+| 0.X.2 | Application of the PDPA to AI systems | — | clk-m-0-74 |
+| 0.X.3 | AI ethics and data governance | — | clk-m-0-75 |
 
-Non-Core rows (decided by Bennett, 4 Nov 2026): the learning plan marks Non-Core Knowledge in blue, and candidates can pass on the Core Knowledge alone [DP-Plan p1]. This topic is listed only "in brief" [DP-Plan p4], and the library has no slides for it. If the 2 Nov Contact Session II deck turns up, add one short block.
+Non-Core Topic: the learning plan marks Non-Core Knowledge in blue, and candidates can pass on the Core Knowledge alone [DP-Plan p1]. This topic is listed only "in brief" [DP-Plan p4], and the library has no slides or Contact Session II deck for it; Cyril's and Nic's notes only name it. Bennett left it uncovered on 4 Nov and asked for it to be covered on 18 Nov. The end points use the PDPC/IMDA Model AI Governance Framework (2nd ed, 21 Jan 2020) and the PDPC Advisory Guidelines on Use of Personal Data in AI Recommendation and Decision Systems (1 Mar 2024), both read on pdpc.gov.sg on 18 Nov 2026. Swap in the course's own source if a 2 Nov deck turns up.
 
 ## 1 · Law & Technology
 
@@ -190,6 +223,7 @@ Non-Core rows (decided by Bennett, 4 Nov 2026): the learning plan marks Non-Core
 | 1.III.2 | Liability failed, so compulsory insurance followed | — | clk-m-1-14 |
 | 1.III.3 | Norms, architecture and law all shifted | — | clk-m-1-15 |
 | 1.III.4 | Lessig's theory plays out | — | clk-m-1-16 |
+| 1.III.5 | Soh: control-centric account of tort liability for automated vehicles | — | clk-m-1-62 |
 
 ### 1.IV Electronic transactions
 
@@ -248,6 +282,7 @@ Non-Core rows (decided by Bennett, 4 Nov 2026): the learning plan marks Non-Core
 | 1.VIII.2 | Fairfax Media v Voller | — | clk-m-1-47 |
 | 1.VIII.3 | Liability of business users | — | clk-m-1-48 |
 | 1.VIII.4 | Is the platform liable? | — | clk-m-1-49 |
+| 1.VIII.5 | Dow Jones v Gutnick: place of online publication and choice of law | — | clk-m-1-63 |
 
 ### 1.IX Blockchain and crypto assets
 
@@ -297,6 +332,8 @@ Non-Core rows (decided by Bennett, 4 Nov 2026): the learning plan marks Non-Core
 | 2.II.6 | Thai gap-fillers — ss 10–14 | — | clk-m-2-13 |
 | 2.II.7 | Unexpressed intention and implied terms | — | clk-m-2-14 |
 | 2.II.8 | Pre-contract negotiations | — | clk-m-2-15 |
+| 2.II.9 | Indonesia: defects of consent (Arts 1321-1328, 1449-1454) | — | clk-m-2-46 |
+| 2.II.10 | Thailand: mistake, fraud and intentional silence (ss 156-163, 181, 373) | — | clk-m-2-47 |
 
 ### 2.III Good faith (Thailand)
 
@@ -317,6 +354,7 @@ Non-Core rows (decided by Bennett, 4 Nov 2026): the learning plan marks Non-Core
 | 2.IV.4 | Reducing damages — contributory fault and mitigation | — | clk-m-2-23 |
 | 2.IV.5 | Notice and a last chance | — | clk-m-2-24 |
 | 2.IV.6 | Election of remedies | — | clk-m-2-25 |
+| 2.IV.7 | Indonesia: termination must be requested from the court (Art 1266) | — | clk-m-2-48 |
 
 ### 2.V Delict (non-contractual claims)
 
@@ -337,6 +375,9 @@ Non-Core rows (decided by Bennett, 4 Nov 2026): the learning plan marks Non-Core
 | 2.VI.2 | Absolute competence | — | clk-m-2-33 |
 | 2.VI.3 | District courts and international arbitral awards | — | clk-m-2-34 |
 | 2.VI.4 | Thai courts — s 4 and the specialised courts | — | clk-m-2-35 |
+| 2.VI.5 | Indonesia: an arbitration clause ousts the District Court (Arbitration Law Arts 3, 11) | — | clk-m-2-49 |
+| 2.VI.6 | Indonesia: wrong party named in the claim (error in persona) | — | clk-m-2-50 |
+| 2.VI.7 | Indonesia: court costs versus lawyers' fees | — | clk-m-2-51 |
 
 ### 2.VII Ex aequo et bono
 

@@ -20,6 +20,13 @@ work, and are the first thing cut if time runs short. As of 3 Nov 2026 no row is
 `item 4` or `none`. Every Sub-point the past papers test has a Pre-write, and so does every
 untested one.
 
+**Audit fill (18 Nov 2026):** the 18 Nov audit (`audits/eth-w-audit.md`) found 30 Syllabus
+authorities missing and 6 thin inside Sub-points that already had a Pre-write. All 36 are now
+in the Pre-writes named in the rows below (0-3, 0-5, 0-11, 0-17, 0-18, 0-21, 0-28–0-32, 0-50,
+0-53, 0-62, 0-68). No row changed Pre-write; the Sub-point wording of VI.1, VI.2, VI.4 and
+VII.1 now names the added provisions. "Tested" still counts tier-1 entries only, so Drills 1
+and 6 (QB-23, QB-42), which test II.24 and III.9, do not appear there.
+
 ## I. Regulation of the profession (SYL p1–2)
 
 | Key | Sub-point | Tested | Covered by |
@@ -113,10 +120,10 @@ untested one.
 
 | Key | Sub-point | Tested | Covered by |
 |---|---|---|---|
-| VI.1 | Expertise claims, past clients, success rates, comparisons, r 43 | QB-18, QB-22, QB-34 | eth-w-0-29 |
-| VI.2 | Misleading, unverifiable, undignified publicity; unjustified expectations, r 44; responsibility for others' publicity, r 42 | QB-18, QB-22, QB-34 | eth-w-0-30 |
+| VI.1 | Publicity permitted (r 41); expertise claims, past clients, success rates, comparisons, r 43 | QB-18, QB-22, QB-34 | eth-w-0-29 |
+| VI.2 | Misleading, unverifiable, undignified publicity; unjustified expectations, r 44; responsibility for others' publicity, r 42; letterheads and foreign lawyers, PD 6.2.3 | QB-18, QB-22, QB-34 | eth-w-0-30 |
 | VI.3 | Good causes, third-party publicity, free advice, overseas, r 45–48 | QB-28 | eth-w-0-66 |
-| VI.4 | Touting; rewarding referrers; procuring work, r 39, LPA s 83(2)(d)–(e) | QB-9, QB-21, QB-28, QB-30 | eth-w-0-31 |
+| VI.4 | Touting; rewarding referrers; procuring work, r 39, LPA s 83(2)(d)–(e), s 78(1)(e); letters to the other party, PD 7.4.1 | QB-9, QB-21, QB-28, QB-30 | eth-w-0-31 |
 | VI.5 | Conveyancing referral agreements, r 40 | — | eth-w-0-67 |
 | VI.6 | Prohibited business, r 38 | QB-21 | eth-w-0-28 |
 
@@ -124,7 +131,7 @@ untested one.
 
 | Key | Sub-point | Tested | Covered by |
 |---|---|---|---|
-| VII.1 | Client money and the Solicitors' Accounts Rules | — | eth-w-0-68 |
+| VII.1 | Client money and the Solicitors' Accounts Rules (r 16 PCR; LPSAR r 2–12, 15) | — | eth-w-0-68 |
 | VII.2 | Anti-money-laundering rules | — | eth-w-0-69 |
 | VII.3 | Fee information and taxation rights, r 17(2)–(6) | QB-28, QB-29 | eth-w-0-70 |
 | VII.4 | Overcharging; non-refundable fees, r 17(7)–(8), PD 5.2.2 | QB-5, QB-29 | eth-w-0-32 |

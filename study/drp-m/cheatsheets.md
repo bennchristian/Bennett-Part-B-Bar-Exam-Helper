@@ -63,8 +63,9 @@ Paper `drp-m`: DRP Paper 2 (MCQ), Wed 2 Dec 2026, 2:30–4:30pm. Subjects follow
 - the law applicable to non-contractual claims;
 - the law governing each party's capacity.
 The seat supplies the procedural law. A Singapore seat means the IAA (international) or the AA (domestic).
+- **The process in outline (background, ARB-SN para 1):** arbitration agreement → notice of arbitration and response (0.XIV) → constitution of the tribunal (0.X) → jurisdiction objections (0.VIII–0.IX) → written submissions, document production, witness and expert evidence, hearing (0.XIII) → award (0.XVII) → setting aside at the seat (0.XVIII) or resisting enforcement (0.XIX).
 
-*Source note: ARB-SN p3 para 2, p6 paras 13–14*
+*Source note: ARB-SN p3 paras 1–2 (para 1 only links to an overview), p6 paras 13–14*
 
 ### drp-m-0-2 — When the IAA applies: "international" arbitration or opt-in
 *Keywords: International Arbitration Act, IAA s 5, international arbitration, place of business, place of arbitration, substantial part of obligations, most closely connected, more than one country, opt in, s 5(1), s 5(2), s 5(4)*
@@ -85,8 +86,9 @@ The seat supplies the procedural law. A Singapore seat means the IAA (internatio
 *Keywords: Model Law, UNCITRAL Model Law, force of law, IAA s 3(1), Chapter VIII excluded, Article 35, Article 36, 2006 amendments not enacted, First Media, travaux, s 4*
 
 **End point:** The 1985 Model Law, except Chapter VIII (Arts 35–36 on recognition and enforcement), has the force of law in Singapore (IAA s 3(1)). Chapter VIII was left out so that foreign awards are enforced under one regime, the NYC, which rests on reciprocity (*PT First Media v Astro* [2013] SGCA 57 at [86]). Singapore has not enacted the 2006 amendments (Art 7 options, Arts 17–17J interim measures). Model Law travaux may be used to interpret it (s 4).
+- **Background (non-core):** the IAA was first drafted by a sub-committee of the Singapore Academy of Law's Law Reform Committee, which recommended excluding Arts 35–36 to avoid conflict with the reciprocity-based NYC (IAA Hansard col 627; *First Media* at [86]). The exclusion left a gap for Singapore-seated international awards, now filled by IAA s 19 (0-154). UNCITRAL is the UN body that harmonises international trade law; States may enact the Model Law wholesale or in part, and the IAA enacts it with additions and modifications. Other Model Law jurisdictions include Germany, Hong Kong, New Zealand, Australia and Canada; their case law (collected in the UNCITRAL 2012 Digest of Case Law on the Model Law) and the travaux may be used to interpret it.
 
-*Source note: IAA ss 3(1), 4; ARB-SN p4 para 5, p5 para 7; [2013] SGCA 57 at [86]; PYP23 p54 Q1*
+*Source note: IAA ss 3(1), 4; ARB-SN p3–5 paras 5–7 (fns 1–3); [2013] SGCA 57 at [86]; ARB-Plan reading list (UNCITRAL 2012 Digest); PYP23 p54 Q1*
 
 ### drp-m-0-4 — "Commercial" is read widely
 *Keywords: commercial, Model Law Art 1(1), footnote, contractual or not, supply of goods, construction, joint venture*
@@ -102,15 +104,21 @@ The seat supplies the procedural law. A Singapore seat means the IAA (internatio
 - the Model Law is a legislative text enacted by States;
 - the UNCITRAL Rules are procedural rules parties adopt by contract.
 Many jurisdictional problems come from altering an institution's model clause.
+- **Ad hoc not recognised everywhere:** e.g. the PRC Arbitration Law (Arts 16, 18) does not recognise ad hoc arbitration (ARB-SN p5 fn 4), a reason to name an institution in a China-related clause.
+- **UNCITRAL Arbitration Rules 2021 (ad hoc), key defaults:** proceedings start when the respondent receives the notice of arbitration (Art 3(2)); the notice must contain a demand for arbitration, the parties' details, the arbitration agreement and contract invoked, a brief description of the claim and amount, the relief sought, and proposals on number of arbitrators, language and place (Art 3(3)). No agreed appointing authority within 30 days of a proposal → any party may ask the PCA Secretary-General to designate one (Art 6(2)). No agreement on number within 30 days of the notice → three arbitrators (Art 7(1)).
+- **Commencement documents compared:** SIAC Notice of Arbitration (SIAC25 r 6, 0-107); ICC Request for Arbitration (ICC Rules 2021 Art 4(3): parties and representatives, nature and circumstances of the dispute, relief and amounts, relevant agreements and the arbitration agreement, particulars on the number and choice of arbitrators, and observations on seat, applicable law and language, with the filing fee). A **Procedural Order No 1**, issued after the first case management conference, typically fixes the timetable, written submissions, document production (often adopting the IBA Rules as guidance), witness and expert evidence, hearing logistics and communications (ARB-CS1 p3 points candidates to an actual PO1).
+- **No rules chosen:** parties may also write their own procedural rules. If they agree no rules at all, the law of the seat governs the procedure (for a Singapore seat, Model Law Arts 21–27 and the IAA), subject to the tribunal's Art 19(2) discretion (0-95).
 
-*Source note: ARB-SN p5–6 paras 9–12; UNCITRAL-AR*
+*Source note: ARB-SN p5–6 paras 9–12 and fn 4, p8 para 21; UNCITRAL-AR Arts 3, 6–7; MAL Arts 19, 21–27; ARB-CS1 p3 Q3. The ICC Rules 2021 are not in `authorities/` and are not Course Material: Art 4(3) is stated from the published ICC text, and the PO1 contents are typical practice, not a rule.*
 
 ### drp-m-0-6 — Institutional rules v the lex arbitri: which prevails (IAA ss 15, 15A)
 *Keywords: rules v lex arbitri, IAA s 15(2), s 15A, inconsistent, non-derogable, mandatory provision, unless otherwise agreed, Insigma, John Holland overruled, Dermajaya overruled, SIAC r 1.6*
 
 **End point:** A clause adopting institutional rules does not by itself exclude the Model Law or Part 2 of the IAA (s 15(2)). The rules apply unless inconsistent with a Model Law or IAA provision from which the parties cannot derogate (s 15A(1)). So the chosen rules prevail over the Model Law except against a mandatory provision. Non-mandatory provisions are usually those beginning "unless otherwise agreed by the parties".
+- **Cases overruled by statute (ARB-SN para 16):** *John Holland v Toyo Engineering* [2001] SGHC 48 had treated adopting institutional (ICC) rules as an agreement excluding the Model Law; s 15(2) reverses that. *Dermajaya Properties v Premium Properties* [2002] SGHC 53 had let the Model Law prevail over the parties' inconsistent chosen rules; s 15A(1) reverses that, so the rules prevail unless they clash with a non-derogable provision.
+- **Comparison (background):** England's Arbitration Act lists its mandatory provisions expressly (ARB-SN para 20). The Model Law does not, hence the "unless otherwise agreed" test.
 
-> **IAA s 15A: when rules are not "inconsistent"**
+> **IAA s 15A: when rules are not "inconsistent"
 > - (1) Rules apply to the extent not inconsistent with a non-derogable provision of the Model Law or Part 2.
 > - (3) A rule is not inconsistent merely because it covers a matter on which the Model Law and IAA are silent.
 > - (4) Rules are not inconsistent merely because they are silent on a matter the Model Law or IAA covers.
@@ -118,7 +126,7 @@ Many jurisdictional problems come from altering an institution's model clause.
 > - (6) Parties may make such arrangements by adopting rules or providing other means.
 > - SIAC25 r 1.6 says the same from the rules' side: a non-derogable provision of the applicable law prevails.
 
-*Source note: IAA ss 15(2), 15A; ARB-SN p7 paras 16–19; Insigma Technology v Alstom Technology [2009] SGCA 24 at [41]–[43]; SIAC25 r 1.6; ARB-CS1 p2 Q(1); PYP23 p3 Q10. Conflict: ARB-SN para 17 cites "s 15(4)" for the silence rule and para 18 attributes the "fullest effect possible" words to Insigma at [41]. The rule is s 15A(4), and the words are the Minister's speech quoted at [42], so the block cites s 15A(3)–(5) and [41]–[43].*
+*Source note: IAA ss 15(2), 15A; ARB-SN p7 paras 16–20 (para 16 names John Holland and Dermajaya only as overruled; the holdings stated are the propositions ss 15(2) and 15A(1) reverse); Insigma Technology v Alstom Technology [2009] SGCA 24 at [41]–[43]; SIAC25 r 1.6; ARB-CS1 p2 Q(1); PYP23 p3 Q10. Conflict: ARB-SN para 17 cites "s 15(4)" for the silence rule and para 18 attributes the "fullest effect possible" words to Insigma at [41]. The rule is s 15A(4), and the words are the Minister's speech quoted at [42], so the block cites s 15A(3)–(5) and [41]–[43].*
 
 ### drp-m-0-7 — Which version of the arbitration rules applies
 *Keywords: version of rules, rules in force at commencement, Black & Veatch, SIAC Rules 2025, r 1.5, for the time being in force*
@@ -155,21 +163,33 @@ Many jurisdictional problems come from altering an institution's model clause.
 *Keywords: governing law, substantive law, Art 28(1), Art 28(2), conflict of laws rules, voie directe, voie indirecte, SIAC r 35.1, Quarella, no connection required, amiable compositeur, ex aequo et bono*
 
 **End point:** The parties may choose any law for the substance, with no need for a connection to them or the dispute (Art 28(1); *Quarella SpA v Scelta Marble* [2012] SGHC 166 at [34]). Absent choice, the Model Law requires the tribunal to apply the law found by the conflict rules it considers appropriate (Art 28(2), voie indirecte). SIAC25 r 35.1 lets the tribunal apply the law or rules of law it determines appropriate (voie directe). Many tribunals still run a conflicts analysis, which r 35.1 permits. Amiable compositeur or ex aequo et bono needs express authority (r 35.3).
+- **Review of the tribunal's reading of a choice-of-law clause:** not normally reviewable by the court, unless the tribunal deliberately disregarded the parties' choice of law (*Quarella*). A mere error in applying the chosen law is an error of law, which is final (0-131).
 
-*Source note: MAL Art 28; ARB-SN p9–10 paras 27–30; [2012] SGHC 166 at [34] (the "deliberately disregarded" point is from ARB-SN para 27; no pinpoint found); SIAC25 r 35.1–35.3*
+> **Art 28(2): conflict-of-laws rules a tribunal may treat as "appropriate" (ARB-SN para 28(b); the Model Law prescribes none)**
+> - (i) the conflict rules of the seat;
+> - (ii) those of the place where the award is likely to be enforced;
+> - (iii) those of the jurisdiction that would have been competent but for the arbitration;
+> - (iv) those of the place of contractual performance;
+> - (v) those of a jurisdiction with some element common to the parties;
+> - (vi) general principles of private international law;
+> - (vii) the law with the closest connection to the dispute.
+
+*Source note: MAL Art 28; ARB-SN p9–10 paras 27–30; [2012] SGHC 166 at [34] (the "deliberately disregarded" point is from ARB-SN para 27; no pinpoint found); SIAC25 r 35.1–35.3. ARB-SN para 28(b) numbers the last item "(v)" again; it is the seventh.*
 
 ### drp-m-0-11 — Law governing the arbitration agreement (BNA v BNB; Anupam Mittal)
 *Keywords: proper law of the arbitration agreement, implied choice, law of the main contract, law of the seat, closest and most real connection, BNA v BNB, Anupam Mittal, null and void, validity, non-signatory, England Arbitration Act 2025 s 6A*
 
 **End point:**
-- What it governs: the law of the arbitration agreement governs the agreement's formation, validity, effect and discharge (*BNA v BNB* [2019] SGCA 84 at [55]). It also decides who the parties are and the clause's scope, including whether the agreement is "null and void" for a stay.
+- What it governs: the law of the arbitration agreement governs the agreement's formation, validity (including formal validity), effect and discharge (*BNA v BNB* [2019] SGCA 84 at [55]). The arbitrator's authority flows from it (*Dallal v Bank Mellat* [1986] QB 441). It also decides who the parties are (so it, not the main contract's law, decides whether a non-signatory parent is bound), the clause's scope, the agreed qualifications or constitution of the tribunal, and whether the agreement is "null and void" for a stay.
+- Parties may choose it: this is implicit in Art 34(2)(a)(i) MAL and Art V(1)(a) NYC, which test validity "under the law to which the parties have subjected it". Traditionally few clauses did; newer model clauses do.
 - No express choice: there is a rebuttable presumption that the law of the main contract applies. The presumption is displaced if that law would negate a clear intention to arbitrate.
 - *BNA*: the argument that PRC law would invalidate a SIAC clause failed. PRC law governed, Shanghai was the seat, and parties must live with an unworkable clause ([90], [103]–[104]).
-- *Anupam Mittal v Westbridge* [2023] SGCA 1: Indian law was displaced in favour of Singapore law, because Indian law would have made the dispute non-arbitrable ([74]).
+- *Anupam Mittal v Westbridge* [2023] SGCA 1: Indian law was displaced in favour of Singapore law (the seat), because Indian law would have made the dispute non-arbitrable ([74]). ARB-SN para 37 puts the reason as the clause expressly covering disputes on "the management of the company", which showed the parties' clear intention to arbitrate them. Use both: the express words showed the intention, and applying Indian law would have negated it.
 - No express or implied choice: the law with the closest and most real connection applies, generally the seat.
-- England (Arbitration Act 2025 s 6A) now applies the law of the seat by default. Singapore has not legislated, so state the law expressly.
+- England (Arbitration Act 2025 s 6A, from 1 Aug 2025) now applies the law of the seat by default; Malaysia has done the same (Arbitration (Amendment) Act 2024 s 9A). Singapore consulted but has not legislated, so state the law expressly.
+- Background: English cases have read an express choice of law for the "Agreement" (a defined term) as covering the arbitration clause too. Before *BNA*, English and Singapore cases conflicted between the main-contract law and the seat law (ARB-SN para 34).
 
-*Source note: ARB-SN p10–12 paras 31–39; [2019] SGCA 84 at [55], [90], [103]–[104]; [2023] SGCA 1 at [74]; PYP23 p19 Q26, p20 Q27. Conflict: ARB-SN para 36 cites [103] for the parties' unawareness of PRC law; the judgment says it at [90].*
+*Source note: ARB-SN p10–12 paras 31–39 (Dallal is an English case taken from ARB-SN para 31, not checked); [2019] SGCA 84 at [55], [90], [103]–[104]; [2023] SGCA 1 at [74]; PYP23 p19 Q26, p20 Q27. Conflict: ARB-SN para 36 cites [103] for the parties' unawareness of PRC law; the judgment says it at [90].*
 
 ### drp-m-0-12 — Law governing a party's capacity
 *Keywords: capacity, incapacity, lex personae, place of incorporation, Art 34(2)(a)(i), Art V(1)(a), s 31(2)(a)*
@@ -305,7 +325,17 @@ Many jurisdictional problems come from altering an institution's model clause.
 > - Art 9.3: may exclude illegally obtained evidence.
 > - Art 9.4: on privilege, may consider legal advice, settlement negotiations, the parties' expectations, and waiver.
 
-*Source note: IBA-EV Arts 1, 3, 4.3, 9; ARB-CS1 p1; ARB-Plan p4 (reading list)*
+> **The rest of the IBA Rules 2020, article by article (non-core: background reading)**
+> - **Art 2 Consultation:** the tribunal "shall" consult the parties at the earliest appropriate time on an efficient, economical and fair evidence process. Topics may include witness statements and expert reports, oral testimony, document production, confidentiality, cybersecurity and data protection (2.2(e), new in 2020), and efficiency. It is encouraged to flag issues it sees as relevant and material, or fit for preliminary determination (2.3).
+> - **Art 3.4–3.14 Documents:** produce all unobjected requested documents (3.4). Objections in writing within the time ordered, on Art 9.2/9.3 grounds or failure to meet Art 3.3 (3.5). The tribunal may invite the parties to consult (3.6), then rules: order production if relevant and material, no 9.2/9.3 objection applies, and Art 3.3 is met (3.7). In exceptional circumstances it may appoint an independent expert to review a disputed document instead of reading it itself (3.8). Non-party documents: the tribunal may take legally available steps (3.9). The tribunal may itself request documents at any time (3.10). Additional documents responding to new matters (3.11). Form (3.12): copies conform to originals; electronic documents in the producer's most convenient reasonably usable form; no duplicates; documents produced on request need not be translated, but documents submitted to the tribunal in another language must be. Confidentiality (3.13): non-public documents are kept confidential and used only for the arbitration, except where disclosure is required to fulfil a legal duty, protect a legal right, or enforce or challenge an award in bona fide court proceedings. Separate phases may have separate document timetables (3.14).
+> - **Art 4 Witnesses of fact:** identify witnesses and subject matter (4.1). Anyone may be a witness, including a party or its officer or employee (4.2). Interviewing witnesses is not improper (4.3). The tribunal may order witness statements (4.4). Contents (4.5): name, address, relationship with the parties, background; a full and detailed description of the facts and the source of the information; language; affirmation of truth; signature, date and place. Revised statements only in reply to new matters or new developments (4.6). A witness called under Art 8.1 who fails without valid reason to appear: the tribunal "shall disregard" the statement unless, in exceptional circumstances, it decides otherwise (4.7). Not calling a witness is not agreement with the statement (4.8). Unwilling witnesses: the tribunal may take legally available steps (4.9), and may order a party to produce any person (4.10).
+> - **Art 5 Party-appointed experts:** report contents (5.2): name and relationships with the parties, counsel and tribunal; instructions; statement of independence; facts relied on; opinions and methods; language; affirmation of genuine belief; signature; attribution if several authors. Reply reports only on new matters (5.3). The tribunal may order experts to meet and confer and record agreed and disagreed issues in writing (5.4). Non-appearance: report disregarded unless exceptional circumstances (5.5).
+> - **Art 6 Tribunal-appointed experts:** appointed after consulting the parties, with terms of reference (6.1). Statement of qualifications and independence before accepting; objections after appointment only on newly learnt grounds (6.2). May request information and access, subject to 9.2/9.3 (6.3). Parties may see what the expert examined and respond (6.5), and question the expert at the hearing (6.6). Fees are costs of the arbitration (6.8).
+> - **Art 7 Inspection:** the tribunal may inspect, or have an expert inspect, any site, property, goods, samples, systems or documents, at a party's request or its own motion; parties may attend.
+> - **Art 8 Evidentiary hearing:** each witness appears if any party or the tribunal requests (8.1). The tribunal may order a Remote Hearing after consulting the parties, with a protocol on technology, testing, time zones, documents and preventing improper influence of witnesses (8.2). It has complete control and may limit irrelevant, duplicative or burdensome questions; direct questions may not be unreasonably leading (8.3). Usual order: claimant's witnesses, respondent's, then experts; witness conferencing allowed; the tribunal may ask questions at any time (8.4). Statements may stand as direct evidence (8.5).
+> - **Art 9 Admissibility:** the tribunal decides admissibility, relevance, materiality and weight (9.1). Art 9.2 exclusion is mandatory ("shall"); 9.3 (illegally obtained) is discretionary ("may"). Confidentiality arrangements (9.5). Adverse inference for unproduced documents (9.6) and for other evidence, including testimony (9.7). A party's bad faith in taking evidence may be reflected in costs (9.8).
+
+*Source note: IBA-EV Arts 1–9 (PDF pp8–25; printed page = PDF page − 1); ARB-CS1 p1; ARB-Plan p4 (reading list)*
 
 ### drp-m-0-20 — IBA Guidelines on Conflicts of Interest (2024): structure
 *Keywords: IBA Guidelines on Conflicts of Interest, 2024, General Standards, Application Lists, Non-Waivable Red List, Waivable Red List, Orange List, Green List, reasonable third person, disclosure*
@@ -337,14 +367,28 @@ These remedies are in Guideline 26. The Guidelines do not displace mandatory law
 > - (e) relevant considerations of privilege and confidentiality;
 > - (f) the extent to which the party knew of, condoned, directed or took part in it.
 
-*Source note: IBA-PR Guidelines 1, 3, 26–27*
+> **Guidelines 4–25 (non-core: background reading)**
+> - **Representation (4–6):** representatives identify themselves early, and changes are notified promptly (4). Once the tribunal is constituted, a person should not take on representation where a relationship with an arbitrator creates a conflict, unless no party objects after proper disclosure (5). If that happens, the tribunal may take measures, including excluding the new representative from all or part of the proceedings (6).
+> - **Ex parte communications (7–8):** no ex parte communication with an arbitrator about the arbitration unless the parties agree (7). Permitted (8): with a prospective party-nominated arbitrator on expertise, availability, willingness and conflicts; with a prospective or appointed party-nominated arbitrator to select the presiding arbitrator; with a prospective presiding arbitrator only if the parties agree. A general description of the dispute is fine; never seek views on the substance.
+> - **Submissions (9–11):** no knowingly false submission of fact (9). Promptly correct a false submission once known, subject to confidentiality and privilege (10). Do not submit witness or expert evidence known to be false; if it emerges, advise the client and take remedial steps: urge the witness to testify truthfully, correct or withdraw the evidence, or withdraw as representative (11).
+> - **Documents (12–17):** tell the client to preserve potentially relevant documents (12). No document request or objection for an improper purpose such as harassment or delay (13). Explain the duty to produce and the consequences of not producing (14), help with a reasonable search (15). Never suppress or conceal requested or ordered documents (16). If a document should have been produced, advise producing it (17).
+> - **Witnesses and experts (18–25):** identify yourself, your client and why you are asking before seeking information (18). Tell the witness they may consult their own counsel and stop the conversation (19). You may help prepare witness statements and expert reports (20), but they must reflect the witness's own account and the expert's own analysis (21–22). Do not invite false evidence (23). Meeting witnesses to prepare testimony, including practice questioning, is allowed (24). You may pay witnesses' and experts' reasonable expenses, reasonable compensation for a witness's lost time, and reasonable fees for a party-appointed expert's professional services (25).
+
+*Source note: IBA-PR Guidelines 1–27 (PDF pp13–25; printed page = PDF page − 9)*
 
 ### drp-m-0-22 — CIArb Protocol on Party-Appointed Experts (2015)
 *Keywords: CIArb Protocol, party-appointed expert, expert witness, impartial and objective, Art 4.1, duty to assist the tribunal, Art 4.3, payment does not vitiate impartiality, expert declaration, instructions disclosed*
 
 **End point:** A party-appointed expert's opinion must be impartial and objective (Art 4.1). Being paid reasonable fees by the appointing party does not of itself vitiate impartiality (Art 4.2). The expert's duty is to assist the tribunal (Art 4.3). The written opinion must give the expert's background, any relationship with the parties or tribunal, and all instructions and the basis of remuneration (Art 4.4). It ends with the expert's declaration (Art 8). The tribunal directs the issues, the number of experts and any tests (Art 3).
 
-*Source note: CIARB Arts 2–4, 8; ARB-CS1 p1*
+> **The rest of the Protocol (non-core: background reading)**
+> - Applies only to party-appointed experts, not tribunal-appointed or single joint experts. Its main difference from the IBA Rules is that experts meet before writing their reports.
+> - **Art 1:** definitions (Arbitral Tribunal, Evidentiary Hearing and others). **Art 2:** applies where the parties agree or the tribunal directs; mandatory law prevails; the tribunal resolves conflicts and gaps.
+> - **Art 5 Privilege:** instructions and terms of appointment are not privileged, but the tribunal will not order their disclosure, or allow questioning about them, without good cause (5.1). Drafts, working papers and other documents the expert creates are privileged and not disclosable (5.2).
+> - **Art 6 Expert evidence (sequence):** experts on related issues first meet without prejudice to list the issues and tests and try to agree. They send a joint statement of agreed and disagreed issues, with reasons. Each then writes an opinion on the disagreed issues only, exchanged simultaneously, then an optional reply, also simultaneous. Each testifies at the hearing unless the parties agree otherwise and the tribunal confirms. An expert who fails to appear without valid reason: the opinion is disregarded unless there are exceptional circumstances. Agreeing that an expert need not testify is not acceptance of the opinion (6.3).
+> - **Art 7 Testimony:** as the tribunal directs, to narrow the issues. The tribunal may direct further conferral or joint reports and hold preliminary meetings with the experts. An opinion not in line with the Art 8 declaration is disregarded in whole or part (7.4).
+
+*Source note: CIARB Arts 1–8 (Protocol at PDF pp26–34, Appendix I to the CIArb Guideline; printed page = PDF page − 26); ARB-CS1 p1*
 
 ### drp-m-0-23 — Prague Rules (2018)
 *Keywords: Prague Rules, inquisitorial, proactive tribunal, case management conference, avoid document production, Art 4.2, iura novit curia, Art 7, assistance in amicable settlement, Art 9, arbitrator as mediator*
@@ -356,7 +400,18 @@ These remedies are in Guideline 26. The Guidelines do not displace mandatory law
 - unless a party objects, the tribunal may help the parties settle (Art 9.1);
 - with all parties' prior written consent, an arbitrator may act as mediator and, with written consent at the end, carry on as arbitrator if mediation fails (Arts 9.2–9.3).
 
-*Source note: PRAGUE Arts 1–4, 7, 9; ARB-Plan p4 (reading list)*
+> **Prague Rules, article by article (non-core beyond the end point)**
+> - **Art 2 Case management conference:** held without unjustified delay after the tribunal receives the file (2.1). The tribunal discusses the timetable and clarifies relief sought, disputed and undisputed facts, and legal grounds (2.2). It may indicate disputed facts, suitable evidence, its view of the legal grounds and preliminary views on burden of proof, relief and weight of evidence; preliminary views are not evidence of partiality and are not grounds for disqualification (2.4). It may decide preliminary issues, limit the number and length of submissions, and fix strict time limits (2.5).
+> - **Art 3 Fact-finding:** the tribunal is entitled and encouraged to be proactive, but the parties keep the burden of proof (3.1). It may on its own initiative request documents or witnesses, appoint experts (including on legal issues) and order site inspections (3.2). It shall consider a cut-off date for evidence, with no new evidence afterwards save in exceptional circumstances (3.3).
+> - **Art 4 Documents:** submit documents relied on as early as possible (4.1). A party needing documents raises it at the CMC (4.3); later requests only in exceptional circumstances (4.4). A request must be for a specific document that is relevant and material, not public, and in the other party's possession or control (4.5). Non-public documents are confidential (4.8).
+> - **Art 5 Fact witnesses:** identify each witness, the facts and relevance (5.1). The tribunal decides which witnesses are called and may refuse irrelevant, duplicative or burdensome ones (5.2–5.3). If a party insists on calling a witness whose statement the other side filed, the tribunal should generally call them (5.7). The tribunal controls examination and may hold witness conferences (5.9).
+> - **Art 6 Experts:** the tribunal may appoint experts, seeking the parties' suggestions, approving terms of reference, and asking the parties to advance costs equally (6.1–6.2). Parties may still file their own expert reports (6.5). Experts may be told to prepare a joint list of questions and a joint report of agreed and disagreed issues (6.6–6.7).
+> - **Art 8 Hearing:** seek to resolve the case on documents only where appropriate (8.1). If there is a hearing, keep it cost-efficient, e.g. limited length and video or telephone (8.2).
+> - **Art 10 Adverse inference:** if a party fails without justifiable grounds to comply with any order or instruction, the tribunal may draw an adverse inference.
+> - **Art 11 Costs:** the tribunal may consider the parties' cooperation in running the case efficiently.
+> - **Art 12 Deliberations:** best efforts to issue the award as soon as possible; internal discussions before the hearing and deliberations soon after.
+
+*Source note: PRAGUE Arts 1–12 (PDF pp3–12); ARB-Plan p4 (reading list)*
 
 ### drp-m-0-24 — Arbitral institutions and the SIAC Court
 *Keywords: SIAC, ICC, HKIAC, LCIA, arbitral institution, SIAC Court, President of the SIAC Court, Registrar, appointing authority, IAA s 8(2), model clause*
@@ -405,7 +460,13 @@ These remedies are in Guideline 26. The Guidelines do not displace mandatory law
 
 **End point:** A reference in a contract to a document containing an arbitration clause makes an arbitration agreement in writing if the reference makes the clause part of the contract (IAA s 2A(7); bills of lading: s 2A(8)). The test is the parties' intention, a question of construction (*International Research Corp v Lufthansa Systems* [2013] SGCA 55 at [34]). Express reference to the arbitration clause itself is not necessary ([33]–[34]). Where the reference clearly adopts all the terms of the other document, its arbitration clause is included (*Mancon v Heng Holdings* [1999] SGHC 324 at [44]–[45]).
 
-*Source note: IAA s 2A(7)–(8); ARB-SN p14–15 paras 46–48; [2013] SGCA 55 at [33]–[34]; [1999] SGHC 324 at [44]–[45]. Concordia Agritrading v Cornelder [1999] SGHC 269 at [33] (cited in ARB-SN) applied a stricter approach since displaced by Lufthansa.*
+> **ARB-SN para 48, as the Notes put it**
+> - The test is the parties' intention to incorporate, a question of construction (*Lufthansa* at [34]).
+> - Specific words of incorporation may express that intention (*Concordia v Cornelder* [1999] SGHC 269).
+> - Explicit reference to the arbitration clause is not necessary; requiring it would be far too restrictive (*Gay Construction v Caledonian Techmore*, per Kaplan J (Hong Kong), approved in *Lufthansa* at [33]).
+> - A reference clearly adopting all the terms of the other document includes its arbitration clause (*Mancon*).
+
+*Source note: IAA s 2A(7)–(8); ARB-SN p14–15 paras 46–48; [2013] SGCA 55 at [33]–[34]; [1999] SGHC 324 at [44]–[45]. Concordia Agritrading v Cornelder [1999] SGHC 269 at [33] took a stricter line (specific reference needed) than Lufthansa now allows; ARB-SN cites it only for the point that specific words may show intention, which remains true. Gay Construction is a Hong Kong case taken from ARB-SN (not checked).*
 
 ### drp-m-0-29 — Non-signatories: implied consent, agency, assignment
 *Keywords: non-signatory, implied consent, conduct, negotiation, performance, agency, actual authority, apparent authority, ratification, assignment, assignee bound*
@@ -576,7 +637,14 @@ That a statute gives a court jurisdiction over a matter, without mentioning arbi
 > - the governing law of the arbitration agreement;
 > - whether expedited arbitration may apply.
 
-*Source note: ARB-SN p22–23 paras 72–73; SIAC25 p95 (model clause); ARB-CS1 p2–3 (DR clause exercise)*
+> **Worked answer to ARB-CS1 Q2 (India Bittal / Sino Steel master supply contract; orders of US$1–2m and US$10m)**
+> - **SICC or arbitration?** The award must be enforced against a Chinese counterparty, probably in China. India and China are both New York Convention States, so a Singapore-seated award is enforceable there under the NYC (ARB-SN paras 25–26). A SICC judgment would depend on each country's own rules for foreign judgments, a less certain route. Arbitration also gives party-chosen arbitrators, neutrality and confidentiality. Recommend arbitration.
+> - **Seat:** Singapore. It is neutral (neither party's home), a NYC State, has a supportive and high-quality judiciary, and is politically stable (the ARB-SN para 25 factors).
+> - **Institution:** SIAC, which administers the case and whose President and Court can appoint and decide challenges. Under SIAC25, a US$1–2m order (about S$1.3–2.7m) falls in the Expedited Procedure band (S$1m–10m, r 14), and a US$10m order (above S$10m) runs under the full rules. A claim under S$1m goes to the Streamlined Procedure (r 13).
+> - **Multi-tier?** Keep it short and certain: negotiation between named senior executives for a fixed period (e.g. 30 days), then arbitration. A vague step is unenforceable (*CZQ v CZS*, 0-92). Optionally provide for mediation under the SIAC-SIMC AMA Protocol (0-90) without making it a precondition.
+> - **Clause:** the SIAC model clause, adding seat (Singapore), number of arbitrators (one, or three for disputes over a stated sum), language (English), the law of the contract and the law of the arbitration agreement (Singapore), and the tiering step.
+
+*Source note: ARB-SN p22–23 paras 72–73; SIAC25 p95 (model clause), rr 13–14; ARB-CS1 p2–3 (DR clause exercise). The course gives no model answer to CS1 Q2; the worked answer applies ARB-SN paras 25–26, 72 and SIAC25 to the email's facts. The exchange rate (about S$1.33 per US$1) is approximate and only places the orders in the SIAC bands.*
 
 ### drp-m-0-44 — "May" or "can" refer to arbitration
 *Keywords: optional arbitration clause, may refer, can refer, shall refer, China State Construction v Madiford, Guangdong Agriculture v Conagra, clear obligation to arbitrate*
@@ -628,10 +696,10 @@ That a statute gives a court jurisdiction over a matter, without mentioning arbi
 
 *Source note: ARB-SN p26–27 paras 85–89; [2015] SGCA 57 at [63]–[64]; [2005] SGHC 161 at [21]; [2015] SGHC 225; PYP23 p8 Q15 (prima facie test)*
 
-### drp-m-0-49 — Is there a "dispute"? A mere denial is enough
-*Keywords: dispute, mere denial, no defence, positive assertion, clear and unequivocal admission, Dalian Hualiang, Tjong Very Sumito v Antig, DKB v DKC, merits not examined*
+### drp-m-0-49 — Is there a "dispute"? Denying liability or quantum is enough
+*Keywords: dispute, mere denial, denial of liability, denial of quantum, no defence, positive assertion, clear and unequivocal admission, Dalian Hualiang, Tjong Very Sumito v Antig, DKB v DKC, merits not examined*
 
-**End point:** The court does not look at the merits. A dispute exists once the defendant positively asserts that the claim is disputed, even if the assertion is easily shown to be wrong (*Dalian Hualiang* [2005] SGHC 161 at [75]–[76]; *Tjong Very Sumito v Antig Investments* [2009] SGCA 41 at [49], [51]; *DKB v DKC* [2025] SGHC(I) 11 at [67]). There is no dispute where liability and quantum have been clearly and unequivocally admitted (*Tjong* at [36]).
+**End point:** The court does not look at the merits. A denial of liability or of the quantum claimed is enough, even where no defence exists (ARB-SN para 82: "a mere denial"). Put precisely, a dispute exists once the defendant positively asserts that the claim is disputed, even if the assertion is easily shown to be wrong; silence or a bare failure to pay is not a denial (*Dalian Hualiang* [2005] SGHC 161 at [75]–[76]; *Tjong Very Sumito v Antig Investments* [2009] SGCA 41 at [49], [51]; *DKB v DKC* [2025] SGHC(I) 11 at [67]). There is no dispute where liability and quantum have been clearly and unequivocally admitted (*Tjong* at [36]).
 
 *Source note: ARB-SN p25 para 82; [2005] SGHC 161 at [75]–[76]; [2009] SGCA 41 at [36], [49], [51]; [2025] SGHC(I) 11 at [67]. Conflict: ARB-SN para 82 cites Dalian at [43] and says "a mere denial" suffices; [43] quotes a Hong Kong judge, and the holding at [75] requires a positive assertion that the claim is disputed (mere silence or refusal to pay is not enough), so the block states the holding at [75].*
 
@@ -646,8 +714,9 @@ That a statute gives a court jurisdiction over a matter, without mentioning arbi
 *Keywords: Art 8(2), arbitration continues while stay pending, award may be made, IAA s 6(4), discontinue after 2 years, no further step, reinstate*
 
 **End point:** While a stay application is pending, arbitral proceedings may be commenced or continued and an award made (Art 8(2)). After a stay, if no party takes a further step in the court proceedings for at least 2 years, the court may on its own motion discontinue them, without prejudice to an application to reinstate (IAA s 6(4)).
+- **Post-award agreements on enforcement:** where parties agree after the award that enforcement is subject to contractual restraints, and refer disputes about those restraints to arbitration, s 6 can stay court proceedings and refer that dispute to arbitration (*DKB v DKC* [2025] SGHC(I) 11 at [72]). Section 31 IAA lists grounds for refusing to enforce an award; it does not cover parties' own post-award agreements on enforcement, so such a stay is not a challenge to the award and does not undermine s 31 ([73]).
 
-*Source note: MAL Art 8(2); IAA s 6(4); ARB-SN p25 para 83*
+*Source note: MAL Art 8(2); IAA s 6(4); ARB-SN p25 para 83; [2025] SGHC(I) 11 at [72]–[73] (as stated in ARB-SN)*
 
 ## 0.VIII Jurisdiction of the tribunal
 
@@ -669,8 +738,9 @@ That a statute gives a court jurisdiction over a matter, without mentioning arbi
 *Keywords: competence-competence, kompetenz-kompetenz, tribunal rules on its own jurisdiction, Art 16(1), SIAC r 31.1, existence, validity, scope*
 
 **End point:** The tribunal may rule on its own jurisdiction, including objections to the existence or validity of the arbitration agreement (Art 16(1)). SIAC25 r 31.1 adds applicability and scope. Its ruling is subject to court review (s 10(3), setting aside, enforcement).
+- **Kinds of objection:** jurisdictional objections are either absolute (the whole claim: e.g. no capacity, illegality, agreement incapable of being performed) or partial (a particular issue falls outside the clause's scope) (ARB-SN para 92). A partial objection leaves the tribunal seised of the rest; compare severance on setting aside (0-151).
 
-*Source note: MAL Art 16(1); ARB-SN p30 para 103; SIAC25 r 31.1; PYP23 p1 Q8; SampleQs p57 Q5 (key p122: B)*
+*Source note: MAL Art 16(1); ARB-SN p28 para 92, p30 para 103; SIAC25 r 31.1; PYP23 p1 Q8; SampleQs p57 Q5 (key p122: B)*
 
 ### drp-m-0-53 — Separability: attack the clause, not the contract
 *Keywords: separability, severability, arbitration clause independent of contract, Art 16(1), Premium Nafta, Ferris v Plaister, Philippines v PIATCO, contract void, null and void contract, SIAC r 31.1*
@@ -746,8 +816,9 @@ It matters because admissibility rulings are not open to court review as jurisdi
 *Keywords: SIAC r 8, prima facie jurisdictional objection, SIAC Court, Registrar, respondent fails to submit Response, existence validity applicability, terminate arbitration*
 
 **End point:** If the respondent files no Response, or a party objects to the existence, validity or applicability of the arbitration agreement, the arbitration proceeds and the tribunal decides jurisdiction. The exception is where the Registrar, before the tribunal is constituted, refers the matter to the SIAC Court (SIAC25 r 8.1). The SIAC Court decides prima facie whether and how far the arbitration proceeds (r 8.2). A decision to proceed does not limit the tribunal's power to rule on jurisdiction; a decision not to proceed leads to termination (r 8.3). This is ARB-CS2 Q3(a): how to respond to SIAC.
+- **ICC equivalent (ARB-CS2 Q1, ICC clause, Singapore seat):** under the ICC Rules 2021 the tribunal decides jurisdictional pleas directly, unless the Secretary General refers the matter to the ICC Court; the Court then lets the arbitration proceed if, and to the extent, it is prima facie satisfied that an ICC arbitration agreement may exist (Art 6(3)–(4)). As with SIAC, a decision to proceed leaves the tribunal free to decide jurisdiction. In CS2 Q1 the client's main move is a court stay under IAA s 6 (0-46 to 0-48), while answering the ICC Request (Answer within 30 days, Art 5) and taking part in constituting the tribunal.
 
-*Source note: SIAC25 rr 7.1(d), 8.1–8.3; ARB-CS2 p2 Q3(a)–(b)*
+*Source note: SIAC25 rr 7.1(d), 8.1–8.3; ARB-CS2 p1 Q1, p2 Q3(a)–(b). The ICC Rules 2021 are not in `authorities/` and not Course Material; Arts 5–6 are stated from the published ICC text.*
 
 ## 0.IX Resisting jurisdiction: the respondent's options
 
@@ -1359,7 +1430,7 @@ The tribunal decides whether to proceed, sets the procedure, and decides within 
 > **Model Law 2006 (not law in Singapore)**
 > - Art 17(2): measures to maintain the status quo, stop prejudice to the process, preserve assets or evidence.
 > - Art 17A(1): (a) harm not adequately reparable by damages is likely and substantially outweighs the harm to the other side; (b) a reasonable possibility of success on the merits.
-> - Arts 17B–17C: ex parte preliminary orders where notice risks frustration; notice immediately after; the other side heard; 20-day life; binding but not an award and not court-enforceable.
+> - Arts 17B–17C: ex parte preliminary orders where notice risks frustration; notice immediately after; the other side heard; 20-day life, which may be varied after hearing the party subject to the order (Art 17C(4)); binding but not an award and not court-enforceable.
 > - Arts 17D–17G: modify, suspend or terminate; security; disclosure of changes; requesting party liable for costs and damages if the measure should not have been granted.
 > - Arts 17H–17I: recognition and enforcement of interim measures wherever issued, with refusal grounds.
 
@@ -1447,13 +1518,14 @@ The downside is that confidentiality may be lost. In Singapore, s 12A(6) means a
 ### drp-m-0-122 — When a Singapore court grants an ASI in aid of arbitration
 *Keywords: anti-suit injunction, ASI, restrain foreign proceedings, valid arbitration agreement, s 2A, breach, no strong cause, Sun Travels v Hilton, Angelic Grace, Maldives Airports, comity, ARB-CS2 Indonesian court*
 
-**End point:** A Singapore court will generally grant an anti-suit injunction in aid of arbitration if three things are shown:
+**End point:** An anti-suit injunction is an order by a court with personal jurisdiction over a party, requiring that party not to file a claim in a foreign jurisdiction, or not to proceed with one already filed. It acts on the party, not the foreign court. The concern is that the foreign action would frustrate the forum's proceedings on the same issues, or is brought in bad faith to harass (ARB-SN para 195).
+A Singapore court will generally grant an anti-suit injunction in aid of arbitration if three things are shown:
 - a valid and binding arbitration agreement (IAA s 2A);
 - that the defendant has threatened or acted in breach of it by suing elsewhere;
 - no strong cause not to enforce the agreement (*Sun Travels & Tours v Hilton International Manage (Maldives)* [2019] SGCA 10 at [65]–[68]).
 The CA accepted that there is "no good reason for diffidence" in restraining foreign proceedings the defendant promised not to bring (*Maldives Airports* [2013] SGCA 16, adopting *The Angelic Grace*). This answers ARB-CS2 Q2 (Indonesian proceedings, Singapore-seated ICC clause) and SampleQs Arb Q9 ("Narnia" proceedings).
 
-*Source note: ARB-SN p58–59 paras 195–198; [2019] SGCA 10 at [65]–[68]; [2013] SGCA 16; ARB-CS2 p1 Q2; SampleQs p59 Q9 (key p122: D). Conflict: ARB-SN fn 8 cites Sun Travels only as [2019] 1 SLR 732; the neutral citation is [2019] SGCA 10.*
+*Source note: ARB-SN p58–59 paras 195–198 (definition: p58 para 195); [2019] SGCA 10 at [65]–[68]; [2013] SGCA 16; ARB-CS2 p1 Q2; SampleQs p59 Q9 (key p122: D). Conflict: ARB-SN fn 8 cites Sun Travels only as [2019] 1 SLR 732; the neutral citation is [2019] SGCA 10.*
 
 ### drp-m-0-123 — Source of the power and the court's attitude
 *Keywords: Civil Law Act s 4(10), permanent injunction, R1 International v Lonstroff, WSG Nimbus v Board of Control for Cricket in Sri Lanka, duty to uphold arbitration agreement, Singapore as arbitration centre*
@@ -1548,9 +1620,18 @@ The tribunal may award any remedy the High Court could have ordered in civil pro
 **End point:**
 - **Final and binding:** an award is final and binding on the parties and those claiming through them, and may be relied on as a defence or set-off (IAA s 19B(1); SIAC25 r 51.6).
 - **Functus officio:** except under Arts 33 and 34(4), the tribunal must not vary, amend, correct, review, add to or revoke the award once it has been signed and delivered (s 19B(2)–(3)). A tribunal is functus on the issues an award decides, whether interim, partial or final (*Bloomberry Resorts v Global Gaming Philippines* [2021] SGCA 94 at [157]).
+- **Errors of law or fact** in an award are final and binding; they cannot be appealed or set aside (*PT Asuransi v Dexia Bank* [2006] SGCA 41 at [57]). The two routes left are setting aside at the seat and resisting enforcement. Policy: too much court review shifts decision power to national courts; too much arbitral autonomy creates moral hazard (ARB-SN para 216).
+- **Did the tribunal decide the issue finally?** A partial award cannot be revised in a later award, so it matters whether an earlier decision was final (test in box).
 - **Extended res judicata (Henderson v Henderson):** it bars points that could with reasonable diligence have been raised earlier (*CIX v DGN* [2025] SGCA 10 at [56]–[57]). The CA held it can apply even without identity of parties, where the earlier proceedings were an arbitration and the later ones a court action ([66], [68]–[69]). The inquiry is into substance, not form, to stop repackaged claims against new parties.
 
-*Source note: IAA s 19B; ARB-SN p62 paras 195, 198–199 and p67–69 paras 214, 217–219; [2021] SGCA 94 at [157]; [2025] SGCA 10 at [56]–[57], [65]–[69]; SIAC25 r 51.6–51.7. Conflict: ARB-SN cites CIX at [58] for the "twice vexed" policy and [67]–[68] for the undisputed premise; they are at [57] and [65]. ARB-SN para 214 cites "Rule 28.9 SIAC" (2016 numbering); the 2025 provision is r 51.6.*
+> **Was an issue finally and conclusively resolved? (ONGC Petri Additions v DL E&C [2023] SGHC 197 at [35])**
+> - (a) substance carries real weight, not mere form;
+> - (b) form still has a role: the tribunal's own description of the decision is relevant but not conclusive;
+> - (c) ask how a reasonable recipient of the decision would have viewed it;
+> - (d) that recipient looks at objective attributes: the tribunal's description, the formality of the language, and the level of detail of the reasoning;
+> - (e) the recipient has all the information available to the parties and tribunal when the decision was made, so the background and context of the proceedings matter.
+
+*Source note: IAA s 19B; ARB-SN p62 paras 195, 198–199 and p67–69 paras 214–219 (ONGC Petri test: p67 para 214, as stated in ARB-SN; moral hazard: p68 para 216); [2006] SGCA 41 at [57]; [2021] SGCA 94 at [157]; [2025] SGCA 10 at [56]–[57], [65]–[69]; SIAC25 r 51.6–51.7. Conflict: ARB-SN cites CIX at [58] for the "twice vexed" policy and [67]–[68] for the undisputed premise; they are at [57] and [65]. ARB-SN para 214 cites "Rule 28.9 SIAC" (2016 numbering); the 2025 provision is r 51.6.*
 
 ### drp-m-0-132 — Form and content (Art 31; SIAC r 52)
 *Keywords: form of award, Art 31, in writing, signed, majority signatures, reason for omitted signature, reasons, unless agreed, consent award, date and place, deemed made at seat, SIAC r 52*
@@ -1653,7 +1734,7 @@ On illegality, the court considers both arbitrability and conflict with public p
 **End point:** Despite Art 34(1), the High Court may also set aside an award if:
 - (a) its making was induced or affected by fraud or corruption; or
 - (b) a breach of the rules of natural justice occurred in connection with its making, by which a party's rights were prejudiced (IAA s 24).
-In practice natural justice challenges plead both s 24(b) and Art 34(2)(a)(ii). In *CZT v CZU* [2024] SGCA(I) 6 at [72]–[79] the natural justice complaint was rejected.
+In practice natural justice challenges plead both s 24(b) and Art 34(2)(a)(ii) (e.g. *CWP v CWQ* [2023] SGHC 61; *ONGC Petri v DL E&C* [2023] SGHC 197; *CUW v CUZ* [2023] SGHC(I) 2; *DGE v DGF* [2024] SGHC 107). In *CZT v CZU* [2024] SGCA(I) 6 at [72]–[79] the natural justice complaint was rejected.
 
 *Source note: IAA s 24; ARB-SN p71 para 226, p73 para 231; [2024] SGCA(I) 6 at [72]–[79]; SampleQs p58 Q7 (key p122: C)*
 
@@ -1684,10 +1765,11 @@ In practice natural justice challenges plead both s 24(b) and Art 34(2)(a)(ii). 
 
 **End point:**
 - **Ultra petita** (the tribunal exceeded its mandate) falls under Art 34(2)(a)(iii) (*Palm Grove Beach Hotels v Hilton Worldwide* [2025] SGCA 14 at [26]). The court asks two questions: (a) what was within the submission, looking mainly at whether the issue was properly pleaded; (b) whether the award dealt with something outside it (*Bloomberry* [2021] SGCA 94 at [69(a)]; *India Glycols v Texan Minerals* [2025] SGHC 28 at [52]–[53]). Once excess is shown, no prejudice need be shown ([54]).
+- **Why the label matters:** an ultra petita challenge makes the court scrutinise the arbitral record in detail (pleadings, list of issues, opening statements, evidence, closing submissions). An infra petita challenge is a sui generis natural justice breach and needs far less of that inquiry (*Palm Grove* at [27]; *CDM v CDP* [2021] 2 SLR 235 at [18]; *Maritima v Pacific Richfield* [2013] 4 SLR 972 at [125]). A non-participating party cannot raise infra petita (*DEM v DEL*).
 - **Infra petita** (the tribunal failed to deal with a point) is a separate natural justice challenge (*Palm Grove* at [27]; *DEM v DEL* [2025] SGCA 1). It has four conditions (box) (*DKT v DKU* [2025] SGCA 23 at [8]; *ONI Global v GNC Holdings* [2026] SGCA(I) 3 at [60]). Silence on a pleaded point or on evidence is not itself failure to consider it (*Glaziers Engineering v WCS* [2018] SGCA 66 at [36]; *DPT v DPV* [2025] SGHC(I) 29 at [196]–[197]).
 
 > **Infra petita: all four needed**
-> - (1) the point was properly before the tribunal;
+> - (1) the point was properly before the tribunal (*Ebixcash v Ashok Kumar Goel* [2025] SGHC(I) 23 at [36], [82]);
 > - (2) it was essential to resolving the dispute (no duty to address every point);
 > - (3) the tribunal completely failed to consider it, a clear and virtually inescapable inference (*Prayudh Mahagitsiri v Nestlé* [2025] SGHC 181 at [43]);
 > - (4) real or actual prejudice resulted.
@@ -1704,7 +1786,7 @@ In practice natural justice challenges plead both s 24(b) and Art 34(2)(a)(ii). 
 ### drp-m-0-146 — Copied awards (DJP v DJO)
 *Keywords: copying, copy and paste, parallel arbitrations, DJO v DJP, DJP v DJO, prejudgment, apparent bias, anchoring bias, confirmation bias, information asymmetry, natural justice, DOI v DOJ*
 
-**End point:** Copying alone does not taint an award; the court looks at the nature, extent and effect of the copying (*DJO v DJP* [2024] SGHC(I) 24 at [98], [114]–[115]; award set aside). On appeal (*DJP v DJO* [2025] SGCA(I) 2) the CA distinguished two sources ([40]–[46]):
+**End point:** The complaint arises where a tribunal allegedly copied large parts of awards in parallel arbitrations on similar issues (*DOI v DOJ* [2025] SGHC(I) 15, which ARB-SN para 233 cites alongside *DJP v DJO* for this situation). Copying alone does not taint an award; the court looks at the nature, extent and effect of the copying (*DJO v DJP* [2024] SGHC(I) 24 at [98], [114]–[115]; award set aside). On appeal (*DJP v DJO* [2025] SGCA(I) 2) the CA distinguished two sources ([40]–[46]):
 - **From one party's submissions:** does the copying give rise to a reasonable suspicion that the tribunal adopted that party's case without engaging fairly with both sides?
 - **From a related award:** copying uncontroversial material may be acceptable. Proximity matters, such as the same tribunal or parties.
 Using extraneous material that seems to have influenced the outcome, which other members did not share, can taint the whole award ([61]–[63]). Copying parallel awards may lead a fair-minded observer to suspect a closed mind through anchoring and confirmation bias ([71], [74]).
@@ -1748,7 +1830,8 @@ Absent agreement on a procedural point, the parties must arbitrate in accordance
 **End point:** The court may:
 - set aside the award in whole or in part (severing what was not submitted, Art 34(2)(a)(iii));
 - refuse to set aside;
-- on a party's request and where appropriate, suspend the proceedings so the tribunal can resume or act to eliminate the grounds (remission, Art 34(4)).
+- on a party's request and where appropriate, suspend the proceedings so the tribunal can resume or act to eliminate the grounds (remission, Art 34(4));
+- vary parts of the award: ARB-SN para 245 lists this. Neither Art 34 nor the IAA gives a Singapore court an express power to vary an award, so if a limb says the court "may vary parts of the award", treat it as true by the Notes but recognise that in practice the court's tools are partial setting aside (severance) and remission.
 The CA could not remit where remission was not raised below (*CBS v CBP* [2021] SGCA 4). The factors for remission are set out below.
 
 > **Remission factors (Vietnam Oil and Gas v Joint Stock Co [2025] SGCA 50 at [111]–[130])**
@@ -1758,7 +1841,7 @@ The CA could not remit where remission was not raised below (*CBS v CBP* [2021] 
 > - whether pleadings would need amending ([128]);
 > - time and costs saved, which matter little if confidence in the tribunal is lost ([130]).
 
-*Source note: MAL Art 34(4); ARB-SN p77–78 para 245; [2021] SGCA 4; [2025] SGCA 50 at [111]–[130]; [2025] SGCA 5 at [57]; PYP23 p28 Q35*
+*Source note: MAL Art 34(4); ARB-SN p77–78 para 245. Conflict: ARB-SN lists "vary parts of the award"; MAL Art 34 and IAA ss 24, 19B confer no express power to vary, so the pack states the Notes' list and flags the gap; [2021] SGCA 4; [2025] SGCA 50 at [111]–[130]; [2025] SGCA 5 at [57]; PYP23 p28 Q35*
 
 ### drp-m-0-152 — A foreign award cannot be set aside in Singapore
 *Keywords: foreign award, set aside only at seat, Art 1(2), Singapore court cannot set aside London award, resist enforcement, adjournment*
@@ -1844,7 +1927,7 @@ If there is no challenge, the creditor enters judgment in terms of the award and
 **End point:** Enforcement may be refused only on the listed grounds (s 31(1)). Those in s 31(2) are for the award debtor to prove (box). Section 31(2)(b) is the ground used when the debtor says there was no valid arbitration agreement, i.e. no jurisdiction.
 
 > **IAA s 31(2) (NYC Art V(1); Art 36(1)(a)): the debtor proves that**
-> - (a) a party was under some incapacity under the law applicable to it;
+> - (a) a party was, under the law applicable to it, under some incapacity at the time the agreement was made;
 > - (b) the agreement is not valid under the law the parties chose or, failing that, the law of the country where the award was made;
 > - (c) it was not given proper notice of the appointment of the arbitrator or of the proceedings, or was otherwise unable to present its case;
 > - (d) the award deals with a difference not within the submission, or decides matters beyond it. Under s 31(3), severable parts within the submission may be enforced;
@@ -1887,7 +1970,7 @@ It may raise these itself. It applies its own State's public policy, not public 
 ### drp-m-0-164 — Transnational issue estoppel (Deutsche Telekom)
 *Keywords: transnational issue estoppel, Republic of India v Deutsche Telekom, seat court decision preclusive, Merck v Merck, elements, primacy principle, obiter, Hulley v Russian Federation, Sacofa v Super Sea Cable*
 
-**End point:** Transnational issue estoppel applies in international arbitration. A seat court's earlier decision on the validity of an award binds the parties in Singapore enforcement proceedings, so they cannot relitigate issues the seat court decided (*Republic of India v Deutsche Telekom* [2023] SGCA(I) 10 at [64]). The majority added, obiter, a "primacy principle": the seat court's decision on validity is presumed final and determinative, subject to public policy or evidential concerns ([46] ff). The concurring judge found issue estoppel and abuse of process sufficient. It was applied in *Hulley Enterprises v Russian Federation* [2025] SGHC(I) 19 at [111], [140], where Russia was estopped by the Dutch courts' decisions, consistently with de novo review of jurisdiction.
+**End point:** Transnational issue estoppel applies in international arbitration. A seat court's earlier decision on the validity of an award binds the parties in Singapore enforcement proceedings, so they cannot relitigate issues the seat court decided (*Republic of India v Deutsche Telekom* [2023] SGCA(I) 10 at [64]). The majority added, obiter, a "primacy principle": the seat court's decision on validity is presumed final and determinative, subject to public policy or evidential concerns ([46] ff). The concurring judge found issue estoppel and abuse of process sufficient. It was applied in *Hulley Enterprises v Russian Federation* [2025] SGHC(I) 19 at [111], [140], where Russia was estopped by the Dutch courts' decisions. The court held (1) *Deutsche Telekom* was binding ([111]); (2) transnational issue estoppel is consistent with de novo review of jurisdiction ([140]); and (3) because a State's consent to an arbitration agreement is a private act, no consideration "trumped" the estoppel.
 
 > **Elements (Deutsche Telekom at [64]; Sacofa v Super Sea Cable [2024] SGHC 54 at [65])**
 > - (a) the foreign judgment is capable of recognition in Singapore:
@@ -1902,12 +1985,14 @@ It may raise these itself. It applies its own State's public policy, not public 
 ### drp-m-0-165 — Public policy: narrow; illegality (AJU v AJT matrix)
 *Keywords: public policy, shock the conscience, clearly injurious to the public good, wholly offensive, most basic notions of morality and justice, PT Asuransi [59], Sanum v Laos, VV v VW, procedural fraud, CZD v CZE, illegality, AJU v AJT, CBX v CBZ four scenarios, palpable and indisputable illegality, Gokul Patnaik, GNC v ONI, deliberate falsity, DKB v DKC assumed facts*
 
-**End point:** Singapore public policy is narrow. It applies only where upholding the award would "shock the conscience", be "clearly injurious to the public good", be "wholly offensive to the ordinary reasonable and fully informed member of the public", or violate the forum's "most basic notion of morality and justice" (*PT Asuransi* [2006] SGCA 41 at [59]; *Sanum Investments v Laos* [2022] SGHC(I) 9 at [45]).
+**End point:** Singapore public policy is narrow. It applies only where upholding the award would "shock the conscience", be "clearly injurious to the public good", be "wholly offensive to the ordinary reasonable and fully informed member of the public", or violate the forum's "most basic notion of morality and justice" (*PT Asuransi* [2006] SGCA 41 at [59]; *Sanum Investments v Government of the Lao PDR* [2022] 4 SLR 198 at [45]; *Government of the Lao PDR v Lao Holdings NV* [2024] SGHC(I) 9 at [64]–[69]).
+- **Three routes to a public policy challenge (ARB-SN para 289):** (1) the remedies ordered are contrary to public policy; (2) the award gives effect to an illegal or tainted underlying contract, the commonest, where the court must first decide whether to reopen the tribunal's illegality finding (matrix below); (3) the way the award was procured is contrary to public policy (procedural fraud).
+- **Not a second bite:** a party cannot use public policy to undermine an award on a point it disavowed before the tribunal, or raised and lost (*Reliance Infrastructure v Shanghai Electric* [2024] SGCA(I) 10 at [75]; *DFM v DFL* [2024] SGCA 41 at [45]; *China Machine v Jaguar Energy* [2020] 1 SLR 695 at [168]–[170]).
 - **Not public policy:** a disproportionate costs award (*VV v VW* [2008] SGHC 11).
 - **Procedural fraud:** can qualify, but must be material to the award (*CZD v CZE* [2023] SGHC 86 at [38]). Relitigating how an award was procured needs evidence of deliberate falsity on material matters that was not reasonably available at the hearing (*GNC Holdings v ONI Global* [2025] SGHC(I) 25 at [155], [158]; affd [2026] SGCA(I) 3 at [51]).
 - **Facts:** the court will not decide on assumed facts (*DKB v DKC* [2025] SGHC(I) 26 at [7]).
 - **Illegality:** only a tribunal's error about the content of the forum's public policy may be reopened (*AJU v AJT* [2011] SGCA 41). The CA has not yet considered the matrix below. Even where some illegality exists, it may not reach the public policy threshold (*Gokul Patnaik v Nine Rivers* [2020] SGHC(I) 23 at [203], [206]).
-Other States are broader, e.g. India's "patent illegality" and the Philippines on costs.
+Other States are broader (comparative, ARB-SN para 295): India's Supreme Court in *ONGC v Saw Pipes* added an all-encompassing ground of "patent illegality"; the Philippine CA in *Luzon Hydro* refused a Singapore-seated award applying costs-follow-the-event, because Philippine public policy does not make a bona fide litigant bear the other side's costs. Contrast *VV v VW* in Singapore.
 
 > **CBX v CBZ [2020] SGHC(I) 17 at [67]: can the court reopen the tribunal's finding on illegality?**
 > - Singapore law contract, tribunal found **not illegal** → court may intervene.
@@ -1915,7 +2000,7 @@ Other States are broader, e.g. India's "patent illegality" and the Philippines o
 > - Foreign law, found **illegal** → no.
 > - Foreign law, found **not illegal** → no, unless the illegality is "palpable and indisputable".
 
-*Source note: ARB-SN p88–90 paras 285–295; [2006] SGCA 41 at [59]; [2022] SGHC(I) 9 at [45]; [2008] SGHC 11; [2023] SGHC 86 at [38]; [2025] SGHC(I) 25 at [155], [158]; [2026] SGCA(I) 3 at [51]; [2025] SGHC(I) 26 at [7]; [2011] SGCA 41; [2020] SGHC(I) 17 at [56], [67]; [2020] SGHC(I) 23 at [203], [206]; PYP23 p10 Q17 (most basic notions of morality and justice). Conflict: ARB-SN cites CZD v CZE at [42], [59] for procedural fraud; the statement is at [38].*
+*Source note: ARB-SN p88–91 paras 285–295 (three routes: p89 paras 289–290; comparative: p91 para 295; Saw Pipes and Luzon Hydro are foreign cases taken from ARB-SN, not checked); [2006] SGCA 41 at [59]; [2022] 4 SLR 198 at [45] (cited as in ARB-SN; the earlier pack cite "[2022] SGHC(I) 9" was dropped because it could not be confirmed and may confuse Sanum with Lao Holdings [2024] SGHC(I) 9); [2024] SGHC(I) 9 at [64]–[69] (as stated in ARB-SN); [2024] SGCA(I) 10 at [75]; [2024] SGCA 41 at [45]; [2008] SGHC 11; [2023] SGHC 86 at [38]; [2025] SGHC(I) 25 at [155], [158]; [2026] SGCA(I) 3 at [51]; [2025] SGHC(I) 26 at [7]; [2011] SGCA 41; [2020] SGHC(I) 17 at [56], [67]; [2020] SGHC(I) 23 at [203], [206]; PYP23 p10 Q17 (most basic notions of morality and justice). Conflict: ARB-SN cites CZD v CZE at [42], [59] for procedural fraud; the statement is at [38].*
 
 ### drp-m-0-166 — Due process ground (Art V(1)(b)): what succeeds and fails
 *Keywords: Art V(1)(b), due process, unable to present case, s 31(2)(c), natural justice examples, Front Row v Daimler, AKN v ALC, L W Infrastructure, BZW v BZV, chain of reasoning, misunderstood case, failed arguments, disguised appeal*
@@ -1967,9 +2052,9 @@ Other States are broader, e.g. India's "patent illegality" and the Philippines o
 ### drp-m-1-1 — Mediation compared with negotiation, arbitration and litigation
 *Keywords: mediation v negotiation, mediation v arbitration, mediation v litigation, decision-maker, interest-based, rights-based, consensual, adversarial, confidential, public forum, binding settlement agreement, binding award, binding judgment, costs, duration, future relationship, past events*
 
-**End point:** In negotiation and mediation the parties decide. The process is interest-based, consensual, problem-solving and confidential, relatively inexpensive and short. It focuses on a solution and a possible future relationship, and ends, if at all, in a binding settlement agreement. In arbitration and litigation a neutral arbitrator or judge decides. The process is rights-based and adversarial, more expensive and longer, and looks at legal rights and past events. Arbitration is confidential and ends in a binding award; litigation is public and ends in a binding judgment.
+**End point:** In negotiation and mediation the parties decide. The process is interest-based, consensual, problem-solving and confidential, relatively inexpensive and short. It focuses on a solution and a possible future relationship. The MED-1 table lists "Binding Settlement Agreement" only under mediation, not under negotiation, so a limb saying negotiation ends in a binding settlement agreement should be treated as wrong by the deck (in law a negotiated agreement can still be a binding contract, 1-39). In arbitration and litigation a neutral arbitrator or judge decides. The process is rights-based and adversarial, more expensive and longer, and looks at legal rights and past events. Arbitration is confidential and ends in a binding award; litigation is public and ends in a binding judgment.
 
-*Source note: MED-1 p4; SampleQs p60 Q2 (key p122: D, mediation focuses on solutions and possible future relationship); PYP21-MED Q1.9(a)*
+*Source note: MED-1 p4 (comparison table); SampleQs p60 Q2 (key p122: D, mediation focuses on solutions and possible future relationship); PYP21-MED Q1.9(a)*
 
 ### drp-m-1-2 — What mediation is; possible outcomes
 *Keywords: what is mediation, consensual, party-initiated, neutral independent mediator, parties decide outcome, confidential, without prejudice, voluntary, outcomes, full settlement, partial settlement, no settlement, narrowing of issues*
@@ -2084,12 +2169,20 @@ Its Mediation Procedure Rules cover any civil case of any amount, with no geogra
 *Keywords: court mediation, State Courts, Court Dispute Resolution Cluster, CDRC, Court ADR modalities, Family Justice Courts, Supreme Court, court-directed mediation, Mediation Act does not apply*
 
 **End point:** The courts run their own mediation:
-- the State Courts, through the Court Dispute Resolution Cluster (CDRC), which oversees Court ADR modalities;
+- the State Courts, through the Court Dispute Resolution Cluster (CDRC), which oversees Court ADR modalities (the detailed Court ADR provisions are in StCPD 38 and 42–44, StCPD 34(7));
 - the Family Justice Courts;
-- the Supreme Court.
+- the Supreme Court;
+- the Syariah Court (listed under "Singapore Courts" in the MED-1 slide 6 landscape graphic, though not in the slide 7 text list).
 Court-conducted or court-directed mediation is generally outside the Mediation Act (MA s 6(2)(b)). In the State Courts, a presumption of ADR applies to all civil claims (1-24).
 
-*Source note: MED-1 p7; StCPD paras 34(5)–(7), 35(6) (CDRC oversees Court ADR modalities); MA s 6(2)(b)*
+> **Singapore's Mediation Landscape (MED-1 slide 6, four tiers)**
+> - Singapore Courts: State Courts, Supreme Court, Syariah Court, Family Justice Courts.
+> - Mediation Standards / Academy: SIMI, SIDRA.
+> - Commercial Dispute Resolution Centres: SMC, SIMC, the Law Society of Singapore.
+> - Other Industry Dispute Resolution Organisations: CASE, Community Mediation Centre (CMC), FIDReC.
+> - Note: MED-2 treats the CMC as its own institution and the Law Society Mediation Scheme as a scheme; if a question asks how slide 6 "classes" a body, use the grouping above.
+
+*Source note: MED-1 p6 (graphic; read from the rendered slide), p7; StCPD paras 34(5)–(7), 35(6) (CDRC oversees Court ADR modalities; 34(7): Court ADR matters are provided for in PDs 38, 42 to 44; MED-3 p45); MA s 6(2)(b)*
 
 ### drp-m-1-12 — Industry schemes administered by SMC
 *Keywords: industry mediation schemes, Council for Estate Agencies Mediation Sub-Scheme, Lease Agreements for Retail Premises Act ADR Scheme, Code of Conduct for Leasing of Retail Premises, Healthcare Mediation Scheme, MOH Holdings, SMC-Singapore Medical Council Mediation Scheme, Complaints Committee, SSG Private Education Institution Mediation-Arbitration Scheme, Committee for Private Education, CPE, SkillsFuture Singapore, IPOS Revised Enhanced Mediation Promotion Scheme, $8,000, $12,000, foreign IP rights, Singapore Infrastructure Dispute-Management Protocol, Dispute Board*
@@ -2225,11 +2318,12 @@ Private organisations also provide mediation services.
 > **ROC 2021 O 5 r 3**
 > - (1) The Court may order the parties to attempt to resolve the dispute by amicable resolution.
 > - (2) In deciding, it must have regard to the Ideals and all relevant circumstances, including any refusal to attempt amicable resolution.
+>   - The Ideals (O 3 r 1(2)): (a) fair access to justice; (b) expeditious proceedings; (c) cost-effective work proportionate to the nature and importance of the action, its complexity and the difficulty or novelty of the issues, and the amount or value of the claim; (d) efficient use of court resources; (e) fair and practical results suited to the parties' needs. The Court must seek to achieve them in all orders (r 1(3)); all parties must help achieve them (r 1(4)).
 > - (3) If a party says it does not wish to attempt amicable resolution, the Court may order it to submit a sealed document giving its reasons.
 > - (4) The sealed document is opened only after the merits are determined, and may be referred to on costs.
 > - (5) The Court may suggest solutions for amicable resolution at any time.
 
-*Source note: ROC O 5 r 3; MED-3 p15; SCPD para 54(3)–(4)*
+*Source note: ROC O 5 r 3, O 3 r 1(2)–(4); MED-3 p15; SCPD para 54(3)–(4)*
 
 ### drp-m-1-22 — Costs consequences (O 21 rr 2(2)(a), 4(c))
 *Keywords: costs, ROC O 21 r 2(2)(a), efforts at amicable resolution, O 21 r 4(c), adverse costs order against successful party, duty to consider amicable resolution, disallow or reduce costs, unreasonable refusal*
@@ -2255,7 +2349,14 @@ Private organisations also provide mediation services.
 > - (2) If all agree, the Court may give directions, including adjourning proceedings.
 > - (3)–(4) A sealed document under O 5 r 3(3) is filed within 7 days as an "ADR Sealed Document", unseen until costs.
 
-*Source note: SCPD paras 53–54 (last updated 15 Jul 2026); MED-3 p38–39, p43. Conflict: NIC-MED and CEL cite "Supreme Court Practice Directions 35B" and "Appendix I" (pre-2021 PDs); the current provisions are SCPD 53 and Appendix D, as MED-3 says.*
+> **SCPD Appendix D: Guidelines for advising clients about ADR (summary)**
+> - **Alternatives (1):** mediation, neutral evaluation, expert determination, conciliation.
+> - **Choosing (2):** consider what the client wants to achieve, advise which route is quickest, most economic and most likely to achieve it, then seek the other side's consent. Neutral evaluation (binding or not) where specialised legal or technical expertise is needed; expert determination where the dispute turns on conflicting experts; conciliation for a broken commercial or personal relationship, notably workplace disputes; mediation for all disputes, provided the disputants are willing. The advocate's duty is to explain mediation's advantages, its process, and what it can achieve beyond court remedies.
+> - **Mediation (3):** the client is an active partner, shapes the outcome and has the final say. Ideal cases: ongoing commercial relationships; small construction claims; neighbour disputes; partnership dissolutions; liquidators with limited assets; clinical negligence (the victim is heard and the doctor can apologise); most employment and discrimination cases; any claim where costs would equal or exceed its value. Fraud can be mediated. A test case or precedent-setting case may be unsuitable, but mediation can handle class actions. "A matter of principle" and revenge cases are better suited to mediation than litigation.
+> - **Timing (4):** there is no "right" time; the wrong time is when costs have become disproportionate to the claim. Know both sides' cases well enough to advise; agree in advance what documents, quantum details or expert evidence are needed, seeking court directions if needed. Mediation can be at any time, need not finish in a day, and may need more than one attempt; even without settlement, issues are narrowed.
+> - **Comparison table:** litigation is public, protracted, formalistic, limited to pleaded issues, expensive, loser often pays, and destroys future relationships; mediation is private and confidential, early, informal, open to any issue, lets emotions be expressed, each party controls its spend and pays its own costs, and often improves future relationships.
+
+*Source note: SCPD paras 53–54 (last updated 15 Jul 2026); SCPD Appendix D (4 pp, OpenDoc mirror of the Supreme Court PDF, read 18 Nov 2026); MED-3 p38–39, p43. Conflict: NIC-MED and CEL cite "Supreme Court Practice Directions 35B" and "Appendix I" (pre-2021 PDs); the current provisions are SCPD 53 and Appendix D, as MED-3 says.*
 
 ### drp-m-1-24 — State Courts PD 34: presumption of ADR
 *Keywords: State Courts Practice Directions 2021, PD 34, presumption of Alternative Dispute Resolution, all civil claims, Court ADR modalities, case conference, Form 2 Appendix A1, opted out for unsatisfactory reasons, costs, O 21 r 2(2)(a), CDRC*
@@ -2713,6 +2814,7 @@ These rest on PCR r 6 and Mediation Act ss 9–11.
 *Keywords: PCR r 8A, conduct of alternative dispute resolution process, respectful of ADR process and mediator, courteous, good faith, must not knowingly mislead mediator, must not knowingly assist or permit client to mislead, wheelchair neck brace exaggeration*
 
 **End point:** PCR r 8A governs conduct in any ADR process (box). A client planning to exaggerate an injury at mediation, e.g. arriving in a wheelchair, must be advised against it, and the lawyer cannot assist (PYP21-MED Q1.7).
+- **MED-5 slide 8 rule map (which PCR rule?):** r 5 competence in advising; r 6 protecting client confidentiality; r 7 courtesy and fairness (to other lawyers: r 7(2) "must treat other legal practitioners with courtesy and fairness"; r 7(1) principles of respect, good faith and dignified, courteous dealing; r 7(3) no direct contact with a represented party without consent or another listed exception); r 8 honesty, honourability and good faith in conducting the negotiation; r 22 avoiding conflicts of interest. r 8A (box) governs conduct in the ADR process itself.
 
 > **PCR r 8A**
 > - (1) Always be respectful of the ADR process and of the adjudicator, mediator or other person conducting it.
@@ -2721,7 +2823,7 @@ These rest on PCR r 6 and Mediation Act ss 9–11.
 > - (4) Do not knowingly mislead, or attempt to mislead, the adjudicator, mediator or other person conducting the process.
 > - (5) Do not knowingly assist or permit the client to mislead them.
 
-*Source note: PCR r 8A (S 69/2017 wef 1 Mar 2017); MED-3 p37; MED-5 p17; PYP21-MED Q1.7*
+*Source note: PCR rr 7, 8A (S 69/2017 wef 1 Mar 2017); MED-3 p37; MED-5 p8 (rule map), p17; PYP21-MED Q1.7*
 
 ### drp-m-1-59 — Honesty in negotiation: no underhanded tactics
 *Keywords: honesty, good faith, PCR r 8, negotiation strategy, underhanded tactics, sharp tactics, false information, mislead other party, constructive and collaborative, unrepresented party, PCR r 8(2), no legal advice, unfair advantage, r 8(3)*
@@ -2740,7 +2842,7 @@ The advocate may not resort to "sharp negotiation tactics" (SampleQs Med Q10). P
 **End point:** The advocate owes the client the duties set out below.
 
 > **Duties to the client (MED-5 p19–20; PCR)**
-> - give competent legal advice and representation, in the client's best interests;
+> - give competent legal advice and representation, in the client's best interests (MED-3 p37: PCR rr 5(2)(j), 17(1); r 17(1) principle: act in the client's best interests and charge fairly for work done);
 > - use all legal means to advance the client's interests, as far as reasonably expected (r 5(2)(j));
 > - have, and apply appropriately, the knowledge, skills and attributes the matter needs (r 5(2)(d));
 > - secure the best outcome in negotiation or litigation, and keep costs within the client's budget;
@@ -2748,7 +2850,7 @@ The advocate may not resort to "sharp negotiation tactics" (SampleQs Med Q10). P
 > - explain clearly any proposal of amicable resolution or offer by another party, in a language the client understands (r 17(2)(c)–(d));
 > - in an appropriate case, evaluate with the client whether pursuing the matter justifies the expense and risk, and evaluate the use of ADR (r 17(2)(e)).
 
-*Source note: MED-5 p19–20; MED-3 p37; PCR rr 5(2), 17(2)(c)–(e) (r 17(2)(c)–(d) S 240/2022 wef 1 Apr 2022); PYP23 p49 Q56, p50 Q57. Conflict: CEL says some notes wrongly cite r 5(2)(f) for "all legal means"; the rule is r 5(2)(j), as MED-5 says.*
+*Source note: MED-5 p19–20; MED-3 p37; PCR rr 5(2), 17(1), 17(2)(c)–(e) (r 17(2)(c)–(d) S 240/2022 wef 1 Apr 2022); PYP23 p49 Q56, p50 Q57. Conflict: CEL says some notes wrongly cite r 5(2)(f) for "all legal means"; the rule is r 5(2)(j), as MED-5 says.*
 
 ### drp-m-1-61 — Family proceedings (PCR r 15A)
 *Keywords: PCR r 15A, family proceedings, inform client of all dispute resolution options, mediation, counselling, from the time proceedings are contemplated, advise amicable resolution, constructive and reasonable, child welfare and best interests take precedence, below 21 years*
@@ -2773,6 +2875,6 @@ The advocate may not resort to "sharp negotiation tactics" (SampleQs Med Q10). P
 - identify objective criteria and a realistic settlement range;
 - settle the client's authority and who will attend (1-56);
 - prepare the opening statement with the client (1-6).
-The 2026 Course Materials have no further process detail. The CS1 live lecture covered pre-mediation preparation (MED-Plan).
+The 2026 Course Materials have no further process detail. The CS1 live lecture covered pre-mediation preparation (MED-Plan); no recording or handout was available, so for stage-by-stage process questions rely on the SCPD Appendix D guidance (1-23): know both sides' case well enough to advise, agree beforehand what documents, quantum details and expert evidence the mediator needs, and remember mediation can happen at any time and need not finish in a day.
 
 *Source note: MED-1 p8; MED-5 p4–5, p10, p14–15; MED-4 p3–18; MED-Plan p1; PYP23 p31 Q38 (preparing client: considering options that meet only the client's interests is the untrue statement); PYP21-MED Q1.9(c)–(f)*

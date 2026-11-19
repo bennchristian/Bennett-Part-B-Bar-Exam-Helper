@@ -102,7 +102,7 @@ you've answered.
 
 ### Bennett's answer and marks
 
-TODO: paste the answer here; mark against the guide above; record the score and the gaps.
+*(Bennett: paste the answer here; mark it against the guide above; record the score and the gaps.)*
 
 ---
 
@@ -317,4 +317,64 @@ principles and/or case law.
 
 ### Bennett's answers and marks
 
-TODO: paste each answer here; mark against `model-answers.md`; record the score and the gaps.
+*(Bennett: paste each answer here; mark it against `model-answers.md`; record the score and the gaps.)*
+
+---
+
+## Drill 6 — Lim & Partners: the missing email and the thank-you gift (set 18 Nov 2026)
+
+Set after the 18 Nov audit: Sub-points II.24 (gifts, r 25) and III.9 (discovery, suppressing
+evidence, reporting crime) had no question built around their Pre-writes (0-43, 0-47). Part (a)
+is the first question in the pack on discovery; Part (b) tests r 25 on a lifetime gift to a
+firm employee, a different limb from Drill 1's will to the lawyer's daughter. Own question,
+tier 3 (QB-42).
+
+### Drill 6 question (30 marks, 36 minutes)
+
+Lim & Partners is a 15-lawyer firm. Grace is an equity partner of 20 years' standing; Ravi is
+a litigation associate of 4 years' standing who works under her.
+
+**Part A.** Ravi acts for Orion Pte Ltd, which is suing its supplier, Kestrel Pte Ltd, for
+delivering machine parts that did not meet the agreed specification. The court orders both
+sides to produce all documents relevant to whether the specification was varied. Ravi emails
+the order and the relevant Rules of Court to Orion's general manager, Mr Tan, and asks him to
+"send whatever you have". Mr Tan sends 40 emails and says: "That's everything." Several of
+them refer to "my email of 3 March agreeing the revised spec", but no email of 3 March is
+among them. Ravi does not ask about it.
+
+A week before the list of documents is due, Mr Tan calls Ravi. He admits that on 3 March he
+emailed Kestrel agreeing to a looser specification, and that he deleted the chain from his
+inbox because "it kills our case". He says: "Leave it out of the list. Kestrel's director
+left the company last year, so they can't prove it exists." Ravi files the list without the
+3 March email.
+
+While going through Orion's documents, Ravi also found emails suggesting that Kestrel's
+director paid Orion's procurement officer a bribe to win the original contract. Mr Tan asks
+Ravi whether he now has to report this to the police.
+
+**(a) Discuss and evaluate Ravi's conduct in Part A, and advise him on what he must do now,
+including on the bribery emails. (15 marks)**
+
+**Part B.** Grace has acted for Mrs Chua, 76, since Mrs Chua's husband died two years ago,
+including on the grant of probate and the administration of his estate. Mrs Chua's assets are
+about $600,000. Siti, Grace's legal secretary, has helped Mrs Chua with forms and
+appointments throughout. Mrs Chua now wants to give Siti her late husband's Rolex, worth about
+$45,000, and $20,000 in cash "as a thank-you, while I'm still around to see her enjoy it", and
+asks Grace to prepare a deed of gift. Grace replies: "That's very generous, and Siti deserves
+it. No need to involve another lawyer for something this simple." Grace prepares the deed and
+Mrs Chua signs it at the firm, with Siti as one of the witnesses.
+
+At Chinese New Year Mrs Chua also sends Grace a hamper worth about $150.
+
+**(b) Discuss and evaluate Grace's conduct in Part B, and advise whether she may keep the
+hamper. (15 marks)**
+
+Please give detailed reasons, with reference to relevant rules, practice directions,
+principles and/or case law.
+
+Marker's guide and model answer: `model-answers.md`, Drill 6. Don't open it until you've
+answered.
+
+### Bennett's Drill 6 answer and marks
+
+*(Bennett: paste the answer here; mark it against the guide; record the score and the gaps.)*

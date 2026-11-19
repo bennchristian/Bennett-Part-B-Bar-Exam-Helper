@@ -19,8 +19,9 @@ known past-paper hits are written into the Sub-point instead. *Covered by* = the
 in `prewrites.md` or Template ID(s) in `templates.md`.
 
 **Status (10 Nov 2026):** 88 Sub-points (Criminal 45, Family 43); every one has a Pre-write or
-Template (86 blocks: 84 Pre-writes, 2 Templates). Non-core family items (blue font in FL-SYL) are covered more briefly and
-labelled "(non-core)". Topics follow the Learning Plans' order.
+Template (86 blocks: 84 Pre-writes, 2 Templates). Non-core family items (blue font in FL-SYL) are labelled "(non-core)"; on
+18 Nov 2026 their Pre-writes (1-18, 1-20 to 1-23, 1-26, 1-28 to 1-30, 1-35, 1-36) were brought up to core depth, with case
+ratios and pinpoints from the judgments (alias eLit). On 18 Nov 2026 the gaps in `audits/pcp-w-audit.md` were filled and every open verification point resolved. Topics follow the Learning Plans' order.
 
 ## Source key
 
@@ -85,6 +86,8 @@ section the pack cites from these texts was compared with the SSO current versio
 | CPC-Text | `Seniors Notes/Nic_s Part B Package/4. Nic Exam Go Pack/2a. PCP 1/Crim Liti /2. Crim Liti Statutes/Criminal Procedure Code 2010.pdf` — SSO informal consolidation, version in force from 26 Jun 2023. It predates the 2025 amendments (no ss 221A–221D), so it is used only for sections the course materials do not show as amended |
 | SSO-CPC | Criminal Procedure Code 2010, current version on Singapore Statutes Online (sso.agc.gov.sg/Act/CPC2010), read 10 Nov 2026 |
 | SSO-POA | Probation of Offenders Act 1951, current version on SSO (sso.agc.gov.sg/Act/POA1951), read 10 Nov 2026 |
+| eLit | Judgment text on eLitigation (`elitigation.sg/gd/s/<year>_<court>_<no>`), read 18 Nov 2026 — outside `Bar Exam/`; primary authority, used for the ratios and paragraph pinpoints of cases FL-SYL names but the course materials do not summarise. Three District/Family Court cases are not publicly available and are cited only as the sources allow: *BKJ v BKK* [2013] SGDC 261 (through its quotation in *APE v APF* [2015] SGHC 17 at [21]); *TIX v TIY* [2015] SGFC 146 and *JAC v JAD* [2014] SGDC 379 (FL-SYL headnote and seniors' notes only, no pinpoint) |
+| PD24 | Family Justice Courts Practice Directions 2024, `epd2024-familyjusticecourts.judiciary.gov.sg`, read 18 Nov 2026 — cited by paragraph |
 | SSO-ICAA | International Child Abduction Act 2010 and its Schedule (Hague Convention), current version on SSO (sso.agc.gov.sg/Act/ICAA2010), read 10 Nov 2026 |
 | PCR-Text | `Seniors Notes/Nic_s Part B Package/4. Nic Exam Go Pack/2a. PCP 1/Crim Liti /2. Crim Liti Statutes/Legal Profession (Professional Conduct) Rules 2015.pdf` — SSO informal consolidation, version in force from 4 May 2022 |
 | PC-Text | `…/2. Crim Liti Statutes/Penal Code 1871 (Select Provisions).pdf` — SSO, current as at 3 Dec 2023 |
@@ -209,7 +212,7 @@ WC-Text); where no library source supports a point, the pack leaves it out rathe
 | Key | Sub-point | Tested | Covered by |
 |---|---|---|---|
 | 1.II.1 | Mandatory Co-Parenting Programme (s 94A WC) — FL-SYL [2]–[3] · PYP 2023, 2025, SQ | — | pcp-w-1-4 |
-| 1.II.2 | Divorce and nullity jurisdiction: domicile (s 3(5) WC deemed; origin; choice) or 3 years' habitual residence (s 93 WC) — FL-SYL [8]; FL3 s8–11 · PYP 2023, 2025, SQ | — | pcp-w-1-5 |
+| 1.II.2 | Divorce and nullity jurisdiction: domicile (s 3(5) WC deemed; origin; choice) or 3 years' habitual residence (s 93 WC); forum non conveniens in cross-border family disputes (*BDA v BDB*; *AZS v AZR*; *TDX v TDY*) — FL-SYL [8]; FL-LP competency 4; FL3 s8–11 · PYP 2023, 2025, SQ | — | pcp-w-1-5 |
 | 1.II.3 | Divorce procedure under FJ(G)R 2024: originating application (Form 2), contested and uncontested tracks, ancillary matters, disclosure — FL9 s7–11; FL-CS1 s4, s15 | — | pcp-w-1-6 |
 | 1.II.4 | Relief without divorce: GIA (ss 3, 5), maintenance during marriage, property disputes (s 59 WC), judicial separation (s 101 WC) — FL4 s3; FL6 s43; FL-CS1 s7, s17 | — | pcp-w-1-7 |
 | 1.II.5 | Drafting the divorce application: brief particulars / Statement of Particulars — PYP21-FAM, PYP22-FAM | — | pcp-w-1-42 |
@@ -242,7 +245,7 @@ WC-Text); where no library source supports a point, the pack leaves it out rathe
 | 1.V.2 | Custody: joint, sole, no order (s 126 WC; *CX v CY*; *ZO v ZP*; *APE v APF* non-core) — FL-SYL [20]–[22], [27]; FL4 s5–6 · PYP 2023, 2025 | — | pcp-w-1-18 |
 | 1.V.3 | Care and control: sole, shared, split; maternal bond, continuity, siblings (*Soon Peck Wah*; *Wong Phila Mae*; *AQL v AQM*; *AFK v AFM*) — FL-SYL [23]–[29]; FL4 s7–8, s19 · PYP 2021, 2023, 2025 | — | pcp-w-1-19 |
 | 1.V.4 | Access: types, supervised access, conditions (*BG v BF*; *APE v APF*; non-core *Tay Ah Hoe*, *BHL v BHM*, *BKJ v BKK*, *TIX v TIY*) — FL-SYL [30]–[34]; FL4 s9–13 · PYP 2023 | — | pcp-w-1-20 |
-| 1.V.5 | Evidence in children's cases: welfare reports (s 130 WC), judicial interviews (*ZO v ZP*; *AZB v AZC*), psychological assessment (non-core *JAC v JAD*) — FL-SYL [35]–[40]; FL4 s21 | — | pcp-w-1-21 |
+| 1.V.5 | Evidence in children's cases: welfare reports (s 130 WC), judicial interviews (*ZO v ZP*; *AZB v AZC*), psychological assessment (non-core *JAC v JAD*; P 10 r 4 FJ(G)R 2024); FJC PD 2024 on children's issues (non-core) — FL-SYL [35]–[40]; FL4 s21 | — | pcp-w-1-21 |
 | 1.V.6 | Taking a child out of Singapore and relocation (s 126(3)–(5), s 131 WC; *BNS v BNT*) (non-core) — FL-SYL [81]–[83]; FL4 s14 · PYP 2021 | — | pcp-w-1-22 |
 | 1.V.7 | International child abduction (ICAA; *BDU v BDT*) (non-core) — FL-SYL [84]; FL4 s15 | — | pcp-w-1-23 |
 
@@ -260,11 +263,11 @@ WC-Text); where no library source supports a point, the pack leaves it out rathe
 | Key | Sub-point | Tested | Covered by |
 |---|---|---|---|
 | 1.VII.1 | Power to divide, just and equitable, marriage as an equal partnership (s 112(1) WC; *NK v NL*; *Lock Yeng Fun*; *Lim Choon Lai*); after a foreign divorce (Chapter 4A; *UFN v UFM* non-core) — FL-SYL [55], [85]; FL6 s3–8 · PYP 2021, 2022, 2023, 2025 | — | pcp-w-1-28 |
-| 1.VII.2 | Identifying matrimonial assets: s 112(10), pre-marital assets used by the family or substantially improved, the four categories (*USB v USA*); substantial improvement (non-core) — FL-SYL [57]–[58], [63]–[64]; FL6 s9, s12–15 · PYP 2021, 2022, 2025 | — | pcp-w-1-29 |
+| 1.VII.2 | Identifying matrimonial assets: s 112(10), pre-marital assets used by the family or substantially improved, the four categories (*USB v USA*); substantial improvement (non-core: *Chen Siew Hwee*; *Koh Kim Lan*; *BJS v BJT*); excluding an asset acquired during the marriage (non-core: *Ong Boon Huat*) — FL-SYL [57]–[58], [63]–[64]; FL6 s9, s12–15 · PYP 2021, 2022, 2025 | — | pcp-w-1-29 |
 | 1.VII.3 | Gifts, inheritance, inter-spousal gifts and windfalls (non-core) (*Chen Siew Hwee*; *CLC v CLB*; *Wan Lai Cheng*; *AYM v AYL*; *BOI v BOJ*) — FL-SYL [67]–[72]; FL6 s11, s14 · PYP 2021, 2022 | — | pcp-w-1-30 |
 | 1.VII.4 | Dates for identifying and valuing the pool (*ARY v ARX*; *BPC v BPB*) — FL-SYL [59]–[60]; FL6 s10 | — | pcp-w-1-31 |
 | 1.VII.5 | Global assessment and classification methodologies (*NK v NL*; *UTQ v UTR*) — FL-SYL [61]–[62]; FL6 s18 | — | pcp-w-1-32 |
-| 1.VII.6 | ANJ structured approach and the s 112(2) factors — FL-SYL [56], [73]; FL6 s16, s19–20 · PYP 2023, 2025 | — | pcp-w-1-33 |
+| 1.VII.6 | ANJ structured approach and the s 112(2) factors; applying it (*UYQ v UYP*; *UBM v UBN*; non-core *Twiss v Twiss*) — FL-SYL [56], [73], [75]–[77]; FL6 s16, s19–20 · PYP 2023, 2025 | — | pcp-w-1-33 |
 | 1.VII.7 | Long single-income marriages and trends in proportions (*TNL v TNK*; *BOR v BOS*; *Yeo Chong Lin*; *UYP v UYQ*; *ATE v ATD*; *DBA v DBB*) — FL-SYL [74]–[78]; FL6 s21–26 · PYP 2022, 2025 | — | pcp-w-1-34 |
 | 1.VII.8 | Pre- and post-nuptial agreements and consent orders (*TQ v TR*) (non-core) — FL-SYL [65]–[66]; FL6 s36–38 | — | pcp-w-1-35 |
 | 1.VII.9 | Third-party interests in alleged matrimonial assets (*UDA v UDB*) (non-core) — FL-SYL [79]; FL6 s32–35 · PYP 2022 | — | pcp-w-1-36 |

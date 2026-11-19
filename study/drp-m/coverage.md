@@ -31,6 +31,8 @@ There are no `TODO` or `none` rows.
 ARB and MED written papers) test 63 of 168 Arbitration Sub-points and 43 of 62 Mediation Advocacy
 Sub-points. The 124 never tested are the `—` rows; every one has a Drill in `model-questions.md`.
 
+**Audit fill (18 Nov 2026):** the 18 Nov audit (`audits/drp-m-audit.md`) items were checked against ARB-SN, the CS handouts, the MED decks and the primary texts and filled in the existing end-point blocks (no new Sub-points were needed): Arbitration core 0-5, 0-6, 0-10, 0-11, 0-28, 0-43 (worked CS1 Q2 answer), 0-49, 0-51, 0-52, 0-122, 0-131, 0-144, 0-151, 0-159, 0-164, 0-165; Arbitration non-core 0-1, 0-3, 0-5, 0-19 to 0-23 (soft law article by article), 0-62 (ICC), 0-114, 0-141, 0-146; Mediation 1-1, 1-11, 1-21, 1-23 (SCPD Appendix D), 1-58, 1-60, 1-62. Drills 140–170 in `model-questions.md` give an MCQ to every Sub-point that previously had only a 2021 written question.
+
 | Subject | Topics | Rows | Covered by an ID | none | TODO |
 |---|---|---|---|---|---|
 | 0 Arbitration | 19 | 168 | 168 | 0 | 0 |
@@ -120,7 +122,7 @@ Sub-points. The 124 never tested are the `—` rows; every one has a Drill in `m
 | 0.VII.1 | Who may apply and when (s 6(1) IAA) | — | drp-m-0-46 |
 | 0.VII.2 | Mandatory stay unless null and void, inoperative or incapable (s 6(2)) | Q2023-27, Q2023-7 | drp-m-0-47 |
 | 0.VII.3 | Prima facie standard: the Tomolugen test | Q2023-15 | drp-m-0-48 |
-| 0.VII.4 | Is there a "dispute"? A mere denial is enough | — | drp-m-0-49 |
+| 0.VII.4 | Is there a "dispute"? Denying liability or quantum is enough | — | drp-m-0-49 |
 | 0.VII.5 | Terms, interim orders and security (ss 6(2)–(3), 7) | Q2023-7 | drp-m-0-50 |
 | 0.VII.6 | Arbitration may run meanwhile; discontinuance after 2 years | — | drp-m-0-51 |
 

@@ -2,7 +2,7 @@
 
 Paper `drp-m`, DRP Paper 2 (MCQ), Wed 2 Dec 2026, 2:30–4:30pm. Subjects: 0 Arbitration · 1 Mediation Advocacy. Written 11 Nov 2026 as Markdown only, on Bennett's instruction of that day; no PDF is built until Phase 2 (`python3 tools/build_pack.py drp-m --questions`).
 
-**How the file runs.** Four parts: Arbitration past-paper questions, Mediation Advocacy past-paper questions, then Arbitration Drills and Mediation Advocacy Drills. Within each part the order is Topic → Sub-point, as in `coverage.md`. Each past-paper question sits under the Sub-point it mainly tests; any other Sub-point it tests carries a "See …" line pointing to it. The Drills cover every Sub-point no past paper has tested, so every Topic has at least one answered question, plus 12 extra drills on the seven elements of negotiation (MED-4). Each Topic opens with a line listing which Sub-points were tested and which drills cover the rest.
+**How the file runs.** Four parts: Arbitration past-paper questions, Mediation Advocacy past-paper questions, then Arbitration Drills and Mediation Advocacy Drills. Within each part the order is Topic → Sub-point, as in `coverage.md`. Each past-paper question sits under the Sub-point it mainly tests; any other Sub-point it tests carries a "See …" line pointing to it. The Drills cover every Sub-point no past paper has tested, so every Topic has at least one answered question, plus 12 extra drills on the seven elements of negotiation (MED-4). Drills 140–170 (18 Nov 2026, after the pack audit) add an MCQ for every Sub-point that had only a 2021 written question, and test the limbs added to the Cheatsheets that day (ONGC Petri finality, public-policy routes, PCR rule map, the Ideals, SCPD Appendix D). Each Topic opens with a line listing which Sub-points were tested and which drills cover the rest.
 
 **How to read a question.** The tag line gives the question ID · the Sub-point Keys (`coverage.md`) · the source · the end-point block(s) in `cheatsheets.md` that hold the rule. The answer follows the options: why it is right, why each other option is wrong, then the cite. Cites use the source key in `outline.md`. Cover the answer, answer it, then check; log every miss in `weak-spots.md` under its Key.
 
@@ -23,9 +23,9 @@ Self-study only: never use this file with a live quiz, the Mock Exam or another 
 
 | Subject | Past-paper questions | Drills | Total |
 |---|---|---|---|
-| 0 Arbitration | 36 (2023) + 10 (SampleQs) + 5 (2021 parts) = 51 | 107 | 158 |
-| 1 Mediation Advocacy | 24 (2023) + 10 (SampleQs) + 20 (2021 parts) = 54 | 32 | 86 |
-| **Total** | **105** | **139** | **244** |
+| 0 Arbitration | 36 (2023) + 10 (SampleQs) + 5 (2021 parts) = 51 | 120 | 171 |
+| 1 Mediation Advocacy | 24 (2023) + 10 (SampleQs) + 20 (2021 parts) = 54 | 50 | 104 |
+| **Total** | **105** | **170** | **275** |
 
 ## 0 · Arbitration — past-paper questions
 
@@ -1791,6 +1791,20 @@ D. Incapacity can only be raised after the award, never before or during the arb
 
 Drills 6–7 cover 0.II.2 and 0.II.3.
 
+### 0.II.1 — When the AA applies; opting into or out of the IAA
+
+**Qdrill-140** · `0.II.1` · drill-140 · `drp-m-0-13`
+
+A Singapore company and another Singapore company, both with their only places of business in Singapore, sign a contract to be performed in Singapore with a SIAC clause seated in Singapore. Which statement is CORRECT?
+
+A. The IAA applies because SIAC is an international institution.
+B. The AA applies, unless the parties agree in writing that the IAA applies.
+C. The IAA applies because the SIAC Rules were adopted, which excludes the AA.
+D. Both the IAA and the AA apply, the AA filling gaps.
+
+**Answer: B.** Nothing makes this arbitration "international" under IAA s 5(2), so it is domestic and the AA applies (AA s 3), but the parties may opt into the IAA by written agreement (s 5(1)). A, C: the institution and its rules do not make an arbitration international, and adopting rules does not change the governing Act (s 15(2)). D: where IAA Part 2 applies the AA does not (s 5(4)).
+*Cite: AA s 3; IAA ss 5(1)–(2), (4), 15(2)*
+
 ### 0.II.2 — Stay under the AA is discretionary (s 6(2) AA; CSY v CSZ)
 
 **Qdrill-6** · `0.II.2` · drill-6 · `drp-m-0-14`
@@ -2027,6 +2041,24 @@ D. Consolidation is governed by Model Law Art 10.
 
 Drills 21–22 cover 0.V.2 and 0.V.5.
 
+### 0.V.1 — Arbitrable unless contrary to public policy (s 11 IAA)
+
+**Qdrill-141** · `0.V.1` · drill-141 · `drp-m-0-33`
+
+Which of the following statements on arbitrability under the IAA are accurate?
+I. Any dispute the parties agreed to submit to arbitration may be arbitrated unless it is contrary to public policy to do so.
+II. A dispute is non-arbitrable whenever a statute confers jurisdiction on a court to hear it.
+III. Subjective arbitrability asks whether the parties agreed to arbitrate the dispute; objective arbitrability asks whether the law allows it.
+IV. Arbitrability can only be raised by the respondent before the tribunal, never by the court.
+
+A. I and III only
+B. I, II and III only
+C. II and IV only
+D. I, III and IV only
+
+**Answer: A.** I is IAA s 11(1). III is the two-part analysis in ARB-SN. II is wrong: a statute giving a court jurisdiction, without mentioning arbitration, does not of itself make a dispute non-arbitrable (s 11(2)). IV is wrong: the court may raise non-arbitrability itself (Art 34(2)(b)(i); s 31(4)(a)).
+*Cite: IAA s 11; ARB-SN p17–18 paras 52–56; MAL Art 34(2)(b)(i)*
+
 ### 0.V.2 — Scope of the clause: construed widely (Larsen; Premium Nafta)
 
 **Qdrill-21** · `0.V.2` · drill-21 · `drp-m-0-34`
@@ -2060,6 +2092,20 @@ D. I, II and III
 
 **Answer: A.** I is wrong: that the subject matter falls within a foreign court's exclusive jurisdiction does not necessarily make it non-arbitrable; disputes over rights in Mongolian immovable property were held arbitrable (*Medipas*). II is correct: illegality is arbitrable and the tribunal may decide it first (*DMF v DMG*). III is correct: after the award the court considers arbitrability and public policy under Art 34(2)(b) (*DMF* at [192]). B, C and D each include I.
 *Cite: Medipas v Erdenet Mining [2026] SGHC 97 at [75]; DMF v DMG [2025] SGHC(I) 12 at [192]*
+
+### 0.V.6 — Consequences of non-arbitrability
+
+**Qdrill-142** · `0.V.6` · drill-142 · `drp-m-0-38`
+
+A tribunal seated in Singapore issues an award on a dispute that Singapore law treats as non-arbitrable. Neither party raises the point in the setting-aside application, which is brought on other grounds. Which is CORRECT?
+
+A. The court cannot consider arbitrability because the applicant did not plead it.
+B. The court may set the award aside on its own initiative because the subject matter is not capable of settlement by arbitration under Singapore law.
+C. Arbitrability goes only to enforcement abroad, not to setting aside.
+D. The court must remit the award for the tribunal to reconsider arbitrability.
+
+**Answer: B.** Art 34(2)(b)(i) is a ground the court finds "whether or not" the applicant proves it; the same applies on enforcement (IAA s 31(4)(a); NYC Art V(2)(a)). A: wrong for that reason. C: it is also a setting-aside ground. D: remission is discretionary and on request (Art 34(4)); a non-arbitrable dispute cannot be cured by remission.
+*Cite: MAL Art 34(2)(b)(i), 34(4); IAA s 31(4)(a); ARB-SN p19 para 60*
 
 ### 0.VI Pathological clauses and drafting — drills
 
@@ -2205,6 +2251,20 @@ D. The distinction does not matter, because admissibility rulings are reviewable
 
 **Answer: B.** Jurisdiction is the tribunal's power to hear a case; admissibility is whether it is appropriate to hear it (*DRO* at [63]). *Lufthansa* at [63] found no jurisdiction, but the distinction was not argued; *DRO* called that view obiter ([59]) and held non-compliance generally goes to admissibility ([63]); *DSQ* agreed as a displaceable general proposition ([87]). The Court of Appeal is yet to decide (*DRO* at [68]). A: not decided. C: overstated. D: wrong; the distinction matters because admissibility rulings are not open to court review as jurisdictional ones are.
 *Cite: International Research v Lufthansa [2013] SGCA 55 at [63]; DRO v DRP [2025] SGHC 255 at [59], [63], [68]; DSQ v DSR [2026] SGHC 67 at [87]*
+
+### 0.VIII.6 — Waiver by failing to object (Art 4; SIAC r 64)
+
+**Qdrill-143** · `0.VIII.6` · drill-143 · `drp-m-0-57`
+
+The parties' SIAC clause requires three arbitrators. The SIAC Court appoints a sole arbitrator. The respondent knows this at once but takes part in the case management conference and files its defence, and objects only 4 months later. Which is the BEST answer?
+
+A. The objection is in time because composition is a mandatory provision that cannot be waived.
+B. The respondent is likely deemed to have waived its objection: it proceeded without objecting in writing within 15 days of knowing (SIAC r 64.1; Model Law Art 4).
+C. Waiver applies only to objections to the arbitrator's impartiality.
+D. Waiver requires an express written statement that the party waives its right.
+
+**Answer: B.** A party who knows of a non-compliance and proceeds without objecting without undue delay, or within the time limit, is deemed to waive it (Art 4); SIAC25 r 64.1 sets 15 days where the Rules give no other limit. A: an agreed number of arbitrators is not a non-derogable provision. C: waiver applies to any non-compliance with the agreement or a derogable provision. D: waiver is deemed from conduct.
+*Cite: MAL Art 4; SIAC25 r 64.1; ARB-SN p32 paras 111–112*
 
 ### 0.VIII.7 — Preliminary ruling or ruling with the merits; bifurcation
 
@@ -2405,6 +2465,24 @@ D. The only protection is the contractual exclusion in SIAC r 65.1; the IAA conf
 
 Drills 45–53 cover 0.XI.2, 0.XI.3, 0.XI.4, 0.XI.5, 0.XI.6, 0.XI.7, 0.XI.8, 0.XI.10 and 0.XI.11.
 
+### 0.XI.1 — Grounds for challenge (Art 12(2))
+
+**Qdrill-144** · `0.XI.1` · drill-144 · `drp-m-0-77`
+
+Under Model Law Art 12(2), which statements are accurate?
+I. An arbitrator may be challenged if circumstances give rise to justifiable doubts as to their impartiality or independence.
+II. An arbitrator may be challenged if they lack qualifications the parties agreed.
+III. A party may challenge an arbitrator it appointed for any reason, whenever learnt.
+IV. A party may challenge an arbitrator it took part in appointing only for reasons it became aware of after the appointment.
+
+A. I and II only
+B. I, II and III only
+C. I, II and IV only
+D. All of the above
+
+**Answer: C.** I and II are the only two grounds in Art 12(2). IV is the own-appointee limit in Art 12(2) (also SIAC25 r 26.2). III contradicts IV.
+*Cite: MAL Art 12(2); SIAC25 r 26; ARB-SN p37 paras 123–125*
+
 ### 0.XI.2 — Test: reasonable suspicion of bias
 
 **Qdrill-45** · `0.XI.2` · drill-45 · `drp-m-0-78`
@@ -2515,6 +2593,24 @@ D. I, II, III and IV
 **Answer: B.** I is Green 4.3.2, II is Green 4.3.1 and III is Green 4.4.2; Green List situations need no disclosure. C and D: IV is wrong; a close personal friendship with counsel is Orange List 3.2.6 and must be disclosed. A: leaves out III, which is also Green.
 *Cite: IBA-COI 2024 list (4) paras 4.3.1, 4.3.2, 4.4.2; list (3) para 3.2.6*
 
+### 0.XI.9 — Challenge procedure under the Model Law (Art 13)
+
+**Qdrill-145** · `0.XI.9` · drill-145 · `drp-m-0-85`
+
+The parties agreed no challenge procedure and adopted no institutional rules. Under Model Law Art 13, which statements are accurate?
+I. The challenger must send a written statement of reasons to the tribunal within 15 days of becoming aware of the constitution of the tribunal or of the circumstances.
+II. Unless the arbitrator withdraws or the other party agrees, the tribunal decides the challenge.
+III. If the challenge fails, the challenger may ask the court to decide within 30 days of notice of the decision, and the court's decision is subject to appeal.
+IV. While the court application is pending, the tribunal, including the challenged arbitrator, may continue and make an award.
+
+A. I and II only
+B. I, II and IV only
+C. II, III and IV only
+D. All of the above
+
+**Answer: B.** I is Art 13(2); II is Art 13(2); IV is Art 13(3). III is wrong only in its last words: the court's decision is "subject to no appeal" (Art 13(3)). In Singapore the application is by originating application to a Judge within 30 days (ROC O 48 r 2).
+*Cite: MAL Art 13; ROC O 48 r 2; ARB-SN p43 paras 141–142*
+
 ### 0.XI.10 — Challenge procedure under the SIAC Rules 2025
 
 **Qdrill-52** · `0.XI.10` · drill-52 · `drp-m-0-86`
@@ -2542,6 +2638,20 @@ D. If the mandate ends, the two remaining arbitrators choose the substitute, wha
 
 **Answer: B.** Where an arbitrator is de facto unable to act, or fails to act without undue delay, and does not withdraw and the parties do not agree, any party may ask the court to decide; there is no appeal (Art 14(1)). Unlike Art 13, Art 14 goes directly to court and has no time limit. A: that is the Art 13 challenge procedure for justifiable doubts. C: Art 14 has no time limit. D: the substitute is appointed under the rules that applied to the original appointment (Art 15).
 *Cite: MAL Arts 14–15; ROC O 48 r 2(1)(b)*
+
+### 0.XI.12 — Arbitrator partiality after the award
+
+**Qdrill-146** · `0.XI.12` · drill-146 · `drp-m-0-88`
+
+Five months after receiving an award, the losing party discovers that the presiding arbitrator was a partner of the winning party's counsel's firm until shortly before the arbitration. Which statement is CORRECT?
+
+A. It may apply to set the award aside under Art 34(2)(a)(iv) or IAA s 24(b) at any time after discovery.
+B. It is out of time to set aside (3 months from receipt of the award, Art 34(3)), but may resist enforcement on the same footing (IAA s 31(2)(e); NYC Art V(1)(d)).
+C. Partiality can only be raised by a challenge under Art 13 before the award.
+D. It must ask the tribunal to correct the award under Art 33.
+
+**Answer: B.** The 3-month limit in Art 34(3) runs from receipt of the award and cannot be extended. Resisting enforcement remains available, subject to waiver if the party knew the facts earlier and did not object (Art 4). A: the time limit applies. C: partiality may be raised after the award. D: Art 33 corrects slips, not composition.
+*Cite: MAL Arts 4, 33, 34(2)(a)(iv), 34(3); IAA ss 24(b), 31(2)(e); ARB-SN p44 paras 145–146*
 
 ### 0.XII Arb-Med, Arb-Med-Arb and multi-tier clauses — drills
 
@@ -2640,6 +2750,20 @@ D. Stay refused, because a failure to pay mediation fees automatically makes any
 
 Drills 60–67 cover 0.XIII.3, 0.XIII.4, 0.XIII.5, 0.XIII.8, 0.XIII.9, 0.XIII.10, 0.XIII.11 and 0.XIII.12.
 
+### 0.XIII.2 — Equal treatment; hearings and notice (Arts 18, 24)
+
+**Qdrill-147** · `0.XIII.2` · drill-147 · `drp-m-0-96`
+
+Which of the following is NOT required by Model Law Arts 18 and 24?
+
+A. The parties are treated with equality and each is given a full opportunity of presenting its case.
+B. The parties receive sufficient advance notice of any hearing and of any meeting to inspect goods, property or documents.
+C. Everything one party supplies to the tribunal is communicated to the other party.
+D. The tribunal must hold an oral hearing in every case, even if neither party asks for one and the parties agreed otherwise.
+
+**Answer: D.** Under Art 24(1), unless the parties agreed no hearing, the tribunal holds oral hearings at an appropriate stage if a party requests; there is no duty to hold one in every case. A is Art 18; B is Art 24(2); C is Art 24(3).
+*Cite: MAL Arts 18, 24; ARB-SN p48 para 162*
+
 ### 0.XIII.3 — Default of a party (Art 25)
 
 **Qdrill-60** · `0.XIII.3` · drill-60 · `drp-m-0-97`
@@ -2686,6 +2810,20 @@ D. In *ALC v ALF*, a domestic case under AA s 30, the subpoena was set aside bec
 
 **Answer: D.** In *ALC v ALF* the subpoena was set aside because the applicant had not first sought the tribunal's directions as Procedural Order No 1 required. A: under s 13 the High Court acts where the witness is in Singapore. B: no one can be made to produce a document they could not be compelled to produce at trial (s 13(4)). C: *ALC v ALF* was decided under AA s 30, not the IAA, and it held the opposite.
 *Cite: IAA s 13(1)–(2), (4); MAL Art 27; ALC v ALF [2010] SGHC 231 at [40]*
+
+### 0.XIII.7 — Foreign lawyers may act in Singapore-seated arbitrations
+
+**Qdrill-148** · `0.XIII.7` · drill-148 · `drp-m-0-101`
+
+A New York lawyer, not admitted in Singapore, is asked to (i) advise on a Singapore-seated SIAC arbitration, (ii) appear at the hearing, and (iii) appear in the Singapore High Court on the resulting setting-aside application. Which is CORRECT?
+
+A. (i), (ii) and (iii) are all permitted under LPA s 35.
+B. (i) and (ii) are permitted; (iii) is not, because LPA s 35 does not extend to rights of audience in court.
+C. Only (i) is permitted; appearing in a Singapore-seated hearing needs a Singapore practising certificate.
+D. None is permitted unless the lawyer registers with SIAC.
+
+**Answer: B.** LPA s 35(1) disapplies ss 32–33 for representing a party in arbitration proceedings and for advice and document preparation in relation to them, but not for rights of audience in court.
+*Cite: LPA s 35; ARB-SN p50 para 172*
 
 ### 0.XIII.8 — Termination of proceedings (Art 32; DRL v DRK)
 
@@ -3087,6 +3225,22 @@ D. An award binds only the named parties, never those claiming through them.
 **Answer: C.** *CIX v DGN* applied the extended (*Henderson v Henderson*) doctrine, which bars points that could with reasonable diligence have been raised earlier, without identity of parties, looking at substance to stop repackaged claims against new parties. A: except under Arts 33 and 34(4), the tribunal must not vary, amend, correct, review, add to or revoke the award (s 19B(2)–(3)). B: a tribunal is functus on the issues any award decides, whether interim, partial or final (*Bloomberry* [2021] SGCA 94 at [157]). D: s 19B(1) binds the parties and those claiming through them.
 *Cite: IAA s 19B; CIX v DGN [2025] SGCA 10 at [56]–[57], [66], [68]–[69]; Bloomberry Resorts v Global Gaming Philippines [2021] SGCA 94 at [157]*
 
+**Qdrill-151** · `0.XVII.6` · drill-151 · `drp-m-0-131`
+
+A tribunal issues a "Decision on Liability" after a full hearing, with detailed reasons in formal language. Later it tries to revisit liability in its "Final Award". On whether the earlier decision finally resolved liability, which statements are accurate (*ONGC Petri v DL E&C* [2023] SGHC 197 at [35])?
+I. The court gives real weight to substance, not merely form.
+II. The tribunal's own label for the decision is conclusive.
+III. The court considers how a reasonable recipient, with the information then available to the parties and tribunal, would have viewed the decision.
+IV. Relevant objective attributes include the formality of the language and the level of detail of the reasoning.
+
+A. I and III only
+B. I, III and IV only
+C. II, III and IV only
+D. All of the above
+
+**Answer: B.** The tribunal's description is relevant but not conclusive, so II is wrong. I, III and IV are limbs (a), (c)–(e) of the approach. If liability was finally decided, the tribunal is functus on it (s 19B; *Bloomberry* at [157]).
+*Cite: ARB-SN p67 para 214; IAA s 19B*
+
 ### 0.XVII.7 — Form and content (Art 31; SIAC r 52)
 
 **Qdrill-89** · `0.XVII.7` · drill-89 · `drp-m-0-132`
@@ -3146,6 +3300,38 @@ D. C may request an interpretation at any time before enforcement.
 ### 0.XVIII Setting aside the award — drills
 
 Drills 93–97 cover 0.XVIII.9, 0.XVIII.10, 0.XVIII.11, 0.XVIII.13 and 0.XVIII.15.
+
+### 0.XVIII.2 — Art 34(2)(a) grounds the applicant must prove
+
+**Qdrill-149** · `0.XVIII.2` · drill-149 · `drp-m-0-139`
+
+Which of the following are grounds under Model Law Art 34(2)(a), which the applicant must prove, to set aside a Singapore-seated award?
+I. The applicant was not given proper notice of the proceedings or was otherwise unable to present its case.
+II. The award conflicts with the public policy of Singapore.
+III. The composition of the tribunal was not in accordance with the parties' agreement.
+IV. The award contains decisions on matters beyond the scope of the submission to arbitration.
+
+A. I and III only
+B. I, III and IV only
+C. II, III and IV only
+D. All of the above
+
+**Answer: B.** I is Art 34(2)(a)(ii), III is (a)(iv) and IV is (a)(iii). II is an Art 34(2)(b)(ii) ground, which the court finds itself, whether or not the applicant proves it.
+*Cite: MAL Art 34(2); ARB-SN p70–71 para 225*
+
+### 0.XVIII.3 — Art 34(2)(b) grounds the court may raise itself
+
+**Qdrill-150** · `0.XVIII.3` · drill-150 · `drp-m-0-140`
+
+Under Model Law Art 34(2)(b), the court may set aside an award, whether or not the applicant proves it, if it finds that:
+
+A. the arbitration agreement is invalid under the law chosen by the parties.
+B. the tribunal made an error of law on the merits.
+C. the subject matter is not capable of settlement by arbitration under Singapore law, or the award conflicts with Singapore public policy.
+D. the tribunal exceeded the time limit for making the award.
+
+**Answer: C.** These are the only two Art 34(2)(b) grounds. A is an Art 34(2)(a)(i) ground the applicant must prove. B: errors of law or fact are final (PT Asuransi at [57]). D: not a listed ground in itself.
+*Cite: MAL Art 34(2)(b); ARB-SN p71 para 225(b)*
 
 ### 0.XVIII.9 — Copied awards (DJP v DJO)
 
@@ -3343,6 +3529,24 @@ D. I, II, III and IV
 **Answer: C.** I and III state *Deutsche Telekom* at [64]; IV states *Hulley* at [111], [140]. B and D: II is wrong; the primacy principle was the majority's obiter, and the concurring judge found issue estoppel and abuse of process enough. A: leaves out IV.
 *Cite: Republic of India v Deutsche Telekom [2023] SGCA(I) 10 at [46] ff, [64]; Sacofa v Super Sea Cable [2024] SGHC 54 at [65]; Hulley Enterprises v Russian Federation [2025] SGHC(I) 19 at [111], [140]*
 
+### 0.XIX.13 — Public policy: narrow; illegality (AJU v AJT matrix)
+
+**Qdrill-152** · `0.XIX.13` · drill-152 · `drp-m-0-165`
+
+Which of the following are recognised ways in which a public policy challenge to an award may be raised (ARB-SN para 289)?
+I. The remedies ordered by the award are contrary to public policy.
+II. The award gives effect to an underlying contract that is illegal or tainted with illegality.
+III. The way the award was procured is contrary to public policy.
+IV. The tribunal made a serious error of fact on the merits.
+
+A. I and II only
+B. II and III only
+C. I, II and III only
+D. All of the above
+
+**Answer: C.** These are the three categories in ARB-SN para 289; the second is the commonest, and the court must first decide whether to reopen the tribunal's illegality finding. IV is not public policy: errors of fact are final, and public policy is narrow ("shock the conscience", *PT Asuransi* at [59]).
+*Cite: ARB-SN p89 paras 289–290; [2006] SGCA 41 at [57], [59]*
+
 ### 0.XIX.14 — Due process ground (Art V(1)(b)): what succeeds and fails
 
 **Qdrill-106** · `0.XIX.14` · drill-106 · `drp-m-0-166`
@@ -3378,6 +3582,24 @@ Part 2 for Mediation Advocacy. One drill for each of the 19 Sub-points no past p
 ### 1.I Nature of mediation — drills
 
 Drill 108 covers 1.I.6.
+
+### 1.I.5 — Facilitative v evaluative mediation
+
+**Qdrill-153** · `1.I.5` · drill-153 · `drp-m-1-5`
+
+Two long-standing business partners fall out over profit shares and want to keep working together. Which statements about facilitative and evaluative mediation are accurate?
+I. A facilitative mediator need not be an expert in the subject matter of the dispute.
+II. An evaluative mediator aims at a settlement within the likely range of court outcomes.
+III. Facilitative mediation involves more intervention by the mediator and less party control.
+IV. Facilitative mediation suits these partners better, because it focuses on underlying interests and preserving the relationship.
+
+A. I and II only
+B. I, II and IV only
+C. II, III and IV only
+D. All of the above
+
+**Answer: B.** III is reversed: evaluative mediation has more intervention and less party control; facilitative has less intervention and the parties fashion the outcome. I, II and IV follow MED-1 p12, and IV matches the 2021 question on partners with a relationship to preserve.
+*Cite: MED-1 p12; PYP21-MED Q1.4*
 
 ### 1.I.6 — The advocate's evolving role, before and during a dispute
 
@@ -3425,6 +3647,38 @@ D. SIMI and SIDRA are both divisions of the State Courts.
 **Answer: B.** SIMI (2014) sets and enforces mediation standards and runs the credentialing scheme approved under the Mediation Act ("SIMI Certified Mediator"); SIDRA (2016) is an academy for research, training and consultancy. A swaps them. C: neither is a designated provider or a court. D: both are independent not-for-profits.
 *Cite: MED-2 (see `drp-m-1-9`)*
 
+### 1.II.5 — Court-based mediation
+
+**Qdrill-154** · `1.II.5` · drill-154 · `drp-m-1-11`
+
+Which of the following does the MED-1 "Singapore's Mediation Landscape" slide place under "Singapore Courts"?
+I. State Courts
+II. Syariah Court
+III. Singapore Mediation Centre
+IV. Family Justice Courts
+
+A. I and IV only
+B. I, II and IV only
+C. I, III and IV only
+D. All of the above
+
+**Answer: B.** The slide groups the State Courts, Supreme Court, Syariah Court and Family Justice Courts as Singapore Courts. SMC is in the "Commercial Dispute Resolution Centres" tier with SIMC and the Law Society. Court-conducted or court-directed mediation is generally outside the Mediation Act (s 6(2)(b)).
+*Cite: MED-1 p6–7; MA s 6(2)(b)*
+
+### 1.II.7 — Schemes not administered by SMC; private providers
+
+**Qdrill-155** · `1.II.7` · drill-155 · `drp-m-1-13`
+
+Which of the following is NOT an industry mediation scheme run outside SMC, as listed in MED-2?
+
+A. FIDReC, for financial industry disputes
+B. The Consumers Association of Singapore (CASE)
+C. Strata Titles Board mediation
+D. The SIAC-SIMC Arb-Med-Arb Protocol
+
+**Answer: D.** The AMA Protocol is an arbitration-mediation procedure administered by SIAC and SIMC, not an industry scheme. A, B and C, with the Law Society Mediation Scheme, are the MED-2 examples of schemes not administered by SMC.
+*Cite: MED-2 p12–13; SIAC25 pp85–87*
+
 ### 1.III Legal sources and the basis of mediation — drills
 
 Drills 111–112 cover 1.III.1 and 1.III.2.
@@ -3462,6 +3716,20 @@ D. Apply to strike out the claim as an abuse of process because mediation is a c
 **Answer: B.** A party to a mediation agreement may apply for a stay of court proceedings brought in breach of it (MA s 8(1)); the stay is discretionary (s 8(2)), as in *Cable & Wireless v IBM*. A: the IAA applies to arbitration agreements only. C: a clear obligation to mediate is enforceable, even by specific performance (*Maxx Engineering* [2023] SGHC 71). D: a stay, not striking out, is the remedy.
 *Cite: MA s 8; [2002] EWHC 2059 (Comm); [2023] SGHC 71*
 
+### 1.III.4 — Mediation by direction of a court or authority
+
+**Qdrill-156** · `1.III.4` · drill-156 · `drp-m-1-18`
+
+A data protection complaint is made to the PDPC. A separate commercial claim is pending in the General Division. Which statement is CORRECT?
+
+A. Only the parties' agreement can lead to mediation; neither a court nor the PDPC can direct it.
+B. The court may order the parties to attempt amicable resolution (ROC O 5 r 3(1)), and the PDPC may direct the complaint to be resolved by mediation (PDPA s 48G).
+C. The PDPC may direct mediation only if the court first orders it.
+D. A court may order mediation only in the State Courts.
+
+**Answer: B.** Mediation can arise by agreement, by direction of a court, or by direction of an authority under statute. MED-3 gives PDPA s 48G as the authority example. A, C, D: wrong for that reason; O 5 r 3 applies across the courts under the ROC.
+*Cite: MED-3 p12; ROC O 5 r 3(1); PDPA s 48G*
+
 ### 1.IV Duty to consider amicable resolution; costs — drills
 
 Drills 113–116 cover 1.IV.2, 1.IV.3, 1.IV.5 and 1.IV.8.
@@ -3494,6 +3762,32 @@ D. The Court must order a stay until mediation has taken place.
 **Answer: B.** O 5 r 3(3)–(4); in the Supreme Court it is filed within 7 days as an "ADR Sealed Document", not served (SCPD 54(3)–(4)). A: the Court *may* order the parties to attempt amicable resolution (r 3(1)). C: it is sealed, not served. D: no mandatory stay.
 *Cite: ROC O 5 r 3; SCPD 54(3)–(4)*
 
+**Qdrill-169** · `1.IV.3` · drill-169 · `drp-m-1-21`
+
+In deciding whether to order the parties to attempt amicable resolution under ROC O 5 r 3, the Court must have regard to the Ideals. Which of the following is NOT one of the Ideals in O 3 r 1(2)?
+
+A. Fair access to justice
+B. Expeditious proceedings
+C. Cost-effective work proportionate to the nature, complexity and value of the claim
+D. Ensuring the successful party recovers all its costs
+
+**Answer: D.** The Ideals are (a) fair access to justice, (b) expeditious proceedings, (c) proportionate cost-effective work, (d) efficient use of court resources, and (e) fair and practical results suited to the parties' needs. Costs recovery is not an Ideal; a winner can lose costs for refusing ADR (O 21 r 4(c)).
+*Cite: ROC O 3 r 1(2), O 5 r 3(2), O 21 r 4(c)*
+
+### 1.IV.4 — Costs consequences (O 21 rr 2(2)(a), 4(c))
+
+**Qdrill-157** · `1.IV.4` · drill-157 · `drp-m-1-22`
+
+C wins at trial but had refused D's offer to mediate without good reason. Which statement is CORRECT under ROC 2021?
+
+A. A successful party always recovers its costs; ADR conduct only affects the losing party.
+B. The Court may disallow or reduce C's costs, or even order C to pay costs, because C did not discharge its duty to consider amicable resolution (O 21 r 4(c)).
+C. The Court may take ADR conduct into account only if the sealed document was opened before judgment.
+D. Refusing mediation is relevant only in the State Courts.
+
+**Answer: B.** O 21 r 4(c) allows this against a successful party; O 21 r 2(2)(a) requires the Court to consider the parties' efforts at amicable resolution in fixing costs. C: the sealed document is opened only after the merits (O 5 r 3(4)). D: the ROC applies to both courts.
+*Cite: ROC O 21 rr 2(2)(a), 4(c); O 5 r 3(4); MED-3 p16, p42*
+
 ### 1.IV.5 — Supreme Court PD 53 and 54
 
 **Qdrill-115** · `1.IV.5` · drill-115 · `drp-m-1-23`
@@ -3507,6 +3801,54 @@ D. Parties must attend at least one mediation session before the first case conf
 
 **Answer: D.** There is no compulsory pre-conference mediation. A: SCPD 53(2). B: 53(5). C: 54(1). Advocates must also warn of adverse costs under O 21 r 4(c) (53(6)).
 *Cite: SCPD 53–54 (see `drp-m-1-23`)*
+
+**Qdrill-170** · `1.IV.5` · drill-170 · `drp-m-1-23`
+
+Under the Supreme Court PD Appendix D guidelines on advising clients about ADR, which statements are accurate?
+I. If the dispute turns on conflicting expert opinions, expert determination may clarify the issue.
+II. Cases involving fraud can never be mediated.
+III. The "wrong" time to mediate is when legal costs have become disproportionate to the claim.
+IV. Conciliation is probably the best route for a breakdown in a workplace relationship.
+
+A. I and III only
+B. I, III and IV only
+C. II, III and IV only
+D. All of the above
+
+**Answer: B.** I is App D para 2.3; III is para 4.1; IV is para 2.4. II is wrong: para 3.3 says fraud can be dealt with in mediation, partly because the process is confidential.
+*Cite: SCPD para 53(3), Appendix D paras 2–4*
+
+### 1.IV.6 — State Courts PD 34: presumption of ADR
+
+**Qdrill-158** · `1.IV.6` · drill-158 · `drp-m-1-24`
+
+Which statements on State Courts Practice Direction 34 are accurate?
+I. A presumption of ADR applies to all civil claims filed in the State Courts.
+II. The Court may refer suitable matters to a Court ADR modality at a case conference.
+III. A party that opts out of ADR for unsatisfactory reasons may face that conduct being taken into account in later costs orders.
+IV. ADR is compulsory in the State Courts and a party cannot opt out.
+
+A. I and II only
+B. I, II and III only
+C. II, III and IV only
+D. All of the above
+
+**Answer: B.** I is the presumption; II is 34(5); III is 34(8) with O 21 r 2(2)(a). IV is wrong: it is a presumption a party can rebut by opting out, at the risk of costs.
+*Cite: StCPD 34(5)–(8); MED-3 p44–46*
+
+### 1.IV.7 — Family Justice Courts PD 81(2)
+
+**Qdrill-159** · `1.IV.7` · drill-159 · `drp-m-1-25`
+
+In a divorce in the Family Justice Courts, which statement is CORRECT?
+
+A. Solicitors need not advise on mediation unless the Court has directed it.
+B. It is the professional duty of solicitors to advise their clients about mediation, and mediation should be considered at the earliest possible stage (FJCPD 81(2)).
+C. Mediation may be considered only after ancillary matters are heard.
+D. The Mediation Act governs all FJC court-directed mediation.
+
+**Answer: B.** FJCPD 2024 para 81(2). The Court may also direct mediation or counselling (Women's Charter ss 139H–139J; Family Justice Act s 26(9)). D: court-directed mediation is generally outside the Mediation Act (s 6(2)(b)).
+*Cite: FJCPD 81(1)–(2); MED-3 p39; MA s 6(2)(b)*
 
 ### 1.IV.8 — Unreasonable refusal of ADR: Halsey and later cases
 
@@ -3554,6 +3896,20 @@ D. Yes, but only for future disputes, not an existing one.
 **Answer: B.** MA s 4(3)–(4): writing is satisfied by a record of the content in any form, even if the agreement was made orally or by conduct. A: no signature requirement. C: it may be a clause or a separate agreement (s 4(2)). D: it covers existing or future disputes (s 4(1)).
 *Cite: MA s 4*
 
+### 1.V.3 — Application of the Act (s 6)
+
+**Qdrill-160** · `1.V.3` · drill-160 · `drp-m-1-30`
+
+To which of the following mediations does the Mediation Act 2017 apply?
+
+A. A mediation conducted entirely in Kuala Lumpur under an agreement that says nothing about the Act or Singapore law.
+B. A mediation conducted by the State Courts in a pending civil claim.
+C. A mediation conducted partly in Singapore under a written mediation agreement.
+D. A conciliation required under another written law.
+
+**Answer: C.** The Act applies where the mediation is wholly or partly conducted in Singapore, or the agreement provides for the Act or Singapore law (s 6(1)). A meets neither test. B: court-conducted or court-directed mediation is excluded (s 6(2)(b)). D: mediation or conciliation under any written law is excluded (s 6(2)(a)).
+*Cite: MA s 6; MED-3 p19*
+
 ### 1.V.4 — Stay of court proceedings (s 8)
 
 **Qdrill-119** · `1.V.4` · drill-119 · `drp-m-1-31` `drp-m-0-47`
@@ -3567,6 +3923,24 @@ D. The MA stay is mandatory; the IAA stay is discretionary.
 
 **Answer: C.** MA s 8(2): the court *may* stay on such terms as it thinks fit. IAA s 6(2): the court "is to" stay, subject only to the null and void exception. A, B and D misstate one or both.
 *Cite: MA s 8(2); IAA s 6(2)*
+
+### 1.V.6 — Disclosure allowed without permission (s 9(2))
+
+**Qdrill-161** · `1.V.6` · drill-161 · `drp-m-1-33`
+
+Which of the following disclosures of a mediation communication are allowed WITHOUT the court's permission under MA s 9(2)?
+I. Disclosure to the party's own lawyer to seek legal advice.
+II. Disclosure where there are reasonable grounds to believe it is necessary to prevent danger of injury to a person.
+III. Disclosure for research, without revealing the parties' identities.
+IV. Disclosure in later court proceedings to prove the other side's admissions on liability.
+
+A. I and II only
+B. I, II and III only
+C. II, III and IV only
+D. All of the above
+
+**Answer: B.** I is s 9(2)(e), II is (c)(i) and III is (d). IV is not a s 9(2) exception: using mediation communications in proceedings needs the court's permission (s 10; s 9(3)).
+*Cite: MA ss 9(2)–(3), 10; MED-3 p21, p29*
 
 ### 1.V.7 — Disclosure with permission of a court or tribunal (s 9(3))
 
@@ -3615,9 +3989,73 @@ D. The Mediation Act 2017 abolished without prejudice privilege for mediation.
 **Answer: B.** *Mariwu Industrial v Dextra Asia* [2006] SGCA 37 at [24] (no label needed); *Greenline-Onyx v Otto Systems* [2007] SGCA 25 (producing the document waived it). C: waiver needs express or implied agreement; inadvertence is not enough (*Krishna Kumaran v Kuppusamy* [2014] SGHC 158 at [22]–[23]). D: the Act adds statutory protection (ss 9–11); it does not abolish the common law.
 *Cite: [2006] SGCA 37 at [24]; [2007] SGCA 25; [2014] SGHC 158 at [22]–[23]*
 
+### 1.V.10 — Recording a mediated settlement as an order of court (s 12(1)–(3))
+
+**Qdrill-162** · `1.V.10` · drill-162 · `drp-m-1-37`
+
+Parties settle at an SMC mediation before any proceedings start. Which statements are accurate about recording the settlement as an order of court?
+I. Any party may apply, with the consent of all other parties.
+II. The application must be made within 8 weeks of the agreement, or a longer period the court allows.
+III. The agreement must be in writing and signed by or on behalf of all parties, and contain the prescribed information.
+IV. The parties must wait at least 8 weeks before applying.
+
+A. I and III only
+B. I, II and III only
+C. II, III and IV only
+D. All of the above
+
+**Answer: B.** I is s 12(1); II is s 12(2); III is s 12(3)(b)–(c) with MR r 2, and the mediation must also be by a designated provider such as SMC or a certified mediator (s 12(3)(a)). IV misreads s 12(2): 8 weeks is a deadline, not a waiting period.
+*Cite: MA s 12(1)–(3); MR r 2; MED-3 p30–32*
+
+### 1.V.11 — Refusal to record; enforcement (s 12(4)–(5))
+
+**Qdrill-163** · `1.V.11` · drill-163 · `drp-m-1-38`
+
+On which of the following grounds may the court refuse to record a mediated settlement agreement as an order of court (MA s 12(4))?
+I. The agreement is voidable for misrepresentation.
+II. A term is not capable of enforcement as a court order.
+III. One party now regrets the bargain.
+IV. Recording would be contrary to public policy.
+
+A. I and IV only
+B. I, II and IV only
+C. II, III and IV only
+D. All of the above
+
+**Answer: B.** I is s 12(4)(a), II is (c), IV is (e). III is not a ground. Once recorded, the agreement is enforced like a court judgment or order (s 12(5)).
+*Cite: MA s 12(4)–(5); MED-3 p33, p35*
+
 ### 1.VI Mediated settlement agreements — drills
 
 Drills 123–125 cover 1.VI.3, 1.VI.5 and 1.VI.6.
+
+### 1.VI.1 — A settlement agreement is a contract
+
+**Qdrill-164** · `1.VI.1` · drill-164 · `drp-m-1-39`
+
+After a mediation, the parties sign heads of terms marked "subject to contract". One party later refuses to sign the formal agreement. Which is the BEST answer?
+
+A. A settlement reached at mediation is binding regardless of its wording, because the Mediation Act makes it so.
+B. Whether there is a binding settlement depends on ordinary contract principles, including an intention to be legally bound; "subject to contract" wording may show there was none.
+C. A mediated settlement is never a contract; it binds only once recorded as a court order.
+D. The mediator decides whether the settlement is binding.
+
+**Answer: B.** A mediated settlement agreement is a species of contract (*Tiong Swee Eng* at [19]–[21]); whether it binds depends on the usual principles and intention to be bound (*Sita Jaswant Kaur* at [5]–[6], on the general point). A, C, D: wrong for those reasons.
+*Cite: MED-3 p8, p27, p34; [2015] SGHC 116; [2013] SGHC 176*
+
+### 1.VI.2 — Drafting checklist
+
+**Qdrill-165** · `1.VI.2` · drill-165 · `drp-m-1-40`
+
+Which of the following is NOT on the MED-3 settlement agreement drafting checklist?
+
+A. Disposal of any court proceedings
+B. Default provisions and payment arrangements, tax and legal costs
+C. Capacity and authority to settle
+D. A statement of which party was at fault
+
+**Answer: D.** The checklist covers the parties and third parties, scope of claims settled, formality, disposal of proceedings, warranties, conditional or unconditional settlement, default provisions, payment, tax and costs, confidentiality, governing law and jurisdiction, and capacity and authority. Fault is usually left out; the agreement should be clear and specific and deal with all issues.
+*Cite: MED-3 p27–28; MED-4 p25*
 
 ### 1.VI.3 — Settlement agreements in family proceedings (UJN v UJO)
 
@@ -3632,6 +4070,24 @@ D. It can be recorded under s 12 of the Mediation Act like any civil settlement,
 
 **Answer: C.** *UJN v UJO*, consistent with *Sita Jaswant Kaur* at [5]–[6]. A and B are the two extremes. D: for Family Justice Courts matters only prescribed classes of agreement can be recorded under s 12 (s 12(6)(a)).
 *Cite: [2018] SGFC 16; MA s 12(6)(a)*
+
+### 1.VI.4 — Ways to enforce a mediated settlement
+
+**Qdrill-166** · `1.VI.4` · drill-166 · `drp-m-1-42`
+
+Which of the following are ways to enforce a mediated settlement agreement?
+I. Record it as an order of court under MA s 12 and enforce it like a judgment.
+II. Sue on it as a contract for breach.
+III. If reached in a SIAC-SIMC Arb-Med-Arb, have it recorded as a consent award enforceable under the New York Convention.
+IV. For an international commercial settlement, enforce it under the Singapore Convention on Mediation Act 2020.
+
+A. I and II only
+B. I, II and III only
+C. II, III and IV only
+D. All of the above
+
+**Answer: D.** These are the four routes in MED-3 p35 and the pack.
+*Cite: MED-3 p35; MA s 12(5); SIAC25 pp85–87; SCMA ss 4–5*
 
 ### 1.VI.5 — Singapore Convention on Mediation: scope and exclusions
 
@@ -3857,6 +4313,36 @@ D. Agree only the headline sum; the details will follow.
 **Answer: B.** Commitments should preferably be in writing, realistic and clear, dealing with all issues to minimise future disputes (the MED-3 drafting checklist). A and D leave room for disagreement and later disputes. C: the agreement must be signed by or on behalf of the parties (MA s 12(3)(b)), not the mediator.
 *Cite: MED-4 (see `drp-m-1-51`); MED-3 p28 (see `drp-m-1-40`); MA s 12(3)(b)*
 
+### 1.VIII Role and ethics of the mediation advocate — drills
+
+Drills added 18 Nov 2026 after the audit.
+
+### 1.VIII.7 — Conduct in ADR: respect, courtesy, good faith, not misleading (PCR r 8A)
+
+**Qdrill-167** · `1.VIII.7` · drill-167 · `drp-m-1-58`
+
+Your client wants to attend mediation in a neck brace to exaggerate a minor injury. Which is CORRECT under PCR r 8A?
+
+A. It is permissible because mediation communications are confidential.
+B. It is permissible if the lawyer does not say anything false.
+C. The lawyer must not knowingly assist or permit the client to mislead the mediator, and must advise against it.
+D. Only the mediator's ethical rules apply in mediation, not the PCR.
+
+**Answer: C.** r 8A(4)–(5): a lawyer must not knowingly mislead, or assist or permit the client to mislead, the mediator; r 8A(3) requires good faith throughout. A, B, D: confidentiality, silence and the mediator's rules do not displace r 8A.
+*Cite: PCR r 8A; MED-5 p17; PYP21-MED Q1.7*
+
+**Qdrill-168** · `1.VIII.7` · drill-168 · `drp-m-1-58` `drp-m-1-60`
+
+MED-5 maps the mediation advocate's duties to PCR rules. Which pairing is WRONG?
+
+A. Rule 6: protection of the client's confidentiality
+B. Rule 7: courtesy and fairness
+C. Rule 8: honesty, honourability and good faith in conducting the negotiation
+D. Rule 22: duty to act in the client's best interests
+
+**Answer: D.** Rule 22 is avoidance of conflicts of interest. The best-interests duty is in PCR rr 5(2)(j) and 17(1) (MED-3 p37). A, B, C are MED-5 slide 8's pairings; r 7(2) requires courtesy and fairness towards other lawyers.
+*Cite: MED-5 p8; MED-3 p37; PCR rr 6, 7, 8, 17(1), 22*
+
 ## Coverage check
 
 Questions per Topic, counted under the Topic of each question's first Key (where it sits in this file). Every Topic has at least one answered question.
@@ -3864,29 +4350,29 @@ Questions per Topic, counted under the Topic of each question's first Key (where
 | Topic | Past-paper | Drills | Total |
 |---|---|---|---|
 | 0.I Applicable laws and the IAA framework | 9 | 5 | 14 |
-| 0.II Domestic arbitration under the Arbitration Act 2001 | 4 | 2 | 6 |
+| 0.II Domestic arbitration under the Arbitration Act 2001 | 4 | 3 | 7 |
 | 0.III Soft law instruments and arbitral institutions | 0 | 6 | 6 |
 | 0.IV The arbitration agreement: form and parties | 0 | 7 | 7 |
-| 0.V Arbitrability | 3 | 2 | 5 |
+| 0.V Arbitrability | 3 | 4 | 7 |
 | 0.VI Pathological clauses and drafting | 1 | 3 | 4 |
 | 0.VII Stay of court proceedings under the IAA | 2 | 3 | 5 |
-| 0.VIII Jurisdiction of the tribunal | 5 | 5 | 10 |
+| 0.VIII Jurisdiction of the tribunal | 5 | 6 | 11 |
 | 0.IX Resisting jurisdiction: the respondent's options | 1 | 6 | 7 |
 | 0.X Constitution of the tribunal | 1 | 5 | 6 |
-| 0.XI Challenging an arbitrator | 1 | 9 | 10 |
+| 0.XI Challenging an arbitrator | 1 | 12 | 13 |
 | 0.XII Arb-Med, Arb-Med-Arb and multi-tier clauses | 0 | 6 | 6 |
-| 0.XIII Conduct of the proceedings and evidence | 4 | 8 | 12 |
+| 0.XIII Conduct of the proceedings and evidence | 4 | 10 | 14 |
 | 0.XIV Commencing the arbitration and SIAC procedures | 0 | 5 | 5 |
 | 0.XV Interim measures | 2 | 8 | 10 |
 | 0.XVI Anti-suit injunctions | 1 | 2 | 3 |
-| 0.XVII The award | 1 | 10 | 11 |
-| 0.XVIII Setting aside the award | 10 | 5 | 15 |
-| 0.XIX Enforcement and resisting enforcement | 6 | 10 | 16 |
-| 1.I Nature of mediation | 7 | 1 | 8 |
-| 1.II Mediation institutions and schemes | 8 | 2 | 10 |
-| 1.III Legal sources and the basis of mediation | 0 | 2 | 2 |
-| 1.IV Duty to consider amicable resolution; costs | 5 | 4 | 9 |
-| 1.V Mediation Act 2017 | 4 | 6 | 10 |
-| 1.VI Mediated settlement agreements | 0 | 3 | 3 |
+| 0.XVII The award | 1 | 11 | 12 |
+| 0.XVIII Setting aside the award | 10 | 7 | 17 |
+| 0.XIX Enforcement and resisting enforcement | 6 | 11 | 17 |
+| 1.I Nature of mediation | 7 | 2 | 9 |
+| 1.II Mediation institutions and schemes | 8 | 4 | 12 |
+| 1.III Legal sources and the basis of mediation | 0 | 3 | 3 |
+| 1.IV Duty to consider amicable resolution; costs | 5 | 9 | 14 |
+| 1.V Mediation Act 2017 | 4 | 10 | 14 |
+| 1.VI Mediated settlement agreements | 0 | 6 | 6 |
 | 1.VII The seven elements of effective negotiation | 10 | 14 | 24 |
-| 1.VIII Role and ethics of the mediation advocate | 20 | 0 | 20 |
+| 1.VIII Role and ethics of the mediation advocate | 20 | 2 | 22 |

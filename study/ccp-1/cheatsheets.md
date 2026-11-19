@@ -114,6 +114,7 @@ Topic headings read `<subject>.<Topic>`.
   - Negative pledge, pari passu, disposals, financial ratios, information covenants → [0-15](#ccp-1-0-15)
 - **Events of default: non-payment, cross-default, insolvency, change of ownership; what can the lender do?** → [0-16](#ccp-1-0-16)
 - **Boilerplate: transfer of loans, set-off, governing law** → [0-17](#ccp-1-0-17)
+- **Foreign lender or foreign borrower: licence, capacity, exchange controls, legal opinions, governing law and jurisdiction clause, withholding tax on interest to a non-resident, no-deduction clause** → [0-55](#ccp-1-0-55)
 
 ### ccp-1-0-10 — Four categories of clauses
 *Keywords: facility agreement, loan agreement, fundamental terms, mechanics, drawdown, conditions precedent, repayment, prepayment, costs of utilisation, general protection, covenants, events of default, representations, boilerplate*
@@ -189,6 +190,33 @@ Topic headings read `<subject>.<Topic>`.
 **End point:** Boilerplate clauses: assignment/transfer of loans; amendments and waivers; payment mechanics; set-off; notices; partial invalidity; counterparts; governing law; jurisdiction; arbitration. Transfers by lenders are usually expressly allowed, often on condition that the borrower pays no more (e.g. withholding tax) to the new lender, or subject to borrower consent not to be withheld without good reason.
 
 *Source note: BF1 s20; RL-XB p8–9; Cyril-BF §1.3.4.*
+
+### ccp-1-0-55 — Cross-border loans: local law checks, governing law and jurisdiction, tax deductions, legal opinions
+*Keywords: cross-border loan, foreign lender, foreign borrower, Corporate loan facilities Cross-border, LMA, Loan Market Association, local lending licence, money-lending licence, consumer lending, capacity to borrow, constitution, security for another company's obligations, exchange controls, foreign currency controls, incentives disincentives foreign lenders, legal opinions condition precedent, governing law, choice of jurisdiction, arbitration, no deductions, withholding tax, gross-up, deduction of tax representation, no filing or stamp taxes, transfer to new lender withholding tax, Income Tax Act s 12(6), non-resident, 15%, 17%, 22%, 24%, double tax treaty, Qualifying Debt Securities, registration of security, negative pledge third party notice, state immunity, sovereign immunity, currency indemnity*
+
+**End point:** A cross-border facility agreement follows the same LMA-style layout whatever its governing law. The lender must check the local law of each party:
+- whether lending needs a licence;
+- whether the borrower has capacity to borrow and to give security (some jurisdictions bar security for another company's debts, even a related company's);
+- any incentives or disincentives for foreign lenders, and any exchange controls.
+
+Legal opinions are a usual condition precedent. Several clauses work only as far as the governing law allows: the borrower's promise to pay without deduction, the negative pledge against a third-party creditor, the deemed receipt of notices, and the standard for refusing consent to a transfer. The agreement should, wherever possible, choose a jurisdiction for court proceedings; in some jurisdictions arbitration is better. Lenders usually transfer freely, but only if the borrower then pays no more, for example in withholding tax. In Singapore, interest and other loan-related payments deemed Singapore-sourced under ITA s 12(6) and paid to a non-resident are generally subject to withholding tax:
+- 17% for companies;
+- 22% for individuals, which the source says was to rise to 24% from YA 2024;
+- reduced to 15% of the gross, or a lower treaty rate, where the payment is not from a Singapore trade or permanent establishment.
+
+The customary legal representations include "governing law and enforcement", "deduction of tax" and "no filing or stamp taxes".
+
+> **What the reading list and slides say (RL-XB; BF1)**
+> - Same layout irrespective of governing law; LMA forms (first 1999) standard in English-language agreements (RL-XB p1).
+> - Local checks: licence to lend; company's power under its constitution to borrow and give security; some jurisdictions prohibit security for another (even related) company's obligations; incentives/disincentives for foreign lenders; exchange controls (RL-XB p1).
+> - Conditions precedent include the borrower's powers, signatory authorisation, accounts, security documents and legal opinions (RL-XB p2).
+> - Transfers: usually allowed if the borrower will not pay more (e.g. different withholding tax), or with borrower consent not unreasonably withheld (RL-XB p8).
+> - No deductions: borrower pays without deduction even if otherwise entitled; effective only as far as the governing law allows (RL-XB p9).
+> - Jurisdiction: choose a jurisdiction for court proceedings wherever possible; arbitration may be more suitable in some jurisdictions (RL-XB p9).
+> - Registration: facility agreements usually need none; security usually must be registered, sometimes as a condition of validity (RL-XB p9).
+> - Customary legal reps: status, powers, authorisation, validity and admissibility in evidence, governing law and enforcement, deduction of tax, no filing or stamp taxes, pari passu ranking (BF1 s17).
+
+*Source note: RL-XB p1–3, p6, p8–9; BF1 s17, s21; Cyril-BF §1.3.4 (governing law, jurisdiction, arbitration boilerplate); RL-DCM p23 (Singapore withholding tax, ITA s 12(6); rates as at the note's date, with the 24% rise for individuals "proposed" from YA 2024). False positive in the 18 Nov audit: the Cross-border note has no section on tax gross-up, state or sovereign immunity, currency indemnity, or enforcement of foreign judgments, and no other course source covers them, so they are not stated here. A process agent and an English-law immunity waiver appear only in the bond reading (RL-BondDocs; see [0-35](#ccp-1-0-35)).*
 
 ## 0.IV Taking security
 
@@ -743,7 +771,7 @@ Topic headings read `<subject>.<Topic>`.
 > - (d) sustainability reporting framework; and
 > - (e) Board statement and associated governance structure for sustainability practices.
 
-*Source note: CG2 s10, s16–20 (the 2025–2026 changes); CG-LP p3 (sustainability reporting "for information only"). Conflict: LM r 711A–711B (Dec 2023 text) still says within 4 months and allows exclusions; the block follows the 2026 slides.*
+*Source note: CG2 s10, s16–20 (the 2025–2026 changes); CG-LP p3 (sustainability reporting "for information only"). Conflict: LM r 711A–711B (Dec 2023 text) still says within 4 months and allows exclusions; the block follows the 2026 slides. PN 7.6 itself is not in the course materials or seniors' notes, and the SGX Rulebook could not be reached on 18 Nov 2026, so its detail is taken from CG2 s19–20 only (non-core, "for information only").*
 
 ## 1.VII Interested person transactions: scope (Chapter 9)
 
@@ -888,6 +916,9 @@ Topic headings read `<subject>.<Topic>`.
 
 - **Is the Code law? Must a listed company follow it? Not appointing a lead independent director — what must it do?** Principles: comply; Provisions: comply or explain with a meaningful explanation; Practice Guidance: voluntary (SQ p16 Q9, key B) → [1-34](#ccp-1-1-34)
 - **What do the 13 Principles cover?** → [1-35](#ccp-1-1-35)
+- **Principle 1 — directors' conflicts of interest (recuse), training at company's expense, matters reserved for the Board, meeting attendance disclosed, who appoints the company secretary** → Provisions 1.1–1.7 → [1-56](#ccp-1-1-56)
+- **Principle 5 — annual evaluation of the Board, each committee and each director; who sets the criteria; external facilitator disclosed** → Provisions 5.1–5.2 → [1-57](#ccp-1-1-57)
+- **Principles 11–13 — bundled resolutions, directors and auditors at the AGM, absentia voting, minutes on website, dividend policy, investor relations policy, stakeholder engagement** → [1-58](#ccp-1-1-58)
 
 ### ccp-1-1-34 — Status of the Code; Rule 710; Principles, Provisions, Practice Guidance
 *Keywords: Code of Corporate Governance 2018, 4th edition, not law, comply or explain, Rule 710, principles mandatory, provisions comply or explain, explain variation, consistent with intent of principle, Practice Guidance voluntary non-binding, CGAC, lead independent director, Mercury Ltd*
@@ -915,6 +946,54 @@ Topic headings read `<subject>.<Topic>`.
 > - Managing stakeholder relationships: 13 Engagement with stakeholders.
 
 *Source note: CG4 s3; CODE pp4–18.*
+
+### ccp-1-1-56 — Principle 1: the Board's conduct of affairs (Provisions 1.1–1.7)
+*Keywords: Principle 1, Board's conduct of affairs, collectively responsible, long-term success, Provision 1.1 fiduciaries, code of conduct and ethics, tone from the top, conflicts of interest recuse, Provision 1.2 induction training development at company's expense, Provision 1.3 matters requiring board approval in writing, Provision 1.4 terms of reference, Executive Committee, Provision 1.5 attendance at meetings, multiple board representations, Provision 1.6 complete adequate timely information, Provision 1.7 access to management, company secretary appointment and removal by Board as a whole, external advisers*
+
+**End point:** Principle 1: the company is headed by an effective Board which is collectively responsible and works with Management for the company's long-term success. The Provisions (comply or explain) say what that means in practice and what the annual report discloses: a director with a conflict of interest recuses himself from the discussion and decision (1.1); induction and training are at the company's expense and disclosed (1.2); matters reserved for Board approval are set out in writing and disclosed (1.3); each director's attendance at Board and committee meetings is disclosed (1.5); and the company secretary is appointed and removed by the Board as a whole (1.7).
+
+> **Code Provisions 1.1–1.7**
+> - 1.1 Directors are fiduciaries who act objectively in the company's best interests and hold Management accountable; the Board puts in place a code of conduct and ethics, sets the tone from the top and the desired culture, and ensures accountability; directors facing conflicts of interest recuse themselves from discussions and decisions on the conflict.
+> - 1.2 Directors understand the business and their duties (as executive, non-executive or independent directors); they are given opportunities to develop their skills at the company's expense; induction, training and development for new and existing directors are disclosed in the annual report (first-time listed-company directors must be trained: Rule 210(5)(a), fn 2).
+> - 1.3 The Board decides which matters need its approval and tells Management in writing; those matters are disclosed in the annual report.
+> - 1.4 Board committees (including any Executive Committee) have written terms of reference (composition, authority, duties, reporting back); members' names, terms of reference, any delegation of the Board's decision-making authority and a summary of each committee's activities are disclosed.
+> - 1.5 Directors attend and actively participate in Board and committee meetings; the number of meetings and each director's attendance are disclosed; directors with multiple board representations give enough time and attention to each company.
+> - 1.6 Management gives directors complete, adequate and timely information before meetings and on an ongoing basis.
+> - 1.7 Directors have separate and independent access to Management, the company secretary and (where necessary) external advisers at the company's expense; appointing and removing the company secretary is a decision of the Board as a whole.
+
+*Source note: CODE p4–5 (Principle 1, Provisions 1.1–1.7, fn 2); CG-LP timetable S/N 4 ("general principles and provisions of the Code"). Status: Provisions are comply-or-explain under Rule 710 (see [1-34](#ccp-1-1-34)).*
+
+### ccp-1-1-57 — Principle 5: Board performance and annual evaluation (Provisions 5.1–5.2)
+*Keywords: Principle 5, board performance, formal annual assessment, effectiveness of the Board as a whole, each board committee, individual directors, Provision 5.1 NC recommends objective performance criteria and process, contribution by the Chairman, Provision 5.2 disclose how assessments conducted, external facilitator, connection with the company, board evaluation*
+
+**End point:** Principle 5: the Board makes a formal annual assessment of its own effectiveness as a whole, of each board committee, and of each individual director. The NC recommends the objective performance criteria and the evaluation process for the Board's approval, covering the Board as a whole, each committee separately, and the contribution of the Chairman and of each director (Provision 5.1). The annual report discloses how the assessments were done, naming any external facilitator and any connection it has with the company or its directors (Provision 5.2).
+
+> **Code Provisions 5.1–5.2**
+> - 5.1 The NC recommends for the Board's approval the objective performance criteria and process for evaluating the effectiveness of the Board as a whole, and of each board committee separately, as well as the contribution by the Chairman and each individual director to the Board.
+> - 5.2 The company discloses in its annual report how the assessments of the Board, its board committees and each director have been conducted, including the identity of any external facilitator and its connection, if any, with the company or any of its directors.
+
+*Source note: CODE p9 (Principle 5, Provisions 5.1–5.2); CG4 s12–13 (NC reviews the evaluation process and criteria).*
+
+### ccp-1-1-58 — Principles 11–13: shareholder rights, general meetings, engagement with shareholders and stakeholders
+*Keywords: Principle 11, shareholder rights, conduct of general meetings, treat all shareholders fairly and equitably, Provision 11.1 participate and vote, Provision 11.2 separate resolutions, bundled resolutions explain, Provision 11.3 all directors attend general meetings, external auditors present, Provision 11.4 absentia voting, Provision 11.5 minutes of general meetings published on website, Provision 11.6 dividend policy, no dividend reasons Rule 704(23) 704(24), Principle 12, engagement with shareholders, investor relations policy, Provision 12.1 12.2 12.3, Principle 13, stakeholders, material stakeholder groups, Provision 13.1 13.2 13.3, corporate website*
+
+**End point:** Principle 11: the company treats all shareholders fairly and equitably so they can exercise their rights and give their views, and gives them a balanced assessment of performance, position and prospects. Its Provisions: separate resolutions on each substantially separate issue, with reasons given if resolutions are "bundled" (11.2); all directors attend general meetings and the external auditors are present (11.3); the constitution allows absentia voting (11.4); minutes are published on the company website (11.5); and the company has a dividend policy (11.6). If the Board decides not to declare a dividend for the full year, the Listing Rules require the reasons to be announced with the full-year results (fn 21, Rules 704(23)–(24)). Principle 12: regular communication with shareholders through an investor relations policy (12.1–12.3). Principle 13: the Board takes an inclusive approach to the needs of material stakeholders (13.1–13.3).
+
+> **Code Provisions 11.1–13.3**
+> - 11.1 Shareholders can participate effectively in and vote at general meetings and are told the rules governing them.
+> - 11.2 Separate resolutions on each substantially separate issue unless the issues are interdependent and linked into one significant proposal; if "bundled", the notice of meeting explains the reasons and material implications.
+> - 11.3 All directors attend general meetings, and the external auditors are present to answer queries on the audit and the auditors' report; directors' attendance is disclosed in the annual report.
+> - 11.4 The constitution allows absentia voting at general meetings.
+> - 11.5 Minutes of general meetings are published on the corporate website as soon as practicable, recording substantial and relevant shareholder comments or queries and the Board's and Management's responses.
+> - 11.6 The company has a dividend policy and communicates it to shareholders.
+> - 12.1 Avenues of communication between the Board and all shareholders; the annual report discloses the steps taken to solicit and understand shareholders' views.
+> - 12.2 An investor relations policy allowing an ongoing exchange of views and regular, effective and fair communication.
+> - 12.3 The IR policy sets out how shareholders may contact the company with questions and how the company responds.
+> - 13.1 Arrangements to identify and engage with material stakeholder groups and manage relationships with them.
+> - 13.2 The annual report discloses the strategy and key areas of focus in managing stakeholder relationships during the period.
+> - 13.3 A current corporate website to communicate and engage with stakeholders.
+
+*Source note: CODE p16–18 (Principles 11–13, Provisions 11.1–13.3, fn 21); CG4 s3 (Principles listed). The Code gives these as comply-or-explain Provisions; the CG slides do not develop them further.*
 
 ## 1.X Directors: independence and board composition
 
@@ -1014,6 +1093,7 @@ Topic headings read `<subject>.<Topic>`.
 
 - **Must the annual report give each director's and the CEO's pay, with a breakdown? Can bonuses be left out if explained? CEO who is not a director?** Rule 1207(10D) — mandatory, no comply-or-explain (SQ p13 Q1, key A) → [1-46](#ccp-1-1-46)
 - **Top five key management personnel in bands of S$250,000; relatives of directors paid over S$100,000** → Provisions 8.1–8.2 (comply or explain) → [1-45](#ccp-1-1-45)
+- **How much and in what mix should directors and KMP be paid? Performance-linked pay; non-executive directors' fees; remuneration consultants** → Principles 6–7, Provisions 6.4, 7.1–7.3 → [1-59](#ccp-1-1-59)
 
 ### ccp-1-1-45 — Principle 8; Provisions 8.1–8.3
 *Keywords: Principle 8, remuneration disclosure, Provision 8.1, policy and criteria, top five key management personnel, bands no wider than S$250,000, aggregate total, Provision 8.2 employees who are substantial shareholders or immediate family, exceeds S$100,000, bands of S$100,000, Provision 8.3 all forms of remuneration, employee share schemes, comply or explain*
@@ -1031,6 +1111,19 @@ Topic headings read `<subject>.<Topic>`.
 > - The names, amounts and breakdown of remuneration paid to each individual director and the chief executive officer by the issuer and its subsidiaries. Such breakdown must include (in percentage terms) base or fixed salary, variable or performance-related income or bonuses, benefits in kind, stock options granted, share-based incentives and awards, and other long-term incentives.
 
 *Source note: CG4 s16; LM r 1207(10D) (Nic's copy); CODE fn 18; SQ p13 Q1 and p114 (key A).*
+
+### ccp-1-1-59 — Principles 6–7: remuneration procedure and the level and mix of remuneration (Provisions 6.4, 7.1–7.3)
+*Keywords: Principle 6, no director decides own remuneration, Provision 6.4 remuneration consultants independence disclosed, Principle 7, level and mix of remuneration, level and structure, sustained performance and value creation, strategic objectives, Provision 7.1 significant proportion performance-related, executive directors key management personnel, long-term success, Provision 7.2 non-executive directors remuneration effort time spent responsibilities, Provision 7.3 attract retain motivate, stewardship*
+
+**End point:** Principle 6: there is a formal and transparent procedure for fixing remuneration, and no director decides his or her own pay; any remuneration consultants and their independence are disclosed (Provision 6.4). Principle 7: the level and structure of pay for the Board and key management personnel are appropriate and proportionate to the company's sustained performance and value creation, taking into account its strategic objectives. For executive directors and KMP, a significant and appropriate proportion of pay is linked to corporate and individual performance and aligned with shareholders' and stakeholders' interests (7.1). Non-executive directors are paid according to their contribution: effort, time spent and responsibilities (7.2). Pay is set to attract, retain and motivate directors and KMP for the long term (7.3).
+
+> **Code Provisions 6.4, 7.1–7.3**
+> - 6.4 The company discloses the engagement of any remuneration consultants and their independence in its annual report.
+> - 7.1 A significant and appropriate proportion of executive directors' and key management personnel's remuneration is structured so as to link rewards to corporate and individual performance; performance-related remuneration is aligned with the interests of shareholders and other stakeholders and promotes long-term success.
+> - 7.2 The remuneration of non-executive directors is appropriate to the level of contribution, taking into account factors such as effort, time spent and responsibilities.
+> - 7.3 Remuneration is appropriate to attract, retain and motivate the directors to provide good stewardship of the company and key management personnel to successfully manage the company for the long term.
+
+*Source note: CODE p10–11 (Principles 6–7, Provisions 6.1–6.4, 7.1–7.3); RC composition and duties are in [1-42](#ccp-1-1-42), disclosure in [1-45](#ccp-1-1-45)–[1-46](#ccp-1-1-46).*
 
 ## 1.XIII Market conduct (SFA Part 12)
 
@@ -1083,6 +1176,89 @@ Topic headings read `<subject>.<Topic>`.
 
 *Source note: SFA12 p10 (s 204), p24 (s 221), p29–32 (ss 232–234).*
 
+## 1.XIV Circulars, annual reports and electronic communications (Listing Manual Chapter 12)
+
+- **Circular to shareholders: does SGX review it first? Can it go out before SGX replies? How long does review take?** Draft circular to SGX (Rule 1202); certain notices of meeting too (Rule 1203); not circulated until SGX has no objection, normally within 4 weeks (Rule 1204) → [1-52](#ccp-1-1-52)
+- **Notice of meeting to change auditors, renew a share buy-back or IPT general mandate, amend the constitution, grant options to controlling shareholders** → submitted to SGX for review (Rule 1203) → [1-52](#ccp-1-1-52)
+- **Who takes responsibility for a circular? What must every circular say? Votes of a person who must abstain** → directors' responsibility statement (Rule 1205); Rule 1206 contents → [1-52](#ccp-1-1-52)
+- **What must the annual report contain? Auditors' fees, directors' interests, material contracts with directors or controlling shareholders, loans, top 20 holders, free float, whistleblowing, use of IPO proceeds** → Rule 1207 → [1-53](#ccp-1-1-53)
+- **When may directors or officers deal in the company's shares? Black-out period two weeks / one month before results; short-term dealing; internal compliance code** → Rule 1207(19) → [1-54](#ccp-1-1-54)
+- **Can the annual report or a circular be sent by email or posted on the website? Deemed or implied consent; documents that must still be sent in hard copy** → Rules 1208–1212 → [1-55](#ccp-1-1-55)
+
+### ccp-1-1-52 — Circulars and notices of meeting: SGX review, responsibility, contents (Rules 1202–1206)
+*Keywords: Chapter 12, circular to shareholders, Rule 1202 draft circular submitted to Exchange for review, issue of securities, transaction, Rule 1203 notice of meeting review, share option scheme controlling shareholders, share buy-back mandate renewal, amendment of constitution, Rule 920 general mandate renewal, change of auditors, outgoing auditors professional reasons, disagreements 12 months, Rule 1204 no objection, 4 weeks, Rule 1205 directors' responsibility statement, Practice Note 12.1, Rule 1206 contents, properly informed decision, consult independent advisers, Exchange takes no responsibility, abstain from voting disregard votes, financial adviser responsibility statement, dual class shares*
+
+**End point:** An issuer proposing a circular to shareholders about an issue of securities or a transaction must first submit a draft to SGX for review (Rule 1202). A notice of meeting must also be submitted if it contains a resolution of a kind listed in Rule 1203. Neither may be circulated or made public until SGX says it has no objection; review normally takes 4 weeks (Rule 1204). Each director (or vendor) must accept responsibility for the accuracy of the circular's information, and a statement to that effect (PN 12.1) goes in the circular (Rule 1205). Every circular must contain the information shareholders need for a properly informed decision and meet the other Rule 1206 requirements.
+
+> **Rule 1203 — notices of meeting to be reviewed by SGX if they contain a resolution on:**
+> - (1) participation of, or grant of options to, controlling shareholders and their associates under a share option scheme;
+> - (2) renewal of a share buy-back mandate;
+> - (3) amendment of the Memorandum, Articles or other constituent documents;
+> - (4) renewal of a Rule 920 general mandate (IPTs), unless unchanged from the previous proposal;
+> - (5) change of auditors or appointment of an additional auditing firm under Rule 712(2A); the notice should include: (a) the outgoing auditors' confirmation whether they know of professional reasons why the new auditors should not accept; (b) the issuer's confirmation whether there were disagreements with the outgoing auditors on accounting treatments in the last 12 months; (c) whether the issuer knows of circumstances connected with the change that shareholders should know; (d) the specific reasons for the change (resigned, declined re-election, dismissed, or replaced at SGX's direction under Rule 1405(1)(fb)); (e) confirmation of compliance with Rules 712 and 715 or 716; (f) where an additional firm is appointed, that it is to meet Rule 712(2A).
+>
+> **Rule 1206 — every circular must:**
+> - (1) contain all information necessary for shareholders to make a properly informed decision or, if no decision is needed, to be properly informed;
+> - (2) advise shareholders in doubt to consult independent advisers;
+> - (3) state that SGX takes no responsibility for the accuracy of statements, opinions or reports in it;
+> - (4) comply with the specific circular rules for the corporate action (e.g. rights issues App 8.2; share buy-backs Rule 883; IPTs Rules 920(1)(b), 921; significant transactions Rule 1014; very substantial acquisitions or RTOs Rule 1015(5));
+> - (5) where a person must abstain from voting under a listing rule or court order, state that the issuer will disregard any votes that person casts;
+> - (6) name the financial adviser or issue manager (if any) and, where SGX requires, include its responsibility statement (PN 12.1 para 3.1);
+> - (7) for a dual class share structure, say so on the cover page and give the voting rights of each class.
+
+*Source note: LM-Ch12 p1–2 (Rules 1201–1206, as amended to 7 Feb 2020); CG-LP p5 (reading list: Chapters 2, 7, 9 and 12). Not developed in the CG slides; CG3 s14 and [1-33](#ccp-1-1-33) cover the IPT mandate circular.*
+
+### ccp-1-1-53 — Annual report contents (Rule 1207)
+*Keywords: Rule 1207, annual report contents, proper understanding of performance and financial condition, company secretary, registered office, operating and financial review, business outlook, prospectus-type information directors key management, risk management, audited accounts, prescribed accounting standards Rule 709A, auditors' fees audit and non-audit, audit committee review of non-audit services independence, Rules 712 715 716, directors' interests 21st day after financial year end, material contracts chief executive officer director controlling shareholder, loan details lender borrower amount interest security, negative statement, shareholding statistics, distribution schedule, substantial shareholders, 20 largest holders, percentage held by public Rule 723, treasury shares, subsidiary holdings, internal controls comment Rule 1207(10), chairman CEO immediate family Rule 1207(10A), director designations Rule 1207(10B), internal audit function Rule 1207(10C), remuneration Rule 1207(10D), land and buildings valuation, Rule 852 share options, Rule 907 IPTs, Rule 710 corporate governance, whistleblowing policy Rule 1207(18A), Rule 1207(18B), use of proceeds Rule 1207(20), mineral oil and gas reserves*
+
+**End point:** The annual report must contain enough information for a proper understanding of the performance and financial condition of the issuer and its principal subsidiaries, including at least the Rule 1207 items. Points that come up in questions: material contracts involving the CEO, a director or a controlling shareholder (with full details of any loan), or a negative statement if there are none (1207(8)). Shareholding statistics include the percentage held by the public and confirmation that Rule 723 is met (1207(9)(e)). The governance items are the Board's comment on internal controls with the AC's concurrence (10), disclosure of the relationship if the Chairman and CEO are immediate family (10A), each director's designation and roles (10B), the AC's comment on the internal audit function (10C) and each director's and the CEO's remuneration (10D). The report must also state that a whistleblowing policy is in place, and how the issuer complies with the independence, confidentiality, protection and AC-oversight requirements (18A–18B).
+
+> **Rule 1207 — minimum contents**
+> - (1)–(3) Company secretary's name; registered office details; where the registers of securities are kept.
+> - (4) Review of the operating and financial performance of the issuer and principal subsidiaries, including developments after the preliminary financial statement, business outlook, prospectus-type information on directors and key management staff and on risk management (OFR Guide encouraged, not required).
+> - (5) Audited consolidated accounts; unconsolidated balance sheet; consolidated cashflow statement; whether prepared and audited under the prescribed standards (Rule 709A); any deviation from the accounting standards, with justification and the auditors' agreement that it is needed for a "true and fair" view.
+> - (6) (a) Audit and non-audit fees paid to auditors (or a negative statement); (b) AC's confirmation it has reviewed non-audit services and they would not affect auditor independence; (c) compliance with Rules 712 and 715 or 716.
+> - (7) Each director's direct and deemed interests in shares and convertibles, as at the 21st day after the financial year end.
+> - (8) Material contracts of the issuer and subsidiaries involving the interests of the CEO, any director or controlling shareholder, subsisting at year end or entered into since the previous year end; for a loan, the lender and borrower, their relationship, amount, interest rate, repayment terms and security; otherwise a negative statement.
+> - (9) Shareholding statement (made up to not more than 1 month before the AGM notice): holders and voting rights per class; distribution schedule; substantial shareholders' direct and deemed interests; 20 largest holders; public percentage and Rule 723 compliance; treasury shares; subsidiary holdings and their percentage; dual class share details.
+> - (10) Board comment on adequacy and effectiveness of internal controls (financial, operational, compliance and IT) and risk management, whether the AC concurs, and any material weaknesses with steps taken. (10A) Chairman–CEO relationship if immediate family. (10B) All directors' designations and roles. (10C) AC comment on whether internal audit is independent, effective and adequately resourced. (10D) Each director's and the CEO's remuneration, named and broken down.
+> - (11) Land and buildings: freehold/leasehold values, valuations; property details if over 15% of NTA or pre-tax operating profit. (12)–(15) Deleted.
+> - (16) Rule 852 information on share option schemes. (17) Rule 907 IPT information. (18) Rule 710 corporate governance information.
+> - (18A) Statement that a whistleblowing policy is in place. (18B) How the issuer complies with: (a) an independent function investigating good-faith reports; (b) confidentiality of the whistleblower's identity; (c) commitment to protecting the whistleblower from detrimental or unfair treatment; (d) AC oversight and monitoring of whistleblowing.
+> - (19) Dealings in securities (see [1-54](#ccp-1-1-54)).
+> - (20) Status report on use of IPO and Chapter 8 proceeds, whether in line with the stated use and allocation; a breakdown for working capital; reasons for any material deviation.
+> - (21) Mineral, oil and gas companies: summary of reserves and resources (Appendix 7.5).
+
+*Source note: LM-Ch12 p2–5 (Rule 1207, as amended to 11 Jan 2023). Rule 1207(10) and (10D) are developed in [1-44](#ccp-1-1-44) and [1-46](#ccp-1-1-46) (CG4 s14, s16).*
+
+### ccp-1-1-54 — Dealings in securities: black-out periods (Rule 1207(19))
+*Keywords: Rule 1207(19), dealings in securities, insider dealing, black-out period, closed period, internal compliance code, officers, short-term considerations, two weeks before quarterly results, one month before full year results, one month before half year and full year results, best practices, comply or explain in annual report, directors dealing in shares*
+
+**End point:** The annual report must state whether and how the issuer has complied with three best practices on dealings in its securities (Rule 1207(19)): (a) it has its own internal compliance code guiding the issuer and its officers on dealing in its securities; (b) officers do not deal on short-term considerations; and (c) the issuer and its officers do not deal during the black-out periods. If the issuer reports quarterly, the black-out runs from two weeks before each of the first three quarterly results and from one month before the full-year results. If it does not report quarterly, it runs from one month before the half-year and full-year results. These are best practices to be reported on, not prohibitions. Dealing on inside information is a separate offence under SFA s 218 (see [1-49](#ccp-1-1-49)).
+
+> **Rule 1207(19) — a statement whether and how the issuer has complied with:**
+> - (a) a listed issuer should devise and adopt its own internal compliance code to guide its officers on dealing by the issuer and its officers in its securities;
+> - (b) an officer should not deal in his company's securities on short-term considerations; and
+> - (c) the issuer and its officers should not deal in the issuer's securities during the period commencing:
+>   - two weeks before the announcement of each of the first three quarters' financial statements, and one month before the full-year financial statements (if the issuer announces quarterly statements, whether required by SGX or not); or
+>   - one month before the announcement of the half-year and full-year financial statements (if the issuer does not announce quarterly statements).
+
+*Source note: LM-Ch12 p5 (Rule 1207(19)); LM r 703 commentary in Nic's compiled Mainboard Rules (p ref "1207(19) which provides guidance on … dealings").*
+
+### ccp-1-1-55 — Electronic communications with shareholders (Rules 1208–1212)
+*Keywords: Rule 1208 express consent, Rule 1209 deemed consent, implied consent, electronic communications, email, website publication, annual report circular sent electronically, constitution provides for electronic communications, right to elect physical copy, standing election, Rule 1210 physical copies, forms and acceptance letters, notice of meetings, takeover offers, rights issues, Rule 1211 request physical copy, Rule 1212 physical notification of website publication*
+
+**End point:** An issuer may send notices, circulars and annual reports electronically to a shareholder who has expressly consented (Rule 1208). It may also do so on deemed consent or implied consent under the constitution (Rule 1209). Even then, forms and acceptance letters, notices of meeting, takeover and rights issue documents, and the Rule 1211–1212 notices must be sent in hard copy (Rule 1210). The issuer must tell the shareholder how to ask for a physical copy and supply one on request (Rule 1211). If it publishes on its website, it must separately send a physical notification giving the publication, the date the document will be available, the website address, where on the site it is, and how to access it (Rule 1212).
+
+> **Rule 1209 — consent other than express consent**
+> - (1) Deemed consent: (a) the constitution provides for electronic communications, specifies the manner, and gives the shareholder an opportunity to elect within a specified period between electronic and physical copies; and (b) the issuer has separately notified the shareholder in writing at least once that: (i) he may elect within a stated time; (ii) if he does not elect, documents will be sent electronically; (iii) the manner of electronic communication is the one in the constitution; (iv) the election is a standing election but he may make a fresh election at any time; and (v) his latest election prevails over earlier ones; or
+> - (2) Implied consent: the constitution (a) provides for electronic communications, (b) specifies the manner, and (c) provides that the shareholder agrees to receive documents electronically and has no right to elect a physical copy.
+>
+> **Rule 1210 — always sent as physical copies (where Rule 1209 is used)**
+> - (1) forms or acceptance letters shareholders may need to complete; (2) notices of meeting (excluding the circulars or letters they refer to); (3) notices and documents on takeover offers and rights issues; (4) notices under Rules 1211 and 1212.
+
+*Source note: LM-Ch12 p5–6 (Rules 1208–1212, added 31 Mar 2017). The audit's "Rule 1209" item is this block.*
+
 ## 2.I Liquidation: overview
 
 - **What is liquidation? Which Act — IRDA or Companies Act? Old proceedings?** → [2-1](#ccp-1-2-1)
@@ -1113,6 +1289,7 @@ Topic headings read `<subject>.<Topic>`.
   - **Cash-flow or balance-sheet test? 12 months** → [2-7](#ccp-1-2-7)
 - **Company disputes the debt / has a cross-claim (e.g. unpaid judgment against the creditor) — can it stop the winding up?** Genuine cross-claim on substantial grounds, equal to or exceeding the debt (SQ p18 Q1 key C; SQ p19 Q2 key D) → [2-8](#ccp-1-2-8)
 - **Company insolvent but viable — must the court wind it up?** No; discretion, public interest → [2-9](#ccp-1-2-9)
+- **Non-core (blue) liquidation cases: Eurosail balance-sheet test; Seah Chee Wan; Lim Siew Soo estate costs** → [2-72](#ccp-1-2-72)
 
 ### ccp-1-2-3 — Who may apply; contingent and prospective creditors
 *Keywords: locus standi, s 124(1) IRDA, creditor, contingent creditor, prospective creditor, company, director, contributory, liquidator, judicial manager, Minister, MAS, Re People's Parkway Development, existing obligation*
@@ -1157,9 +1334,9 @@ Topic headings read `<subject>.<Topic>`.
 ### ccp-1-2-8 — Disputed debt and cross-claim; abuse of process
 *Keywords: disputed debt, substantial grounds, bona fide, genuine cross-claim, triable issues, stay or dismiss winding up application, injunction restraining application, abuse of process, Metalform Asia v Holland Leedon, Mohd Zain bin Abdullah v Chimbusco, RCMA Asia v Sun Electric exceptional, cross-claim exceeds debt, escrow, personal guarantee, Papaya Tree, Mega Farmer, Stoke, United, coerce a debtor to pay, judgment against applicant unpaid, undisputed debt, supplier wants to wind up customer*
 
-**End point:** Where the debt is undisputed, the Court will ordinarily wind the company up (*Metalform Asia v Holland Leedon* [2007] 2 SLR(R) 268). But if the company genuinely disputes the debt on substantial grounds, or has a genuine cross-claim on substantial grounds, it may have the application stayed or dismissed, or restrain it by injunction, since presenting it would be an abuse of process; the standard is a triable issue (as on summary judgment). A cross-claim defeats the application where it equals or exceeds the debt: so a supplier owed an undisputed debt can apply to wind up only if its claim exceeds the debtor's unpaid judgment against it (SQ p18 Q1, key C), and a company sued-upon can resist if its genuine cross-claim on substantial grounds is equal to or more than the creditor's claim (SQ p19 Q2, key D) — the creditor need not first call on a personal guarantee, and the company need not already hold a judgment. In exceptional cases the Court may wind up despite a substantial dispute (*RCMA Asia v Sun Electric* [2020] SGHC 205).
+**End point:** Where the debt is undisputed, the Court will ordinarily wind the company up (*Metalform Asia v Holland Leedon* [2007] 2 SLR(R) 268). But if the company genuinely disputes the debt on substantial grounds, or has a genuine cross-claim on substantial grounds, it may have the application stayed or dismissed, or restrain it by injunction, since presenting it would be an abuse of process; the standard is a triable issue (as on summary judgment). A cross-claim defeats the application where it equals or exceeds the debt: so a supplier owed an undisputed debt can apply to wind up only if its claim exceeds the debtor's unpaid judgment against it (SQ p18 Q1, key C), and a company sued-upon can resist if its genuine cross-claim on substantial grounds is equal to or more than the creditor's claim (SQ p19 Q2, key D) — the creditor need not first call on a personal guarantee, and the company need not already hold a judgment. In exceptional cases the Court may wind up despite a substantial dispute (*RCMA Asia v Sun Electric* [2020] SGHC 205). The standard is the same in bankruptcy: the debtor need only raise a triable issue, because insolvency proceedings are not a means of enforcing a disputed debt and the insolvency court is not placed to try the dispute; conditions are imposed only where the debtor's case is "shadowy" (*Mohd Zain bin Abdullah v Chimbusco International Petroleum (Singapore) Pte Ltd* [2014] 2 SLR 446; see [2-69](#ccp-1-2-69)).
 
-*Source note: INS1 s15–16; INS-CS1 p14–15; INS-SYL p2 (BNP Paribas, Metalform, Mohd Zain); Cyril-INS §1.2.4; SQ p18 Q1, p18–19 Q2 and p114 (keys C, D). The "equal to or exceeding" gloss is from the SQ options; INS-CS1 p14 states only "genuine cross claim".*
+*Source note: INS1 s15–16; INS-CS1 p14–15; INS-SYL p2 (BNP Paribas, Metalform, Mohd Zain); Cyril-INS §1.2.4; Cel-INS p36 (Mohd Zain); SQ p18 Q1, p18–19 Q2 and p114 (keys C, D). The "equal to or exceeding" gloss is from the SQ options; INS-CS1 p14 states only "genuine cross claim".*
 
 ### ccp-1-2-9 — Court's discretion not to wind up; public interest
 *Keywords: court's discretion, s 128 IRDA, decline to wind up, temporarily insolvent, commercially viable, public interest, BNP Paribas at [19], employees, creditors, adjournment, s 201 IRDA wishes of creditors and contributories*
@@ -1167,6 +1344,18 @@ Topic headings read `<subject>.<Topic>`.
 **End point:** The Court may decline to wind up a company even if it is unable to pay its debts (s 128), e.g. where it is only temporarily insolvent but commercially viable; it considers public interest elements, such as the effect on employees, other creditors, suppliers, customers and shareholders (*BNP Paribas v Jurong Shipyard* at [19]), and may adjourn. It may also have regard to the wishes of creditors and contributories (s 201).
 
 *Source note: INS1 s18; INS-CS1 p15; INS-SYL p1, p3; Cyril-INS §1.2.5.*
+
+### ccp-1-2-72 — Non-core liquidation cases: insolvency tests; estate costs rule
+*Keywords: non-core, blue, BNY Corporate Trustee Services v Eurosail-UK, balance sheet test, prospective and contingent liabilities, reasonably be expected to meet, Seah Chee Wan v Connectus Group, neither test dominant, cash flow test Sun Electric, Lim Siew Soo v Sembawang Engineers and Constructors, estate costs rule, litigation adopted by liquidator, successful defendant's costs, priority over liquidator's remuneration, s 283(3) discretion*
+
+**End point:** These are the blue (not tested) liquidation cases (syllabus §1) for which a source states what they decide; each line gives the holding.
+
+> **Blue liquidation cases — what each decides**
+> - *BNY Corporate Trustee Services Ltd v Eurosail-UK 2007-3BL plc* [2013] UKSC 28 (test for insolvency): the balance-sheet test asks whether, on its present assets and taking account of its contingent and prospective liabilities, the company can reasonably be expected to meet those liabilities (compare s 125(2)(c) IRDA).
+> - *Seah Chee Wan v Connectus Group Pte Ltd* [2019] SGHC 228 (test for insolvency): neither the cash-flow nor the balance-sheet test is dominant, and either may be relevant on the facts; the course treats this as overtaken by the cash-flow test in *Sun Electric* (see [2-5](#ccp-1-2-5)).
+> - *Lim Siew Soo v Sembawang Engineers and Constructors Pte Ltd* [2021] SGHC 32 at [7]–[8] (estate costs rule): the rule covers litigation the liquidator adopts as well as litigation he starts; a successful defendant's costs rank ahead of other liquidation expenses, including the liquidator's remuneration. The Court of Appeal ([2021] SGCA 16) dismissed the appeal as academic after settlement, without deciding the point.
+
+*Source note: INS-SYL p1–3 (§1(b)(i), §1(f)(ii) blue Extra Readings); Cel-INS p8 (Eurosail, Seah Chee Wan); eLit 2021_SGHC_32 and 2021_SGCA_16 (Lim Siew Soo); INS1 s35 (estate costs rule, see [2-17](#ccp-1-2-17)). Not stated (no course or seniors' source; judgment not online by neutral citation; syllabus marks them not tested): Chip Thye v Phay Gi Mo; Pac-Asian v European Asian Bank; Re Dayang Construction; Re Tiong Polestar; Re Wan Soon Construction; SCK Serijadi v Artison Interior; Raiffeisen v Continental Chemical; Nova Leisure v Dynasty Theatre; Kao Chai-Chau Linda v Fong Wai Lyn; Teo Han Tong v Tecta Pacific; Re Econ Corp [2004] 2 SLR(R) 264.*
 
 ## 2.III Voluntary winding up
 
@@ -1320,6 +1509,8 @@ Topic headings read `<subject>.<Topic>`.
 - **What must the bankrupt do?** → [2-29](#ccp-1-2-29)
 - **Can a bankrupt be a director, executor, sue, travel, borrow over S$1,000?** → [2-30](#ccp-1-2-30)
 - **Dividends to creditors; trustee's remuneration** → [2-31](#ccp-1-2-31)
+- **Debtor disputes the debt at the bankruptcy hearing — stay or dismissal? Triable issue; conditional stay if "shadowy" (Mohd Zain v Chimbusco); adjourn; withdraw the application** → ss 315, 318, 323 → [2-69](#ccp-1-2-69)
+- **Non-core (blue) bankruptcy cases: domicile; statutory demand served but returned unclaimed; instalment deal compounding the debt; bankrupt suing or appealing without OA's prior sanction; final dividend; nominee's report** → [2-70](#ccp-1-2-70)
 
 ### ccp-1-2-25 — Court's jurisdiction over the debtor (s 310)
 *Keywords: bankruptcy jurisdiction, s 310 IRDA, domiciled in Singapore, property in Singapore, ordinarily resident, place of residence, carried on business, within 1 year before bankruptcy application*
@@ -1369,6 +1560,29 @@ Topic headings read `<subject>.<Topic>`.
 **End point:** The OA declares and distributes dividends whenever he has sufficient funds (s 385), and may end the administration once he has realised as much of the estate as he can without needlessly protracting the bankruptcy. A trustee's remuneration is fixed having regard to four factors (IRDA PI Rules r 47): the complexity of the case; any exceptional responsibility assumed; the effectiveness of the trustee's performance; and the value and nature of the estate's assets.
 
 *Source note: INS2 s19, s21; INS-SYL p7 (ss 41–42, 385–387).*
+
+### ccp-1-2-69 — Bankruptcy hearing: stay, dismissal, adjournment, withdrawal (ss 315, 318, 323); disputed debt (Mohd Zain)
+*Keywords: s 315 IRDA, stay bankruptcy proceedings, sufficient reason, just terms, dismiss bankruptcy application, s 315(2) contravention, s 318 debtor's own application, unable to pay debts, adjourn refer to Official Assignee, voluntary arrangement feasible, s 323 withdrawal, leave of court, deemed withdrawn no step one year, Mohd Zain bin Abdullah v Chimbusco, triable issue, disputed debt bankruptcy, shadowy case, conditional stay, bankruptcy not a debt collection tool, summary judgment standard*
+
+**End point:** The Court may, at any time and for sufficient reason, stay the proceedings on a bankruptcy application altogether or for a time, on just terms (s 315). It may also dismiss an application where the applicant has contravened the Act (s 315(2)). To get a stay or dismissal on the ground that the debt is disputed, the debtor need only raise triable issues. Bankruptcy is not a proper way to enforce a disputed debt, and the bankruptcy court is not placed to try a commercial dispute without a trial (*Mohd Zain bin Abdullah v Chimbusco International Petroleum (Singapore) Pte Ltd* [2014] 2 SLR 446). The same triable-issue standard applies to a disputed debt in winding up (see [2-8](#ccp-1-2-8)). Conditions are attached to a stay only if the debtor's case is "shadowy", which protects a creditor facing a weak defence from having to bring a separate summary judgment application (*Mohd Zain*). On a debtor's own application, the Court must not make an order unless satisfied that the debtor cannot pay his debts. Where an order could be made, it may instead adjourn and refer the matter to the Official Assignee to assess whether a voluntary arrangement is feasible (s 318). A bankruptcy application cannot be withdrawn without the Court's leave, and it is deemed withdrawn if no party takes a step for more than one year (s 323).
+
+*Source note: INS-SYL p2 (§1(b)(iii), Mohd Zain essential) and p6 (§2(a)(iv): ss 315, 318, 323 and Mohd Zain); Cel-INS p36 (s 315, Mohd Zain: triable issues, "shadowy"), p38 (s 323); IRDA-2018 p343 (s 315), p348 (s 318), p351 (s 323); NIC-INS p14; Timo p56 (s 315(2)). Non-core: the syllabus shows ss 315, 318 and 323 in blue.*
+
+### ccp-1-2-70 — Non-core bankruptcy cases: domicile, statutory demands, restrictions on the bankrupt
+*Keywords: non-core, blue, Algemene Bank Nederland v Loo Choon Yow, domicile, frequent travel, burden of proving change of domicile, HSBC v Rasmachayana Sulistyo, statutory demand service, returned unclaimed, substituted service, advertisement, prejudice or injustice to creditor, contractual mode of service, Bombay Talkies v UOB, instalment arrangement, compounding debt, without prejudice to original rights, Aathar Ah Kong Andrew v OUE Lippo Healthcare, undischarged bankrupt, previous sanction of Official Assignee, s 401 IRDA, prior not retrospective sanction, locus standi, Standard Chartered Bank v Loh Chong Yong Thomas, s 387 final dividend, notice of intention to declare final dividend, final date for claims, rule 56 nominee's report two days before interim order expires*
+
+**End point:** These are the blue (not tested) cases and rules under the syllabus's bankruptcy heading (§2) for which a source states what they decide; each line gives the holding.
+
+> **Blue bankruptcy cases and rules — what each decides**
+> - *Algemene Bank Nederland NV v Loo Choon Yow* [1989] 1 SLR(R) 272 (jurisdiction, s 310): frequent travel abroad does not make a foreign place the debtor's domicile; a change of domicile must be clearly proved by the party alleging it.
+> - *HSBC v Rasmachayana Sulistyo* [2005] 1 SLR 483 (statutory demands): the demand must actually be brought to the debtor's attention, so one returned unclaimed is not validly served; substituted service (e.g. through a forwarding agent and advertisement) may be allowed, and parties may contract for other modes of service; a defect matters only if it causes prejudice or injustice.
+> - *Bombay Talkies (S) Pte Ltd v UOB* [2016] 2 SLR 875 (statutory demands): an instalment arrangement expressly without prejudice to the creditor's original rights does not "compound" the debt (replace the old debt with a new one), so the statutory demand stays valid.
+> - *Aathar Ah Kong Andrew v OUE Lippo Healthcare Ltd* [2021] SGCA 48 at [27]–[38] (restrictions): an undischarged bankrupt cannot commence, continue or defend a non-excluded action or appeal without the Official Assignee's previous sanction (s 401(1)(a)); the sanction must come first and cannot be given retrospectively, so his appeal failed for want of standing.
+> - *Standard Chartered Bank v Loh Chong Yong Thomas* [2010] 2 SLR 569 (restrictions): "previous sanction" of the Official Assignee means prior sanction; retrospective sanction is not available (as described in *OUE Lippo* at [32]).
+> - s 387 (dividends): when the Official Assignee has realised the estate, or as much of it as can be realised without needlessly protracting the bankruptcy, he gives notice of his intention to declare a final dividend and fixes a final date for claims, which the Court may postpone.
+> - Personal Insolvency Rules 2020 r 56 (IVA): the nominee's report must be submitted at least two days before the interim order expires.
+
+*Source note: INS-SYL p5–7 (§2 blue items); Cel-INS p26 (Algemene), p31, p33, p35 (Rasmachayana, Bombay Talkies); NIC-INS p14–15, p18 (r 56); IRDA-2018 p417 (s 387); eLit 2021_SGCA_48 at [27]–[38], [32]. Not stated (no course or seniors' source, and the judgment could not be read online; syllabus marks them not tested): Lalwani Ashok v Lalwani Shalini; Aathar v CIMB Securities; Cheo Sharon Andriesz [2012] 4 SLR 89 (the [2013] decision is in [2-49](#ccp-1-2-49)); Takahashi Kenji v Koh Hiang Pin; Re Jeyaretnam (No 2); Hong Leong Bank v Soh Seow Poh; Lim Lye Hiang v OA; Tan Teck Guan v Mapletree; Personal Insolvency Rules rr 107–112 and Voluntary Arrangements Regulations reg 11 (text not in Bar Exam/; SSO refused access 18 Nov 2026).*
 
 ## 2.VIII Bankruptcy: annulment, discharge and alternatives
 
@@ -1429,6 +1643,7 @@ Topic headings read `<subject>.<Topic>`.
 - **JM without a court order — creditors' resolution; interim judicial manager** → [2-42](#ccp-1-2-42)
 - **Effect of filing for JM / of the JM order on enforcement, winding up, leases, receivers, set-off** → [2-43](#ccp-1-2-43)
 - **Judicial manager: who, powers, cannot pay old debts, proposals in 90 days, 180 days, extension, discharge, s 115 relief** → [2-44](#ccp-1-2-44)
+- **Non-core (blue) JM: who can be nominated as JM; creditors oppose the company's nominee; interim JM (Re KS Energy); JM's remuneration and expenses priority; bona fide application** → [2-71](#ccp-1-2-71)
 
 ### ccp-1-2-38 — Aims and features of judicial management; which companies
 *Keywords: judicial management, JM, Part 7 IRDA, rehabilitation, preservation, going concern, Pan-El crisis 1987, UK administration, alternative to winding up, moratorium, directors replaced, powers vest in judicial manager, corporation liable to be wound up, foreign company, not banks insurers*
@@ -1484,6 +1699,18 @@ Topic headings read `<subject>.<Topic>`.
 
 *Source note: INS3 s21–26; INS-CS1 p46–49; INS-SYL p8–9 (ss 99–118).*
 
+### ccp-1-2-71 — Non-core JM: nominating the judicial manager (s 91(3)); interim JM (Re KS Energy); JM's remuneration and expenses (ss 102, 104, 113, 114); bona fides
+*Keywords: non-core, blue, s 91(3) IRDA, nominee licensed insolvency practitioner, not the company's auditor, statutory declaration no conflict, majority in number and value of creditors oppose nominee, floating charge holder nominee must be appointed, interim judicial manager, s 92, Re KS Energy, provisional liquidator analogy, assets at risk, super-majority creditor, s 102(1)(b) remuneration and expenses out of company property, s 104(3) charge on property priority, s 113 former JM apply for approval, expense of winding up, s 114 priority of JM expenses, rescue financing s 101(1)(b), Re Genesis Technologies, bona fide application, honourable motives*
+
+**End point:** The person nominated as judicial manager must be a licensed insolvency practitioner who is not the company's auditor, and must declare that he has no conflict (s 91(3)). If the company nominates, a majority in number and value of creditors may oppose, and the Court may appoint their nominee instead. If a floating charge holder entitled to appoint a receiver and manager nominates, the Court must appoint its nominee unless that is inappropriate. The power to appoint an interim JM (s 92) is broad, and its categories are not closed: by analogy with a provisional liquidator, an interim JM was appointed where the companies were balance-sheet insolvent, a super-majority creditor sought JM, a JM order was all but inevitable and the assets were at risk (*Re KS Energy Ltd* [2020] SGHC 198). The JM's remuneration and expenses are paid out of company property in his custody (s 102(1)(b)). When he ceases to act, they are charged on that property ahead of all other debts except certain secured ones (s 104(3)), and are paid in the s 114 order of priority:
+- rescue financing under s 101(1)(b);
+- debts incurred during the JM, including s 101(1)(a) rescue financing;
+- other remuneration and expenses.
+
+A former JM whose remuneration was not approved may apply to the Court, which may order it to be paid as an expense of the winding up (s 113). A JM application must be brought bona fide, with clearly honourable motives (*Re Genesis Technologies International (S) Pte Ltd* [1994] 2 SLR(R) 298).
+
+*Source note: INS-SYL p8 (§3(a)(ii) s 91(3), Re KS Energy; §3(b)(iv) ss 102(1)(b), 104(3), 113, 114 — all blue); IRDA-2018 pp110–111 (s 91(3)), p131 (s 102), p132 (s 104(3)), p142 (s 113), p143 (s 114); Cel-INS p50 (Re Genesis), p52–53 (s 91(3)); NIC-INS p21; eLit 2020_SGHC_198 (Re KS Energy). The core JM rules are in [2-40](#ccp-1-2-40) and [2-44](#ccp-1-2-44).*
+
 ## 2.X Avoidance of antecedent transactions; officers' liability
 
 - **Company paid one creditor (or a director's loan) just before liquidation — can the liquidator recover it?** Unfair preference → [2-45](#ccp-1-2-45)
@@ -1495,6 +1722,7 @@ Topic headings read `<subject>.<Topic>`.
 - **What can the court order? Restore position** → [2-51](#ccp-1-2-51)
 - **Directors kept trading to defraud creditors** → fraudulent trading → [2-52](#ccp-1-2-52)
 - **Directors incurred debts with no reasonable prospect of paying** → wrongful trading → [2-53](#ccp-1-2-53)
+- **Non-core (blue) avoidance cases: creditor pressure (Rabobank); "significantly less" judged objectively (Parakou)** → [2-73](#ccp-1-2-73)
 
 ### ccp-1-2-45 — Unfair preference: elements (s 225)
 *Keywords: unfair preference, undue preference, s 225 IRDA, s 362 bankruptcy, creditor surety or guarantor, better position in liquidation, influenced by desire to prefer, insolvent at time or as a result, repaying director's loan, personal guarantee*
@@ -1520,9 +1748,14 @@ Topic headings read `<subject>.<Topic>`.
 ### ccp-1-2-48 — Transaction at an undervalue (s 224)
 *Keywords: transaction at an undervalue, s 224 IRDA, s 361 bankruptcy, gift, no consideration, consideration significantly less in money or money's worth, consideration of marriage, 3 years, s 226(1)(a), connected person presumption of insolvency s 226(3), transaction includes unilateral payment Mercator v Velstra, mistaken payment not a transaction Velstra v Dexia, valuation at time Buildspeed, defence good faith business purposes reasonable grounds benefit s 224(4), Rothstar v Leow Quek Shiong*
 
-**End point:** A company enters into a transaction at an undervalue if it makes a gift or receives no consideration, or receives consideration significantly less in money or money's worth than the value it provides (s 224(3); for individuals also a transaction in consideration of marriage, s 361). The company must have been insolvent at the time or become so as a result; if the counterparty is connected, insolvency is presumed (s 226(3)). The look-back is 3 years before the commencement of the winding up or JM (s 226(1)(a); 3 years before the bankruptcy application, s 363). A "transaction" includes a unilateral payment or gift (*Mercator & Noordstar v Velstra*), but the company must have intended to transact with the recipient, so a mistaken payment is not one (*Velstra v Dexia Bank*); values are assessed as at the time of the transaction (*Buildspeed v Theme Corp*). Defence: no order if the company acted in good faith for the purposes of its business with reasonable grounds for believing the transaction would benefit it (s 224(4)).
+**End point:** A company enters into a transaction at an undervalue if it makes a gift or receives no consideration, or receives consideration significantly less in money or money's worth than the value it provides (s 224(3); for individuals also a transaction in consideration of marriage, s 361). The company must have been insolvent at the time or become so as a result; if the counterparty is connected, insolvency is presumed (s 226(3)). The look-back is 3 years before the commencement of the winding up or JM (s 226(1)(a); 3 years before the bankruptcy application, s 363). A "transaction" includes a unilateral payment or gift (*Mercator & Noordstar v Velstra*), but the company must have intended to transact with the recipient, so a mistaken payment is not one (*Velstra v Dexia Bank*); values are assessed as at the time of the transaction (*Buildspeed v Theme Corp*). Defence: no order if the company acted in good faith for the purposes of its business with reasonable grounds for believing the transaction would benefit it (s 224(4)). *Rothstar Group Ltd v Leow Quek Shiong* [2022] SGCA 25 (decided under the identical Bankruptcy Act provision) sets out how the value comparison works:
+- "consideration" has its contractual meaning; the "no consideration" limb asks only whether consideration exists, while the "significantly less" limb compares values;
+- the comparison is made from the insolvent grantor's side, so only value that actually accrues to the grantor counts (it need not be received directly), and the grantor's mere perception of value does not count;
+- both values are measured in money or money's worth, so they must be quantifiable in money, and abstract or speculative benefits need evidence.
 
-*Source note: INS4 s14–20; INS-CS1 p29–31; INS-SYL p9–10 (s 225 heading as listed; Rothstar Group v Leow Quek Shiong [2022] SGCA 25 listed, not summarised); RL-Sec p8–9.*
+On the facts, a director and his company that granted a legal mortgage securing a third party's loan received nothing in money's worth, so the mortgage was a transaction at an undervalue. Such a transaction is not "void": the Court restores the position under its remedial power, and in *Rothstar* it discharged the mortgage with prospective effect. The good-faith business defence failed because there was no evidence of a business purpose or a benefit to the grantor.
+
+*Source note: INS4 s14–20; INS-CS1 p29–31; INS-SYL p9–10 (s 225 heading as listed; Rothstar essential); NIC-ANT p3–5 (Rothstar [2022] 2 SLR 158; [2022] SGCA 25 — on BA s 98(3), now IRDA ss 224/361); RL-Sec p8–9.*
 
 ### ccp-1-2-49 — Void dispositions after commencement (s 130; s 328)
 *Keywords: void disposition, s 130 IRDA, after commencement of winding up by court, unless court otherwise orders, validation, s 328 IRDA disposition by bankrupt after bankruptcy application, Cheo Sharon Andriesz v Official Assignee, consent judgment in divorce, bankruptcy search, QCD Sdn Bhd v Wah Nam Plastic, disposition excludes beneficial owner obtaining its property*
@@ -1559,6 +1792,17 @@ Topic headings read `<subject>.<Topic>`.
 
 *Source note: INS4 s4, s28–29; INS-SYL p10; Cyril-INS §4.4.*
 
+### ccp-1-2-73 — Non-core avoidance cases: creditor pressure; "significantly less" consideration
+*Keywords: non-core, blue, Rabobank v Jurong Technologies, creditor pressure, desire to prefer, commercial purpose sufficient not necessary, Parakou Investment Holdings v Parakou Shipping, significantly less, objective assessment, value of the asset*
+
+**End point:** These are the blue (not tested) avoidance cases (syllabus §4) for which a source states what they decide; each line gives the holding.
+
+> **Blue avoidance cases — what each decides**
+> - *Rabobank v Jurong Technologies Industrial Corp Ltd* [2011] 4 SLR 977 (unfair preference): the CA upheld a finding that the debtors desired to prefer Rabobank even though Rabobank had pressed for payment; a genuine commercial purpose is enough, but is not necessary, to rebut the desire to prefer.
+> - *Parakou Investment Holdings Pte Ltd v Parakou Shipping Pte Ltd* [2018] 1 SLR 271 (undervalue): whether consideration is "significantly less" is judged objectively against the value of the asset.
+
+*Source note: INS-SYL p9–10 (§4 Extra Readings); INS4 s13 and NIC-INS p25 (Rabobank); NIC-INS p26 (Parakou). Core rules: [2-45](#ccp-1-2-45), [2-48](#ccp-1-2-48). Not stated (no source holding; syllabus marks them not tested): Show Theatres v Shaw Theatres; Living the Link v Tan Lay Tin Tina; Leun Wah Electric v Sigma Cable; Tendcare Medical v Gong Ruizhong (the judgment, [2021] SGHC 80, is about fraudulent trading under s 340(1) CA, not wrongful trading); Tang Yoke Kheng v Lek Benedict [2005] 3 SLR(R) 263; Leong Seng Hin Piling v Chan Ah Lek.*
+
 ## 2.XI Schemes of arrangement
 
 - **What is a scheme? Who can propose one? Foreign company?** → [2-54](#ccp-1-2-54)
@@ -1569,6 +1813,7 @@ Topic headings read `<subject>.<Topic>`.
 - **What majority approves the scheme?** Majority in number + 75% in value present and voting, each class → [2-59](#ccp-1-2-59)
 - **One class voted against — cram down? Approval without a meeting (pre-pack)?** → [2-60](#ccp-1-2-60)
 - **Court sanction: factors; binding on dissenters; third-party releases; lodgement** → [2-61](#ccp-1-2-61)
+- **Non-core (blue) scheme cases: stay before filing (Conchubar 2015); fairness (Conchubar 2017); pre-pack (DSG, Zipmex); binding on dissenters (Oriental Insurance, Eltraco); guarantees and third parties (Daewoo, Econ Piling)** → [2-74](#ccp-1-2-74)
 
 ### ccp-1-2-54 — What a scheme is; which companies; key steps
 *Keywords: scheme of arrangement, compromise or arrangement, s 210 Companies Act, ss 63-72 IRDA, binding contract, debtor in possession, company liable to be wound up, substantial connection, foreign company, key steps, leave to convene, meeting, sanction, lodgement*
@@ -1626,6 +1871,23 @@ Topic headings read `<subject>.<Topic>`.
 
 *Source note: INS5 s18–22; INS-CS1 p58–59; INS-SYL p12.*
 
+### ccp-1-2-74 — Non-core scheme cases: early stay, pre-packs, fairness, binding effect, third parties
+*Keywords: non-core, blue, Re Conchubar Aromatics 2015, stay before s 210(1) application, sufficient detail, bona fide intention, ex parte, Re Conchubar 2017, fairness, proper opportunity to vote, machinery to change terms after sanction, Re DSG Asia Holdings, pre-pack s 71 IRDA, disclosure and majorities, Re Zipmex, administrative convenience class, s 210(3AB), Oriental Insurance v Reliance National Asia Re, binding on dissenters, cannot be altered, objections at sanction hearing, Daewoo Singapore v CEL Tractors, third party rights extinguished if scheme says so, Econ Piling v Sambo, directors' guarantees not discharged unless express, Eltraco International v Sennet Electrical, sanctioned scheme binds all creditors, direct payments by project owners circumvent scheme, injunction*
+
+**End point:** These are the blue (not tested) scheme cases (syllabus §5) for which a source states what they decide; each line gives the holding.
+
+> **Blue scheme cases — what each decides**
+> - *Re Conchubar Aromatics Ltd* [2015] SGHC 322 (interim moratorium): a stay may be sought before the s 210(1) application if the proposed scheme is detailed enough to assess feasibility and the intention to use s 210 is bona fide; completeness is not required.
+> - *Re Conchubar Aromatics Ltd* [2017] 3 SLR 748 (sanction): the overarching question is fairness, so affected creditors must have a proper opportunity to attend and vote; the Court will not sanction a scheme containing machinery to change its terms after sanction.
+> - *Re DSG Asia Holdings Pte Ltd* [2021] SGHC 209 (pre-pack, s 71 IRDA): the applicant need only show proper disclosure and that the majorities would have been reached; creditors must still be properly classified.
+> - *Re Zipmex Co Ltd* [2022] SGHC 306 (pre-pack classes): an "administrative convenience" class was allowed in a s 71 pre-pack, using the s 210(3AB) CA flexibility that s 71 imports.
+> - *Oriental Insurance Co Ltd v Reliance National Asia Re Pte Ltd* [2008] 3 SLR(R) 121 (sanction and effect): the Court asks whether the scheme is one an intelligent and honest creditor could reasonably approve, and will not second-guess a fair scheme backed by a large majority; once the order is lodged it binds everyone, including dissenters, and cannot be altered even by acquiescence; objections must be raised at the sanction hearing.
+> - *Eltraco International Pte Ltd v Sennet Electrical Engineering Pte Ltd* [2003] SGHC 40 at [22]–[38] (effect of order): a sanctioned scheme binds all creditors, so its distribution terms cannot be circumvented by project owners paying nominated sub-contractors directly; injunctions were granted.
+> - *Daewoo Singapore Pte Ltd v CEL Tractors Pte Ltd* [2001] 2 SLR(R) 791 (third parties): a scheme can alter or extinguish third parties' rights or liabilities if it says so.
+> - *Econ Piling Pte Ltd v Sambo E&C Pte Ltd* [2010] 3 SLR 764 (third parties): third-party liabilities, such as directors' guarantees, are not discharged unless the scheme expressly says so.
+
+*Source note: INS-SYL p10–12 (§5 Extra Readings); Cel-INS p70 (Conchubar 2015), p77–78 (DSG, Zipmex), p79–80 (Conchubar 2017, Oriental Insurance); NIC-INS p33–34; INS5 s21 (Daewoo); Timo p100–101; eLit 2003_SGHC_40 (Eltraco). Core rules: [2-61](#ccp-1-2-61). Not stated (no source holding; syllabus marks them not tested): Re Punj Lloyd [2015] SGHC 321 (the judgment deals with s 210(1) meeting orders and s 210(11), not an interim moratorium); SK Engineering v Conchubar [2017] 2 SLR 898; Chew Eu Hock v CPF Board.*
+
 ## 2.XII Rescue financing and ipso facto clauses
 
 - **New money lender wants priority over existing creditors in a scheme / JM — super priority?** ss 67, 101 → [2-62](#ccp-1-2-62)
@@ -1650,7 +1912,7 @@ Topic headings read `<subject>.<Topic>`.
 ### ccp-1-2-63 — Ipso facto clauses (s 440)
 *Keywords: ipso facto clause, s 440 IRDA, terminate or amend agreement, accelerated payment, forfeiture, by reason only that proceedings commenced or company insolvent, simplified debt restructuring programme, scheme application, s 64 s 65 moratorium, judicial management application, interim judicial manager, not winding up, cash for new supplies, no further advance, contrary provision no effect, significant financial hardship, excluded contracts, eligible financial contracts, ship charters, aircraft, prescribed companies, Section 440 Order 2020, Regulations 2020*
 
-**End point:** After proceedings are commenced and before they conclude, no person may terminate or amend, or claim accelerated payment or forfeiture under, an agreement with the company (including a security agreement), or terminate or modify any right or obligation under it, by reason only that the proceedings have commenced, the company is insolvent, or (from 29 Jan 2026) it has entered the simplified debt restructuring programme (s 440(1)). "Proceedings" are restructuring proceedings: a scheme application under s 210(1) CA or s 71, a moratorium application under s 64 or 65, a JM application, or lodgment of notice of an interim JM's appointment — not winding up. The counterparty may still require cash payment for post-commencement supplies, and need not advance further money or credit (s 440(2)); contrary contract terms have no effect (s 440(3)); the Court may disapply the section for significant financial hardship (s 440(4)). Excluded: prescribed eligible financial contracts, government licences, contracts affecting national interest, commercial ship charters, aircraft-equipment agreements, prescribed treaty contracts (s 440(5)), and prescribed companies (Section 440 Order 2020).
+**End point:** After proceedings are commenced and before they conclude, no person may terminate or amend, or claim accelerated payment or forfeiture under, an agreement with the company (including a security agreement), or terminate or modify any right or obligation under it, by reason only that the proceedings have commenced, the company is insolvent, or (from 29 Jan 2026) it has entered the simplified debt restructuring programme (s 440(1)). "Proceedings" are restructuring proceedings: a scheme application under s 210(1) CA or s 71, a moratorium application under s 64 or 65, a JM application, or lodgment of notice of an interim JM's appointment — not winding up. So a contractual right to terminate because the company has gone into liquidation (even a creditors' voluntary winding up) is not caught (2021 INS Q34). The counterparty may still require cash payment for post-commencement supplies, and need not advance further money or credit (s 440(2)); contrary contract terms have no effect (s 440(3)); the Court may disapply the section for significant financial hardship (s 440(4)). Excluded: prescribed eligible financial contracts, government licences, contracts affecting national interest, commercial ship charters, agreements within the meaning of the Cape Town Convention on interests in aircraft equipment (s 440(5)(e), so not an ordinary aircraft maintenance contract), prescribed treaty contracts (s 440(5)), and prescribed companies (Section 440 Order 2020).
 
 *Source note: INS-CS1 p62 (s 440; Prescribed Companies Order 2020; Prescribed Contracts Regulations 2020); INS-LP p1; IRDA-2018 s 440(1)–(6); IRDA s 440(1) as amended by Act 3 of 2025 wef 29 Jan 2026 (SSO, current at 11 Nov 2026); RL-Sec p7 (a payment default can still be acted on).*
 
@@ -1678,6 +1940,7 @@ Topic headings read `<subject>.<Topic>`.
 - **Can a foreign company be wound up in Singapore? Substantial connection** (SQ p20 Q6, key A) → [2-66](#ccp-1-2-66)
 - **Singapore liquidator of a foreign company: pay local creditors first? Ring-fencing** → [2-67](#ccp-1-2-67)
 - **Foreign company restructuring through a Singapore scheme or JM** → [2-68](#ccp-1-2-68)
+- **Non-core (blue) recognition cases: Tantleff (REIT; COMI displaced); United Securities (secured creditor leave despite Art 20 stay); Tannos (recognition refused, natural justice); Opti-Medix, Hanjin (common law)** → [2-75](#ccp-1-2-75)
 
 ### ccp-1-2-65 — UNCITRAL Model Law: recognition, COMI, main v non-main, relief
 *Keywords: UNCITRAL Model Law on Cross-Border Insolvency, Third Schedule IRDA, in force 23 May 2017, no reciprocity, access, recognition, relief, cooperation, centre of main interests, COMI, registered office presumption Article 16(3), Re Zetta Jet, Re Rooftop Group, foreign main proceeding automatic relief, stay of proceedings and execution, no transfer of assets, Article 20(3) security set-off unaffected, foreign non-main proceeding discretionary, Article 22 adequate protection, Re PT Garuda, Re Tantleff*
@@ -1714,6 +1977,19 @@ Topic headings read `<subject>.<Topic>`.
 **End point:** The Model Law does not itself restructure a company's debts; a foreign company must start a Singapore scheme or JM to do so. It can do either only if it is liable to be wound up in Singapore, i.e. has a substantial connection (s 63(3) IRDA; s 210(11) CA; s 88 IRDA "company"). The Court may weigh other factors too: in *Deutsche Bank v Asia Pulp & Paper* [2003] 2 SLR(R) 320 a JM application was dismissed partly because it was uncertain the judicial managers could control key foreign subsidiaries.
 
 *Source note: INS6 s15–18; INS-SYL p8.*
+
+### ccp-1-2-75 — Non-core cross-border cases: recognition under the Model Law and at common law
+*Keywords: non-core, blue, Re Tantleff Alan, Eagle Hospitality REIT, collective investment scheme not a debtor, COMI presumption displaced, Chapter 11 foreign main proceeding, United Securities v UOB, Malaysian winding up, Article 20 stay, secured creditor leave to proceed, Paulus Tannos v Heince Tombak Simanjuntak, Indonesian bankruptcy, recognition refused, natural justice, not properly served, Re Opti-Medix, Re Taisoo Suk Hanjin Shipping, common law recognition*
+
+**End point:** These are the blue (not tested) cross-border cases (syllabus §6) for which a source states what they decide; each line gives the holding.
+
+> **Blue cross-border cases — what each decides**
+> - *Re Tantleff, Alan* [2022] SGHC 147 at [36]–[43]: the Model Law did not reach a REIT that is a collective investment scheme and not a corporate "debtor"; for two Singapore-incorporated entities, the registered-office presumption of COMI was displaced and their COMI was the US, so the Chapter 11 proceedings were recognised as foreign main proceedings for them.
+> - *United Securities Sdn Bhd v UOB* [2021] SGCA 78 at [30]–[48]: a Malaysian winding-up recognised as a foreign main proceeding triggers an Art 20 stay equivalent to a Singapore winding-up stay, so a prima facie secured creditor (UOB) was given leave to continue its proceedings; no further Art 21 stay was granted.
+> - *Paulus Tannos v Heince Tombak Simanjuntak* [2020] SGCA 85 at [44]–[56]: recognition of Indonesian bankruptcy orders was refused (by majority) because the debtors were not properly served and had no real opportunity to be heard, a breach of natural justice.
+> - *Re Opti-Medix Ltd* [2016] 4 SLR 312 and *Re Taisoo Suk (Hanjin Shipping)* [2016] 5 SLR 787: examples of the High Court recognising foreign corporate insolvency proceedings at common law; their reasoning remains relevant to general principles.
+
+*Source note: INS-SYL p12–13 (§6 Extra Readings); eLit 2022_SGHC_147, 2021_SGCA_78, 2020_SGCA_85 (at [15] for Opti-Medix and Hanjin); INS6 s11 (common-law recognition examples). Core rules: [2-65](#ccp-1-2-65). Not stated (no source holding; syllabus marks them not tested): Re Griffin Securities; Re Projector SA; Re PT Garuda Indonesia [2024] 3 SLR 254; Re Pacific Andes; Beluga Chartering v Beluga Projects [2014] 2 SLR 815; Re Zetta Jet (No 1).*
 
 ## 3.I Admiralty jurisdiction (s 3 HCAJA)
 

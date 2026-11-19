@@ -1,6 +1,6 @@
 # ETH-W — Model Questions and Answers
 
-Paper `eth-w`. Every ETH hypothetical held, with its model answer: the past-year papers newest first, then the practice-session questions that match no paper held (probably 2024), then Drills 1–5. Built 5 Nov 2026 for `python3 tools/build_pack.py eth-w --questions`.
+Paper `eth-w`. Every ETH hypothetical held, with its model answer: the past-year papers newest first, then the practice-session questions that match no paper held (probably 2024), then Drills 1–6. Built 5 Nov 2026 for `python3 tools/build_pack.py eth-w --questions`.
 
 **Sources.** Question text is transcribed from the past papers in `Bar Exam/Seniors Notes/Nic_s Part B Package/3. PYP/` (the 2018–2020, 2022, 2023 and 2025 papers are scans, read by OCR, cleaned up by hand and spot-checked against the page images; margin notes by earlier candidates are left out) and the practice-session papers in `Bar Exam/Modules/Ethics & Professional Responsibility/3. Practice Sessions - Question Papers/`. Words in [square brackets] are not in the paper. The transcribed question text is in `pyp-facts.md`; drill questions are from `drills.md`. Answers are copied from `model-answers.md`, which stays the master copy: fix an answer (or a transcription in `pyp-facts.md`) there, then run `python3 tools/assemble_eth_questions.py` and `python3 tools/build_pack.py eth-w --questions`; never edit this file by hand. Only 2023 Q1 has an official answer (SQ p109–113); every other answer is this project's own.
 
@@ -2999,8 +2999,23 @@ the client of the client's responsibilities to the court, including (a) to be tr
 the court, and r 10(3) PCR states that, to the extent that the legal practitioner is able, the
 legal practitioner must prevent the client from, must not be a party to, and must not assist
 the client in (a) suppressing evidence; or (b) giving false evidence or false information to a
-court or tribunal. Buffy had to advise Spike that the overseas money must be disclosed, and
-cease to act if he refused (r 10(4)).
+court or tribunal. The responsibility for proper disclosure falls on the lawyer as well as
+the litigant: as an officer of the court the solicitor must explain to the client what the
+disclosure obligations are, need not accept the client's say-so where there are reasonable
+grounds to suppose more exists, and must review what is disclosed (*Teo Wai Cheong v Crédit
+Industriel et Commercial* [2013] 3 SLR 573 at [43], [45], [47]). Suppressing evidence requires
+(1) a wrongful non-disclosure, in breach of a duty to disclose arising from the nature and
+purpose of the proceedings and the law, and (2) a deliberate, subjective intention to keep
+the information from the court or the other party; a lawyer is a party to it only if the
+lawyer, too, acts deliberately (*Law Society of Singapore v de Souza Christopher James* [2023]
+SGHC 318 at [163]–[166], [169]). Here Spike was bound to disclose his assets in the division
+of matrimonial assets, and Buffy knew of the overseas account; if she let his disclosure omit
+it, the omission would be deliberate on both their parts, and she would be a party to
+suppressing evidence under r 10(3)(a). Buffy had no duty to report anything to the police
+(PD 1.6.2), but she had to advise Spike that the overseas money must be disclosed, and
+cease to act if he refused (r 10(4)). Having coached him to plead poverty, she plainly had
+not told him of his duty of truthful disclosure (r 10(2)), and any disclosure leaving out the
+account would make her a party to suppressing evidence (r 10(3)(a)).
 
 **5. The private investigator.** The fifth issue is whether Buffy could hire an investigator
 abroad, at a cost of $30,000, without telling Spike. She could not. Rule 5(2) PCR states that
@@ -5081,3 +5096,183 @@ Conveyancing and Law of Property (Conveyancing) Rules 2011 r 2 ("conveyancing mo
 r 4(1)–(4), r 5(1) read on Singapore Statutes Online (5 Nov 2026), not in the course sources.
 That an option fee is credited to the purchase price is the usual term of an option to purchase,
 not a rule; if the option says otherwise, check the definition again.*
+
+### Drill 6 — Lim & Partners · own question (QB-42) · 30 marks
+
+Lim & Partners is a 15-lawyer firm. Grace is an equity partner of 20 years' standing; Ravi is
+a litigation associate of 4 years' standing who works under her.
+
+**Part A.** Ravi acts for Orion Pte Ltd, which is suing its supplier, Kestrel Pte Ltd, for
+delivering machine parts that did not meet the agreed specification. The court orders both
+sides to produce all documents relevant to whether the specification was varied. Ravi emails
+the order and the relevant Rules of Court to Orion's general manager, Mr Tan, and asks him to
+"send whatever you have". Mr Tan sends 40 emails and says: "That's everything." Several of
+them refer to "my email of 3 March agreeing the revised spec", but no email of 3 March is
+among them. Ravi does not ask about it.
+
+A week before the list of documents is due, Mr Tan calls Ravi. He admits that on 3 March he
+emailed Kestrel agreeing to a looser specification, and that he deleted the chain from his
+inbox because "it kills our case". He says: "Leave it out of the list. Kestrel's director
+left the company last year, so they can't prove it exists." Ravi files the list without the
+3 March email.
+
+While going through Orion's documents, Ravi also found emails suggesting that Kestrel's
+director paid Orion's procurement officer a bribe to win the original contract. Mr Tan asks
+Ravi whether he now has to report this to the police.
+
+**Part B.** Grace has acted for Mrs Chua, 76, since Mrs Chua's husband died two years ago,
+including on the grant of probate and the administration of his estate. Mrs Chua's assets are
+about $600,000. Siti, Grace's legal secretary, has helped Mrs Chua with forms and
+appointments throughout. Mrs Chua now wants to give Siti her late husband's Rolex, worth about
+$45,000, and $20,000 in cash "as a thank-you, while I'm still around to see her enjoy it", and
+asks Grace to prepare a deed of gift. Grace replies: "That's very generous, and Siti deserves
+it. No need to involve another lawyer for something this simple." Grace prepares the deed and
+Mrs Chua signs it at the firm, with Siti as one of the witnesses.
+
+At Chinese New Year Mrs Chua also sends Grace a hamper worth about $150.
+
+Please give detailed reasons, with reference to relevant rules, practice directions,
+principles and/or case law.
+
+Marker's guide and model answer: `model-answers.md`, Drill 6. Don't open it until you've
+answered.
+
+**QD6-a** · `II.10` `III.2` `III.8` `III.9` · Drill 6 (a); own, tier 3 · 15 marks · `eth-w-0-6` `eth-w-0-18` `eth-w-0-21` `eth-w-0-47`
+
+**(a) Discuss and evaluate Ravi's conduct in Part A, and advise him on what he must do now, including on the bribery emails. (15 marks)**
+
+**Answer.**
+
+**(a) Ravi's conduct in Part A (15 marks)**
+
+The issue is whether Ravi met his duties on Orion's disclosure. He did not: Ravi breached
+r 10(3)(a) and r 9(2)(a) PCR, and must now put the disclosure right or cease to act.
+
+*Explaining and supervising disclosure.* The first issue is whether Ravi did enough before Mr
+Tan's call. He did not. Rule 10(2) PCR states that a legal practitioner whose client is a party
+to proceedings must inform the client of the client's responsibilities to the court and to
+every other party, including (b) to comply with every legal requirement concerning the conduct
+and presentation of the client's case. Rule 10(3) PCR states that, to the extent that the
+legal practitioner is able, the legal practitioner must prevent his or her client from, must
+not be a party to, and must not assist the client in (a) suppressing evidence. The
+responsibility for proper disclosure falls not only on the litigant but on the lawyers, who as
+officers of the court must explain to clients what the obligations are and must be involved in
+and supervise the process (*Teo Wai Cheong v Crédit Industriel et Commercial* [2013] 3 SLR 573
+at [43]); the solicitor must explain relevance, must not simply accept the client's statement
+that there is nothing more where there are reasonable grounds to suppose otherwise (at [45]),
+and must review what is disclosed for omissions (at [47]). Here Ravi forwarded the order and
+the rules and asked for "whatever you have", which is not an explanation of what is relevant.
+Several of the emails referred to a 3 March email agreeing a revised specification, the very
+issue the order covered, and it was missing. That was a reasonable ground to suppose more
+existed, and Ravi neither asked nor reviewed the list against the emails. Ravi fell short of
+r 10(2) and of the *Teo Wai Cheong* duties.
+
+*Leaving out the 3 March email.* The second issue is whether Ravi was a party to suppressing
+evidence. He was. Suppressing evidence requires (1) a wrongful non-disclosure, which depends on
+a duty to disclose arising from the nature and purpose of the proceedings and the applicable
+law, and (2) a deliberate non-disclosure, with a subjective intention to keep the information
+from the court or the other party; a lawyer is liable under r 10(3)(a) only if the lawyer
+deliberately assists, and mere involvement in the client's failure is not enough (*Law Society
+of Singapore v de Souza Christopher James* [2023] SGHC 318 at [163]–[166], [169]). Some
+disclosure does not discharge the duty where the proceedings and the law call for more
+(*Attorney-General v Shahira Banu d/o Khaja Moinudeen* [2024] SGHC 111 at [32]–[37]). Here the
+court ordered production of all documents relevant to whether the specification was varied,
+and the 3 March email agreed a variation, so there was a duty to disclose it. Mr Tan deleted
+it and asked for it to be left out precisely because "it kills our case", which is deliberate.
+Ravi then filed the list knowing the email existed and was being left out; that is not mere
+involvement but deliberate assistance. Producing 40 other emails does not help (*Shahira
+Banu*). Ravi breached r 10(3)(a) PCR.
+
+*Misleading the court and Kestrel.* The third issue is whether filing the list also misled
+the court. It did. Rule 9(2) PCR states that when conducting proceedings for a client a legal
+practitioner must not (a) knowingly mislead or attempt to mislead in any way the court or any
+other legal practitioner, or (c) include in any document used for those proceedings any
+statement of fact which the legal practitioner knows to be false; and r 9(3)(b) PCR requires
+the legal practitioner to disclose to the court and every other person involved every fact and
+item of evidence which the legal practitioner is required by law to disclose. A list of
+documents put forward as Orion's compliance with the order tells the court and Kestrel's
+lawyers that it is complete, and Ravi knew it was not. Ravi breached r 9(2)(a) and r 9(3)(b) PCR.
+
+*What Ravi must do now.* Rule 10(4) PCR states that where the legal practitioner knows that the
+client has given false evidence or false information to a court, the legal practitioner must
+(a) cease to act, or (b) if continuing, conduct the case in a manner that does not perpetuate
+the falsehood. Ravi must advise Mr Tan that the 3 March email must be disclosed, recovering it
+from Orion's sent items, server or backups if it survives elsewhere, by a supplementary list,
+and that Orion's case must be run on the true facts. If Orion refuses, Ravi must cease to act,
+and he may not explain to the court or Kestrel why, because the reason is confidential to Orion
+(r 6(2) PCR). He cannot simply carry on with the false list.
+
+*The bribery emails.* The last issue is whether Ravi must report the bribe. He need not, and
+without Orion's authority he may not. PD 1.6.2 records the Council's view that a lawyer who
+discovers a criminal offence in the course of a matter is under no obligation to lay
+information of it, though the lawyer remains bound to disclose the facts the proceedings
+require. Rule 6(2) PCR states that a legal practitioner must not knowingly disclose any
+information which (a) is confidential to his or her client and (b) is acquired in the course of
+the engagement; r 6(3) permits disclosure where (a) the client authorises it or (b) the
+practitioner is permitted or required by law or by an order of court to make it. The emails are
+Orion's documents, seen in the engagement, so Ravi should advise Orion of its position and act
+on its instructions. If the emails are relevant to the issues covered by the order, they too
+must go in Orion's list.
+
+In conclusion, Ravi breached r 10(3)(a), r 9(2)(a) and r 9(3)(b) PCR, and fell short of r 10(2);
+he must correct the list or cease to act, and has no duty to report the bribe.
+
+**QD6-b** · `II.8` `II.19` `II.24` · Drill 6 (b); own, tier 3 · 15 marks · `eth-w-0-5` `eth-w-0-13` `eth-w-0-43`
+
+**(b) Discuss and evaluate Grace's conduct in Part B, and advise whether she may keep the hamper. (15 marks)**
+
+**Answer.**
+
+**(b) Grace's conduct in Part B (15 marks)**
+
+The issue is whether Grace could prepare Mrs Chua's deed of gift to Siti. She could not: Grace
+breached r 25(2) PCR.
+
+*Is r 25 engaged?* The first issue is whether this is a significant gift to someone r 25
+covers. It is. Rule 25(1) PCR states that paragraph (2) applies (a) where a client of a legal
+practitioner intends to make a significant gift, whether by will or while the client is alive,
+or in any other manner, to (ii) the sole proprietor, or any partner, director, consultant or
+employee, of the law practice in which the legal practitioner practises. Whether a gift is
+significant is judged not only in absolute terms but relative to the client's means and the
+reasonable expectations of other prospective beneficiaries, and the more significant the gift,
+the greater the need for independent advice (*Law Society of Singapore v Wan Hui Hong James*
+[2013] 3 SLR 221 at [10]–[11]). Here Siti is an employee of Grace's law practice. The watch and
+cash total about $65,000, over a tenth of Mrs Chua's $600,000, and a lifetime gift is
+expressly covered. Rule 25(1)(a)(ii) applies.
+
+*The two duties.* Rule 25(2) PCR states that the legal practitioner (a) must not act for the
+client in relation to the gift, and (b) must advise the client to obtain independent legal
+advice in relation to the gift. Merely telling the client to get advice is not enough (*Wan Hui
+Hong James* at [15]); the lawyer must explain why it is needed so that the gift is the client's
+free choice, noting that influence may exist even if the client does not perceive it, ask the
+client to nominate another advocate and solicitor with no compromising connection, advise the
+client to get written confirmation that a full explanation was given, not suggest the advice is
+a formality, and, if the client declines, insist with some force and, absent such advice,
+decline the gift (at [18]). Here Grace prepared the deed of gift itself, which is acting in
+relation to the gift, contrary to limb (a). She told Mrs Chua there was "no need to involve
+another lawyer", which is the opposite of the advice limb (b) requires, and took none of the
+*Wan Hui Hong* steps. The risk the rule addresses is real: Mrs Chua is 76, widowed and has relied
+on Siti for two years, and Siti even witnessed the deed. Grace breached r 25(2)(a) and (b) PCR.
+
+*Competence and detachment.* Rule 5(2)(c) PCR requires a legal practitioner to act with
+reasonable diligence and competence in the provision of services to the client. A competent
+lawyer acting for an elderly, dependent client would have seen her alone, kept an attendance
+note and insisted on independent advice. Grace's remark that "Siti deserves it" also shows she
+was endorsing the gift rather than advising Mrs Chua; r 22(3) PCR does not itself cover an
+employee's interest, but the r 25 duties exist for exactly this situation.
+
+*Remedy.* Grace should stop, explain to Mrs Chua why independent advice matters, ask her to
+nominate another lawyer, and ensure that Siti does not take the gift unless Mrs Chua confirms
+it after that advice.
+
+*The hamper.* The last issue is whether r 25 stops Grace keeping the hamper. It does not. A
+$150 Chinese New Year hamper is trivial relative to Mrs Chua's means and affects no one's
+expectations, so it is not a "significant" gift under r 25(1) (*Wan Hui Hong James* at [10]),
+and Grace may keep it.
+
+In conclusion, Grace breached r 25(2)(a) and (b) PCR on the deed of gift, but may keep the hamper.
+
+*Source note (not retyped): r 5(2) PCR p10; r 6(2)–(3) PCR p12–13; r 9(2)–(3) PCR p17–19;
+r 10(2)–(4) PCR p20–21; r 22(3) PCR p41–42; r 25 PCR p47; PD 1.6.2 p1; Teo Wai Cheong, de Souza
+and Shahira Banu as read for Pre-write 0-47; Wan Hui Hong James at [10]–[11], [15], [18] as read
+for Pre-write 0-43.*

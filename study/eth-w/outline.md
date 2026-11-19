@@ -134,8 +134,9 @@ duty to the court, and must uphold the standing of the legal system and professi
 - **Tested:** PYP21 Q1.3 — getting the client to sign a waiver of claims on a false
   pretext ("insurer reporting") → r 5(2)(a) dishonesty, r 22 (own interest vs client),
   r 8(3)(b)/deceit; also r 6(3)(d) only lets you disclose *to* your insurer, it creates no
-  reporting duty to the client. TODO: verify against a model answer — none in the module
-  materials.
+  reporting duty to the client. No official answer exists; checked 18 Nov 2026 against the
+  text of r 5(2)(a) and r 6(3)(d) PCR (p10, p12–13), which bear this out (0-3, 0-14;
+  2021 Q1.3 in `model-answers.md`).
 
 ### 1.5 Confidentiality (r 6)
 - Must not knowingly disclose information confidential to the client and acquired (from
@@ -227,8 +228,8 @@ duty to the court, and must uphold the standing of the legal system and professi
   - *Mahidon Nichiar v Dawood Sultan Kamaldin* [2015] SGCA 36 at [63]–[80]; *Kuek Siang
     Wei v Kuek Siew Chew* [2015] 5 SLR 357 — steps needed for informed consent (SQ p111;
     SYL p3).
-  - *LSS v Ezekiel Peter Latimer* [2019] SGHC 92 (SYL p3; SQ p111). TODO: ratio not
-    summarised in the module slides — read the judgment.
+  - *LSS v Ezekiel Peter Latimer* [2019] SGHC 92 (SYL p3; SQ p111). Read and summarised
+    in eth-w-0-7 (and the 2024 decision in eth-w-0-38).
   - *LSS v Ahmad Khalis* at [74]: even under an implied retainer, a lawyer acting for
     several parties must keep each informed and must not be forced to choose between them
     (L2 p12).
@@ -276,7 +277,9 @@ duty to the court, and must uphold the standing of the legal system and professi
   restrain lawyers where a fair-minded, reasonably informed member of the public would
   conclude the proper administration of justice requires it; a long history with the
   former client is relevant (L2 p22).
-- *LSS v Mahtani Bhagwandas* [2021] SGHC 170 (SYL p3). TODO: ratio not in slides.
+- *LSS v Mahtani Bhagwandas* [2021] SGHC 170 (SYL p3): the new client already knowing the
+  confidential information is no defence under r 21(2) (at [45]–[51]); read from the judgment,
+  now in eth-w-0-11.
 - **Tested:** PYP23 Q1.1 / SQ p109–110 (Archie knows RPL's minimum price → r 21(2) met;
   needs (3) or (4); walls doubtful as Archie himself holds it). PS1 Q2 (Howwie drafted for
   Emily, the beneficial owner behind the opposing party; also Emily's negligence threat
@@ -408,8 +411,8 @@ duty to the court, and must uphold the standing of the legal system and professi
 - False attestation: *LSS v Thirumurthy* [2022] 4 SLR 462 — attesting a POA not signed in
   his presence: 9 months; PD 1.6.1 (L4 p22).
 - Fictitious authorities / generative AI: *Tajudin bin Gulam Rasul* [2025] SGHCR 33; *Tan
-  Hai Peng Micheal* [2026] SGHC 49; Registrar's Circular No 1 of 2024 (SYL p5). TODO: not
-  covered in the slides — read before the exam.
+  Hai Peng Micheal* [2026] SGHC 49; Registrar's Circular No 1 of 2024 (SYL p5). Read from the
+  judgments and the Guide; in eth-w-0-45.
 - **Ex parte applications** (r 30(3), PCR p52): comply with the PDs on without-notice
   applications — Supreme Court PD 2021 para 71: tell the court what attempts were made to
   notify the other side, unless notice would defeat the purpose, in which case explain why
@@ -461,8 +464,7 @@ duty to the court, and must uphold the standing of the legal system and professi
   the rule text.]
 - Pay only lawful expenses; nothing contingent on evidence or outcome (r 12(8), PCR p23).
 - Witness coaching: *Ernest Ferdinand Perez De La Sala* [2018] SGCA 16; inappropriate
-  cross-examination of victims: *LSS v Wong Sin Yee* [2018] SGHC 196 (SYL p6). TODO: ratios
-  not in slides.
+  cross-examination of victims: *LSS v Wong Sin Yee* [2018] SGHC 196 (SYL p6). Both in eth-w-0-49.
 
 ### 3.5 Respect for the court; undertakings (r 13)
 - Respectful and courteous to the court and everyone in the proceedings (r 13(2)–(3),
@@ -489,8 +491,7 @@ duty to the court, and must uphold the standing of the legal system and professi
 - Absconding client: apply to discharge, or carry on as if present but silent (r 14(6)).
   No scandalous mitigation (r 14(7)). Antecedents: no duty to disclose, but nothing
   inconsistent with them (r 14(8)) (PCR p26).
-- *Iskandar bin Rahmat v LSS* [2020] SGHC 40 at [60], [80]–[85] (SYL p7). TODO: ratio not in
-  slides.
+- *Iskandar bin Rahmat v LSS* [2020] SGHC 40 at [60], [80]–[85] (SYL p7). In eth-w-0-51.
 - Prosecution (r 15, PCR p27–28): fair and impartial; disclose non-called witnesses and
   material inconsistencies; tell the court of antecedents, sentencing precedents, and
   mitigation for an unrepresented accused; draw attention to errors. *Re Parti Liyani*
@@ -635,7 +636,8 @@ duty to the court, and must uphold the standing of the legal system and professi
 - Pay client money into client account **without delay** (r 3(1) SAR); wrong deposit into
   office account is a breach — *Tan Chwee Wan Allan* [2007] 4 SLR(R) 699 (L10 p9). Can't
   contract out — *Dhanwant Singh* [2019] SGHC 290 (L10 p10). Ignorance no defence — *LSS v
-  Lim Tean* [2026] SGHC 78 at [55]–[63] (SYL p12; TODO: read).
+  Lim Tean* [2026] SGHC 78 at [55]–[63] (SYL p12): read 18 Nov 2026 —
+  strict liability, ignorance aggravates (at [56], [60]–[61]); $30,000 penalty (at [64]); in eth-w-0-68.
 - Withdrawals > $5,000 need two solicitors' signatures, unless an approved book-keeper is
   engaged and the sum is ≤ $30,000 (r 8(5)–(6) SAR, L10 p17–18). No transfers between
   clients' ledgers (r 10, L10 p20). Records kept 6 years; reconcile (r 11 SAR, L10 p21).
@@ -657,7 +659,7 @@ duty to the court, and must uphold the standing of the legal system and professi
   lawyer in good faith charge it, considering standing, nature of work, time,
   instructions, other circumstances (r 17(8), PCR p33). Cases: *Andre Ravindran* [2011] 4
   SLR 1184; *Syn Kok Kay* [2023] SGHC 7; *Low Yong Sen* [2009] 1 SLR(R) 802; *Ang Chin Peng*
-  [2013] 1 SLR 946 (SYL p12). TODO: ratios not in slides.
+  [2013] 1 SLR 946 (SYL p12). Ratios in eth-w-0-32 and eth-w-0-70.
 - Conflict forces a switch → charge only what the new lawyer needn't duplicate (r 17(9),
   PCR p34).
 - PDs (L10 p42–43): equity in lieu of fees OK with care (PD 5.1.1); fee agreements tied to
@@ -679,8 +681,10 @@ duty to the court, and must uphold the standing of the legal system and professi
 - **Tested:** PYP21 Q3.1 — $4m fixed fee on a $6m goods claim, payable even on early
   settlement → overcharging analysis under r 17(7)–(8). PYP21 Q3.2 — extra $500k if the
   settlement is under $500k = payment contingent on outcome in contentious proceedings
-  (r 18; s 107(1)(b)). TODO: confirm the s 107 / r 18 characterisation of a success
-  *bonus* (not "payment only on success") against a model answer.
+  (r 18; s 107(1)(b)). Settled 18 Nov 2026: the bonus is the part of the fee payable
+  only on success, so s 107(1)(b) LPA catches it; GN 5.6.1 treats a base fee plus success
+  uplift as a conditional fee agreement, lawful only in prescribed proceedings (2021 Q3.2 in
+  `model-answers.md`; eth-w-0-33). No official answer exists.
 
 ### 7.4 Fee sharing (r 19)
 - No sharing fees or paying commission to unauthorised persons (r 19, PCR p35); includes a

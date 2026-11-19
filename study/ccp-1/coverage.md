@@ -22,11 +22,13 @@ Mainboard profit test, now S$10m; no extra 7 days to register a charge created a
 amendment), the block follows the current law and records a `Conflict:` in its Source note. No points remain
 flagged for checking.
 
+**Audit fill (18–19 Nov 2026):** after the 18 Nov audit (`audits/ccp-1-audit.md`), 16 Sub-points were added: 0.III.9 (cross-border loans), 1.IX.3–5 and 1.XII.3 (Code Principles 1, 5, 6–7, 11–13), Topic 1.XIV (Listing Manual Chapter 12, read from the scanned reading-list copy), 2.VII.8 (bankruptcy hearing, *Mohd Zain*), and seven Sub-points holding the non-core (blue, "will NOT be tested") Insolvency items that a source explains: 2.II.8, 2.VII.9, 2.IX.8, 2.X.10, 2.XI.9, 2.XIV.5. Blue cases with no source holding are named in those blocks' Source notes and not stated.
+
 | Subject | Topics | Rows | Covered by an ID | none | open |
 |---|---|---|---|---|---|
-| 0 Banking & Fundraising | 9 | 54 | 54 | 0 | 0 |
-| 1 Corporate Governance | 13 | 51 | 51 | 0 | 0 |
-| 2 Insolvency & Corporate Restructuring | 14 | 68 | 68 | 0 | 0 |
+| 0 Banking & Fundraising | 9 | 55 | 55 | 0 | 0 |
+| 1 Corporate Governance | 14 | 59 | 59 | 0 | 0 |
+| 2 Insolvency & Corporate Restructuring | 14 | 75 | 75 | 0 | 0 |
 | 3 Admiralty | 7 | 23 | 23 | 0 | 0 |
 
 ## Source key
@@ -68,6 +70,7 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | CG-LP | `Modules/Corporate & Commercial Practice/2. Corporate Governance/Corporate_Governance_Learning Plan_(B26S2).pdf` |
 | CG1–CG4 | `…/2. Corporate Governance/Video Lecture & Slides/1.Corporate_Governance_Part_1.pdf` … `4.Corporate_Governance_Part_4.pdf` (Adrian Chan) |
 | LM | SGX-ST Listing Manual (Mainboard) — the course Reading List copies (`…/2. Corporate Governance/Reading List/Chapter_2_…`, `Chapter_7_…`, `Chapter_9_…`, `Chapter_12_…`) are image-only scans, so rule text was read from `Seniors Notes/Nic_s Part B Package/4. Nic Exam Go Pack/4a. CCP 1/Corp Gov/2. Corp Gov Statutes/Mainboard Rules (Compiled Relevant Portions).pdf` (SGX Rulebook print of 9 Dec 2023) and `…/Listing Rule 210(5), 1207(10).pdf`; later changes are taken from CG1–CG4 |
+| LM-Ch12 | `Modules/Corporate & Commercial Practice/2. Corporate Governance/Reading List/Chapter_12_Circulars,_Annual_Reports_and-Electronic_Communications.pdf` (SGX Rulebook print, 6 pp, image-only; read from page images on 18 Nov 2026; rules as amended to 11 Jan 2023) |
 | LM-App7.1 | `…/Corp Gov/2. Corp Gov Statutes/Mainboard Rules (Appendix 7.1).pdf` (Corporate Disclosure Policy) |
 | CODE | `…/Corp Gov/2. Corp Gov Statutes/Code of Corporate Governance 2018.pdf` (6 Aug 2018, as amended 11 Jan 2023 — the version CG-LP names) |
 | SFA12 | `Modules/Corporate & Commercial Practice/2. Corporate Governance/Reading List/Part_12_of_the_Securities_and_Futures _Act_2001.pdf` (SSO, current at 20 Sep 2024) |
@@ -83,6 +86,11 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | INS-CS1 | `…/3. Insolvency & Corporate Restructuring/B26S2_Insolvency_&_Corporate_Restructuring_Contact_Session_1.pdf` (11 Aug 2026) |
 | INS1–INS6 | `…/Video Lecture & Slides/1.Liquidation.pdf`, `2.Bankruptcy.pdf`, `3.Judicial_Management.pdf`, `4.Avoidance_Provisions.pdf`, `5.Schemes_of_Arrangement.pdf`, `6.Cross-Border_Insolvency.pdf` |
 | IRDA-2018 | `Seniors Notes/Nic_s Part B Package/4. Nic Exam Go Pack/4a. CCP 1/Insolvency/2. Insolvency Statutes/IRDA (Whole).pdf` (Act 40 of 2018 as gazetted, cited by section; currency checks in Source notes) |
+| Cel-INS | `Seniors Notes/Nic_s Part B Package/4. Nic Exam Go Pack/4a. CCP 1/Insolvency/4. Peer Muggers/Cel- Insolv.pdf` (a peer's notes; fallback only; cited by PDF page) |
+| NIC-INS | `…/4a. CCP 1/Insolvency/1. Insolvency Muggers v2.pdf` (Nic's notes; cited by PDF page) |
+| NIC-ANT | `…/4a. CCP 1/Insolvency/6. Ant- Case summaries.pdf` (case summaries: BNP, Metalform, Rothstar, Pathfinder; cited by PDF page) |
+| Timo | `…/4a. CCP 1/Timo- CCP 1.pdf` (a peer's notes; fallback only) |
+| eLit | Judgments read on eLitigation (`https://www.elitigation.sg/gd/s/<neutral citation>`, e.g. `2021_SGCA_48`), 18 Nov 2026 — used only for blue (non-examinable) cases with no course or seniors' source |
 | Cyril-INS | `Seniors Notes/Cyril - Part B/For exam/finalised muggers/Corporate and Commercial Practice (CCP)/Paper 1 - Insolvency Master Notes.docx` (cited by section §) |
 | Statutes | IRDA Insolvency, Restructuring and Dissolution Act 2018 · CA Companies Act 1967 · IRDA PI Rules = Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020 · Model Law = UNCITRAL Model Law on Cross-Border Insolvency (IRDA Third Schedule) |
 
@@ -132,6 +140,7 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | 0.III.6 | Covenants: general (negative pledge, pari passu, disposals), financial, information | — | ccp-1-0-15 |
 | 0.III.7 | Events of default; cross-default; acceleration | — | ccp-1-0-16 |
 | 0.III.8 | Boilerplate; assignment and transfer | — | ccp-1-0-17 |
+| 0.III.9 | Cross-border loans: local law checks, governing law and jurisdiction, withholding tax and no-deduction clause, legal opinions | — | ccp-1-0-55 |
 
 ### 0.IV Taking security
 
@@ -281,6 +290,9 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 |---|---|---|---|
 | 1.IX.1 | Status of the Code; Rule 710; Principles, Provisions, Practice Guidance | — | ccp-1-1-34 |
 | 1.IX.2 | Structure of the Code: the 13 Principles | — | ccp-1-1-35 |
+| 1.IX.3 | Principle 1: the Board's conduct of affairs (Provisions 1.1–1.7) | — | ccp-1-1-56 |
+| 1.IX.4 | Principle 5: Board performance and annual evaluation (Provisions 5.1–5.2) | — | ccp-1-1-57 |
+| 1.IX.5 | Principles 11–13: shareholder rights and general meetings, engagement with shareholders and stakeholders | — | ccp-1-1-58 |
 
 ### 1.X Directors: independence and board composition
 
@@ -307,6 +319,7 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 |---|---|---|---|
 | 1.XII.1 | Principle 8; Provisions 8.1–8.3 (top 5 KMP in S$250,000 bands; related employees over S$100,000) | — | ccp-1-1-45 |
 | 1.XII.2 | Rule 1207(10D): mandatory disclosure for each director and the CEO | — | ccp-1-1-46 |
+| 1.XII.3 | Principles 6–7: remuneration procedure, level and mix (Provisions 6.4, 7.1–7.3) | — | ccp-1-1-59 |
 
 ### 1.XIII Market conduct (SFA Part 12)
 
@@ -317,6 +330,15 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | 1.XIII.3 | Insider trading: connected and other persons; "generally available"; material effect (ss 215–220) | — | ccp-1-1-49 |
 | 1.XIII.4 | Insider trading defences, incl. parity of information (s 231) | — | ccp-1-1-50 |
 | 1.XIII.5 | Sanctions: criminal (ss 204, 221), civil penalty (s 232), civil liability (s 234) | — | ccp-1-1-51 |
+
+### 1.XIV Circulars, annual reports and electronic communications (Listing Manual Chapter 12)
+
+| Key | Sub-point | Tested | Covered by |
+|---|---|---|---|
+| 1.XIV.1 | Circulars and notices of meeting: SGX review, responsibility statement, contents (Rules 1202–1206) | — | ccp-1-1-52 |
+| 1.XIV.2 | Annual report contents (Rule 1207) | — | ccp-1-1-53 |
+| 1.XIV.3 | Dealings in securities: black-out periods (Rule 1207(19)) | — | ccp-1-1-54 |
+| 1.XIV.4 | Electronic communications with shareholders (Rules 1208–1212) | — | ccp-1-1-55 |
 
 ## 2 · Insolvency & Corporate Restructuring
 
@@ -338,6 +360,7 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | 2.II.5 | Cash-flow test of insolvency (Sun Electric) | — | ccp-1-2-7 |
 | 2.II.6 | Disputed debt and cross-claim; abuse of process | — | ccp-1-2-8 |
 | 2.II.7 | Court's discretion not to wind up; public interest | — | ccp-1-2-9 |
+| 2.II.8 | Non-core (blue) liquidation cases: insolvency tests (Eurosail, Seah Chee Wan); estate costs rule (Lim Siew Soo) | — | ccp-1-2-72 |
 
 ### 2.III Voluntary winding up
 
@@ -385,6 +408,8 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | 2.VII.5 | Duties of the bankrupt | — | ccp-1-2-29 |
 | 2.VII.6 | Restrictions on the bankrupt | — | ccp-1-2-30 |
 | 2.VII.7 | Distribution of dividends; trustee's remuneration | — | ccp-1-2-31 |
+| 2.VII.8 | Bankruptcy hearing: stay, dismissal, adjournment, withdrawal (ss 315, 318, 323); disputed debt (Mohd Zain v Chimbusco) | — | ccp-1-2-69 |
+| 2.VII.9 | Non-core (blue) bankruptcy cases and rules: domicile, statutory demands, OA sanction, s 387, r 56 | — | ccp-1-2-70 |
 
 ### 2.VIII Bankruptcy: annulment, discharge and alternatives
 
@@ -408,6 +433,7 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | 2.IX.5 | Judicial management by creditors' resolution (s 94) | — | ccp-1-2-42 |
 | 2.IX.6 | Moratoria (ss 95, 96); contractual set-off | — | ccp-1-2-43 |
 | 2.IX.7 | The judicial manager: powers, proposals, duration, discharge, creditor protection | — | ccp-1-2-44 |
+| 2.IX.8 | Non-core (blue) JM: nominee (s 91(3)), interim JM (Re KS Energy), JM remuneration and expenses (ss 102, 104, 113, 114), bona fides | — | ccp-1-2-71 |
 
 ### 2.X Avoidance of antecedent transactions; officers' liability
 
@@ -422,6 +448,7 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | 2.X.7 | Orders the Court may make (s 227) | — | ccp-1-2-51 |
 | 2.X.8 | Fraudulent trading (s 238) | — | ccp-1-2-52 |
 | 2.X.9 | Wrongful trading (s 239) | — | ccp-1-2-53 |
+| 2.X.10 | Non-core (blue) avoidance cases: Rabobank; Parakou | — | ccp-1-2-73 |
 
 ### 2.XI Schemes of arrangement
 
@@ -435,6 +462,7 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | 2.XI.6 | Voting: statutory majority (s 210(3AB) CA) | — | ccp-1-2-59 |
 | 2.XI.7 | Cram-down (s 70) and pre-pack schemes (s 71) | — | ccp-1-2-60 |
 | 2.XI.8 | Court sanction; effect on creditors and third parties | — | ccp-1-2-61 |
+| 2.XI.9 | Non-core (blue) scheme cases: Conchubar, DSG, Zipmex, Oriental Insurance, Eltraco, Daewoo, Econ Piling | — | ccp-1-2-74 |
 
 ### 2.XII Rescue financing and ipso facto clauses
 
@@ -457,6 +485,7 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | 2.XIV.2 | Winding up foreign companies: substantial connection (s 246) | — | ccp-1-2-66 |
 | 2.XIV.3 | Liquidating a foreign company's Singapore assets; ring-fencing | — | ccp-1-2-67 |
 | 2.XIV.4 | Foreign companies using Singapore schemes and judicial management | — | ccp-1-2-68 |
+| 2.XIV.5 | Non-core (blue) cross-border cases: Tantleff, United Securities, Tannos, Opti-Medix, Hanjin | — | ccp-1-2-75 |
 
 ## 3 · Admiralty
 

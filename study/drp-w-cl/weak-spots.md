@@ -18,9 +18,11 @@ None yet: no Drill or Practice Paper has been sat.
 
 ## Open `TODO: verify` in the Reference Pack (SM-5: none may remain at exam time)
 
-The build report counts them per Subject (`python3 tools/build_pack.py drp-w`). On 8 Nov
-2026 every case and statute flag was re-checked online (SSO, judiciary.gov.sg, eLitigation);
-three remain open:
+The build report counts them per Subject (`python3 tools/build_pack.py drp-w-cl --check`).
+**None is open (18 Nov 2026: count 0).** The 18 Nov flags in the new Pre-writes
+(drp-w-0-76 to drp-w-0-84) were cleared against SSO (current as at 18 Nov 2026) and
+eLitigation. The three points below have no deciding authority; each Pre-write states the
+best-supported position with its citation, and they stay listed here as known soft spots:
 
 1. **drp-w-0-12** — the holding of *Kleinwort Benson Ltd v Barbrak Ltd* [1987] AC 597 (HL)
    on "good reason" to renew a writ: BAILII and other free sources refused automated

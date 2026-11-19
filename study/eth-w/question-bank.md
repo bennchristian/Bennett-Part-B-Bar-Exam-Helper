@@ -57,7 +57,8 @@ The 2022 paper's 20 MCQs (PYP22 p1) are no longer the format.
 ## Tier 2 — course contact sessions
 
 The three practice sessions are the contact sessions, and their questions are all listed
-above. TODO: add anything raised at the End of Course Lecture (~10 Nov, INTRO2 p22).
+above. Nothing from the End of Course Lecture (10 Nov, INTRO2 p22) is in the course folder
+as of 18 Nov 2026; add any points it raised if Bennett supplies notes.
 
 ## Tier 3 — own questions on under-tested Topics
 
@@ -68,6 +69,7 @@ above. TODO: add anything raised at the End of Course Lecture (~10 Nov, INTRO2 p
 | QB-39 | Drill 3 / H2 (`drills.md`, set 5 Nov 2026) | Former mediator Daniel acts against Ming using what he learnt; default judgment after Friday 6pm notice; demands a warrant to act without reasons; investigator entraps a rival; Rachel files a falsification allegation the same day; Wei Ling poaches the client and writes to court while Hart Law is on record. | Dealings with other lawyers — never tested | IV.12, IV.7, IV.5, IV.6, IV.8, IV.3 |
 | QB-40 | Drill 4 / H3 (`drills.md`, set 5 Nov 2026) | Benjamin practises with a lapsed certificate, arranges a client's loan to his wife's company and borrows from a moneylender client; emails CAD his files on a phone request; sends IRAS privileged advice; promises the will to the client's daughter. | Borrowing (r 23), privilege, who the PCR apply to — never tested | I.3, II.22, II.11, II.10 |
 | QB-41 | Drill 5 / H4 (`drills.md`, set 5 Nov 2026) | Unsupervised trainee signs as "Solicitor"; oral referral deal with an agency advertising free legal fees, $300 per file; settlement money in the office account and fees drawn on one junior signature; BVI buyer with an unnamed owner and third-party funds; trainee's admission candour. | Trainees, conveyancing referrals, client money, AML, admission — never tested | V.3, VI.5, VII.1, VII.2, I.1 |
+| QB-42 | Drill 6 (`drills.md`, set 18 Nov 2026) | Ravi accepts a client's incomplete document list, then files it knowing a deleted email was left out; finds evidence of a bribe and is asked whether to report it; Grace prepares an elderly client's deed of gift of $65,000 to Grace's secretary; a $150 hamper. | Discovery and suppressing evidence; gifts to firm staff — no question built on them before | III.9, III.8, III.2, II.10, II.24, II.8 |
 
 QB-38 to QB-41 (5 Nov 2026) cover every Sub-point that no past paper or earlier model answer
 had analysed (audit of 5 Nov 2026). Witnesses, represented persons, letters of demand and

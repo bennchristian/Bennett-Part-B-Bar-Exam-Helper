@@ -2,7 +2,7 @@
 
 Paper `pcp-m`, PCP Paper 2 (MCQ), Tue 8 Dec 2026, 2:30–4:30pm, open book. Subjects: 0 Probate & Succession Planning · 1 Real Estate (Conveyancing) · 2 Muslim Family & Succession Law · 3 Employment Law · 4 PIPD. Written 15 Nov 2026 as Markdown only, on Bennett's instruction of 14 Nov; no PDF is built until Phase 2 (`python3 tools/build_pack.py pcp-m --questions`).
 
-**How the file runs.** *Part 1* holds the questions by Subject → Topic → Sub-point, in `coverage.md` order. Each real question sits under the Sub-point it mainly tests; any other Sub-point it tests is named in its tag line and carries a "See" line. Where no real question reaches a Sub-point, an own question fills the gap. Every one of the 254 Sub-points has at least one question whose tag line names it. *Part 2* holds the Drills: timed sets built from Part 1 questions, by Topic or mixed, each with a time limit and an answer key.
+**How the file runs.** *Part 1* holds the questions by Subject → Topic → Sub-point, in `coverage.md` order. Each real question sits under the Sub-point it mainly tests; any other Sub-point it tests is named in its tag line and carries a "See" line. Where no real question reaches a Sub-point, an own question fills the gap. Every one of the 255 Sub-points has at least one question whose tag line names it. *Part 2* holds the Drills: timed sets built from Part 1 questions, by Topic or mixed, each with a time limit and an answer key.
 
 **How to read a question.** The tag line gives the question ID · the Sub-point Keys it raises (`coverage.md`) · the source · the end-point block(s) in `cheatsheets.md` that hold the rule. The answer follows the options: why the right option is right, why each other option is wrong, then the cite. Cites use the source aliases in `coverage.md` → "Source key" and the statute sections. Cover the answer, answer it, then check; log every miss in `weak-spots.md` under its Key.
 
@@ -25,12 +25,14 @@ Self-study only: never use this file with a live quiz, the Mock Exam or another 
 
 | Subject | Real questions | Own questions | Total |
 |---|---|---|---|
-| 0 Probate & Succession Planning | 25 (SQ 10; PR-PP1 9; PR-PP2 6, of which 8 are written parts) | 77 | 102 |
+| 0 Probate & Succession Planning | 25 (SQ 10; PR-PP1 9; PR-PP2 6, of which 8 are written parts) | 83 | 108 |
 | 1 Real Estate (Conveyancing) | 14 (SQ 10; 2021 REP 4 written parts) | 48 (7 set on the 2023 and 2025 exam facts) | 62 |
-| 2 Muslim Family & Succession Law | 10 (SQ) | 38 | 48 |
-| 3 Employment Law | 10 (SQ) | 30 | 40 |
-| 4 PIPD | 10 (SQ) | 25 | 35 |
-| **Total** | **69** (57 MCQs, 12 written parts) | **218** | **287** |
+| 2 Muslim Family & Succession Law | 10 (SQ) | 40 | 50 |
+| 3 Employment Law | 10 (SQ) | 31 | 41 |
+| 4 PIPD | 10 (SQ) | 27 | 37 |
+| **Total** | **69** (57 MCQs, 12 written parts) | **229** | **298** |
+
+Own questions Q0-78 to Q0-83, Q2-39, Q2-40, Q3-31, Q4-26 and Q4-27 were added on 18 Nov 2026 for the syllabus cases and the PD 2014 protocols filled in after the audit (`audits/pcp-m-audit.md`).
 
 Part 2 has 15 Drills.
 
@@ -85,6 +87,30 @@ D. The half share falls into the husband's residuary estate.
 
 **Answer: C.** Survivorship applies to joint tenancy property, so it passes to the surviving joint tenant and not under the will; a will cannot sever a joint tenancy. To sever, the husband had to serve an instrument of declaration (registered land, s 53(5) LTA) in his lifetime. A, B, D all assume the will can sever or reach the share.
 *Cite: LTA s 53(5)–(6); CLPA s 66A(3); PR1 s20; `pcp-m-0-3`*
+
+**Q0-78** · `0.I.3` · own question · `pcp-m-0-3`
+
+Husband and wife bought a house in the wife's sole name. The husband paid about 85% of the price; there is no declaration of trust and no evidence of any agreement about shares. By the time of purchase the marriage had broken down, and the husband did not intend to benefit the wife. Applying *Chan Yuen Lan v See Fong Mun*, who owns the beneficial interest?
+
+A. The wife alone, because legal title is conclusive.
+B. The wife alone, because the presumption of advancement from husband to wife always applies.
+C. The wife holds about 85% on resulting trust for the husband and keeps about 15%.
+D. They hold beneficially as joint tenants in equal shares.
+
+**Answer: C.** Unequal, provable contributions and no declaration of trust raise a presumed resulting trust in proportion to contributions (step (a)). There was no common intention to hold differently (step (b)) and no intention to give (step (d)). On the facts the presumption of advancement did not operate (step (e)), so the shares follow contributions; in the case itself the wife held 84.17% on trust for the husband. A: legal title is only the starting point where contributions cannot be proved. B: advancement is a rebuttable presumption and did not apply on these facts. D: equal beneficial joint tenancy arises only if advancement operates and the property is in joint names.
+*Cite: Chan Yuen Lan v See Fong Mun [2014] 3 SLR 1048 at [160]–[162]; `pcp-m-0-3`*
+
+**Q0-79** · `0.I.3` · own question · `pcp-m-0-3`
+
+The eldest son is the sole registered owner of an HDB property that the family bought with their late mother's money. His five siblings, all eligible to hold an interest in HDB property, claim that he holds it on a common intention constructive trust for all six equally. He relies on s 51(10) of the Housing and Development Act ("no person shall become entitled to any protected property … under any resulting trust or constructive trust"). Which statement is CORRECT?
+
+A. s 51(10) bars any trust over HDB property, so the claim fails.
+B. s 51(10) bars only ineligible persons; eligible siblings may establish a constructive trust.
+C. s 51(10) allows a trust only between persons who are already registered co-owners.
+D. A constructive trust over HDB property needs HDB's prior written consent.
+
+**Answer: B.** The Court of Appeal adopted the Eligibility Interpretation: s 51(10) only stops ineligible persons acquiring interests under resulting or constructive trusts. It rejected the view in C (the "Pre-Existing Interest Interpretation", which would confine trusts to registered co-owners). A overstates the bar. D is not a requirement the case states.
+*Cite: Ong Chai Soon v Ong Chai Koon [2022] 2 SLR 457 at [2]–[3], [108], [125]; `pcp-m-0-3`*
 
 ### 0.I.4 — Joint bank accounts
 
@@ -174,6 +200,18 @@ D. Equity imposes a trust on the wife's property for the children.
 **Answer: B.** Reciprocal terms alone make mirror wills, which each party can revoke freely. A and D describe mutual wills, which need a legally binding agreement not to revoke; only then does equity impose a trust on the survivor's property after the first death. C: a joint will is one document executed by two or more persons; these were separate wills.
 *Cite: PR-6a p27–28 para 15.2; Cyril-PR §1.1; `pcp-m-0-9`*
 
+**Q0-80** · `0.II.2` · own question · `pcp-m-0-9`
+
+In 2001 a husband and wife made mutual wills before a solicitor, each stating it was irrevocable. A GP certified both of sound mind three days before execution, and their son (a beneficiary) was at the solicitor's office. The husband died in 2004. In 2017 the wife made a new will leaving everything to two daughters. The daughters say the mutual wills are invalid. Following *VTL v VTM*, which statement is CORRECT?
+
+A. The mutual wills are invalid because the medical certificate was not dated the day of execution.
+B. The mutual wills are invalid because a beneficiary was present at the solicitor's office.
+C. The 2017 will prevails because a later will always revokes an earlier one.
+D. The mutual wills were validly made and take precedence over the 2017 will.
+
+**Answer: D.** The court accepted the solicitor's standard practice and found no suspicious circumstances; the mutual wills took precedence over the 2017 will, whose grant was revoked. A: no medical certificate is needed unless there are grounds to suspect unsoundness, and one dated three days before suffices. B: mere presence proves nothing. C ignores the binding agreement not to revoke once the first party has died.
+*Cite: VTL v VTM [2021] SGHCF 30 at [12]–[16]; `pcp-m-0-9`*
+
 ### 0.II.3 — Who can make a will: age 21, s 27 exceptions, Muslims
 
 **Q0-10** · `0.II.3` · own question · `pcp-m-0-10`
@@ -201,6 +239,18 @@ D. Undue influence is made out wherever a beneficiary helped arrange the appoint
 
 **Answer: C.** The propounder must prove capacity and knowledge and approval on a balance of probabilities; a rational, duly executed will raises a presumption of capacity, and of knowledge and approval absent suspicious circumstances. A: dementia alone does not prove incapacity (*XBO v XBP*). B: the burden is on the propounder. D: undue influence needs coercion overpowering free will, a high bar (*ULV v ULW*).
 *Cite: Chee Mu Lin Muriel [2010] 4 SLR 373; ULV v ULW [2019] 3 SLR 1270; XBO v XBP [2024] SGHCF 36; `pcp-m-0-11`*
+
+**Q0-81** · `0.II.4` · own question · `pcp-m-0-11`
+
+An 88-year-old woman scores 14/28 on a Mini-Mental State Examination and her doctor recommends a full assessment. Ten days later her son, without arranging the assessment, takes her to sign a will leaving him her whole estate. Two estate planners witness it after asking a few general questions. The terms look rational. Which statement is CORRECT?
+
+A. The will is valid because it was duly executed and its terms are rational.
+B. The will is valid because the estate planners were independent witnesses.
+C. The will is likely invalid: capacity is doubtful and the circumstances are suspicious, and a rational-looking will does not cure a lack of capacity.
+D. The MMSE score alone proves incapacity as a matter of law.
+
+**Answer: C.** On similar facts the court held the will invalid: suspicious circumstances displaced the presumption, the more thorough medical evidence showed moderate dementia, and the rational terms may simply reflect the beneficiary's wishes. A and B: due execution and witnesses do not answer capacity once suspicion arises. D: no single test score is decisive; the court looks at all the evidence.
+*Cite: WWI v WWJ [2024] SGFC 22, affirmed [2024] SGHCF 28 at [19]–[22]; `pcp-m-0-11`*
 
 ### 0.II.5 — Formal validity of wills made abroad (s 5 WA)
 
@@ -1118,6 +1168,18 @@ D. Apply to the Public Trustee.
 **Answer: A.** A grant by a court of a Commonwealth country or Hong Kong may be resealed in Singapore (ss 47–49 PAA) and then has the same effect as a Singapore grant (s 47(2)); the court issues a Memorandum of Resealing. B: only a grant from outside the Commonwealth and Hong Kong needs a fresh application. C: a foreign grant has no effect in Singapore until resealed. D is not the route.
 *Cite: PAA ss 47–49; PR5 s5, s47–56; `pcp-m-0-67`*
 
+**Q0-82** · `0.VIII.13` · own question · `pcp-m-0-67`
+
+A widow applies to reseal in Singapore a grant made in a Commonwealth country where the deceased held citizenship. The deceased's father enters a caveat, alleging the deceased was never domiciled there and the widow obtained the foreign grant by fraud. Which statement is CORRECT?
+
+A. A Commonwealth grant must be resealed once it is produced, so the caveat has no effect.
+B. The applicant must prove domicile in the granting jurisdiction; even then resealing is discretionary, and if the caveator raises a serious question to be tried the court should direct a probate action.
+C. Fraud allegations can never be raised in Singapore; they belong only in the foreign court.
+D. Citizenship of the granting country conclusively proves domicile.
+
+**Answer: B.** s 47(4) PAA makes domicile the threshold (burden on the applicant), and "may" in s 47(1) gives a discretion. A contested resealing may be disposed of summarily only if there is no serious question to be tried. A ignores both. C: extrinsic fraud may be raised; intrinsic fraud needs fresh evidence. D: domicile needs residence and intention; buying citizenship without ever entering the country did not establish it.
+*Cite: PAA s 47; WKR v WKQ [2023] SGHC(A) 35 at [39], [44]–[45], [50]–[71]; `pcp-m-0-67`*
+
 ### 0.VIII.14 — Contentious probate: probate actions
 
 **Q0-61** · `0.VIII.14` · own question · `pcp-m-0-68`
@@ -1418,6 +1480,18 @@ D. A report that says only that P "may have some memory problems".
 
 **Answer: B.** The report must be not more than 6 months old when filed, from an examination less than 12 months before the report, with a clear opinion on incapacity and prognosis, exhibited to the doctor's affidavit (Form 61). A is too old. C lacks the doctor's affidavit. D gives no clear opinion.
 *Cite: FJC PD 2024 para 59(7)–(8); PR6 s62–63; `pcp-m-0-85`*
+
+**Q0-83** · `0.IX.14` · own question · `pcp-m-0-85`
+
+P was injured in a road accident and lacks capacity. P's daughter applies to be appointed P's deputy. The driver's insurer, defending P's damages claim, applies to be joined to the deputyship application to dispute P's capacity. Which statement is CORRECT?
+
+A. The insurer is a relevant person and must be joined.
+B. The court has a discretion to join a party, but an alleged tortfeasor generally should not be joined, as the disadvantages of joinder outweigh the advantages.
+C. Anyone who may be affected by the deputy's appointment is entitled to be joined.
+D. The costs of the deputyship application are always borne by the applicant.
+
+**Answer: B.** Joinder is discretionary (P 6 r 6 General Rules), and in *TWD v UQE* the court held that joining the alleged tortfeasor would generally delay the application, add costs and give it access to P's information. A and C overstate the position. D: costs are paid by P or charged to P's estate unless the court otherwise directs (P 22 r 4).
+*Cite: TWD v UQE [2019] 3 SLR 662 at [56]–[84]; Cyril-PR §5.7.6, §5.7.8; `pcp-m-0-85`*
 
 ### 0.IX.15 — Deputy's powers and restrictions (ss 22, 23, 25)
 
@@ -2610,6 +2684,18 @@ D. The wife must prove fault.
 **Answer: B.** A talak pronounced outside court is valid only once registered by the SYC (ss 46, 46B). A first or second talak is revocable by reconciliation (rujuk) within 3 months. C applies to a third talak. D: talak needs no fault.
 *Cite: AMLA ss 46, 46B; BQ v BR [2016] 7 SSAR 36; MU2 s21; `pcp-m-2-16`*
 
+**Q2-39** · `2.IV.3` · own question · `pcp-m-2-16`
+
+A wife applies to the Syariah Court to register a talak she says her husband pronounced at home. The husband denies saying the words. What does the Syariah Court do?
+
+A. Registers the divorce on the wife's affidavit alone.
+B. Dismisses the application, because only the husband can apply to register a talak.
+C. Gets the husband's account of what he said and when, hears the evidence of the parties and witnesses, and decides whether the words used were certain and unequivocal.
+D. Refers the dispute to the Family Justice Courts.
+
+**Answer: C.** On a disputed talak the SYC confirms with the husband what was said and when, hears the parties and witnesses (*Mohamed Salleh v Habibah*; *AM v AN*), and decides whether the words were unequivocal (*BQ v BR*). A: there must be a finding on the evidence. B: either party may apply to register (ss 46, 46B AMLA). D: talak is within the SYC's exclusive jurisdiction.
+*Cite: MU2 s21; AMLA ss 46, 46B; `pcp-m-2-16`*
+
 ### 2.IV.4 — Cerai taklik
 
 **Q2-14** · `2.IV.4` · own question · `pcp-m-2-17`
@@ -2765,6 +2851,18 @@ D. In proceedings before the Syariah Court, a mother automatically loses all rig
 
 **Answer: B.** Children above 7 (mumaiyiz) of sufficient maturity are usually interviewed by the President with a child expert; their wishes do not override welfare (*AA v AB*). A: remarriage affects care and control only through welfare. C: joint custody is the norm (*Zaini bin Ibrahim*). D: income is not decisive. Official key: B.
 *Cite: AA v AB [2011] 6 SSAR 120; Zaini bin Ibrahim [2007] 3 SSAR 135; SQ p70 Q10, key p128; `pcp-m-2-26`*
+
+**Q2-40** · `2.V.5` · own question · `pcp-m-2-26`
+
+Which statement about interviewing children in custody disputes is CORRECT?
+
+A. Neither the Syariah Court nor the civil courts interview children.
+B. The Syariah Court usually interviews children above 7 who are mature enough, while the civil courts are more cautious and interview a child only where the child wishes to speak to the judge, is mature enough, and an interview would not drag the child into the dispute.
+C. The civil courts interview every child above 7; the Syariah Court never does.
+D. Once interviewed, a child's stated wishes decide care and control in both courts.
+
+**Answer: B.** The SYC has a long-standing practice of interviewing children above 7 (mumaiyiz), now done by the President with a CAPS child expert. The civil courts note the risks (judges untrained, no relationship of trust, intimidation, coaching) but may interview in suitable cases (*AZB v AZC*). D: wishes never override welfare (*AA v AB*).
+*Cite: MU2 s41, s46; AZB v AZC [2016] SGHCF 1; AA v AB [2011] 6 SSAR 120; `pcp-m-2-26`*
 
 ### 2.V.6 — Division of matrimonial assets
 
@@ -3223,6 +3321,18 @@ D. 65 and 70.
 
 **Answer: C.** The minimum retirement age rose from 63 to 64 on 1 Jul 2026; employers must offer re-employment to eligible employees up to 69, or pay an EAP if no suitable vacancy.
 *Cite: EM-CS1 s10; EM1 s15; RRA; `pcp-m-3-11`*
+
+**Q3-31** · `3.II.6` · own question · `pcp-m-3-11`
+
+Siti, 66, was re-employed by her company at 64. Her department is now being closed and she is retrenched. Neither her contract nor any collective agreement mentions retrenchment benefits. Which statement is CORRECT?
+
+A. Siti is statutorily entitled to one month's salary per year of service.
+B. Siti cannot be retrenched because she is a re-employed employee.
+C. The employer may follow the EAP recommendations in the Tripartite Guidelines for Re-employment of Older Workers instead of paying a retrenchment benefit.
+D. The employer must pay both an EAP and a retrenchment benefit.
+
+**Answer: C.** For retrenched employees aged 64 or above, the tripartite guidance is that employers can follow the EAP recommendations in the re-employment guidelines, unless the contract or collective agreement provides retrenchment benefits. This is guidance, not a statutory entitlement. A: there is no statutory retrenchment benefit. B: re-employed employees can be retrenched for redundancy. D: the guidance offers the EAP in place of, not on top of, a retrenchment benefit.
+*Cite: TAFEP, Responsible Retrenchment Practices FAQ; RRA; `pcp-m-3-11`*
 
 ### 3.II.7 — Employee personal data (PDPA)
 
@@ -3822,7 +3932,7 @@ D. Through FIDReC.
 
 ### 4.IV Pre-action protocol for PI and NIMA claims (State Courts PD Appendix B)
 
-Sub-points 4.IV.1–4.IV.6. Real questions: SQ PIPD Q3 (4.IV.1), Q6 (4.IV.2, 4.IV.6), Q7 (4.IV.3), Q5 and Q10 (4.IV.5). Own question Q4-9 covers 4.IV.4.
+Sub-points 4.IV.1–4.IV.7. Real questions: SQ PIPD Q3 (4.IV.1), Q6 (4.IV.2, 4.IV.6), Q7 (4.IV.3), Q5 and Q10 (4.IV.5). Own questions Q4-9 cover 4.IV.4 and Q4-26 covers 4.IV.7 (added 18 Nov 2026).
 
 ### 4.IV.1 — Scope of the pre-action protocol
 
@@ -3933,6 +4043,20 @@ D. $1,500–$2,500.
 
 **Answer: B.** Para 13: NIMA under $1,000 → $300; $1,000–$9,999 → $300–$700; $10,000 and above → $500–$1,000; PI settled under $20,000 → $1,500–$2,500. No sanctions are imposed where there are good reasons, e.g. trying another ADR forum (para 15.1).
 *Cite: PI-PD App B paras 13–15; `pcp-m-4-18`*
+
+### 4.IV.7 — State Courts PD 2014: Appendix C (NIMA) and Appendix E (PI)
+
+**Q4-26** · `4.IV.7` · own question · `pcp-m-4-34`
+
+A non-injury motor accident claim is governed by the Pre-action Protocol for Non-Injury Motor Accident Cases in Appendix C of the State Courts Practice Directions 2014. The claimant has sent his notice of accident. How many motor surveyors must the insurer list in its reply if it wants a pre-repair survey, and how is the PD 2014 framework related to the current one?
+
+A. At least 3; the 2014 protocol is identical to the 2021 one.
+B. At least 10; the 2021 PD later merged the NIMA protocol (2014 App C) and the PI protocol (2014 App E) into a single Appendix B.
+C. None; under PD 2014 the claimant chose the surveyor alone.
+D. At least 10; PD 2014 had one combined protocol, which PD 2021 split into two.
+
+**Answer: B.** Under 2014 App C para 2.3 the insurer replies within 2 working days with at least 10 motor surveyors; the 2021 Appendix B (actions contemplated from 1 Apr 2022) needs at least 3 and combines the PI and NIMA protocols. A gets the number wrong. C: the surveyor is a single joint expert chosen by agreement or deemed agreement. D reverses the history.
+*Cite: PI-PD2014 App C para 2.3, App E; PI-PD App B paras 1.2, 2; `pcp-m-4-34`*
 
 ### 4.V FIDReC Non-Injury Motor Accident scheme
 
@@ -4085,6 +4209,18 @@ D. No experts are allowed in PI cases.
 
 **Answer: B.** Parties should have one common expert; in the High Court they must agree one and may not rely on more than one per issue; in State Courts simplified trials, if they cannot agree, the court may appoint one. The protocol also uses SJEs pre-action (surveyors, medical experts).
 *Cite: ROC 2021 O 12 r 3; PI4 s14; `pcp-m-4-28`*
+
+**Q4-27** · `4.VII.4` · own question · `pcp-m-4-28`
+
+In a NIMA claim heading for a simplified trial, the parties cannot agree on a single joint expert. Each has a nominee. Which factor is LEAST relevant when the court chooses (per *Lee Song Yam v Hafizah*)?
+
+A. Whether the proposed surveyor did the pre-repair and post-repair inspection of the vehicle.
+B. The experts' fees and the time they need to produce a report.
+C. Whether either party breached the pre-action protocol in a way that affects the choice.
+D. Which party first proposed its nominee.
+
+**Answer: D.** The court weighs expertise and experience, costs, time to report, (NIMA) whether the expert inspected the vehicle before and after repair, (PIMA) whether the doctor is from a restructured hospital and examined the patient or records, protocol breaches, and allegations of claim inflation, causation, fraud or bias. If no nominee is suitable, it appoints its own. Who proposed first is not a factor.
+*Cite: Lee Song Yam v Hafizah binte Abdul Rahman [2019] SGMC 24; Cyril-PI; `pcp-m-4-28`*
 
 ### 4.VIII Trials and assessment of damages
 

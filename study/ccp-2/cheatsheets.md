@@ -24,6 +24,8 @@ read `<subject>.<Topic>`.
 - **Client about to file: budget, classes, countries, searches; what happens after filing (examination, publication, opposition)?** → [0-4](#ccp-2-0-4)
 - **Examiner objects: mark not distinctive / descriptive ("LOVE" for jewellery; "Fresh & Crunchy" for apples)** → s 7(1)(b), (c); saved by acquired distinctiveness s 7(2) → [0-5](#ccp-2-0-5)
   - Invented word v arbitrary v suggestive v descriptive v generic; are s 7(1)(b) and (c) the same? → [0-5](#ccp-2-0-5)
+- **Why do trade marks exist? How do trade marks, patents and copyright differ?** → [0-54](#ccp-2-0-54)
+- **Certification v collective marks; who may file; any time limit; marks common to the trade, immoral or deceptive** → [0-55](#ccp-2-0-55)
 
 ### ccp-2-0-1 — Definition of trade mark and sign
 *Keywords: trade mark definition, sign, s 2(1) TMA, capable of being represented graphically, capable of distinguishing, word mark, device mark, composite mark, letter, numeral, label, shape, colour, aspect of packaging, sound mark*
@@ -82,6 +84,27 @@ read `<subject>.<Topic>`.
 > - Low: partly descriptive, laudatory or mood words — may acquire distinctiveness through advertising and use.
 
 *Source note: IP1 s16–23; TMA s 7(1)(b)–(c), (2); Cyril-IP §1.2.4; SQ p23 Q1 (key B, p115).*
+
+### ccp-2-0-54 — Why trade marks; trade marks v patents v copyright
+*Keywords: rationale of trade marks, why trade marks, guarantee of origin, guarantee of quality, short cut for consumers, search costs, just desserts, investment in goodwill, attractive power, dilution non-examinable, comparison of IP rights, registration needed, automatic protection, term of protection, 10 years renewable, 20 years from filing, life plus 70 years, distinguish trade marks patents copyright*
+
+**End point:** Trade marks are protected because they (i) guarantee origin and quality and give consumers a short cut that saves search time and cost; (ii) reward the trader's investment in building recognition ("just desserts"); and (iii) carry attractive power (well-known marks and dilution are non-examinable) (IP1 s5).
+
+| | Trade mark | Patent | Copyright |
+|---|---|---|---|
+| Protects | A sign distinguishing goods or services (s 2(1) TMA) | A new, inventive, industrially applicable invention (s 13 PA) | Original expression in works; not ideas (CA) |
+| Registration | Not needed to use a mark, but statutory rights and an infringement action need registration; otherwise passing off | Needed: in force from the certificate of grant (s 36(1) PA); first to file wins | None: automatic |
+| Term | 10 years from the filing date, renewable indefinitely (ss 15(2), 18 TMA) | 20 years from filing, subject to renewal fees (s 36 PA) | Life + 70 years for identified authors; 70 years for sound recordings and films (ss 114, 122, 125 CA) |
+| Challenge | Opposition, invalidation, revocation for non-use | Revocation (s 80); validity counterclaim | No register: originality or subsistence contested in the action |
+
+*Source note: IP1 s5–10, s47–49; IP4 s15; IP5 s8; TMA ss 2(1), 15(2), 18; PA ss 13, 36; CA ss 114, 122, 125; TM Infopack pp 7–8; Patents Infopack p 8. The comparison table is assembled from the Acts and slides (LP competency 1); no slide gives one.*
+
+### ccp-2-0-55 — Certification and collective marks; filing; other unregistrable marks (TM Infopack)
+*Keywords: certification mark, collective mark, association, members, regulations governing use, 9 months, Rule 13 government agency logos, who may file, intention to use, address for service in Singapore, no nationality requirement, no time limit to file, marks already in use, common to the trade, customary, escalator, contrary to public policy or morality, deceptive mark, geographical origin, s 7(1)(d), s 7(4)*
+
+**End point:** A **certification mark** shows that goods or services are certified by its owner (origin, material, quality, method, performance); authorised users, not the owner, use it, and the owner should not itself trade in the certified goods. A **collective mark** distinguishes the goods or services of members of an association from non-members. Applications for either must be followed by regulations governing use within 9 months of filing. Government agency logos are protected under Rule 13 (TM Infopack p6, p15). **Who may file:** any individual, firm or company claiming to own the mark that uses or intends to use it in business; no nationality or residence requirement, but an address for service in Singapore is needed. **No time limit:** a mark already in use may be registered at any time, but an infringement action needs registration, and rights run from the filing date (p8). **Also unregistrable** (p9): marks common to the trade (customary terms, e.g. "escalator"); marks contrary to public policy or morality; deceptive marks (misleading as to nature, quality or geographical origin).
+
+*Source note: TM Infopack pp 6, 8–9, 15 (optional guide, LP p6). The TMA reading list covers only s 7(1)(b)–(c); the statutory heads for these grounds (s 7(1)(d), s 7(4)) are not on the reading list.*
 
 ## 0.II Trade marks: relative grounds and the Staywell test
 
@@ -274,7 +297,7 @@ SQ p25 Q7 C: Colin's use of "Busy Bees" on a perfume prop in an in-house Christm
 *Source note: IP3 s11; IP4 s9; PA s 13; Cyril-IP §2.2; SQ p24 Q3 (key C, p115).*
 
 ### ccp-2-0-21 — Novelty: state of the art and how to assess it
-*Keywords: novelty, new, s 14(1), state of the art, s 14(2), made available to the public, whether in Singapore or elsewhere, written or oral description, use, prior art, single member of the public, unread library book, Institut Pasteur v Genelabs, First Currency Choice v Main-Line, mosaicking, Genelabs exception cross-referenced documents, enabling disclosure, Muhlbauer v Manufacturing Integration Technology, anticipate, person skilled in the art, skilled addressee, Lee Tat Cheng v Maka GPS, common general knowledge, unimaginative, Main-Line v UOB three steps, ex post facto, signpost, flag, s 14(10) new medical use*
+*Keywords: novelty, new, s 14(1), state of the art, s 14(2), made available to the public, whether in Singapore or elsewhere, written or oral description, use, prior art, single member of the public, unread library book, Institut Pasteur v Genelabs, First Currency Choice v Main-Line, mosaicking, Genelabs exception cross-referenced documents, enabling disclosure, Muhlbauer v Manufacturing Integration Technology, anticipate, person skilled in the art, skilled addressee, Lee Tat Cheng v Maka GPS, common general knowledge, unimaginative, Main-Line v UOB three steps, ex post facto, signpost, flag, s 14(10) new medical use, s 14(3), earlier application published later, whole contents, prior-filed unpublished application*
 
 **End point:** An invention is new if it does not form part of the state of the art (s 14(1) PA): all matter made available to the public anywhere, by written or oral description, by use or in any other way, before the priority date (s 14(2)). Disclosure to a single member of the public is enough (*Institut Pasteur v Genelabs* at [188]), and an unread book in a public library can anticipate (*First Currency Choice* [2008] 1 SLR(R) 335 at [38]). No mosaicking: compare a single prior art with the invention, unless documents expressly refer to each other, and then only the parts referred to (*Genelabs* [2000] 3 SLR(R) 530 at [26]–[28]). The prior disclosure must be enabling — following it would inevitably lead to the invention; vague disclosures and near misses do not anticipate (*Muhlbauer* [2010] 2 SLR 724 at [17]). A new medical use of a known substance may be new (s 14(10)).
 
@@ -287,7 +310,9 @@ SQ p25 Q7 C: Colin's use of "Busy Bees" on a perfume prop in an in-house Christm
 > - Not an "expert"; from the relevant field; has the common general knowledge and a practical interest in the subject matter.
 > - Reasonably intelligent but unimaginative, not inventive; wants to make the patent's directions work.
 
-*Source note: IP3 s12–30, s17; PA s 14(1)–(2), (10); Cyril-IP §2.2.1.*
+**Earlier-filed, later-published applications (s 14(3) PA):** the state of the art also includes matter in another patent application published on or after the invention's priority date, if the matter was in that application both as filed and as published, and its priority date is earlier than the invention's. Such matter counts for novelty only: it is ignored for inventive step (s 15).
+
+*Source note: IP3 s12–30, s17; PA s 14(1)–(2), (10); Cyril-IP §2.2.1; PA s 14(3).*
 
 ### ccp-2-0-22 — Priority date and claiming priority
 *Keywords: priority date, s 17(1) date of filing, claiming priority, s 17(2), earlier application, Paris Convention country, WTO member, preceding 12 months, supports the invention, cut-off date for prior art, later application cannot found priority*
@@ -297,11 +322,13 @@ SQ p25 Q7 C: Colin's use of "Busy Bees" on a perfume prop in an in-house Christm
 *Source note: IP3 s18–20; IP4 s12; PA s 17; Cyril-IP §2.2.1; SQ p24 Q3.*
 
 ### ccp-2-0-23 — Grace period: disclosures disregarded (s 14(4))
-*Keywords: grace period, s 14(4), 12 months before filing, disclosure disregarded, obtained unlawfully, breach of confidence, international exhibition, learned society paper, disclosure by inventor in other circumstances, s 14(4)(e), not all jurisdictions have grace period*
+*Keywords: grace period, s 14(4), 12 months before filing, disclosure disregarded, obtained unlawfully, breach of confidence, international exhibition, learned society paper, disclosure by inventor in other circumstances, s 14(4)(e), not all jurisdictions have grace period, international exhibition, learned society, s 14(4)(e) inventor disclosure, s 14(5), s 14(6)*
 
 **End point:** A disclosure of the invention in the 12 months before the filing date is disregarded for novelty (and so for inventive step) if (a) the matter was obtained unlawfully or in breach of confidence, (b) it was disclosed in breach of confidence, (c) the inventor displayed it at an international exhibition, (d) the inventor described it in a paper read before or published by a learned society, or (e) subject to s 14(6)–(7), it was disclosed by the inventor or someone who obtained it from the inventor in any other circumstances (s 14(4) PA). Caution: other jurisdictions have narrower grace periods, so disclosing before filing still carries risk. SQ p24 Q3 C (disclosure in breach of confidence 1 month before filing is disregarded) is correct (key C).
 
-*Source note: IP3 s31–34; IP4 s18; PA s 14(4); Cyril-IP §2.2.1 (exceptions); SQ p24 Q3 (key C, p115).*
+**Full list (s 14(4)(a)–(e) PA), each disregarded only if within the 12 months before the filing date:** (a) disclosure of matter obtained unlawfully or in breach of confidence; (b) disclosure in breach of confidence by someone who got it in confidence; (c) the inventor displaying the invention at an international exhibition; (d) the inventor describing it in a paper read before a learned society, which includes any club or association promoting learning or science (s 14(5)); (e) any other disclosure by the inventor or someone who got the matter from the inventor (limits on publications by IP offices: s 14(6)).
+
+*Source note: IP3 s31–34; IP4 s18; PA s 14(4); Cyril-IP §2.2.1 (exceptions); SQ p24 Q3 (key C, p115); PA s 14(4)–(6).*
 
 ### ccp-2-0-24 — Inventive step (s 15); Windsurfing
 *Keywords: inventive step, non-obvious, s 15, obvious to a person skilled in the art, Windsurfing v Tabur Marine, four steps, inventive concept, common general knowledge, differences, mosaicking allowed if obvious, useful guide, First Currency Choice, obvious to try, lying on the road, Merck v Pharmaforte, commercial success, long-felt want, Muhlbauer, conventional wisdom, prejudice, simplicity not a bar, FE Global v Trek Technology, size of gap, time spent*
@@ -342,20 +369,31 @@ SQ p25 Q7 C: Colin's use of "Busy Bees" on a perfume prop in an in-house Christm
 - **Client wants to present the invention before filing; where and how to file; searches** → [0-29](#ccp-2-0-29)
 - **Employee invented something: who owns it?** s 49, s 50; contract → [0-30](#ccp-2-0-30)
 - **Assigning or licensing a patent; unregistered assignment; exclusive licensee's damages before registration** → ss 41, 43, 75 → [0-31](#ccp-2-0-31)
+- **First to file; filing abroad first; what must be in the application; "patent pending"** → [0-56](#ccp-2-0-56)
 
 ### ccp-2-0-27 — Filing date, publication and its effect
-*Keywords: filing date, s 26 Patents Act, priority date, publication, 18 months, s 27, Patents Rule 29(1), early publication s 27(2), loss of confidential information, QB Net v Earnson, prior art worldwide, damages from date of publication, s 76*
+*Keywords: filing date, s 26 Patents Act, priority date, publication, 18 months, s 27, Patents Rule 29(1), early publication s 27(2), loss of confidential information, QB Net v Earnson, prior art worldwide, damages from date of publication, s 76, preliminary examination, search and examination, supplementary examination, notice of intention to refuse, examination review, notice of eligibility, certificate of grant, notice of refusal, appeal to High Court, divisional application*
 
 **End point:** The filing date (s 26 PA) matters because novelty and inventive step are judged at the priority date, usually the filing date (s 17(1) with ss 14–15). The application is published as soon as possible after 18 months from the filing or priority date (s 27 with Patents Rule 29(1)); the applicant may ask for early publication (s 27(2)), e.g. to expedite grant. Effects of publication: (a) the information loses protection as confidential information (*QB Net v Earnson* [2007] 1 SLR(R) 1 at [87]); (b) the application becomes prior art worldwide; (c) once the patent is granted, the applicant can recover damages for infringement dating back to publication (s 76).
 
-*Source note: IP4 s11–14; PA ss 26, 27, 76; Cyril-IP §2.3.*
+> **Application and grant process (IP4 s11; flowchart; 2 to 4 years on average)**
+> - 1. Applicant files the application. 2. Registrar does a Preliminary Examination.
+> - 3. Applicant requests Search and/or Examination (or Supplementary Examination).
+> - 4. Unresolved objections → Notice of Intention to Refuse. 5. Applicant may request an Examination Review within 2 months.
+> - 6. No unresolved objections → Notice of Eligibility to proceed to grant → applicant requests the Certificate of Grant within 2 months → Certificate of Grant issued.
+> - 7. Objections still unresolved after review → Notice of Refusal → appeal to the High Court.
+> - A divisional application may be filed within 2 months of a notice of intention to refuse or a notice of refusal.
+
+*Source note: IP4 s11–14; PA ss 26, 27, 76; Cyril-IP §2.3; IP4 s11 (flowchart image).*
 
 ### ccp-2-0-28 — Term and renewal
-*Keywords: term of patent, s 36(1), 20 years from date of filing, in force from grant, renewal fees, Patents Rule 51(1), end of 4th year, annual renewal, 3 months preceding anniversary*
+*Keywords: term of patent, s 36(1), 20 years from date of filing, in force from grant, renewal fees, Patents Rule 51(1), end of 4th year, annual renewal, 3 months preceding anniversary, s 36(2) ceases to have effect, lapse, unpaid renewal fee, s 36(3) late payment additional fee, s 39 restoration of lapsed patent, unintentional*
 
 **End point:** A granted patent is in force from the date of issue of the certificate of grant until the end of 20 years from the filing date (s 36(1) PA). To keep it in force, the proprietor pays annual renewal fees from the end of the 4th year from the filing date, within the 3 months before each anniversary of filing (Patents Rule 51(1)).
 
-*Source note: IP4 s15; PA s 36(1); Cyril-IP §2.3 (Step 4).*
+**Missed renewal fee:** the patent ceases to have effect at the end of the prescribed period if the fee is not paid within it (s 36(2)). If the fee plus an additional fee is paid in the prescribed period right after, the patent is treated as never having expired (s 36(3)). After that, the former proprietor may apply to restore a lapsed patent; the Registrar must restore it, on payment of the unpaid and additional fees, if satisfied the failure to pay was unintentional, and may impose conditions (s 39(1)–(6)).
+
+*Source note: IP4 s15; PA s 36(1); Cyril-IP §2.3 (Step 4); PA ss 36(2)–(3), 39.*
 
 ### ccp-2-0-29 — Pre-filing: confidentiality, filing strategy, searches
 *Keywords: pre-filing considerations, disclosure of invention before filing, keep confidential, grace period not universal, filing strategy, business objectives, budget, where to file, how to file, IP due diligence, patent literature, non-patent literature, prior art search*
@@ -382,6 +420,13 @@ SQ p25 Q7 C: Colin's use of "Busy Bees" on a perfume prop in an in-house Christm
 
 *Source note: IP-LP p5 (reading list ss 41, 43); PA ss 41, 43, 75 (course copy, SSO current at 6 Jan 2025). The slides do not cover these sections; the block states the statute.*
 
+### ccp-2-0-56 — First to file; foreign-filing authorisation (s 34); application contents; "patent pending"
+*Keywords: first-to-file system, date of filing priority, foreign filing licence, s 34 PA, Singapore resident, written authority of Registrar, file in Singapore 2 months before, criminal offence, application contents, Patents Form 1, description, claims within 12 months, abstract, drawings, declaration of priority at filing, patent pending, false claim patented offence, groundless threats*
+
+**End point:** Singapore is first to file: the earliest Date of Filing generally wins (Patents Infopack p8). A Singapore resident may not file abroad without the Registrar's written authority unless the same invention was filed in Singapore at least 2 months earlier and no secrecy direction under s 33 is in force (s 34(1) PA); breach is a criminal offence (Infopack p30). A filing date needs Form 1 and a description; claims and the abstract may follow, but claims must generally be filed within 12 months of the priority or filing date (or 2 months from filing, if later) or the application is treated as abandoned. A priority claim (within 12 months of an earlier Paris Convention or WTO filing) must be declared when the later application is filed (pp 13–15). Once a filing date is obtained, the product may be marked "patent pending"; falsely claiming that a product is patented or patent pending is an offence (pp 8, 12).
+
+*Source note: PA s 34(1); Patents Infopack pp 7–8, 12–15, 30–31 (optional guide, LP p6).*
+
 ## 0.VIII Patents: infringement, defences and revocation
 
 - **Which acts infringe a product patent? a process patent? importing a product made by the process?** s 66(1) → [0-32](#ccp-2-0-32)
@@ -404,11 +449,19 @@ SQ p25 Q7 C: Colin's use of "Busy Bees" on a perfume prop in an in-house Christm
 *Source note: IP4 s27–33; PA s 113(1); Cyril-IP §2.5.2.*
 
 ### ccp-2-0-34 — Defences and restriction on relief (ss 66(2), 69)
-*Keywords: defences to patent infringement, not in force, s 66(2)(a) privately and not commercial, s 66(2)(b) experimental purposes, extemporaneous medicine, parallel import s 66(2)(g), defence and counterclaim for revocation, innocent infringer, s 69(1), not aware no reasonable grounds, no damages, no account of profits, burden on defendant, s 69(2), word patented with patent number*
+*Keywords: defences to patent infringement, not in force, s 66(2)(a) privately and not commercial, s 66(2)(b) experimental purposes, extemporaneous medicine, parallel import s 66(2)(g), defence and counterclaim for revocation, innocent infringer, s 69(1), not aware no reasonable grounds, no damages, no account of profits, burden on defendant, s 69(2), word patented with patent number, extemporaneous medicine prescription, foreign vessels aircraft vehicles, parallel imports s 66(2)(g), exhaustion, marketing approval s 66(2)(h), Bolar, specific patient import s 66(2)(i)*
 
 **End point:** Defences: the act was not done while the patent was in force (s 66(1)); the act was done privately and for non-commercial purposes (s 66(2)(a)), or for experimental purposes relating to the invention (s 66(2)(b)), among others; or counterclaim that the patent should be revoked. Restriction on relief: no damages or account of profits against a defendant who proves he was not aware and had no reasonable grounds to suppose the patent existed at the date of infringement (s 69(1)). Marking a product "patent" or "patented" does not fix him with knowledge unless the patent number accompanies the word (s 69(2)), e.g. "Singapore Patent No. …". An injunction remains available.
 
-*Source note: IP4 s34–37; PA ss 66(2), 69(1)–(2); Cyril-IP §2.5.3–2.5.4.*
+> **All s 66(2) PA exceptions — not infringement if:**
+> - (a) private and non-commercial; (b) experimental, relating to the subject matter of the invention;
+> - (c) extemporaneous preparation of a medicine for an individual on a doctor's or dentist's prescription, or dealing with a medicine so prepared;
+> - (d)–(f) use in a foreign aircraft, hovercraft, vehicle or ship temporarily or accidentally in Singapore (and exempted aircraft and their parts);
+> - (g) parallel imports: importing, using or disposing of a product made by or with the consent of the proprietor or a licensee (including under a foreign patent for the same invention), subject to s 66(3);
+> - (h) acts to obtain marketing approval for a pharmaceutical product, if nothing produced is used or sold in Singapore or exported other than for that purpose;
+> - (i) importing a patented pharmaceutical product for a specific patient where the authority approved that import and the product was made by or with the proprietor's or licensee's consent.
+
+*Source note: IP4 s34–37; PA ss 66(2), 69(1)–(2); Cyril-IP §2.5.3–2.5.4; PA s 66(2)(a)–(i).*
 
 ### ccp-2-0-35 — Revocation of a patent (s 80)
 *Keywords: patent revocation, why revoke, cited against your application, sued for infringement, freedom to operate, s 80(1) grounds, not patentable, not novel, not inventive, not entitled to grant, insufficiency, added matter, High Court or Registrar, s 82(1)(d), Rule 80, counter-statement, amendment s 83, s 80(5)(a), s 80(5)(b), s 80(7) effect from date of grant, re-examination s 38A non-examinable*
@@ -431,21 +484,25 @@ SQ p25 Q7 C: Colin's use of "Busy Bees" on a perfume prop in an in-house Christm
 - **Assigning copyright (incl. future copyright); exclusive licence; buyer of copyright bound by an existing licence?** → [0-39](#ccp-2-0-39)
 
 ### ccp-2-0-36 — Works protected; what is not protected
-*Keywords: work, s 8 Copyright Act 2021, authorial work, literary work, compilation, computer program, database, dramatic work, mime, dance, film script, musical work, artistic work, painting, sculpture, photograph, building, non-authorial work, sound recording, film, broadcast, cable programme, published edition, ideas, concepts, discoveries, procedures, methods, fixation, rights subsist independently*
+*Keywords: work, s 8 Copyright Act 2021, authorial work, literary work, compilation, computer program, database, dramatic work, mime, dance, film script, musical work, artistic work, painting, sculpture, photograph, building, non-authorial work, sound recording, film, broadcast, cable programme, published edition, ideas, concepts, discoveries, procedures, methods, fixation, rights subsist independently, compilation s 14 selection or arrangement, intellectual creation, sound recording definition s 21, excludes film soundtrack, maker owns first record s 23, film definition s 24, maker of film arrangements s 26, artistic craftsmanship s 20, designer furniture*
 
 **End point:** The Copyright Act 2021 protects "works" (s 8): authorial works and published editions of them, sound recordings, films, broadcasts and cable programmes. Authorial works (s 9; ss 10–20) are literary works (including compilations and computer programs), dramatic works (including dance and mime, s 15, and film scripts), musical works and artistic works (paintings, sculptures, photographs, buildings). Non-authorial works (ss 21–36) are sound recordings and films (broadcasts, cable programmes and published editions are non-examinable). Not protected: ideas, concepts, discoveries, procedures, methods. The work must be fixed in material form, which need not be permanent; deleting the copy does not destroy copyright. The rights in one product subsist independently (a film may carry film, sound recording, artistic, literary and dramatic copyrights). SQ p24 Q4: a compilation, a computer program, a work of mime and a film script are all protected (key D).
 
-*Source note: IP5 s2–6; CA ss 8, 9, 15; Cyril-IP §3.1.1; SQ p24 Q4 (key D, p115).*
+**Definitions:** a compilation is a literary work (s 13) only if it is an intellectual creation because of the selection or arrangement of its contents; its copyright is limited to that selection or arrangement and is separate from any copyright in the contents (s 14). A sound recording is the sounds embodied in a record, but not the sounds of a film (s 21); it is made when the first record is produced (s 22); its maker is the owner of that first record (s 23). A film is the visual images that can be shown as a moving picture, including its soundtrack (s 24); it is made when the first copy is produced (s 25); its maker is the person who undertakes the arrangements needed to make it (s 26). Artistic works include works of artistic craftsmanship, e.g. designer furniture that is not mass produced (s 20(1)(a)(iii)).
+
+*Source note: IP5 s2–6; CA ss 8, 9, 15; Cyril-IP §3.1.1; SQ p24 Q4 (key D, p115); CA ss 13–14, 20–26; Copyright 101 Infopack p8.*
 
 ### ccp-2-0-37 — Criteria: automatic protection, originality, authorship, material form, connecting factors
-*Keywords: copyright subsists only by the Act, automatic protection, no registration, originality, Global Yellow Pages v Promedia, intellectual effort, authorial creation, fact and degree, PropertyGuru v 99, derived work, material alteration or embellishment, human author, Asia Pacific Publishing v Pioneers & Leaders, reduction to material form, s 16, s 20, connecting factor, qualified individual, Singapore citizen or resident, first published in Singapore, reciprocating country, Berne Convention, WTO*
+*Keywords: copyright subsists only by the Act, automatic protection, no registration, originality, Global Yellow Pages v Promedia, intellectual effort, authorial creation, fact and degree, PropertyGuru v 99, derived work, material alteration or embellishment, human author, Asia Pacific Publishing v Pioneers & Leaders, reduction to material form, s 16, s 20, connecting factor, qualified individual, Singapore citizen or resident, first published in Singapore, reciprocating country, Berne Convention, WTO, unpublished work s 109, qualified individual s 77, qualified person s 78, body corporate incorporated in Singapore, sound recording s 120, film s 123, Government works*
 
 **End point:** Copyright arises automatically under the Act; there is no registration. Requirements: (1) the subject matter falls in a recognised category and, for authorial works, is original; (2) there is a connecting factor with Singapore. Originality: the author applied intellectual effort, creativity, mental labour, skill or judgment to the authorial creation (not mere preparatory steps), a matter of fact and degree (*Global Yellow Pages* [2017] 2 SLR 185); the work must originate from the author, and a work derived from another needs material alteration or embellishment (*PropertyGuru v 99* [2018] SGHC 52). The author must be human: with no human author there is no original work (*Asia Pacific Publishing* [2011] 4 SLR 381). Literary, dramatic and musical works must be reduced to writing or other material form (s 16), artistic works implicitly (s 20); computer storage counts. A published authorial work qualifies if the author was a qualified individual (Singapore citizen or resident) at first publication, or it was first published in Singapore or in a reciprocating country (Berne or WTO). In practice, challenges are about originality, not connecting factors.
 
-*Source note: IP5 s8–16; CA ss 16, 20; Cyril-IP §3.1.*
+**Other connecting factors:** an unpublished authorial work qualifies if the author was a qualified individual when it was made (or for a substantial part of the period of making), or it was made by or under the direction of the Government or a prescribed international organisation (s 109). A sound recording qualifies if its maker was a qualified person (a qualified individual or a Singapore-incorporated company, s 78) when it was made, or it was made or first published in Singapore (s 120). A film qualifies on the same lines (maker qualified for the whole or a substantial part of the making; made or first published in Singapore) (s 123).
+
+*Source note: IP5 s8–16; CA ss 16, 20; Cyril-IP §3.1; CA ss 77–78, 109, 120, 123.*
 
 ### ccp-2-0-38 — Ownership: author, contract, employees, commissioned works
-*Keywords: first owner, s 133(1)(a) author, s 133(3) contract, s 140 future copyright, employee, contract of service, course of employment, s 134(3) employer first owner, s 134(4) periodical newspaper magazine, s 134(5) written agreement, independent contractor, commissioned work, s 135, before 21 November 2021, appointed day, Employer J Employee K illustrations*
+*Keywords: first owner, s 133(1)(a) author, s 133(3) contract, s 140 future copyright, employee, contract of service, course of employment, s 134(3) employer first owner, s 134(4) periodical newspaper magazine, s 134(5) written agreement, independent contractor, commissioned work, s 135, before 21 November 2021, appointed day, Employer J Employee K illustrations, joint authorship s 10, collaboration, contributions not separate, author means all authors s 11, identified author s 12, pseudonym*
 
 **End point:** The author of an authorial work is the first owner (s 133(1)(a) CA), with similar rules for non-authorial works; this can be varied by contract (s 133(3)), and future copyright can be contracted (s 140). A work made by an employee in the course of a contract of service belongs to the employer (s 134(3)), subject to any contrary intention in a written agreement made on or after 21 Nov 2021 (s 134(5)); whether the author is an employee or independent contractor is fact-specific. Exception: for a literary, dramatic or artistic work made for publication in a periodical owned by the employer, the employer owns only the right to publish it in a periodical and copy it for that purpose (s 134(4)). The old rule that the commissioning party owns certain commissioned works survives only for works commissioned before 21 Nov 2021 (s 135); for later commissions, the author owns unless the contract says otherwise (s 133). SQ p27 Q10: Employer J (a book publisher, not a periodical) owns all copyright in Employee K's illustrations, and a written agreement can change this, so II and III are incorrect (key C).
 
@@ -454,14 +511,18 @@ SQ p25 Q7 C: Colin's use of "Busy Bees" on a perfume prop in an in-house Christm
 > - (4) For a literary, dramatic or artistic work made for publication in a periodical of which the employer is proprietor (made on or after 10 Apr 1987): employer owns only publishing it in a periodical and copying it for that purpose; the employee owns the rest.
 > - (5) (3) and (4) are subject to any contrary intention in a written agreement made on or after 21 Nov 2021 (or any agreement made before that date).
 
-*Source note: IP5 s18–21; CA ss 133, 134, 135, 140; Cyril-IP §3.2.1–3.2.2; SQ p27 Q10 (key C, p115).*
+**Joint authorship:** a work of joint authorship is produced by the collaboration of two or more authors whose contributions are not separate (s 10); "author" then means all the authors (s 11). An authorial work has an identified author if the author's identity (or, for joint works, at least one author's) is generally known or reasonably ascertainable; a known pseudonym is not enough (s 12). Whether an author is identified decides the duration rule in s 114.
+
+*Source note: IP5 s18–21; CA ss 133, 134, 135, 140; Cyril-IP §3.2.1–3.2.2; SQ p27 Q10 (key C, p115); CA ss 10–12.*
 
 ### ccp-2-0-39 — Assignment and licences
-*Keywords: assignment of copyright, s 138 in writing signed by assignor, partial assignment, s 139, limited by type of right, part of right, part of duration, jurisdiction, future copyright s 140, exclusive licence, s 142 in writing signed by licensor, licence binds successors in title, s 143, bona fide purchaser for value without notice, government or public body licence*
+*Keywords: assignment of copyright, s 138 in writing signed by assignor, partial assignment, s 139, limited by type of right, part of right, part of duration, jurisdiction, future copyright s 140, exclusive licence, s 142 in writing signed by licensor, licence binds successors in title, s 143, bona fide purchaser for value without notice, government or public body licence, s 137 transmission, testamentary disposition, operation of law, s 141 licence of future copyright*
 
 **End point:** An assignment must be in writing, signed by or on behalf of the assignor (s 138 CA). It may be partial — limited to some of the acts, a part of a right, or part of the duration (s 139); real-life assignments often also split by jurisdiction. Future copyright may be assigned (s 140). An exclusive licence must be in writing, signed by or on behalf of the licensor (s 142). A licence binds every successor in title, except a bona fide purchaser for value without actual or constructive notice of the licence and those deriving title from him (s 143(b)); a licence to the Government or a public body binds every successor (s 143(a)).
 
-*Source note: IP5 s22–23; CA ss 138–140, 142–143; Cyril-IP §3.2.3.*
+Copyright passes as personal property by assignment, will or operation of law (s 137). A licence of future copyright may be granted by the person who will own it, and binds successors like any licence (s 141).
+
+*Source note: IP5 s22–23; CA ss 138–140, 142–143; Cyril-IP §3.2.3; CA ss 137, 141.*
 
 ## 0.X Copyright: exclusive rights, duration, infringement and permitted uses
 
@@ -473,9 +534,10 @@ SQ p25 Q7 C: Colin's use of "Busy Bees" on a perfume prop in an in-house Christm
   - **Importing or selling pirated copies; knowledge** → ss 147, 148 → [0-42](#ccp-2-0-42)
   - **Sued 7 years after the copying** → s 154, 6 years → [0-42](#ccp-2-0-42)
 - **Defences: fair use (4 factors); exam papers; court proceedings; legal advice; can a contract exclude them?** → [0-43](#ccp-2-0-43)
+- **Collecting societies (COMPASS, MRSS, CLASS, MPLC); is © needed; playing recorded music in a shop** → [0-57](#ccp-2-0-57)
 
 ### ccp-2-0-40 — Nature of copyright and the exclusive rights
-*Keywords: negative right, s 108(1)(a), exclusive right to do and authorise, equitable remuneration s 108(2), s 112, s 113 authorial works, s 121 sound recordings, s 124 films, right of reproduction ss 41-50, substantial part, 2D to 3D, temporary copy, right of publication ss 53-60, unpublished work, right to communicate to the public s 61, streaming, Spotify, right to perform in public s 67, lecture, right of adaptation ss 17-19, s 112(1)(f), translation, dramatisation, comic*
+*Keywords: negative right, s 108(1)(a), exclusive right to do and authorise, equitable remuneration s 108(2), s 112, s 113 authorial works, s 121 sound recordings, s 124 films, right of reproduction ss 41-50, substantial part, 2D to 3D, temporary copy, right of publication ss 53-60, unpublished work, right to communicate to the public s 61, streaming, Spotify, right to perform in public s 67, lecture, right of adaptation ss 17-19, s 112(1)(f), translation, dramatisation, comic, copy of sound recording s 44, copy of film s 45, publication s 53, colourable publication, 30 days first publication s 58, unauthorised publication ignored, s 60*
 
 **End point:** Copyright is a negative right: the exclusive right to do, and authorise others to do, the acts in the Act (s 108(1)(a) CA), not a positive right to do them. Rights are set by type of work: authorial works ss 112–113, sound recordings s 121, films s 124 (others non-examinable).
 
@@ -486,14 +548,22 @@ SQ p25 Q7 C: Colin's use of "Busy Bees" on a perfume prop in an in-house Christm
 > - Public performance (s 67): visual/aural presentation, delivering a lecture; for films, causing images/sounds to be seen/heard in public (s 124(b)–(c)).
 > - Adaptation (ss 17–19; s 112(1)(f)): e.g. translation, converting non-dramatic to dramatic form or vice versa, telling a story mainly in pictures; rights extend to the adaptation.
 
-*Source note: IP6 s2–11; CA ss 108, 112–113, 121, 124; Cyril-IP §3.3.*
+**Copies and publication:** a copy of a sound recording is a record embodying it (or a substantial part) derived from the original record (s 44); a copy of a film is any article in which its images or sounds are embodied (s 45). A work is published only when copies are supplied to the public (s 53); merely colourable publication is ignored; a publication is still the first if all earlier publications were within 30 days of it; unauthorised acts are ignored in deciding whether and when a work was published (s 58); s 60 lists acts (e.g. by libraries and archives) that are not publication.
+
+*Source note: IP6 s2–11; CA ss 108, 112–113, 121, 124; Cyril-IP §3.3; CA ss 44–45, 53, 58, 60.*
 
 ### ccp-2-0-41 — Duration of copyright
-*Keywords: duration, s 114, life of author plus 70 years, end of calendar year of death, published authorial work, author not identified, sound recording s 122, film s 125, 70 years after first publication, calendar year*
+*Keywords: duration, s 114, life of author plus 70 years, end of calendar year of death, published authorial work, author not identified, sound recording s 122, film s 125, 70 years after first publication, calendar year, posthumous works, Government works duration, photographs, 31 Dec 2022 cut-off, s 115*
 
 **End point:** For a published authorial work, copyright lasts for the life of the author plus 70 years, running from the end of the calendar year in which the author died (s 114; if the author is not identified, 70 years from the end of the year of first publication). Sound recordings (s 122) and films (s 125): 70 years from the end of the calendar year of the relevant event, generally first publication (or making, if not published within 50 years).
 
-*Source note: IP6 s12; CA ss 114, 122, 125 (course copy, SSO current at 6 Jan 2025); Cyril-IP §3.4.*
+> **Duration exceptions (works first published or made available by 31 Dec 2022; Copyright 101 pp 13–15)**
+> - Posthumous work (author died before 21 Nov 2021): 70 years after first made available (s 115(1)).
+> - Government work: 70 years after first publication.
+> - Photographs, and works with no identified author: 70 years after first publication (s 115(2)).
+> - Films: s 125(2) (first published by 31 Dec 2022: 70 years after first publication).
+
+*Source note: IP6 s12; CA ss 114, 122, 125 (course copy, SSO current at 6 Jan 2025); Cyril-IP §3.4; CA ss 115, 125(2); Copyright 101 Infopack pp 13–15.*
 
 ### ccp-2-0-42 — Infringement: three questions, substantial part, authorisation, commercial dealing, limitation
 *Keywords: copyright infringement, Global Yellow Pages v Promedia [2017] SGCA 28, three questions, subsistence, prima facie infringement, defences, expression not ideas, facts, data, selection and arrangement, thin protection, substantial part, s 146, causal connection, access, close similarity, independent creation, two photographs, authorisation, s 146(1)(a), RecordTV v MediaCorp, four authorisation factors, commercial dealing, s 73, ss 147, 148, import, sell, knows or ought reasonably to know, limitation 6 years, s 154*
@@ -521,12 +591,20 @@ SQ p25 Q7 C: Colin's use of "Busy Bees" on a perfume prop in an in-house Christm
 
 *Source note: IP6 s22–25; CA ss 183–184, 186–187, 190–191, 202, 290–291; Cyril-IP §3.5.3.*
 
+### ccp-2-0-57 — Collective management organisations; © symbol; equitable remuneration
+*Keywords: collective management organisation, CMO, COMPASS, MRSS, CLASS, MPLC, class licensing scheme, IPOS, copyright symbol, © not required, equitable remuneration, public performance of sound recordings, s 121(b), restaurants hotels shops, licence for musical works and sound recordings*
+
+**End point:** Rights owners appoint CMOs to license and collect royalties at scale: **COMPASS** (copying and public performance of musical works and lyrics; karaoke), **MRSS** (copying and public performance of sound recordings and music videos), **CLASS** (copying literary works in books and journals), **MPLC** (public performance of films). A class licensing scheme for CMOs, run by IPOS, is not yet in force (Copyright 101 pp 6–7). The © symbol is not needed and does not create copyright; it signals the claimed owner and year (p12). Sound recording owners have a right to equitable remuneration for public performance of their recordings (s 121(b) CA), so a shop or restaurant playing recorded music may need a licence for the sound recordings as well as for the underlying musical works and lyrics (p10).
+
+*Source note: Copyright 101 Infopack pp 6–7, 10, 12 (optional guide, LP p6); CA s 121(b).*
+
 ## 0.XI Remedies; defence and counterclaim
 
 - **Hard to prove loss — statutory damages? Copyright caps; TM only for counterfeits ($100k per type, $1m aggregate)** → [0-44](#ccp-2-0-44)
 - **Flagrant infringement — additional damages (copyright); account of profits; deducting costs, apportionment** → [0-45](#ccp-2-0-45)
 - **Can the claimant get damages AND statutory damages / account of profits? Different remedies against different defendants?** → [0-46](#ccp-2-0-46)
 - **Sued for infringement — attack the registration/patent by counterclaim** → [0-47](#ccp-2-0-47)
+- **Injunction, delivery up, destruction, declaration; innocent infringer of copyright (no damages, s 306)** → [0-58](#ccp-2-0-58)
 
 ### ccp-2-0-44 — Statutory damages
 *Keywords: statutory damages, difficulty proving actual loss, PH Hydraulics v Intrepid Offshore, copyright s 308, $10,000 per work, $200,000 aggregate, actual loss exceeds $200,000, s 308(5) factors, trade marks s 31(5), counterfeit trade mark only, $100,000 for each type of goods or service, $1 million aggregate, s 31(6) factors, flagrancy, deterrence, Busy Bees*
@@ -561,6 +639,19 @@ SQ p25 Q7 C: Colin's use of "Busy Bees" on a perfume prop in an in-house Christm
 
 *Source note: IP2 s14–16; Cyril-IP §1.5; SQ p23 Q2 (key C, p115).*
 
+### ccp-2-0-58 — Relief available: injunction, delivery up, declaration; innocent copyright infringer
+*Keywords: types of relief, injunction, delivery up, destruction, disposal order, declaration of validity and infringement, s 31(2) TMA, s 67(1) PA, s 305(1) CA, s 306 CA, innocent infringement, did not know and could not reasonably have known, no damages, account of profits still available, s 69 PA innocent infringer comparison*
+
+**End point:**
+> **Relief by Act**
+> - TMA s 31(2): (a) injunction; (b) damages; (c) account of profits; (d) statutory damages for a counterfeit mark (s 31(5)).
+> - PA s 67(1): (a) injunction; (b) delivery up or destruction of infringing products and articles; (c) damages; (d) account of profits; (e) declaration that the patent is valid and infringed. Not both damages and an account for the same infringement (s 67(2)).
+> - CA s 305(1): (a) injunction; (b) damages, including additional damages (s 307); (c) account of profits; (d) statutory damages on election (s 308); (e) delivery up order; (f) disposal order. (b)–(d) are alternatives, except that an account may top up damages for profits not already counted (s 305(2)–(3)).
+
+**Innocent infringers:** under the CA, no damages are ordered against a defendant who did not know and could not reasonably have known that the act infringed, but other relief, including an account of profits, remains (s 306). Contrast the PA: an innocent patent infringer escapes both damages and an account of profits (s 69(1)); TMA has no equivalent rule.
+
+*Source note: TMA s 31(2)–(5); PA ss 67(1)–(2), 69; CA ss 305–308; IP2 s4–13.*
+
 ## 0.XII Confidential information
 
 - **How should a company protect its confidential information? NDA terms; data room; marking; on/off-boarding** → [0-48](#ccp-2-0-48)
@@ -568,6 +659,7 @@ SQ p25 Q7 C: Colin's use of "Busy Bees" on a perfume prop in an in-house Christm
   - Wrongful gain (use/disclosure for profit) → Coco v Clark three elements → [0-49](#ccp-2-0-49)
   - Wrongful loss (information taken, loss of confidentiality itself) → I-Admin: burden on defendant on third element → [0-49](#ccp-2-0-49)
 - **What damages? Licence fee, lost profits, Wrotham Park; mental distress** → [0-50](#ccp-2-0-50)
+- **What is a trade secret; Computer Misuse Act; factors for confidentiality; ex-employees; public interest; remedies (injunction, account, delivery up)** → [0-59](#ccp-2-0-59)
 
 ### ccp-2-0-48 — Protecting confidential information
 *Keywords: confidential information, trade secrets, two-thirds of IP value, non-disclosure agreement, NDA, confidentiality clause, technical protection measures, encryption, data room, authorised persons, marking documents confidential, records, on-boarding, off-boarding, employees, return of documents, compelled disclosure, group companies, affiliates, litigation detrimental, arbitration*
@@ -589,6 +681,13 @@ SQ p25 Q7 C: Colin's use of "Busy Bees" on a perfume prop in an in-house Christm
 **End point:** The aim is to put the claimant where it would have been but for the wrong. Bases: cost of obtaining the information; open market value; capitalised royalties; licence fees (if the claimant would have licensed it); lost profits (if it would not have licensed it); *Wrotham Park* damages as an alternative to an injunction — once paid, the defendant is treated as having bought the information outright (*Clearlab* at [335]); and, for private individuals only, psychiatric injury and (nominal) damages for hurt feelings, mental distress and loss of dignity.
 
 *Source note: IP7 s14–15; Cyril-IP §5.3.*
+
+### ccp-2-0-59 — Trade secrets: qualities, confidentiality factors, employees, public interest, remedies (Trade Secrets Guide)
+*Keywords: trade secret, secret, valuable because secret, reasonable steps, no registration, no expiry, reverse engineering, Computer Misuse Act s 3(1), unauthorised access to computer, factors confidential in nature, type of information, extent of disclosure, NDA, marked confidential, password, employee duties during employment, after employment, nature of employment, information isolated, public interest exception, police, Lion Laboratories v Evans, remedies for breach of confidence, injunction, damages, account of profits, delivery up or destruction, Adinop v Rovithai*
+
+**End point:** A trade secret is information that is (1) secret, (2) valuable because it is secret, and (3) protected by reasonable steps; it needs no registration and lasts as long as it stays secret and is not independently discovered or reverse engineered (Guide p2). Besides the law of confidence, contract and employment law, the Computer Misuse Act 1993 s 3(1) makes unauthorised access to computer data an offence (e.g. an ex-employee logging into the server) (p3). **Is it confidential?** Look at the type of information, how far it was disclosed (online, to whom, under an NDA), and the steps taken (marking, passwords, restricted access) (p4). **Employees:** while employed they may not use or disclose confidential information except in their duties; afterwards they must not use or disclose trade secrets. Factors: the nature of the job, the nature of the information, whether confidentiality was impressed on staff, and whether it can be isolated from other information (p5). **Public interest** can justify disclosure, e.g. reporting reasonable suspicion of crime to the police, or publishing that breath analysers gave false readings (*Lion Laboratories v Evans* [1985] QB 526) (p7). **Remedies:** injunction; damages or an account of profits; delivery up or destruction of copies (p7).
+
+*Source note: Trade Secrets Enterprise Guide printed pp 2–7 (PDF pp 4–9) (optional guide, LP p6). Damages bases: `ccp-2-0-50`.*
 
 ## 0.XIII IP in business
 
@@ -800,6 +899,8 @@ SQ p25 Q7 C: Colin's use of "Busy Bees" on a perfume prop in an in-house Christm
   - **Can the SIC waive the Code? (secondary/overseas listing; few Singapore holders)** → [1-19](#ccp-2-1-19)
 - **Is the Code law? What happens on breach? (reprimand, censure, cold-shoulder, payments to shareholders, referral)** → [1-20](#ccp-2-1-20)
 - **Other law: schemes (s 210), compulsory acquisition (s 215), amalgamation; SFA ss 139–140 (no reasonable grounds to perform); free float 10%; 90% suspension; delisting** → [1-21](#ccp-2-1-21)
+- **Can the target (or its subsidiary) guarantee or secure the buyer's acquisition loan? s 76 financial assistance and whitewash** → [1-44](#ccp-2-1-44)
+- **Issuing shares to an investor without a general mandate (s 161)** → [1-46](#ccp-2-1-46)
 
 ### ccp-2-1-19 — Ambit of the Take-over Code; SIC waiver
 *Keywords: Singapore Code on Take-overs and Mergers, Take-over Code, non-statutory, Securities Industry Council, SIC, primary listing SGX-ST, foreign-incorporated company, business trust, unlisted public company, more than 50 shareholders, net tangible assets S$5 million, REIT, real estate investment trust, waiver, secondary listing, primary listing overseas, few Singapore shareholders, all offerors, acts in and outside Singapore*
@@ -820,7 +921,33 @@ SQ p25 Q7 C: Colin's use of "Busy Bees" on a perfume prop in an in-house Christm
 
 **End point:** Companies Act (Singapore target): s 210 schemes of arrangement; s 215 compulsory acquisition; ss 215A–215J amalgamations (reading list also: ss 76, 76A financial assistance). SFA: s 139 — the SIC administers and enforces the Code; s 140 — an offence to make, give notice of or announce a take-over offer without reasonable grounds for believing one can perform the obligations if it is accepted; s 295A compulsory acquisition for REITs; Part VII insider trading. Business Trusts Act s 40A compulsory acquisition for business trusts. SGX-ST Listing Manual: r 723 (10% free float); r 1105 (trading suspended when the offeror and concert parties hold 90%); rr 1307, 1309 (voluntary delisting).
 
+See `ccp-2-1-44` (s 76 financial assistance), `ccp-2-1-45` (s 215 and ss 211–212) and `ccp-2-1-46` (s 161).
+
 *Source note: MA3 s11–14; MA-LP p5 (reading list); Cyril-MA §3.1.*
+
+### ccp-2-1-44 — Financial assistance (ss 76, 76A CA)
+*Keywords: financial assistance, s 76 Companies Act, public company, subsidiary of public company, holding company, acquisition of own shares, guarantee, security, charge over assets, loan, for the purpose of, substantial purpose, in connection with, exceptions s 76(8), dividends, capital reduction, ordinary course of business, employee share scheme, whitewash, s 76(9A) 10% board, solvency statement, s 76(9B) unanimous members, s 76(9BA) no material prejudice, s 76(10) special resolution, 21 days objection, s 76A void voidable, officers in default fine imprisonment, leveraged buyout*
+
+**End point:** A **public company**, or a company whose holding or ultimate holding company is public, must not give financial assistance, directly or indirectly, for or in connection with the acquisition (or proposed acquisition) of shares in itself or in its holding company (s 76(1)). A private company outside a public group is not caught (since 2016), but no company may buy its own shares or lend on their security except as the Act allows (s 76(1A)). Assistance includes a loan, guarantee, security, release of an obligation or debt (s 76(2)); "for the purpose of" means one substantial purpose (s 76(3)); "in connection with" means the company knew the assistance would help the acquisition (s 76(4)). Exceptions (s 76(8)–(9)) include lawful dividends, capital reductions, s 210 court orders, liabilities discharged in good faith on ordinary commercial terms, ordinary-course lending by banks, employee share schemes and buy-backs.
+
+> **Whitewash routes**
+> - s 76(9A): board resolution; assistance (with other such assistance) not over 10% of paid-up capital and reserves; fair value received; all directors' solvency statement; notice to members within 10 business days; lodge with the Registrar.
+> - s 76(9B): board resolution and solvency statement, plus a resolution of all members present and voting; assistance within 12 months.
+> - s 76(9BA): board resolution that the assistance does not materially prejudice the company, its shareholders or its ability to pay creditors; lodge with the Registrar.
+> - s 76(10): special resolution (and of a listed parent or Singapore ultimate holding company), with a directors' statement, newspaper notice, and a 21-day window for members, creditors, debenture holders or the Registrar to apply to court to object (s 76(12)).
+
+**Consequences:** the company commits no offence, but each officer in default faces a fine of up to S$20,000, up to 3 years' imprisonment, or both (s 76(5)). A contract to acquire its own shares, or lend on their security, is void; other contraventions are voidable at the company's option, and the court may order refunds or compensation (s 76A). A third party holding a directors' certificate that a whitewash was complied with is protected unless it knew otherwise.
+
+2023 CCP 2 Q54: a public target guaranteeing Bidco's acquisition loan, its subsidiary charging its assets, and the target charging its shares in the subsidiary are all caught (unless whitewashed).
+
+*Source note: Companies Act 1967 (2020 Rev Ed, consolidation in force 1 Jul 2023, in Nic's M&A statutes) ss 76, 76A; MA-LP p5 (optional reading list).*
+
+### ccp-2-1-46 — Directors' power to issue shares needs prior approval (s 161 CA)
+*Keywords: s 161 Companies Act, issue of shares, prior approval in general meeting, general mandate, specific approval, until next AGM, ratification not allowed, issue void, consideration recoverable, director liable to compensate, 2 years*
+
+**End point:** Despite the constitution, directors must not issue shares without the **prior** approval of the company in general meeting (s 161(1)). The approval may be specific or general (a general mandate), conditional or not (s 161(2)), and lasts until the next AGM or the date by which it must be held, whichever is earlier, unless revoked or varied sooner (s 161(3)). Shares may still be issued after it lapses under an offer or agreement made while it was in force (s 161(4)). An issue in breach is **void** and the consideration recoverable; a director who knowingly contravenes must compensate the company and the allottee (claims within 2 years) (s 161(6)–(7)). So later ratification does not cure it. 2023 CCP 2 Q53: without a mandate, the company must get prior shareholder approval (III only).
+
+*Source note: Companies Act 1967 (2020 Rev Ed) s 161. Not on MA-LP; included because the 2023 paper tested it.*
 
 ## 1.V General offers: mandatory, voluntary and partial
 
@@ -879,6 +1006,7 @@ SQ p25 Q7 C: Colin's use of "Busy Bees" on a perfume prop in an in-house Christm
 - **Privatise by voluntary delisting: approvals (shareholders 75%, SGX, SIC — not Court); exit offer in cash, fair and reasonable, IFA** → [1-29](#ccp-2-1-29)
 - **Amalgamation: Singapore companies only, no Court, solvency statements** → [1-30](#ccp-2-1-30)
 - **Which transaction needs shareholder approval / Court sanction / SIC clearance?** → [1-31](#ccp-2-1-31)
+- **Squeezing out minorities after a 90% acceptance; dissenters' right to be bought out (s 215); scheme disclosures and court orders (ss 211–212)** → [1-45](#ccp-2-1-45)
 
 ### ccp-2-1-28 — Scheme of arrangement (s 210 CA)
 *Keywords: scheme of arrangement, s 210 Companies Act, court sanctioned, target implements, implementation agreement, target board proposes, 100%, Court Meeting, leave of High Court, majority in number, 75% in value, present and voting, proxy, offeror and concert parties abstain, Court sanction, SGX-ST clearance, scheme document, delisting, effective on lodgement with ACRA, SIC exemptions*
@@ -913,6 +1041,15 @@ SQ p25 Q7 C: Colin's use of "Busy Bees" on a perfume prop in an in-house Christm
 
 *Source note: MA3 s44–47; Cyril-MA §3.3.*
 
+### ccp-2-1-45 — Compulsory acquisition (s 215) and schemes: ss 211–212 CA
+*Keywords: compulsory acquisition, s 215 Companies Act, squeeze-out, 90% acceptances, 4 months, notice within 2 months, dissenting shareholder, apply to court within 1 month, statement of other dissenters, s 215(3) right to be bought out, 3 months, shares held by transferee excluded, related corporations, nominees, close family s 215(9A), s 211 explanatory statement, directors' interests, s 212 reconstruction amalgamation, transfer of undertaking, dissolution without winding up*
+
+**End point:** **Squeeze-out:** if an offer for all the shares (or a class) is accepted within 4 months by holders of at least 90% of them (excluding treasury shares and shares already held by the offeror, its nominees and related corporations — and, for offers from 1 Jul 2023, close family and persons acting on its instructions), the offeror may within 2 months give notice to acquire the dissenters' shares on the offer terms. A dissenter may apply to court within 1 month (or 14 days after receiving the list of other dissenters) and the court may order otherwise (s 215(1)–(2), (9)–(9A)). **Sell-out:** if the offeror ends up with 90% of the shares, it must notify the remaining holders within 1 month, and any of them may within 3 months require it to buy their shares on the offer terms (s 215(3)). The consideration is held on trust for dissenters who do not claim it (s 215(5)–(7)).
+
+**Schemes (s 210):** a majority in number holding 75% in value of those voting, plus court approval (`ccp-2-1-28`). **s 211:** every notice of the scheme meeting must come with a statement explaining the scheme and disclosing directors' material interests; default is an offence. **s 212:** for a reconstruction or amalgamation, the court may order the transfer of the undertaking, property and liabilities, the allotment of shares, the continuation of proceedings, the dissolution of the transferor without winding up, and provision for dissentients.
+
+*Source note: Companies Act 1967 (2020 Rev Ed, consolidation in force 1 Jul 2023) ss 210–212, 215; MA-LP p5 (optional reading list).*
+
 ## 1.VII Concert parties
 
 - **Who is acting in concert? Agreement or understanding to obtain or consolidate control** → [1-32](#ccp-2-1-32)
@@ -920,7 +1057,7 @@ SQ p25 Q7 C: Colin's use of "Busy Bees" on a perfume prop in an in-house Christm
   - Company with a 15% investee — not presumed (below 20%) → [1-32](#ccp-2-1-32)
 
 ### ccp-2-1-32 — Concert parties: definition and presumptions
-*Keywords: persons acting in concert, concert parties, agreement arrangement or understanding, formal or informal, obtain or consolidate effective control, presumed concert parties, parent, subsidiaries, fellow subsidiaries, associated company 20% to 50%, financial assistance, directors, close relatives, related trusts, pension funds, employee share schemes, fund managed on a discretionary basis, financial adviser, stockbroker, partners, accustomed to act on instructions, 15% shareholding*
+*Keywords: persons acting in concert, concert parties, agreement arrangement or understanding, formal or informal, obtain or consolidate effective control, presumed concert parties, parent, subsidiaries, fellow subsidiaries, associated company 20% to 50%, financial assistance, directors, close relatives, related trusts, pension funds, employee share schemes, fund managed on a discretionary basis, financial adviser, stockbroker, partners, accustomed to act on instructions, 15% shareholding, close relatives definition, cousins, uncles aunts, nephews nieces, grandchildren not listed, presumption (b) company and directors, (f) offeree directors, (h) individual and close relatives, rebut independent financial means*
 
 **End point:** Acquisitions by the offeror include those by persons acting in concert: individuals or companies who, under an agreement, arrangement or understanding (formal or informal), co-operate through acquiring shares to obtain or consolidate effective control. Certain persons are presumed to act in concert unless the contrary is established. An associated company is one in which 20% to 50% of the equity is owned or controlled. SQ p29 Q5: a company with a 15%-held corporation is not presumed; a company with its parent's subsidiaries and a person with a fund he manages on a discretionary basis are (key C).
 
@@ -934,7 +1071,9 @@ SQ p25 Q7 C: Colin's use of "Busy Bees" on a perfume prop in an in-house Christm
 > - Partners.
 > - An individual, close relatives, related trusts, anyone accustomed to act on his instructions, companies they control, and anyone who gave financial assistance (other than a bank in the ordinary course) to any of them to buy voting rights.
 
-*Source note: MA3 s48–51; Cyril-MA §3.4; SQ p29 Q5 (key C, p115).*
+**Close relatives** (Code, Definitions): include immediate family (parents, siblings, spouse and children), uncles and aunts and their children (cousins), and nephews and nieces. Presumed concert parties that use the term: (b) a company with its directors, together with their close relatives, related trusts and companies they control; (f) directors of an offeree company (or one facing an imminent offer) with their close relatives; (h) an individual with their close relatives, related trusts, persons accustomed to act on their instructions and companies controlled by any of them. Grandchildren are not listed. To rebut the close-relatives presumption the SIC looks at the pattern, volume, timing and price of purchases, voting, and whether the relatives have independent means (Note 1). Under Rule 14, concert parties who are close relatives are treated like unrelated concert parties.
+
+*Source note: MA3 s48–51; Cyril-MA §3.4; SQ p29 Q5 (key C, p115); Take-over Code (24 Jan 2019 version in Nic's M&A statutes), Definitions ('acting in concert' presumptions (b), (f), (h); 'close relatives'), Note 1, Rule 14 Note 5.*
 
 ## 1.VIII Joint ventures: nature, forms and documents
 
@@ -1072,6 +1211,7 @@ SQ p25 Q7 C: Colin's use of "Busy Bees" on a perfume prop in an in-house Christm
 - **Supplier–distributor agreement: vertical agreements exclusion; hub-and-spoke; IP licence** → [2-7](#ccp-2-2-7)
 - **Other exclusions: net economic benefit, legal requirement, sector regulator, mergers; block exemption (liner shipping); ask CCS for guidance or a decision** → [2-8](#ccp-2-2-8)
 - **Core cases and scenarios: chicken distributors, ferry operators to Batam, ball bearings cartel, SIA/ANA cooperation; identical pricing algorithms** → [2-9](#ccp-2-2-9)
+- **The s 34(2) list; trade association price recommendations; common trading terms; joint buying or selling; advertising rules; standards** → [2-28](#ccp-2-2-28)
 
 ### ccp-2-2-4 — Agreements, decisions of associations, concerted practices
 *Keywords: section 34, agreement between undertakings, decision by association of undertakings, concerted practice, object or effect, prevention restriction or distortion of competition within Singapore, legally enforceable or not, written or oral, formal or informal, meeting, correspondence, calls, trade association, non-binding recommendation, practical cooperation, parallel behaviour, tacit approval, public distancing, agreement made outside Singapore*
@@ -1081,7 +1221,7 @@ SQ p25 Q7 C: Colin's use of "Busy Bees" on a perfume prop in an in-house Christm
 *Source note: CL2 s6–7; Cyril-CL §2.1, §2.1.2; CL-CS1 s14, s17.*
 
 ### ccp-2-2-5 — Object v effect; hard-core restrictions; appreciability
-*Keywords: by object, by effect, hard-core restrictions, price-fixing, pricing policy, promotions, maximum or minimum prices, market sharing, allocating territories or customers, bid-rigging, cover pricing, bid suppression, bid rotation, output limitation, quotas, information sharing on future prices output production, presumed appreciable adverse effect, appreciable adverse effect, market share thresholds, 20% competitors, 25% non-competitors, SMEs, standardisation agreements, joint purchasing, industry associations*
+*Keywords: by object, by effect, hard-core restrictions, price-fixing, pricing policy, promotions, maximum or minimum prices, market sharing, allocating territories or customers, bid-rigging, cover pricing, bid suppression, bid rotation, output limitation, quotas, information sharing on future prices output production, presumed appreciable adverse effect, appreciable adverse effect, market share thresholds, 20% competitors, 25% non-competitors, SMEs, standardisation agreements, joint purchasing, industry associations, gentlemen's agreement, SME definition S$100 million turnover 200 employees, 20% default where unclear competitors, group undertakings aggregated*
 
 **End point:** A restriction by object needs no proof of actual effect. Price-fixing, market sharing, bid-rigging, output limitation and sharing particularly sensitive information (price, cost, capacity, commercial plans, individual future prices, output or production) are hard-core: presumed always to have an appreciable adverse effect on competition, whatever the parties' subjective intent. Other agreements (other information sharing, standardisation agreements, conduct in industry associations, joint purchasing/selling) are assessed for an appreciable adverse effect. Generally not appreciable where the parties' combined market share (with their groups) is below 20% for competitors or 25% for non-competitors, or the agreement is between SMEs — though exceeding the thresholds does not itself prove an effect.
 
@@ -1092,7 +1232,9 @@ SQ p25 Q7 C: Colin's use of "Busy Bees" on a perfume prop in an in-house Christm
 > - 4. Output limitation — fixing production levels or quotas.
 > - 5. Information sharing — particularly sensitive information: price, cost, capacity, proprietary data, commercial plans.
 
-*Source note: CL2 s7–8; CL-CS1 s5 (CCS Guidelines s 34 para 3.25); Cyril-CL §2.1.2 (appreciability thresholds and SMEs from the s 34 Guidelines as summarised by Cyril).*
+**Fine print (s34G):** "agreement" includes gentlemen's agreements, written or oral, enforceable or not (para 2.10). In the safe harbours, where it is hard to tell whether the parties are competitors, the 20% threshold applies; an SME has annual turnover of not more than S$100m or not more than 200 employees (para 2.25 and fn 3). Shares include the parties' group undertakings (para 2.27). Exceeding a threshold does not by itself make the effect appreciable (para 2.26). Hard-core agreements are always appreciable, even between SMEs or below the thresholds (para 2.24).
+
+*Source note: CL2 s7–8; CL-CS1 s5 (CCS Guidelines s 34 para 3.25); Cyril-CL §2.1.2 (appreciability thresholds and SMEs from the s 34 Guidelines as summarised by Cyril); s34G paras 2.10, 2.24–2.27.*
 
 ### ccp-2-2-6 — Information exchange
 *Keywords: information exchange, information sharing, reduce or remove uncertainty, publicly available, non-commercially sensitive, non-strategic, sufficiently historic, sufficiently aggregated, individualised future prices, intended future output, one-way disclosure, mere receipt, presumed to act on it, clear statement rejecting, Ferry Operators to Batam, Batam Fast, Penguin, concerted practice by object, hard-core v other risk areas*
@@ -1109,14 +1251,16 @@ SQ p25 Q7 C: Colin's use of "Busy Bees" on a perfume prop in an in-house Christm
 *Source note: CL2 s11; CL-CS1 s9, s12; Cyril-CL §2.1.2 (Element 1(A)), §2.2.*
 
 ### ccp-2-2-8 — Other exclusions; net economic benefit; block exemptions; guidance
-*Keywords: Third Schedule exclusions, services of general economic interest, revenue-producing monopoly, compliance with legal requirement, international obligations, public policy, other regulatory authority, specified activities, postal, piped water, bus, rail, cargo terminal, Automated Clearing House, net economic benefit exclusion, paragraph 9 Third Schedule, improve production or distribution, technical or economic progress, indispensable restrictions, eliminate competition, mergers, block exemption s 36 s 41, notification for guidance or decision, immunity from penalties, voluntary notification*
+*Keywords: Third Schedule exclusions, services of general economic interest, revenue-producing monopoly, compliance with legal requirement, international obligations, public policy, other regulatory authority, specified activities, postal, piped water, bus, rail, cargo terminal, Automated Clearing House, net economic benefit exclusion, paragraph 9 Third Schedule, improve production or distribution, technical or economic progress, indispensable restrictions, eliminate competition, mergers, block exemption s 36 s 41, notification for guidance or decision, immunity from penalties, voluntary notification, exclusion self-executing, no prior CCCS decision, burden of proof on undertaking claiming exclusion, specified activities postal water wastewater bus rail cargo terminal, ancillary restrictions para 10, mergers para 11*
 
 **End point:** Section 34 does not apply to agreements with a net economic benefit (Third Schedule para 9): those that improve production or distribution or promote technical or economic progress, without imposing restrictions that are not indispensable or allowing competition to be eliminated for a substantial part of the goods/services. Other Third Schedule exclusions include: services of general economic interest / revenue-producing monopolies (so far as s 34 would obstruct their tasks); compliance with a legal requirement; international obligations and exceptional public policy (by Ministerial order); products regulated by another competition regulator; specified activities (postal, piped water, wastewater, bus and rail services, cargo terminals); clearing house activities; vertical agreements; and agreements directly related and necessary to a merger. The Minister may make block exemption orders for categories of agreements meeting the same benefit criteria (s 41); agreements within them need not be notified. Notification is voluntary; parties may seek CCS guidance or a decision, which can give immunity from penalties.
 
-*Source note: CL2 s15; Cyril-CL §2.2–2.4. The Third Schedule list and block exemption criteria follow Cyril; the slides cite only para 9.*
+**No decision needed; burden on the claimant:** an agreement within a Third Schedule exclusion is excluded by s 35 itself, with no prior CCCS decision; if the CCCS investigates, the undertaking claiming the exclusion must prove it meets the requirements (s34G paras 2.29–2.30). Specified activities (para 6) are postal letter services, piped potable water, wastewater management, licensed bus services, rail services and licensed cargo terminal operations. Para 10 excludes provisions directly related and necessary to a merger; para 11 excludes agreements and conduct to the extent they result in a merger.
+
+*Source note: CL2 s15; Cyril-CL §2.2–2.4. The Third Schedule list and block exemption criteria follow Cyril; the slides cite only para 9; Act s 35, Third Schedule paras 6, 10–11; s34G paras 2.29–2.30.*
 
 ### ccp-2-2-9 — Core s 34 cases; algorithms
-*Keywords: Distributors of Malaysian Broiler Chickens, CCCS 500/7002/14, 13 chicken suppliers, S$26.9 million, price-fixing, non-compete, Ferry Operators to Batam Industrial Zone, CCS 500/006/09, one-way provision of information, Global Autoparts Ball Bearings cartel, CCS 700/002/11, S$9,306,977, SIA ANA, CCCS 400/110/2021/001, commercial cooperation, joint venture framework agreement, SIN-TYO, conditional approval, commitments, dynamic pricing algorithms, conscious parallelism*
+*Keywords: Distributors of Malaysian Broiler Chickens, CCCS 500/7002/14, 13 chicken suppliers, S$26.9 million, price-fixing, non-compete, Ferry Operators to Batam Industrial Zone, CCS 500/006/09, one-way provision of information, Global Autoparts Ball Bearings cartel, CCS 700/002/11, S$9,306,977, SIA ANA, CCCS 400/110/2021/001, commercial cooperation, joint venture framework agreement, SIN-TYO, conditional approval, commitments, dynamic pricing algorithms, conscious parallelism, Price Discussions, Non-Aggression Pact, Competition Appeal Board 2020, not proved, Poultry Merchants Association, single continuous infringement, JTEKT Koyo NSK NTN Nachi, aftermarket, immunity first leniency applicant, joint and several liability, international cartel, extraterritorial*
 
 **End point:**
 - **Broiler Chickens** (CCCS 500/7002/14): 13 fresh-chicken distributors fined a record S$26.9m for price-fixing and agreeing not to compete for each other's customers (information exchange).
@@ -1126,18 +1270,100 @@ SQ p25 Q7 C: Colin's use of "Busy Bees" on a perfume prop in an in-house Christm
 
 SQ p33 Q2: two dominant suppliers using similar dynamic-pricing algorithms, developed independently, is not itself a s 34 infringement; concern arises only with evidence of communication or coordination about the algorithms (key A).
 
-*Source note: CL2 s12–16; CL4 s29 (chicken penalty); CCCS-Reg (SIA/ANA media release 21 Mar 2025); SQ p33 Q2 (key A, p115).*
+> **Case detail**
+> - **Broiler (fresh) chickens** (CCCS 500/7002/14, ID 12 Sep 2018): 13 distributors (over 90% of fresh chicken supply; all members of the Poultry Merchants' Association) infringed s 34 in a single continuous infringement from Sep 2007 to Aug 2014 by (i) **Price Discussions** — coordinating the amount and timing of price increases (price fixing) and (ii) a **Non-Aggression Pact** — agreeing not to compete for each other's customers (market sharing). Total penalties S$26,948,639, plus an undertaking not to use any trade association as a platform for anti-competitive conduct; four parties had applied for leniency. On appeal ([2020] SGCAB 1), the Competition Appeal Board found the Non-Aggression Pact **not proved** against the appellants (insufficient evidence they took part) but upheld the price-fixing finding, and reduced their penalties; one appellant (Prestige Fortune) lost all its appeals.
+> - **Ball Bearings** (CCS 700/002/11, ID 27 May 2014): Japanese makers (JTEKT/Koyo, NSK, NTN, Nachi) and their Singapore subsidiaries met in Japan and Singapore to agree prices of bearings sold to aftermarket customers in Singapore (2006–2011). The first international cartel case: foreign parents and local subsidiaries jointly and severally liable, though the meetings were mainly abroad (s 34 reaches agreements outside Singapore with effects here). Koyo, the first leniency applicant, got full immunity; others got reductions. Penalties S$9,306,977 (Nachi S$7.56m, NSK S$1.29m, NTN S$0.46m).
+
+*Source note: CL2 s12–16; CL4 s29 (chicken penalty); CCCS-Reg (SIA/ANA media release 21 Mar 2025); SQ p33 Q2 (key A, p115); CCCS ID and CAB decision in Nic's `4. CCCS Cases/NTUC Chicken` (media release, decision, appeal); CCS media release 27 May 2014 (Ball Bearings, via web; the course slide is an image).*
+
+### ccp-2-2-28 — The s 34(2) list and the Guidelines' examples of restrictive agreements
+*Keywords: s 34(2) illustrative list, fix prices or trading conditions, limit production markets technical development investment, share markets or sources of supply, dissimilar conditions to equivalent transactions, supplementary obligations no connection, tying in agreements, void s 34(3), trade association price recommendations, posting prices, focal point, published price lists, indirect price fixing discounts credit terms, bid-rigging collusive tendering, specialisation agreements, future investment plans, fixing trading conditions, standard terms, joint purchasing, joint selling, boycott, restrictions on advertising, misleading advertising rules, standardisation, technical standards, loyalty schemes*
+
+**End point:** Section 34(2) lists agreements that "in particular" infringe: those that (a) directly or indirectly fix purchase or selling prices or other trading conditions; (b) limit or control production, markets, technical development or investment; (c) share markets or sources of supply; (d) apply dissimilar conditions to equivalent transactions with other trading parties, placing them at a competitive disadvantage; (e) make contracts subject to supplementary obligations with no connection to their subject. An infringing provision is void (s 34(3)).
+
+> **Guidelines examples (s34G Part 3)**
+> - The first four — price fixing, bid-rigging, market sharing, limiting output or investment — are appreciable by their very nature (para 3.2).
+> - Price fixing includes agreeing increases, ranges, adherence to price lists, not quoting without consulting rivals, and indirect fixing through discounts, transport charges or credit terms (paras 3.3–3.6). A **trade association** price recommendation, or a rule to post prices, may be price fixing whatever its form: it creates a focal point and signals rivals' prices (para 3.5).
+> - Specialisation agreements may share markets only in effect, not by object: case by case (para 3.10). Coordinating future investment plans reduces competitive pressure (para 3.12).
+> - Common terms imposed by an association may restrict competition; standard terms are less likely to be appreciable if members stay free to use different ones (paras 3.13–3.14).
+> - Joint purchasing or selling raises concern where the buyers or sellers have market power, e.g. agreeing a purchase price, or boycotting certain buyers (paras 3.15–3.16).
+> - Restrictions on the amount or form of advertising may restrict competition; association rules against misleading, untruthful or indecent advertising are unlikely to (paras 3.26–3.27).
+> - Technical standards can be pro-competitive but harm competition if they restrict what members may produce, raise entry barriers or shut out alternative standards (para 3.28). Other cooperation, e.g. joint loyalty schemes, is assessed case by case (paras 3.29–3.30).
+
+*Source note: Act s 34(2)–(3); s34G (CCCS Guidelines on the s 34 Prohibition, in force 1 Feb 2022) paras 3.2–3.30.*
 
 ## 2.III Market definition
 
 - **What is the relevant market? product (substitutes, SSNIP) and geographic; luxury resorts for corporate clients; is Singapore always the geographic market?** → [2-10](#ccp-2-2-10)
+  - **How big is the SSNIP? 10% or 5%? Must the market be defined precisely?** → [2-10](#ccp-2-2-10)
+- **What evidence proves substitution (surveys, diversion, documents, elasticities, critical loss), and what did the CCS decide in its market-definition cases?** → [2-26](#ccp-2-2-26)
+  - **Supply-side substitution: within a year, effective, no big sunk cost; imports and a wider geographic market** → [2-26](#ccp-2-2-26)
+- **Price discrimination (captive buyers), chains of substitution, temporal markets, aftermarkets (system, multiple, dual) and captive sales** → [2-27](#ccp-2-2-27)
+- **Asymmetric substitution; which price to start the SSNIP from (s 34, s 47, mergers); cellophane fallacy; bundles; two-sided platforms and free services** → [2-30](#ccp-2-2-30)
 
 ### ccp-2-2-10 — Market definition
-*Keywords: market definition, relevant product market, relevant geographic market, focal product, demand-side substitutability, supply-side substitutability, SSNIP test, small but significant non-transitory increase in price, hypothetical monopolist test, CCS Guidelines on Market Definition para 2.7, SATS Singapore Food Industries, CCCS 100/1303/08, contract food services segments, healthcare, competition economist, geographic market beyond Singapore, Paradise Coast resorts*
+*Keywords: market definition, relevant product market, relevant geographic market, focal product, demand-side substitutability, supply-side substitutability, SSNIP test, small but significant non-transitory increase in price, hypothetical monopolist test, HMT, price-elevation test, supra-competitive prices, prevailing price benchmark, 10% SSNIP, 5% SSNIP, lower SSNIP, consumption basket, price points, zero-one approach, market need not be defined precisely, left open, CCS Guidelines on Market Definition para 2.7, SATS Singapore Food Industries, CCCS 100/1303/08, contract food services segments, healthcare, competition economist, geographic market beyond Singapore, Paradise Coast resorts*
 
 **End point:** Define the relevant product market — all products buyers regard as reasonable substitutes for the focal product (demand side), and suppliers who could switch production (supply side) — using the SSNIP (hypothetical monopolist) test: the smallest group of products and area in which a hypothetical monopolist could profitably sustain a small but significant non-transitory price increase. Then define the geographic market. The CCS need not accept the parties' definition: in *SATS/SFI* it split contract food services into business-industrial, education, healthcare and uniformed segments, as hospital catering needs dieticians and specific expertise. In practice economists are engaged. SQ p34 Q4: the CCS defines geographic markets flexibly, possibly beyond Singapore (key D). SQ p37 Q9: luxury resort accommodation on the Paradise Coast for corporate customers (key A).
 
-*Source note: CL3 s7, s16–17; Cyril-CL §3.1 (Step 1); CL-LP p6 (economists); SQ p34 Q4, p37 Q9 (keys D, A, p115).*
+> **Textbook detail (MCS pp 70–74)**
+> - Market definition is the first step; market shares and the SLC analysis are done inside the market found (MCS p70).
+> - The hypothetical monopolist test (HMT) is the CCS's primary conceptual approach, a "price-elevation" test. In a merger the prevailing price is taken as the competitive benchmark (MCS p72).
+> - Method: raise the focal product's price by a SSNIP. If enough buyers switch, add the next-best substitutes and repeat. Stop when the price rise becomes profitable (MCS pp 73–74).
+> - The CCS uses about 10%, but not as a hard and fast rule. A lower SSNIP may suit consumer goods that are a large share of the average consumer's basket. For cheap goods, 10% may not register at all. In surveys, 5% or a price point (sugar from S$0.85 to S$1.00) may be easier for customers to picture (MCS pp 73–74).
+> - The market need not be defined precisely if the result is the same on every plausible definition (MCS p70). Avoid a "zero-one" approach: products outside the market can still constrain, and shares may understate a merger of close competitors or overstate distant ones (MCS pp 71–72).
+
+*Source note: CL3 s7, s16–17; Cyril-CL §3.1 (Step 1); CL-LP p6 (economists); MCS pp 70–74; SQ p34 Q4, p37 Q9 (keys D, A, p115). MCS pp 82–83 records the SATS/SFI conclusion as separate product markets for healthcare and non-healthcare contract food services; this fits the slides' four segments, as healthcare is the segment split out. MCS (2011) uses the pre-2018 name "CCS" and cites the then CCS Guidelines; the slides' current statements win if they differ.*
+
+### ccp-2-2-26 — Evidence of substitution; supply side; geographic market; CCS case examples
+*Keywords: evidence of substitution, customer surveys, selection bias, hostile take-over, leading questions, preference v ability to switch, sample size, diversion, scanner data, contemporaneous documents, internal documents, board minutes, product characteristics, packaged holidays, giffen goods, switching costs, switching within one year, own-price elasticity, cross-price elasticity, price trends, price correlation, critical loss analysis, price concentration, supply-side substitution, within one year, sunk investment, technical feasibility, spare capacity, buyer preference, potential entry, geographic market, travel, transport costs, national preferences, imports, small open economy, Computer Systems Holdings Singapore Computer Systems, CSH SCS, NCS Singtel, IT services, Gartner, verticals, Fresenius Asia Renal Care, haemodialysis, peritoneal dialysis, Wacker Chemie Air Products, VAE dispersions powders, Kraft Danone, biscuits, Dubai Drydocks Labroy Marine, shipbuilding ship repair, SATS SFI, Compass Sodexho, F&N King's Creameries, ice cream, national market, worldwide market*
+
+**End point:** Demand-side substitution turns on price, intended use and characteristics. Products may be in one market though they look different, or in different markets though they look alike. Products buyers would take more than a year to switch to, or switch to only at significant cost, are generally outside the market (shorter for frequent purchases) (MCS p75). Supply-side substitution counts only if it is quick (generally under a year), effective (enough scale to affect price) and needs no substantial sunk investment. It turns on technical feasibility and economic incentives, and can be blocked by lack of spare capacity, inputs or distribution, or by buyer loyalty (MCS pp 80–83). Potential entry is weighed either here or later as a constraint in the SLC analysis (MCS p84). The geographic market is the area where competition conditions are similar enough and different from neighbouring areas, tested with the same 10% price rise (MCS p86). Significant imports, or the real prospect of them, point to a wider market, which matters in a small open economy like Singapore (MCS p89).
+
+> **Evidence (MCS pp 75–80)**
+> - Surveys: subjective. Watch for design bias, motives to block (e.g. a hostile take-over), leading questions, asking preference rather than ability to switch, only unhappy customers replying, and small samples.
+> - Diversion data (e.g. supermarket scanner data); contemporaneous documents (minutes, internal communications, business plans); product characteristics.
+> - Own- and cross-price elasticities: little change in quantity bought means limited substitutability.
+> - Price trends and price correlation: prices in one market move together.
+> - Critical loss analysis: if actual lost sales exceed the critical loss, the price rise is unprofitable and the market is wider.
+> - Price-concentration studies: prices lower where both products are sold suggests close substitutes.
+>
+> **CCS cases (holdings only; the full decisions need not be read)**
+> - *Computer Systems Holdings/Singapore Computer Systems* (400/004/08): narrower IT markets by service type, customer vertical or project value were considered. No concern arose on any of them, so the precise product market was left open. Worldwide IT market, with signs of a narrower Singapore market for government, defence and finance work (local staff, security clearance). Cleared (MCS pp 70, 77, 84–86, 88).
+> - *Fresenius Medical Care/Asia Renal Care* (400/005/10; MCS misprints it as 400/005/40): haemodialysis and peritoneal dialysis may not be close substitutes (medical advice, patient habit). The CCS assessed both an HD-only market and an HD+PD market (MCS p71).
+> - *Wacker Chemie/Air Products Polymers* (400/001/08): VAE dispersions and VAE powders are separate product markets, as adhesive customers could not switch between them (MCS p78).
+> - *Kraft Foods/Groupe Danone* (400/006/07): whether biscuits split into sweet and savoury was left open, as the result was the same. The geographic market was broader than Singapore, contrary to the parties' claim, as most biscuits eaten in Singapore are imported (MCS pp 81, 89).
+> - *Dubai Drydocks World/Labroy Marine* (400/008/07): the parties said shipbuilding, repair and conversion form one market (same factors of production). Narrower markets raised no concern, so the precise market was left open (MCS pp 82–83).
+> - *SATS/Singapore Food Industries* (100/1303/08): separate markets for healthcare and non-healthcare contract food services. Healthcare needs dieticians and hospital experience (supply side), and risk-averse hospitals prefer providers with a track record, which is why even Compass Group and Sodexho had made no inroads (demand side) (MCS pp 82–83).
+> - *F&N Foods/King's Creameries* (400/007/10): the market for the sale and distribution of industrial ice cream is national in scope. Ice cream preferences are national and it needs cold logistics, although retailers also sell imports (MCS pp 87–88).
+
+*Source note: MCS pp 75–89 (Shiau & Chen, Merger Control in Singapore, 1st ed 2011, ch 3.2; Core Knowledge reading per CL-LP). Of these cases the slides and Contact Session 1 cover only SATS/SFI (CL3 s16–17); the rest come from the textbook alone. Fresenius case number checked against CCCS-Reg (18 Nov 2026).*
+
+### ccp-2-2-27 — Price discrimination, chains of substitution, temporal markets, aftermarkets, captive sales
+*Keywords: other considerations in market definition, price discrimination, captive buyers, non-captive buyers, arbitrage, locked in, flu vaccinations, roses February, certificate paper, barley beer, airlines business leisure red-eye, separate markets, chains of substitution, ripple effect, A B C D E, Johor Perak groceries, price interdependence, temporal markets, peak and off-peak, seasonal, truffles hairy crabs fa gao, inter-generational products, tablet computers, complements, secondary markets, aftermarkets, whole-life cost, printers ink cartridges, video game consoles, razors and blades, system market, multiple markets, dual markets, cars car servicing, cars tyres, cars petrol, reputation for exploitation, captive sales, merchant market, vertically integrated, excluded from market share*
+
+**End point:** Four further factors can change the market found (MCS p90):
+- **Price discrimination:** charging captive buyers more, for reasons unrelated to cost, needs (i) the ability to tell captive from non-captive buyers and (ii) no arbitrage between them. Buyers are captive when locked in by switching costs or technical specs, at certain times (flu jabs in flu season, roses in February), or by use (certificate-grade paper, barley for brewers). If a hypothetical monopolist can discriminate, each group may be a separate market (airline business v leisure travellers). If it cannot, the market may be wider (MCS pp 90–91).
+- **Chains of substitution:** products not directly substitutable can share a market through a chain (E constrains D, D constrains C). Wider-market arguments must be backed by evidence of price interdependence. The chain is most common in geographic markets: Singapore grocery prices constrained by Johor, which is constrained by Perak (MCS pp 91–93).
+- **Temporal markets:** a market defined by time of purchase or production: peak and off-peak services (travel packages, public transport); seasonal goods (truffles, hairy crabs, fa gao); inter-generational products, where buyers wait for the next model (tablets) (MCS p93).
+- **Complements and aftermarkets:** a **system market** (primary and secondary products together, e.g. cars and servicing) suits buyers who weigh whole-life cost, e.g. where the secondary product costs a significant share of the primary, or a reputation for exploiting it would lose new buyers (razors and blades). **Multiple markets:** one primary market but a separate secondary market per brand, where buyers are locked into a limited range (cars and tyres). **Dual markets:** one primary market and one market for all brands of the secondary product, where everything fits everything (cars and petrol). The secondary market is separate where it is rarely needed and its prices hardly affect the primary market (MCS pp 93–97).
+
+**Captive sales:** sales to customers linked by full or partial ownership are generally left out of market-share figures; only merchant-market sales to independent third parties count, as a firm keeps supplying its subsidiary even when a better price is offered elsewhere. That traditional view may not hold, e.g. a firm now making only captive sales may enter the merchant market easily (MCS p97).
+
+*Source note: MCS pp 90–97. The extract ends mid-way through the captive-sales exceptions (p97); the rest is not in the course copy. The slides and Cyril do not cover these points. 2023 CCP Paper 2 Q37 asked for an example of a temporal market (school-holiday family tour packages; see Q23-37).*
+
+### ccp-2-2-30 — Asymmetric substitution; benchmark price and the cellophane fallacy; differentiated products and bundles; multi-sided platforms and zero-price markets
+*Keywords: asymmetric substitution, one direction only, luxury to mass-market, supply-side asymmetry, competitive price benchmark, price absent the agreement s 34, price absent the conduct s 47, current prevailing price mergers, cellophane fallacy, supra-competitive price, inferior substitutes, excess profits, previous cases, differentiated products, bundles, furniture sets, adjacent products, multi-sided platforms, two-sided market, indirect network effects, externalities, price structure, feedback loop, Grab Uber single market, Visa MIF separate markets, zero-price markets, free side, data, quality, privacy, after markets*
+
+**End point:** **Asymmetric substitution:** substitution may run one way only (buyers move from a luxury brand to a mass-market product but not back); supply-side substitution can be one-way too (a producer can enter retail more easily than a retailer can start producing) (MDG para 3.22). If supply-side substitution is doubtful, define the market on demand alone and treat suppliers as potential entrants (para 3.21).
+
+**Which price?** The HMT starts from the competitive price (MDG 5.3). Under **s 34**, the price that would exist without the agreement can be the benchmark (5.4). Under **s 47**, the current price may already be inflated by the dominant firm, so close substitutes that only constrain it at that high price should be left out — including them is the **cellophane fallacy** and understates dominance (5.5–5.6); the price absent the conduct may be used (fn 5). For **mergers**, the relevant price is the current (prevailing) price (MG para 5.3). Market definitions in earlier cases are only informative (MDG 5.8–5.9).
+
+**Differentiated products and bundles:** with differentiated products there may be no clear boundary (5.10); products sold as a bundle (bedroom sets, stationery) or adjacent products may form one market, judged on demand-side efficiencies of buying the package and supply-side economies of joint supply (5.11–5.12).
+
+**Multi-sided platforms:** the CCCS identifies the theory of harm, weighs interactions between the sides and decides case by case whether there is one multi-sided market (*Grab/Uber*: one market matching drivers and riders for booked chauffeured transport) or several linked one-sided markets (*Visa* MIF: issuing, acquiring, scheme) (5.14). Indirect network effects mean a price rise on one side can lose users on the other and defeat the rise; what matters is the total price level and its structure across sides (5.15–5.18). **Zero-price markets:** a free side still counts; look at non-price competition such as data security, privacy and sharing policies, speed, ease of use and innovation (5.19).
+
+*Source note: MDG (CCCS Guidelines on Market Definition, in force 1 Feb 2022) paras 3.21–3.22, 5.3–5.19; MG para 5.3; s47G para 3.3 (refers to MDG 5.14–5.19).*
 
 ## 2.IV Section 47: abuse of a dominant position
 
@@ -1146,16 +1372,24 @@ SQ p33 Q2: two dominant suppliers using similar dynamic-pricing algorithms, deve
   - **Dominant platform offers exclusivity discounts after a rival enters** → may be abuse if exclusionary/predatory → [2-12](#ccp-2-2-12)
 - **SISTIC (exclusive agreements + discounts); Coca-Cola undertakings (cooler space 20%); retroactive rebates** → [2-13](#ccp-2-2-13)
 - **Defence: objective justification (Ramsey pricing, LRIC), efficiency, IP exercise; exclusions; guidance** → [2-14](#ccp-2-2-14)
+- **Dominant in market A, abuse or harm in market B; must the CCCS show a counterfactual?** → [2-29](#ccp-2-2-29)
 
 ### ccp-2-2-11 — Section 47: three-step test and dominance
-*Keywords: section 47, abuse of a dominant position, any market in Singapore, three-step test, relevant market, dominance, abuse, dominance not an offence, substantial market power, sustain prices above competitive levels, restrict output or quality, 60% market share presumption, indicative, barriers to entry, sunk costs, economies of scale, economies of scope, network effects, purchasing efficiencies, innovation, product differentiation, buyer power, regulation, collective dominance, dominance outside Singapore*
+*Keywords: section 47, abuse of a dominant position, any market in Singapore, three-step test, relevant market, dominance, abuse, dominance not an offence, substantial market power, sustain prices above competitive levels, restrict output or quality, 60% market share presumption, indicative, barriers to entry, sunk costs, economies of scale, economies of scope, network effects, purchasing efficiencies, innovation, product differentiation, buyer power, regulation, collective dominance, dominance outside Singapore, market share history, volatile shares, SME unlikely dominant, key inputs and distribution outlets, exclusionary behaviour by incumbents, network effects, buyer power conditions, competitive tender, regulation, collective dominance three steps, oligopolistic interdependence*
 
 **End point:** Section 47(1) prohibits conduct by one or more undertakings amounting to an abuse of a dominant position in any market in Singapore (the dominant position may be held outside Singapore). Test: (1) define the relevant market; (2) is the undertaking dominant — able profitably to sustain prices above competitive levels or restrict output or quality below them; (3) has it abused that position? Dominance itself is not an offence. A market share of 60% is indicatively presumed dominant (dominance can exist below it). Other factors: barriers to entry (sunk costs, economies of scale and scope, network effects, purchasing efficiencies, innovation, product differentiation), the strength of existing and potential competitors, buyer power and regulation. Two or more independent undertakings may be collectively dominant.
 
-*Source note: CL3 s5–8; Cyril-CL §3.1 (Step 2).*
+> **Dominance in detail (s47G Part 3)**
+> - No share threshold; 60% is a starting point; history matters: persistently high shares with weak rivals point to dominance, volatile shares and fast-growing small rivals point the other way (paras 3.6–3.9).
+> - An SME (turnover not more than S$100m or not more than 200 staff) is generally unlikely to be capable of conduct with an appreciable adverse effect (para 3.10).
+> - Entry barriers: sunk costs; limited access to key inputs and distribution outlets; regulation; economies of scale; economies of scope; network effects; purchasing efficiencies; exclusionary behaviour by incumbents (para 3.13).
+> - Buyer power needs a choice of sellers and is stronger if the buyer (i) is well informed and can switch cheaply, (ii) could self-supply or sponsor entry quickly without big sunk costs, (iii) is an important outlet for the seller, or (iv) can run competitive tenders (para 3.15). Regulation may constrain pricing, but market power can survive it (para 3.16).
+> - Collective dominance: legally independent firms that present themselves or act together as a collective entity, able to adopt a common policy (conduct need not be identical). Ask (a) is there a collective entity, (b) is it dominant, (c) has it abused in Singapore. Links may be agreements, structural ties or oligopolistic interdependence; no agreement is indispensable (paras 3.17–3.22).
+
+*Source note: CL3 s5–8; Cyril-CL §3.1 (Step 2); s47G (in force 1 Feb 2022) paras 3.6–3.22.*
 
 ### ccp-2-2-12 — Forms of abuse
-*Keywords: abuse, Annex C s 47 Guidelines, predatory behaviour, pricing below cost, below average variable cost AVC, above AVC below average total cost ATC, fidelity discounts, loyalty rebates, price discrimination, refusal to supply, essential facilities, vertical restraints, exclusive purchasing, quantity forcing, full-line forcing, tying and bundling, leveraging, margin squeeze, horizontal foreclosure, vertical foreclosure, single branding, constructive refusal, exclusive contracts, Company X food delivery 80%, MediLink exclusive agreements*
+*Keywords: abuse, Annex C s 47 Guidelines, predatory behaviour, pricing below cost, below average variable cost AVC, above AVC below average total cost ATC, fidelity discounts, loyalty rebates, price discrimination, refusal to supply, essential facilities, vertical restraints, exclusive purchasing, quantity forcing, full-line forcing, tying and bundling, leveraging, margin squeeze, horizontal foreclosure, vertical foreclosure, single branding, constructive refusal, exclusive contracts, Company X food delivery 80%, MediLink exclusive agreements, s 47(2) list, limiting production markets technical development, dissimilar conditions, supplementary obligations*
 
 **End point:** Abuse is conduct that has, or is likely to have, an adverse effect on the competitive process (a likely effect is enough). Examples (Annex C, s 47 Guidelines): predatory behaviour (pricing below average variable cost, or above AVC but below average total cost), fidelity discounts, price discrimination, refusal to supply and essential facilities, margin squeeze, vertical restraints (exclusive purchasing, quantity forcing, full-line forcing), tying and bundling, and leveraging market power.
 
@@ -1165,7 +1399,9 @@ SQ p33 Q2: two dominant suppliers using similar dynamic-pricing algorithms, deve
 
 SQ p35 Q5: a dominant (80%) platform's 30% commission cut for extending exclusive contracts after a rival enters may be an abuse if predatory and designed to eliminate the rival (key C). SQ p36 Q7: an 85–95% distributor's 3–5 year exclusive agreements with hospitals, clinics and manufacturers are likely an abuse by foreclosure — no need to prove intent, and market share alone is not abuse (key C).
 
-*Source note: CL3 s9–10; Cyril-CL §3.1 (Step 3); SQ p35 Q5, p36 Q7 (keys C, C, p115).*
+**Statutory list (s 47(2)):** conduct may in particular be abuse if it consists in (a) predatory behaviour towards competitors; (b) limiting production, markets or technical development to the prejudice of consumers; (c) applying dissimilar conditions to equivalent transactions, placing trading parties at a competitive disadvantage; (d) making contracts subject to supplementary obligations with no connection to their subject. Legitimate exercise of IP rights is not generally abuse (s47G para 4.2).
+
+*Source note: CL3 s9–10; Cyril-CL §3.1 (Step 3); SQ p35 Q5, p36 Q7 (keys C, C, p115); Act s 47(2); s47G paras 4.1–4.5.*
 
 ### ccp-2-2-13 — SISTIC, Coca-Cola and loyalty rebates
 *Keywords: SISTIC.com, CCS 600/008/07, CAB 1/2010, Competition Appeal Board upheld, circular theory of harm, exclusive agreements with venues and promoters, discounts, booking fees, perpetuation of dominance, Coca-Cola Singapore Beverages, 2013, on-premise retailers, exclusivity, conditional rebates, undertaking, no right of first refusal, no loyalty-inducing rebates, no exclusive display space, 20% cooler space, retroactive rebate, loyalty-inducing rebates*
@@ -1181,6 +1417,22 @@ SQ p35 Q5: a dominant (80%) platform's 30% commission cut for extending exclusiv
 
 *Source note: CL3 s15; Cyril-CL §3.1 (Step 3), §3.2–3.3.*
 
+### ccp-2-2-29 — Abuse in related markets; the counterfactual in abuse cases
+*Keywords: abuse in related markets, dominance abuse effect need not be in same market, market A market B, predation in A, refusal to supply essential raw material to rivals in B, discounts in B for loyalty in A, tying A to B, leveraging, counterfactual not a legal requirement, SISTIC Competition Appeal Board, realistic alternative situation, effects-based test, likely adverse effect on process of competition*
+
+**End point:** Dominance, abuse and effect need not be in the same market (s47G para 4.7):
+
+| Scenario (Y dominant in market A) | Dominance | Abuse | Effect |
+|---|---|---|---|
+| Predatory pricing to drive rivals out of A | A | A | A |
+| Refuses to supply rivals in related market B with an essential input from A | A | A | B |
+| Special discounts in B (where not dominant) to buyers loyal to it in A, to keep its A dominance | A | B | A |
+| Ties its A products to its B products | A | B | B |
+
+**Counterfactual:** asking whether a realistic alternative without the conduct would be more competitive is not a legal requirement in abuse cases (Competition Appeal Board in *SISTIC*), but the CCCS may still use it as a tool (para 4.8). The test is whether the conduct has, or is likely to have, an adverse effect on the process of competition; a likely effect suffices, and the dominant firm then bears the burden of objective justification (para 4.4, quoting *SISTIC* CAB at [290]–[291]).
+
+*Source note: s47G paras 4.4, 4.7 (table), 4.8.*
+
 ## 2.V Section 54: merger control — substance
 
 - **Is it a "merger"? Acquisition of >50%; 30–50% presumed; minority stake with vetoes; de facto control; full-function JV (joint control, autonomous, lasting)** → [2-15](#ccp-2-2-15)
@@ -1188,27 +1440,35 @@ SQ p35 Q5: a dominant (80%) platform's 30% commission cut for extending exclusiv
 - **Thresholds for concern: merged share 40%+, or 20–40% with CR3 ≥ 70%** → [2-17](#ccp-2-2-17)
 - **Substantial lessening of competition: counterfactual; horizontal (non-coordinated/unilateral, coordinated); vertical (foreclosure of payment gateway/logistics); conglomerate** → [2-18](#ccp-2-2-18)
 - **Can efficiencies save the merger? net economic efficiencies; evidence** → [2-19](#ccp-2-2-19)
+- **Is the target failing? failing firm and failing division conditions; other counterfactuals** → [2-31](#ccp-2-2-31)
+- **Horizontal theories: closest competitors, differentiated products, bidding markets, emerging competitor, buyer mergers; coordinated effects (three conditions, maverick)** → [2-32](#ccp-2-2-32)
+- **Will entry defeat the SLC (likely, timely within about 2 years, sufficient)? countervailing buyer power; rivalry-enhancing efficiencies** → [2-33](#ccp-2-2-33)
+- **Vertical merger: input v customer foreclosure; ability, incentive, effect; conglomerate: portfolio power, tying, predation, coordination** → [2-34](#ccp-2-2-34)
 
 ### ccp-2-2-15 — What is a merger
-*Keywords: merger, s 54(2), two independent undertakings merge, absorption, acquisition of control, s 54(3) decisive influence, legal control, more than 50% voting rights, 30% to 50% rebuttable presumption, de facto control, minority shareholding, veto rights over budget business plan senior management, effective majority at meetings, options likely to be exercised, joint venture, s 54(5), joint control, autonomous economic entity, full-function, lasting basis, R&D or production JV not autonomous*
+*Keywords: merger, s 54(2), two independent undertakings merge, absorption, acquisition of control, s 54(3) decisive influence, legal control, more than 50% voting rights, 30% to 50% rebuttable presumption, de facto control, minority shareholding, veto rights over budget business plan senior management, effective majority at meetings, options likely to be exercised, joint venture, s 54(5), joint control, autonomous economic entity, full-function, lasting basis, R&D or production JV not autonomous, venture capital, private equity, portfolio companies coordination, MG 3.14, Annex C joint control examples, equality of voting, casting vote, veto rights, pooling agreement, changing coalitions*
 
 **End point:** A merger occurs where previously independent undertakings merge (or one absorbs another), or a person acquires direct or indirect control of another undertaking, or assets result in a joint venture (s 54(2)). Control means decisive influence through rights, contracts or other means (s 54(3)): legal control (more than 50% of voting rights; 30–50% raises a rebuttable presumption), de facto control (strategic or economic dependence, options likely to be exercised soon), including minority shareholdings that confer vetoes over strategic decisions (budget, business plan, major investments, senior management) or an effective majority at meetings. A JV is a merger if it is (a) under joint control (each parent can block strategic decisions), (b) an autonomous economic entity performing all functions of a stand-alone business with its own management and resources (not just R&D, production or a sales agency) and (c) on a lasting basis (s 54(5)).
 
-*Source note: CL4 s6; Cyril-CL §4.2.1.*
+**Private equity:** transactions by venture capital and private equity investors may raise concerns, especially if they lead to coordination among portfolio firms in a market where the investor holds stakes and can influence their conduct (MG para 3.14). **Joint control examples (MG Annex C):** equal voting or appointment rights (no casting vote); a minority veto over the budget, business plan, major investments or senior management (one such veto may suffice; ordinary minority protections such as changes to capital or liquidation do not count); minority holders acting together under a pooling agreement or strong common interests. Shifting coalitions among minority holders normally mean no joint control.
+
+*Source note: CL4 s6; Cyril-CL §4.2.1; MG paras 3.10–3.25, 3.14, Annex C paras 12.3–12.16.*
 
 ### ccp-2-2-16 — Excluded mergers
-*Keywords: s 54(7), not a merger, receiver, liquidator, underwriter, internal restructuring, same group, single economic unit, testamentary disposition, intestacy, survivorship, financial institution temporary holding, dispose within 12 months, Fourth Schedule exclusions, regulated sectors*
+*Keywords: s 54(7), not a merger, receiver, liquidator, underwriter, internal restructuring, same group, single economic unit, testamentary disposition, intestacy, survivorship, financial institution temporary holding, dispose within 12 months, Fourth Schedule exclusions, regulated sectors, Fourth Schedule para 1 approved by Minister regulator MAS, para 2 specified activities, para 3 efficiencies exclusion, ancillary restrictions, non-compete 2 to 5 years, directly related and necessary*
 
 **End point:** Not a merger under s 54(7): control acquired by a receiver, liquidator or underwriter acting as such; all undertakings already under the control of the same undertaking (intra-group restructuring); control acquired on death (will, intestacy or survivorship); and temporary holdings by financial institutions dealing in securities, where voting rights are exercised only to arrange disposal within 12 months. The Fourth Schedule also excludes certain mergers (e.g. those approved under other written law or regulated by sector regulators).
 
-*Source note: CL4 s5; Cyril-CL §4.2.2. The Fourth Schedule example follows Cyril's general description; the slides only name the Fourth Schedule.*
+**Fourth Schedule in full:** s 54 does not apply to a merger (para 1) approved by a Minister or regulator other than the CCCS under written law, approved by the MAS under written law, or within another regulator's competition jurisdiction under written law or a code of practice; (para 2) involving an undertaking in a specified activity (postal letters, piped potable water, wastewater, licensed bus services, rail services, cargo terminal operations: Third Schedule para 6(2)); (para 3) whose economic efficiencies outweigh the adverse effects of the SLC in the relevant Singapore market (see `ccp-2-2-19`). The Minister may also exempt a merger on public-interest grounds (ss 57(3), 58(3); `ccp-2-2-35`). Ancillary restrictions directly related and necessary to the merger (e.g. non-competes of 2 to 5 years, transitional supply agreements) are excluded from ss 34 and 47 (Third Schedule para 10; MG paras 9.4–9.12).
+
+*Source note: CL4 s5; Cyril-CL §4.2.2. The Fourth Schedule example follows Cyril's general description; the slides only name the Fourth Schedule; Act s 55, Fourth Schedule paras 1–3; MG paras 9.1–9.12.*
 
 ### ccp-2-2-17 — Indicative notification thresholds
 *Keywords: indicative thresholds, merged entity market share 40% or more, 20% to 40%, CR3 70% or more, concentration ratio of three largest firms, unlikely to raise concerns below, only indicative, market definition determines share*
 
-**End point:** The CCS is unlikely to be concerned unless (a) the merged entity will have a market share of 40% or more, or (b) the merged entity will have 20% to less than 40% and the three largest firms together (CR3) have 70% or more. The thresholds are indicative only, and the market share depends on how the market is defined.
+**End point:** The CCS is unlikely to be concerned unless (a) the merged entity will have a market share of 40% or more, or (b) the merged entity will have 20% to less than 40% and the three largest firms together (CR3) have 70% or more. The thresholds are indicative only, and the market share depends on how the market is defined. If a merger meets either threshold, the CCS is likely to look further before it is satisfied, so the parties are encouraged to notify for a decision under ss 57–58. An SLC can still be found below the thresholds if other factors give strong evidence of it. Shares over a period tell more than a snapshot: volatile shares suggest firms keep innovating (effective competition), and small firms that have grown fast, especially recent entrants, suggest low barriers to expansion (MCS p69).
 
-*Source note: CL4 s5, s8; Cyril-CL §4.2.3.*
+*Source note: CL4 s5, s8; Cyril-CL §4.2.3; MCS p69 (citing the CCS Guidelines on the Substantive Assessment of Mergers p15).*
 
 ### ccp-2-2-18 — Substantial lessening of competition
 *Keywords: substantial lessening of competition, SLC, s 54(1), counterfactual, with and without the merger, prevailing conditions, failing firm, likely and imminent changes, theories of harm, non-coordinated effects, unilateral effects, coordinated effects, foreclosure, horizontal merger, vertical merger, conglomerate merger, closeness of competition, switching, capacity constraints, buyer power, barriers to entry, homogeneity, stability of demand and costs, countervailing buyer power, potential competition, ShopEase QuickCart*
@@ -1218,11 +1478,43 @@ SQ p35 Q5: a dominant (80%) platform's 30% commission cut for extending exclusiv
 *Source note: CL4 s4–12; Cyril-CL §4.2.4; SQ p35 Q6 (key B, p115).*
 
 ### ccp-2-2-19 — Net economic efficiencies
-*Keywords: net economic efficiencies exclusion, outweigh SLC, profits for the companies alone not enough, pass-through not required but persuasive, removal of double mark-up, investment, variety, network effects, one-stop shopping, complementary products, innovation, detailed and verifiable evidence, board papers, merger-specific, timely, quantified*
+*Keywords: net economic efficiencies exclusion, outweigh SLC, profits for the companies alone not enough, pass-through not required but persuasive, removal of double mark-up, investment, variety, network effects, one-stop shopping, complementary products, innovation, detailed and verifiable evidence, board papers, merger-specific, timely, quantified, supply-side efficiencies, demand-side efficiencies, dynamic efficiencies, demonstrable, sufficient in extent, Singapore markets, cross-market efficiencies, compare magnitude, Fourth Schedule para 3, burden on parties*
 
 **End point:** A merger that would substantially lessen competition is not prohibited if net economic efficiencies outweigh the SLC. Mergers that only create profits for the parties are unlikely to benefit. Pass-through to customers is not expressly required but is persuasive. Examples: removal of double mark-ups, increased investment or product variety, network effects, one-stop shopping, price effects of complementary products, innovation. The parties must give detailed and verifiable evidence — e.g. confidential internal documents and board papers on the rationale, past behaviour and future intentions — showing efficiencies that are merger-specific, timely and, where possible, quantified.
 
-*Source note: CL4 s13; Cyril-CL §4.2.4 (Net Economic Effectiveness Exclusion).*
+**Guidelines detail (MG Part 7):** the parties bear the burden (7.3). Types: **supply-side** (economies of scale and scope, marginal-cost savings, removal of double mark-ups, more investment, more variety), **demand-side** (network effects, complementary-product pricing, one-stop shopping) and **dynamic** (innovation, technology transfer, R&D) (7.4–7.8). Conditions: **demonstrable, merger-specific, timely, sufficient in extent** (7.9–7.16). The efficiencies must arise in markets in Singapore, though not necessarily the market with the SLC; a cross-market claim needs clear and compelling evidence (7.14). Then compare the size of the efficiencies with the size of the anti-competitive effects: if they outweigh, the merger is likely cleared under Fourth Schedule para 3; otherwise remedies or prohibition (7.17–7.18). Distinguish rivalry-enhancing efficiencies, which are weighed inside the SLC test itself (`ccp-2-2-33`).
+
+*Source note: CL4 s13; Cyril-CL §4.2.4 (Net Economic Effectiveness Exclusion); MG paras 7.1–7.18; Act Fourth Schedule para 3.*
+
+### ccp-2-2-31 — The counterfactual; failing firm and failing division
+*Keywords: counterfactual, with and without the merger, prevailing conditions, status quo, failing firm defence, three conditions, exit in near future, unable to meet financial obligations, no serious prospect of reorganising, no less anti-competitive alternative purchaser, commercially reasonable price, liquidation, judicial management, refinancing exhausted, credible bidders, board papers, audited accounts, cash flow projections, failing division, negative operating cash flow, cost allocation, concurrent mergers, entry or exit, regulatory change, most likely counterfactual, pre-existing concerns outside merger remit*
+
+**End point:** The SLC test compares competition with the merger against the most likely situation without it — usually prevailing conditions, but not always (MG 4.14–4.16, 4.22). **Failing firm** — all three: (1) without the merger the firm and its assets would exit the market in the near future (firms in liquidation usually meet this; those near judicial management may not); (2) it cannot meet its financial obligations in the near future and has no serious prospect of reorganising; (3) there is no less anti-competitive alternative — any offer for the assets at a commercially reasonable price, even below the acquirer's, counts, and it may be better for competition that the firm fails and rivals compete for its customers (4.17). The parties must show imminent failure under current ownership, exhausted refinancing and no other credible bidder after good-faith, verifiable efforts (4.18), with evidence such as board papers, audited accounts and cash-flow projections (4.19). **Failing division:** (1) negative operating cash flow on proper cost allocation; (2) its assets would exit the market soon if not sold; (3) no credible alternative bidder and all options explored (4.20). Other counterfactuals: concurrent mergers, committed entry, exit or expansion, regulatory change (4.21). Concerns that exist anyway in the counterfactual are outside merger control (s 34 or s 47 may apply) (4.24).
+
+*Source note: MG (CCCS Guidelines on the Substantive Assessment of Mergers 2016) paras 4.14–4.24.*
+
+### ccp-2-2-32 — Horizontal mergers: non-coordinated and coordinated effects
+*Keywords: non-coordinated effects, unilateral effects, closest competitors, recapture of lost sales, potential competitor, emerging competitor, repositioning, homogeneous products, capacity, differentiated products, diversion ratio, margins, bidding markets, next best alternative, tender, buyer-side merger, monopsony, coordinated effects, tacit collusion, maverick, three conditions, align behaviour, focal point, detect deviation, credible punishment, sustainable against outsiders, transparency, homogeneity, multi-market contact, excess capacity, past coordination, current price not competitive price*
+
+**End point:** **Non-coordinated effects:** a merger of close competitors removes the competition between them; sales lost after a price rise are recaptured by the other party (MG 5.20–5.21). Merging with a potential or emerging competitor can preserve an incumbent's power (5.22). Rivals' repositioning, expansion, customer switching or entry may defeat the price rise (5.23). By market type (5.24–5.28): **homogeneous** — can the merged firm profitably cut output (rivals short of capacity, price-insensitive customers)? **differentiated** — closeness of substitution, diversion ratios and margins; **bidding markets** — the merger cuts the customer's alternatives where there are few bidders, the parties are each other's next-best alternative, rivals lack capacity, there is no strong fringe, or one party is a recent or strong potential entrant (not a checklist, 5.29). **Buyer-side mergers** may create monopsony power: count the other buyers, shares of purchases, and whether suppliers would exit or cut investment (5.31–5.32). In mergers the relevant price is the current price, not the competitive price (5.3).
+
+**Coordinated effects:** the merger makes coordination (including tacit collusion) more likely, e.g. by removing a maverick (5.33–5.36). Three conditions (5.39): (1) the firms can align their behaviour (concentration, homogeneity, symmetry, transparency, institutions such as information sharing, trade associations, MFN or meet-competition clauses, cross-directorships) (5.41); (2) they have an incentive to keep to it — deviation can be detected and credibly punished (transparency, stable demand and costs, multi-market contact, excess capacity) (5.42–5.43); (3) it is sustainable against outsiders (entry, buyer power, fringe firms, innovation) (5.44). A history of coordination is relevant (5.45).
+
+*Source note: MG paras 5.3, 5.20–5.45.*
+
+### ccp-2-2-33 — Entry and expansion; countervailing buyer power; rivalry-enhancing efficiencies
+*Keywords: entry and expansion, likely timely sufficient, profitable entry, barriers to entry, regulatory barriers licensing IP essential facilities, structural barriers sunk costs economies of scale switching costs network effects, strategic barriers first-mover excess capacity exclusive contracts loyalty programmes, imports, Singapore open economy, niche entry insufficient, timely within two years, merger eliminating entrant, rivals' expansion, countervailing buyer power, switch suppliers, self-supply own-label, sponsor entry, competitive tender, size alone insufficient, must-have brands, protect only some customers, rivalry-enhancing efficiencies, merger-specific, compelling evidence*
+
+**End point:** **Entry and expansion** defeat an SLC only if **likely, sufficient in extent and timely** (MG 5.48). Likelihood depends on profitability and barriers: regulatory (licensing, IP, essential facilities, planning, standards), structural (sunk costs, economies of scale and scope, switching costs, access to key assets or distribution, network effects) and strategic (first-mover advantage, excess capacity, long-term exclusive contracts, loyalty schemes, signalled retaliation) (5.49–5.51). Imports and supply-side substitution matter in Singapore's open economy (5.52). Small-scale or niche entry is not enough, though entrants need not match the merged firm's size (5.53–5.55). The CCCS has treated entry **within 2 years** as timely (5.56). The merger may itself eliminate a likely entrant (5.58); rivals' expansion is judged the same way (5.59). **Countervailing buyer power:** buyers can switch or credibly threaten to, impose costs, self-supply or sponsor entry, or run tenders (5.60); the question is whether buyers will have a strong enough bargaining position after the merger. Protecting only some customers may not suffice, and size alone is not enough (e.g. against must-have brands) (5.61–5.63). **Rivalry-enhancing efficiencies** are weighed inside the SLC test: e.g. two weak firms forming a stronger rival. They need compelling evidence that they are timely, likely and sufficient to prevent the SLC, and merger-specific (5.66–5.70). Net economic efficiencies that outweigh an SLC are a separate exclusion (`ccp-2-2-19`).
+
+*Source note: MG paras 5.46–5.70. Cf. MCS p84 (potential entry may be weighed in market definition or here).*
+
+### ccp-2-2-34 — Vertical and conglomerate mergers
+*Keywords: non-horizontal mergers, vertical merger, complementary levels, efficiencies of integration, double mark-up, market power at some level, theories of harm, foreclosure, input foreclosure, customer foreclosure, refusal to supply downstream rivals, distribution channel, ability incentive effect, profitable foreclosure, rivals need not exit, collusion, access to rivals' confidential information, vertical barriers to entry, two-level entry, conglomerate merger, product extension, pure conglomerate, portfolio power, tying, bundling, targeted discounts, predation funded by another market, multi-market contact, replicate portfolio*
+
+**End point:** Vertical integration is usually pro-competitive (removal of double mark-ups, one-stop shopping, lower costs, innovation) and unlikely to cause an SLC without market power at some level (MG 6.5–6.8). **Theories of harm:** foreclosure, and greater ability or incentive to collude (6.9). Forms of foreclosure (6.11): **customer foreclosure** (the merged firm, an important customer, buys only from its own upstream arm); **input foreclosure** (it diverts an important input to its own downstream arm); refusing or raising prices to downstream rivals; denying or discriminating in access to a key distribution channel. Concern arises where rivals have no reasonable alternative (6.12). Test **ability, incentive, effect** (6.13): ability usually needs market power; incentive asks whether foreclosure is profitable (downstream gains against upstream losses); effect asks whether the lost rivalry amounts to an SLC (rivals need not exit). Collusion may follow from access to rivals' confidential information or fewer, more symmetric players (6.14–6.15). Vertical barriers arise only if entrants must enter both levels, that makes entry significantly harder, and the market is otherwise prone to anti-competitive conduct (6.17). **Conglomerate mergers** (product-extension or pure) rarely raise concern (6.21–6.22). Theories: **portfolio power** from complementary brands (6.23); **tying, bundling or targeted discounts** that rivals cannot match (6.24); **predation** funded from another market (6.25); **coordination** through multi-market contact (6.26–6.27). Ask whether rivals can replicate the portfolio, and whether customers buy from several suppliers (6.28–6.29). SQ p35 Q6: a merged platform controlling a payment gateway and logistics rivals depend on (key B, `ccp-2-2-18`).
+
+*Source note: MG paras 6.1–6.29.*
 
 ## 2.VI Section 54: filing, remedies and core merger cases
 
@@ -1230,6 +1522,7 @@ SQ p35 Q5: a dominant (80%) platform's 30% commission cut for extending exclusiv
   - **Foreign companies cleared by US/EU authorities, Singapore customers** → CCS does its own assessment → [2-20](#ccp-2-2-20)
 - **Remedies: directions, commitments; divestment v behavioural** → [2-21](#ccp-2-2-21)
 - **Core merger cases: Grab/Uber, Grab/Delivery Hero (interim directions), Pathology Asia/Innovative/Quest (commitments), iNova/Mundipharma (cleared), Times/Penguin (non-discrimination commitments)** → [2-22](#ccp-2-2-22)
+- **Statutory route: confidential advice (s 55A), notification (ss 57–58), Ministerial exemption, interim measures (s 58A), immunity after clearance (ss 59–60), commitments (ss 60A–60B)** → [2-35](#ccp-2-2-35)
 
 ### ccp-2-2-20 — Filing: voluntary, non-suspensory, risks; cross-border
 *Keywords: voluntary merger control regime, mandatory self-assessment, filing not optional, no suspensory effect, approval not required before completion, notify before completion, post-closing filing, CCS may investigate instead, order to unwind, evergreen risk, higher penalties if thresholds crossed, commitments rejected, mandatory regimes US EU China India Indonesia Australia 2026, cross-border merger, own assessment of effects in Singapore*
@@ -1239,14 +1532,21 @@ SQ p35 Q5: a dominant (80%) platform's 30% commission cut for extending exclusiv
 *Source note: CL4 s14–17; Cyril-CL §4.3; Cyril-CL-T 00:21:43–00:24:15; SQ p34 Q3, p37 Q8 (keys B, A, p115).*
 
 ### ccp-2-2-21 — Remedies: directions and commitments
-*Keywords: remedies, directions, prohibit merger, modify merger, dispose of operations or assets, commitments, structural remedies, divestment, behavioural remedies, monitoring trustee, conditionally cleared, application withdrawn, proportionality, restore pre-merger structure*
+*Keywords: remedies, directions, prohibit merger, modify merger, dispose of operations or assets, commitments, structural remedies, divestment, behavioural remedies, monitoring trustee, conditionally cleared, application withdrawn, proportionality, restore pre-merger structure, s 69(2) directions list, performance bond, commitments clear-cut readily implemented small overlap, approval of purchaser before sale, independent trustee, behavioural remedy supporting divestment, non-solicitation of customers, divestment costs ignored*
 
 **End point:** The CCS may give directions to remedy, mitigate or prevent an SLC (prohibiting or requiring modification of a merger, or divestment of operations or assets) and may accept commitments from the parties. Structural remedies (divestment) are preferred because they address market structure directly and need less monitoring; behavioural remedies are used where divestment is impractical or disproportionate. The aim is a comprehensive, practical remedy, starting from restoring the pre-merger structure, applied proportionately. On the Public Register, "Conditionally Cleared" means cleared subject to accepted commitments (usually overseen by a monitoring trustee); "Application Withdrawn" usually means the deal was aborted after CCS concerns.
 
-*Source note: CL4 s5 (remedies step); CL-LP p6 (practitioner guidance); Cyril-CL §4.5.*
+> **Guidelines detail (MG Part 8; Act s 69(2))**
+> - Directions may prohibit an anticipated merger; dissolve or modify a completed one; require legally enforceable agreements, disposal of operations, assets or shares, or a performance bond or guarantee; and impose a penalty if the infringement was intentional or negligent (MG 8.4; Act s 69(2)–(3)).
+> - Commitments (s 60A) must address clearly identified effects proportionately; they suit only clear-cut concerns capable of ready implementation, typically a small overlap, and must not create new concerns or need substantial monitoring (MG 8.6–8.7).
+> - Divestiture: of a self-standing overlapping business, within a time limit, to a purchaser the CCCS must **approve before the sale** (expertise, resources, incentive to compete), with an independent trustee at the owner's expense if needed (8.11–8.12).
+> - Behavioural remedies may support a divestment, e.g. the merged firm not approaching the divested business's former customers for a period (8.15).
+> - The CCCS normally ignores the parties' divestment costs, as they could have notified before completion (8.20).
+
+*Source note: CL4 s5 (remedies step); CL-LP p6 (practitioner guidance); Cyril-CL §4.5; MG paras 8.1–8.20; Act s 69(2)–(3).*
 
 ### ccp-2-2-22 — Core merger cases
-*Keywords: Grab Uber, CCCS/500/001/18, completed without notification, intentional or negligent infringement, S$13 million combined penalties, Competition Appeal Board dismissed Uber appeal 2020, not truly voluntary, Grab Delivery Hero, foodpanda, online food ordering and delivery OFOD, anticipated merger, interim directions, no integration, preserve saleability, arm's length, Pathology Asia Holdings, Innovative Diagnostics, Quest Laboratories, in-vitro diagnostic IVD tests, closest competitors, commitments four years, annual audit, iNova Mundipharma, CCCS 400-140-2023-003, consumer healthcare, cleared 5 December 2023, Times Publishing Penguin Random House, book distribution, Times Bookstores, non-discrimination commitments, conditional approval 2017*
+*Keywords: Grab Uber, CCCS/500/001/18, completed without notification, intentional or negligent infringement, S$13 million combined penalties, Competition Appeal Board dismissed Uber appeal 2020, not truly voluntary, Grab Delivery Hero, foodpanda, online food ordering and delivery OFOD, anticipated merger, interim directions, no integration, preserve saleability, arm's length, Pathology Asia Holdings, Innovative Diagnostics, Quest Laboratories, in-vitro diagnostic IVD tests, closest competitors, commitments four years, annual audit, iNova Mundipharma, CCCS 400-140-2023-003, consumer healthcare, cleared 5 December 2023, Times Publishing Penguin Random House, book distribution, Times Bookstores, non-discrimination commitments, conditional approval 2017, Grab Uber directions, remove exclusivity, lock-in periods, termination fees, Lion City Rentals, pre-merger pricing, monitoring trustee, 30% of rides suspension, two-sided platform, Difflam, Betadine, throat preparation products, countervailing buyer power, no commitments*
 
 **End point:**
 - **Grab/Uber (2018):** completed without notifying; the CCS found the failure to notify pre-completion and implementation an intentional or negligent infringement, fined the parties a combined S$13m and gave directions; the CAB dismissed Uber's appeal (29 Dec 2020), holding that a voluntary regime does not make proceeding without notifying risk-free. The CCS may reject a post-completion notification and investigate instead.
@@ -1255,7 +1555,23 @@ SQ p35 Q5: a dominant (80%) platform's 30% commission cut for extending exclusiv
 - **iNova/Mundipharma (2023):** acquisition of Mundipharma's consumer healthcare business, notified and cleared (5 Dec 2023) as not infringing s 54.
 - **Times Publishing/Penguin (2017):** acquisition of Penguin's Singapore/Malaysia book distribution by a group that also owns Times Bookstores; conditionally approved on commitments not to discriminate against rival book retailers (vertical concern).
 
-*Source note: CL4 s18–21, s25, s29; Cyril-CL §4.3; Cyril-CL-T 00:24:15–00:31:00; CCCS-Reg (iNova/Mundipharma clearance 5 Dec 2023; Times/Penguin conditional approval Sep 2017). Conflict: Cyril-CL-T says Grab/Uber penalties were "more than $3 million"; the 2026 slides give a combined S$13m, which is followed.*
+> **More detail**
+> - **Grab/Uber directions** (ID 24 Sep 2018): Grab to drop exclusivity, lock-in periods and termination fees for drivers and to end exclusive arrangements with taxi fleets; drivers of Lion City Rentals and Grab rental fleets free to use any platform; Lion City Rentals not to be sold to Grab without approval, and Uber to accept a reasonable fair-value offer for it from a rival; Grab to keep pre-merger pricing, pricing policies and driver commissions; a monitoring trustee. The directions are suspended if an independent rival reaches 30% of rides for a month, and lapse after 6 consecutive months at that level. Markets: a two-sided platform matching drivers and riders, and rental of private-hire cars. Uber was not a failing firm; unwinding was impracticable, so the remedies were behavioural.
+> - **iNova/Mundipharma** (notified 8 Sep 2023 under s 57; cleared 5 Dec 2023, no commitments): the only overlap was throat preparation products (iNova's Difflam v Mundipharma's Betadine throat range) supplied in Singapore. Cleared because several rivals compete closely, customers switch easily, chain pharmacies and supermarkets have some countervailing buyer power, opaque intermediate prices do not ease coordination, and buyer power and multi-brand ranges rule out foreclosure by bundling.
+
+*Source note: CL4 s18–21, s25, s29; Cyril-CL §4.3; Cyril-CL-T 00:24:15–00:31:00; CCCS-Reg (iNova/Mundipharma clearance 5 Dec 2023; Times/Penguin conditional approval Sep 2017). Conflict: Cyril-CL-T says Grab/Uber penalties were "more than $3 million"; the 2026 slides give a combined S$13m, which is followed; CCCS ID 500/001/18 and media release (Nic's `4. CCCS Cases/Grab Uber Acquisition`); CCCS media release 5 Dec 2023 (iNova/Mundipharma, via web; the course slide shows logos only; market shares were not published in the release).*
+
+### ccp-2-2-35 — Merger procedure under the Act: ss 55A–60B
+*Keywords: s 55A confidential advice, anticipated merger, not in public domain, advice not binding, s 56, s 57 notification of anticipated merger, s 58 notification of completed merger, application for decision, Ministerial exemption public interest 14 days, decision valid for specified period, s 58A interim measures, prevent prejudicial action, serious irreparable damage, s 59 effect of favourable decision, s 60, no further action, immunity from penalty, revocation for incomplete false or misleading information, breach of commitment, s 60A commitments, s 60B decision of no infringement, review of commitments*
+
+**End point:**
+> - **s 55A — confidential advice:** a party to an anticipated merger may ask for the CCCS's confidential view on whether it is likely to infringe s 54, if all parties intend to proceed and nothing about it is public. The CCCS may refuse where the parties can assess whether to notify, and the advice does not bind the CCCS.
+> - **ss 56–58 — notification:** a party to an anticipated merger (s 57) or a completed merger (s 58) may notify and apply for a decision whether s 54 is or will be infringed. If the CCCS proposes an infringement decision, the party may within 14 days apply to the Minister for exemption on public-interest grounds; the Minister's decision is final (ss 57(3)–(4), 58(3)). A clearance may be limited to a specified period (s 57(7)); an anticipated merger completed before decision may be treated as a s 58 application (s 57(9)).
+> - **s 58A — interim measures:** while considering a notification, if it suspects an infringement, the CCCS may give directions to prevent action that would prejudice its review or a later direction, or urgently to prevent serious, irreparable damage or protect the public interest, after giving notice and a chance to make representations (the basis for the *Grab/Delivery Hero*-type interim directions; `ccp-2-2-22`).
+> - **ss 59–60 — effect of clearance:** the CCCS takes no further action and no penalty may be imposed (immunity), unless the decision rested on incomplete, false or misleading information or a commitment is breached; it may then revoke the decision and remove immunity, possibly retrospectively.
+> - **ss 60A–60B — commitments:** before deciding, the CCCS may accept commitments to remedy, mitigate or prevent the SLC (also for ss 34 and 47); it must then decide that there is no infringement, but may revoke and investigate if the information was misleading or the commitment breached, and may review the commitments' effectiveness.
+
+*Source note: Act ss 55A–60B (2020 Rev Ed consolidation in force 1 Apr 2022); MG para 9.3.*
 
 ## 2.VII Enforcement
 
@@ -1264,11 +1580,13 @@ SQ p35 Q5: a dominant (80%) platform's 30% commission cut for extending exclusiv
 - **Calculate the penalty: base % × relevant turnover (last business year before infringement ended) × duration ± factors, cap, leniency** → [2-25](#ccp-2-2-25)
 
 ### ccp-2-2-23 — Detection and powers of investigation
-*Keywords: detection, complaints, horizon-scanning, leniency, confidential investigations, s 63 production of documents and information, s 64 enter premises without warrant, s 65 enter and search under warrant, dawn raid, reasonable force, take copies, search any person, take possession, explain documents, remove equipment*
+*Keywords: detection, complaints, horizon-scanning, leniency, confidential investigations, s 63 production of documents and information, s 64 enter premises without warrant, s 65 enter and search under warrant, dawn raid, reasonable force, take copies, search any person, take possession, explain documents, remove equipment, s 61A market studies documents, s 62 power to investigate, 2 working days notice s 64, warrant grounds s 65, self-incrimination s 66, legal professional privilege, offences s 75 non-compliance, s 76 destroying documents, s 77 false information, s 78 obstruction, s 83 fine S$10,000 12 months*
 
 **End point:** Cases come from complaints (assessed for merit), horizon-scanning and leniency applications (as well as voluntary filings). Powers: require documents and information (s 63); enter premises without a warrant (s 64); enter and search under a warrant (s 65). The CCS may use reasonably necessary force, search premises and take copies, search persons on reasonable grounds, take possession of documents to protect them, require explanations of documents or where they are, and remove equipment for examination.
 
-*Source note: CL4 s24, s26–27; Cyril-CL §5.2.*
+**Statutory detail:** outside an investigation, s 61A lets the CCCS require documents or information for market studies and when considering applications (ss 44, 51, 57, 58); s 63 is the power during an investigation under s 62. Entry without a warrant (s 64) needs at least 2 working days' written notice; a warrant (s 65) is available where documents would be concealed or destroyed, were not produced, or entry was refused. **Privilege:** self-incrimination is no excuse, but a statement made after claiming it is inadmissible against the maker in criminal proceedings (other than for Act offences), though admissible in civil proceedings; legal advisers need not disclose privileged communications (s 66). **Offences:** failing to comply with a requirement (s 75), destroying or falsifying documents (s 76), giving false or misleading information (s 77) and obstructing officers (s 78) — each punishable by a fine of up to S$10,000, up to 12 months' imprisonment, or both (s 83).
+
+*Source note: CL4 s24, s26–27; Cyril-CL §5.2; Act ss 61A–66, 75–78, 83.*
 
 ### ccp-2-2-24 — Penalties, directions, appeals, private actions
 *Keywords: financial penalty, intentional or negligent infringement, up to 10% of annual turnover in Singapore, each year of infringement, maximum 3 years, s 69, nullity, agreement void, directions to modify or terminate, Competition Appeal Board, General Division of the High Court, Court of Appeal, right of private action, after infringement decision and appeals exhausted*
@@ -1278,7 +1596,7 @@ SQ p35 Q5: a dominant (80%) platform's 30% commission cut for extending exclusiv
 *Source note: CL4 s28; Cyril-CL §2.5, §5. Conflict: SQ p38 Q10 states the statutory maximum as "10% of global turnover" for that question; the slides and Cyril state 10% of Singapore turnover for up to 3 years, which is followed.*
 
 ### ccp-2-2-25 — Six-step penalty calculation
-*Keywords: six-step approach, base penalty, seriousness percentage, relevant turnover in Singapore, affected product and geographic market, last business year, financial year preceding year infringement ended, duration multiplier, aggravating factors, mitigating factors, deterrence, statutory maximum s 69(4), immunity, leniency, fast track discount, turnover not profit not assets, worked example Company Y, Company X specialty chemicals*
+*Keywords: six-step approach, base penalty, seriousness percentage, relevant turnover in Singapore, affected product and geographic market, last business year, financial year preceding year infringement ended, duration multiplier, aggravating factors, mitigating factors, deterrence, statutory maximum s 69(4), immunity, leniency, fast track discount, turnover not profit not assets, worked example Company Y, Company X specialty chemicals, rounded down to nearest month, 6.83 years, leniency immunity first applicant, reduction up to 50%, passive role not mitigating*
 
 **End point:**
 > **Six steps (CL4 s30)**
@@ -1295,7 +1613,9 @@ SQ p35 Q5: a dominant (80%) platform's 30% commission cut for extending exclusiv
 
 Worked example (CL4 s31–32): infringement 1 Jan 2022–30 Jun 2024; relevant 2023 Singapore turnover S$70m × 12% = S$8.4m; × 2.5 years = S$21m; less 5% for voluntary notification = S$19.95m; below the maximum. SQ p38 Q10: S$50m × 15% = S$7.5m × 3.25 years = S$24.375m; less 10% cooperation = S$21,937,500, below the stated cap (key A). SQ p33 Q1: the starting point is turnover in the relevant market (key D) — not assets, profit or equity.
 
-*Source note: CL4 s30–32; Cyril-CL §5.1; SQ p33 Q1, p38 Q10 (keys D, A, p115). Conflict: Cyril-CL §5.1 says an infringement of less than a year is treated as a full year; the course examples multiply by the exact duration (2.5, 3.25 years), which is followed.*
+**Duration and leniency in practice:** in *Broiler Chickens* the CCCS rounded the duration down to the nearest month (to reward early termination) and the CAB applied 6.83 years; the course examples multiply by exact years. Leniency (CCCS Guidelines on Lenient Treatment 2016): the first cartel member to come forward may get total immunity, later applicants a reduction of up to 50% (*Ball Bearings*: Koyo immune). A passive role is not a mitigating factor (*Broiler Chickens*). The held sources do not state a cap on the starting percentage; the course example uses 12%.
+
+*Source note: CL4 s30–32; Cyril-CL §5.1; SQ p33 Q1, p38 Q10 (keys D, A, p115). Conflict: Cyril-CL §5.1 says an infringement of less than a year is treated as a full year; the course examples multiply by the exact duration (2.5, 3.25 years), which is followed; CCCS ID 500/7002/14 paras 506–540; CAB [2020] SGCAB 1; Chicken media release Appendix 3; Ball Bearings media release.*
 
 ## 3.I Corporate income tax: charge, deductions, capital allowances
 
@@ -1313,45 +1633,60 @@ Worked example (CL4 s31–32): infringement 1 Jan 2022–30 Jun 2024; relevant 2
 *Source note: TX1 s3; Cyril-TX §1.1; SQ p39 Q2 (key C, p116). Rate current per IRAS (11 Nov 2026).*
 
 ### ccp-2-3-2 — What is chargeable: source and remittance
-*Keywords: s 10(1) Income Tax Act 1947, charging provision, accruing in or derived from Singapore, received in Singapore from outside Singapore, trade or business, employment, dividends interest discounts, rents royalties premiums, s 10(1)(g), Singapore-sourced income taxed regardless of receipt, source a question of fact, Comptroller of Income Tax v HY, operations test, foreign-sourced income, s 10(25) deemed received, remitted, applied to Singapore trade debt, movable property brought into Singapore*
+*Keywords: s 10(1) Income Tax Act 1947, charging provision, accruing in or derived from Singapore, received in Singapore from outside Singapore, trade or business, employment, dividends interest discounts, rents royalties premiums, s 10(1)(g), Singapore-sourced income taxed regardless of receipt, source a question of fact, Comptroller of Income Tax v HY, operations test, foreign-sourced income, s 10(25) deemed received, remitted, applied to Singapore trade debt, movable property brought into Singapore, foreign-sourced income exemption, s 13(8), subject to tax, headline rate 15%, beneficial, foreign dividends, branch profits*
 
 **End point:** Income tax is charged on income of any person accruing in or derived from Singapore, or received in Singapore from outside Singapore, in respect of (a) trade or business gains, (b) employment, (d) dividends, interest or discounts, (e) pensions and annuities, (f) rents, royalties, premiums and other profits from property, and (g) other gains of an income nature (s 10(1) ITA). Singapore-sourced income is taxed whether or not received; source is a question of fact — look at what the taxpayer did to earn the profit and where it did it (*Comptroller v HY* [2006] 2 SLR(R) 405). Foreign-sourced income is taxed only if received or deemed received in Singapore: (a) remitted or brought into Singapore, (b) applied to a debt of a Singapore trade or business, or (c) applied to buy movable property brought into Singapore (s 10(25)). SQ p39 Q1: I (only Singapore companies taxed), III (all gains taxed at 17%) and IV (royalties not from a Singapore trade not taxable) are incorrect (key A).
 
-*Source note: TX1 s4–7; Cyril-TX §1.1.1; SQ p39 Q1 (key A, p116).*
+**Foreign-sourced income exemption (s 13(8)–(9))**: foreign dividends, foreign branch profits and foreign service income received in Singapore by a resident company are exempt if (a) the income was subject to tax of a similar character abroad (tax paid or payable; a tax-incentive exemption for substantive activities still counts), (b) the highest corporate tax rate there is at least 15% when received, and (c) the Comptroller is satisfied the exemption benefits the resident. Expenses relating to exempt income are not deductible.
+
+*Source note: TX1 s4–7; Cyril-TX §1.1.1; SQ p39 Q1 (key A, p116); ITA s 13(8)–(10); IRAS 'Companies receiving foreign income' (e-Tax Guide on Tax Exemption for Foreign-Sourced Income).*
 
 ### ccp-2-3-3 — Income v capital
-*Keywords: income v capital, no capital gains tax, capital gains not taxed, s 10L foreign assets exception, fact-specific, badges of trade, NP v Comptroller of Income Tax, trading gain, revenue account, trade of buying and selling shares*
+*Keywords: income v capital, no capital gains tax, capital gains not taxed, s 10L foreign assets exception, fact-specific, badges of trade, NP v Comptroller of Income Tax, trading gain, revenue account, trade of buying and selling shares, seven badges of trade, motive, subject matter, financing, multiplicity, holding period, supplementary work, reasons for realisation, BBO insurer shares capital, NP flats*
 
 **End point:** Singapore taxes gains of an income nature, not capital gains — there is no capital gains tax (subject to s 10L for foreign assets, see [3-21](#ccp-2-3-21)). Whether a gain is income or capital is highly fact-specific; for trading gains the courts apply the "badges of trade" (*NP v Comptroller* [2007] 4 SLR(R) 599). Shares held on revenue account (e.g. by a share dealer) produce taxable income.
 
-*Source note: TX1 s5; TX2 s4; Cyril-TX §1.1.1.*
+> **Badges of trade (Cyril-TX §1.1.1; *NP*)**: (1) motive; (2) nature of the subject matter; (3) method of financing; (4) multiplicity of similar transactions; (5) length of ownership (a short holding suggests trading); (6) special skill or supplementary work; (7) reasons for the sale. In *NP v CIT* the badges were applied property by property: one flat sold after about 4 months was a trading gain, another held about 2 years was not. *CIT v BBO* [2014] 2 SLR 609 (CA): an insurer's gains on shares held in its insurance funds were capital — mere realisation of an investment, not a profit-making scheme; regulatory fund treatment is not decisive.
+
+*Source note: TX1 s5; TX2 s4; Cyril-TX §1.1.1; Cyril-TX §1.1.1; *NP v CIT* [2007] SGHC 141; *CIT v BBO* [2014] SGCA 10 (eLitigation).*
 
 ### ccp-2-3-4 — Deductions
-*Keywords: s 14(1) general deduction formula, outgoings and expenses wholly and exclusively incurred in the production of the income, specific deductions, s 14(1)(a) interest, s 14(1)(b) rent, s 14(1)(c) repair and renewal of tools, s 14(1)(d) bad debts, s 14(1)(e) CPF contributions, s 15(1) deductions not allowed, s 15(1)(b) not wholly and exclusively, s 15(1)(c) capital, capital expenditure not deductible, capital allowances instead*
+*Keywords: s 14(1) general deduction formula, outgoings and expenses wholly and exclusively incurred in the production of the income, specific deductions, s 14(1)(a) interest, s 14(1)(b) rent, s 14(1)(c) repair and renewal of tools, s 14(1)(d) bad debts, s 14(1)(e) CPF contributions, s 15(1) deductions not allowed, s 15(1)(b) not wholly and exclusively, s 15(1)(c) capital, capital expenditure not deductible, capital allowances instead, ABD capital v revenue, purpose manner consequence, enduring benefit, new field of trade, IA purpose of loan, trading stock, prepayment penalty, BFC bond discount redemption premium not interest*
 
 **End point:** Deduct all outgoings and expenses wholly and exclusively incurred in the period in the production of the income (s 14(1) ITA). Specific deductions include (a) interest and prescribed loan-related costs, (b) rent of premises used to earn income, (c) repair and renewal of tools and equipment (if no capital allowance is claimed and it is not reconstruction of permanent structures), (d) bad debts of a trade, and (e) obligatory employer pension/CPF contributions. Section 15(1) disallows, among others, (b) expenses not wholly and exclusively laid out to acquire the income and (c) capital withdrawn or employed as capital — so capital expenditure is not deductible (relief comes through capital allowances), though s 15(1) may not restrict the specific deductions (e.g. s 14(1)(a), see [3-19](#ccp-2-3-19)). SQ p39 Q3: I, II and IV are incorrect — meeting s 14(1) is not enough if s 15 bars it, capital expenditure is not deductible, and some non-interest borrowing costs are deductible (key C).
 
-*Source note: TX1 s8–10; TX3 s16; Cyril-TX §1.1.2; SQ p39 Q3 (key C, p116).*
+> **Capital v revenue expenditure (*ABD Pte Ltd v CIT* [2010] 3 SLR 609)**: a composite test — expenditure is capital if it creates or strengthens a permanent asset or opens a new field of trading. Look at its **purpose** (new or strengthened asset or new trade = capital; stock-in-trade = revenue), **manner** (one-off = capital; recurrent = revenue) and **consequence** (adds to the core business structure = capital). The club's land and building costs were capital and barred by s 15(1)(c). *CIT v IA* [2006] 4 SLR(R) 161 (CA): a loan takes the character of its purpose when taken out; a loan financing trading stock (flats built for sale) is revenue, so borrowing expenses, a prepayment penalty and guarantee costs were deductible. *BFC v CIT* [2014] 4 SLR 33 (CA): bond discounts and redemption premiums are not interest; on capital borrowings they were capital and barred (only interest escapes via s 14(1)(a)).
+
+*Source note: TX1 s8–10; TX3 s16; Cyril-TX §1.1.2; SQ p39 Q3 (key C, p116); Cyril-TX §1.1.2; *ABD* [2010] SGHC 107; *IA* [2006] SGCA 24; *BFC* [2014] SGCA 39 (eLitigation).*
 
 ### ccp-2-3-5 — Capital allowances
-*Keywords: capital allowances, Part 6 ITA, depreciating assets, plant or machinery, s 19, s 19A accelerated three years, in lieu of s 19, buildings not plant, ZF v Comptroller of Income Tax, plant v building, s 19B writing-down allowances IP, defer capital allowance claim, choose s 19 or s 19A*
+*Keywords: capital allowances, Part 6 ITA, depreciating assets, plant or machinery, s 19, s 19A accelerated three years, in lieu of s 19, buildings not plant, ZF v Comptroller of Income Tax, plant v building, s 19B writing-down allowances IP, defer capital allowance claim, choose s 19 or s 19A, ZF factors operational role physical nature permanence inextricably connected, dormitories plant, Singapore Cement silo building, Changi Airport runways taxiways aprons structures, initial allowance one-fifth, 6 12 16 years election, 33 1/3%, 75% 25% election*
 
 **End point:** Part 6 ITA gives capital allowances for depreciating assets; the main class is plant or machinery acquired for a trade, profession or business (ss 19, 19A). They cannot be claimed on buildings (*ZF v Comptroller* [2011] 1 SLR 1044 distinguishes "plant" from "building"). Section 19A gives accelerated allowances over three years, in lieu of s 19 (which writes the cost off over the asset's working life). SQ p40 Q4: a company can choose to defer its capital allowance claim and can choose between s 19 and s 19A (I and IV correct; not every tangible asset qualifies and buildings do not) (key D). IP rights: s 19B (see [3-14](#ccp-2-3-14)).
 
-*Source note: TX1 s11; Cyril-TX §1.1.3 (s 19: 20% initial allowance, balance over the prescribed working life); SQ p40 Q4 (key D, p116). The deferral point rests on the SQ answer key; the slides do not discuss it.*
+> **Plant v building and the rates**
+> - Plant is apparatus used to carry on the business; a building is a permanent structure housing it. Factors (*ZF*, CA): the item's operational role, physical nature, intended permanence, and whether it is inextricably part of a building. Prefabricated, demountable workers' dormitories were plant.
+> - *Singapore Cement Manufacturing v CIT* [2023] SGHC 57: a cement silo was a building (its equipment did the active work; storage and protection are what buildings do), so no s 19A allowance.
+> - *Changi Airport Group v CIT* [2025] SGHC(A) 20: runways, taxiways and aprons are structures, not plant; no s 19A allowance.
+> - s 19: initial allowance of one-fifth, then annual allowances over working life; for assets acquired from YA 2023 the taxpayer may elect a 6-, 12- or 16-year life (s 19(2)). s 19A: 33⅓% a year over 3 years; for YA 2021, 2022 or 2024 spending, an election for 75% then 25% (s 19A(1E)).
+
+*Source note: TX1 s11; Cyril-TX §1.1.3 (s 19: 20% initial allowance, balance over the prescribed working life); SQ p40 Q4 (key D, p116). The deferral point rests on the SQ answer key; the slides do not discuss it; Cyril-TX §1.1.3; *ZF* [2010] SGCA 48; *Singapore Cement* [2023] SGHC 57; *Changi Airport Group* [2025] SGHCA 20 (eLitigation); ITA ss 19, 19A (held consolidation to 1 Jan 2024).*
 
 ## 3.II Goods and services tax
 
 - **When is GST charged? rate 9%; supply, taxable (not exempt), taxable person, made in Singapore, in course of business; exempt v zero-rated** → [3-6](#ccp-2-3-6)
 - **Must the business register? S$1m retrospective/prospective; voluntary registration for at least 2 years** → [3-7](#ccp-2-3-7)
 - **Overseas supplier of digital services/remote services to Singapore consumers (OVR: S$1m global + S$100k); imported services to a GST-registered business (reverse charge)** → [3-8](#ccp-2-3-8)
+- **Where is a service supplied? international services zero-rated (s 21(3)); exports within 60 days; GST on imports and the schemes (MES, IGDS, zero-GST warehouse)** → [3-23](#ccp-2-3-23)
 
 ### ccp-2-3-6 — GST: rate and when it is charged
-*Keywords: GST rate 9%, s 8(1) Goods and Services Tax Act 1993, supply of goods or services made in Singapore, taxable supply, taxable person, course or furtherance of business, s 10(2) Second Schedule, s 8(2A) exempt supply, s 8(2) registered or required to be registered, ss 13 and 15 place of supply, exempt supply Fourth Schedule financial services residential property, zero-rated supply exports international services*
+*Keywords: GST rate 9%, s 8(1) Goods and Services Tax Act 1993, supply of goods or services made in Singapore, taxable supply, taxable person, course or furtherance of business, s 10(2) Second Schedule, s 8(2A) exempt supply, s 8(2) registered or required to be registered, ss 13 and 15 place of supply, exempt supply Fourth Schedule financial services residential property, zero-rated supply exports international services, Herbalife, value of supply, discounted price, s 17(2), non-monetary consideration, open market value*
 
 **End point:** GST (currently 9%) is charged on any supply of goods or services made in Singapore where it is a taxable supply made by a taxable person in the course or furtherance of a business carried on by him (s 8(1) GSTA). Five conditions: (1) a supply of goods or services (s 10(2), Second Schedule); (2) a taxable, not exempt, supply (s 8(2A)); (3) by a taxable person — registered or required to be (s 8(2)); (4) made in Singapore (ss 13, 15); (5) in the course or furtherance of a business. An exempt supply (e.g. financial services, sale or lease of residential property) bears no GST; a zero-rated supply (exports, international services) is a taxable supply at 0%.
 
-*Source note: TX1 s12–14; Cyril-TX §1.2.1 (exempt v zero-rated). Rate current per IRAS (11 Nov 2026).*
+*Herbalife International Singapore v Comptroller of GST* [2023] SGHC 54: GST on supplies to members is charged on the actual discounted price (s 17(2)); members' undertakings were terms of trade, not non-monetary consideration, so open-market valuation (s 17(3)) did not apply.
+
+*Source note: TX1 s12–14; Cyril-TX §1.2.1 (exempt v zero-rated). Rate current per IRAS (11 Nov 2026); *Herbalife* [2023] SGHC 54 (eLitigation).*
 
 ### ccp-2-3-7 — GST registration
 *Keywords: compulsory registration, paragraph 1(1) First Schedule GSTA, taxable supplies exceed S$1 million in a calendar year, retrospective basis, reasonably expected to exceed S$1 million in next 12 months, prospective basis, zero-rated supplies count, voluntary registration, paragraph 8 First Schedule, at least two years, not three years*
@@ -1367,6 +1702,13 @@ Worked example (CL4 s31–32): infringement 1 Jan 2022–30 Jun 2024; relevant 2
 
 *Source note: TX1 s17–20; Cyril-TX §1.2.3; SQ p40 Q5 IV (correct).*
 
+### ccp-2-3-23 — Place of supply; international services; exports; imports
+*Keywords: place of supply, s 13 GSTA, supplier belongs, s 15 business establishment, fixed establishment, most directly concerned, international services, zero-rated s 21(3), international transport, land outside Singapore, goods overseas, services to overseas person, directly benefit, prescribed business services, export of goods, direct export, indirect export, 60 days from time of supply, export documents, bill of lading, air waybill, import GST, CIF value, Customs, import relief S$400, Major Exporter Scheme, Import GST Deferment Scheme, Zero-GST warehouse, licensed warehouse*
+
+**End point:** **Place of supply:** services are supplied in Singapore if the supplier belongs in Singapore (s 13(4) GSTA); a person belongs where it has its business or fixed establishment, and with several, where the establishment most directly concerned with the supply is (s 15). Services from abroad are caught through the reverse charge and OVR regimes (`ccp-2-3-8`). **International services (s 21(3))** are zero-rated, e.g. international transport and its insurance; services on land or goods outside Singapore; services wholly performed overseas; services to an overseas person that directly benefit an overseas person (or a GST-registered Singapore person); prescribed business services to an overseas business customer. Not every service to an overseas customer qualifies. **Exports:** zero-rate only if, at the time of supply, the goods will be exported and the supplier holds the export documents (transport documents such as a bill of lading or air waybill, invoice, proof of payment) within **60 days of the time of supply**; indirect exports need the customer's written instructions as well; otherwise charge standard-rated GST. **Imports:** GST of 9% is payable on imported goods whether or not the importer is registered, on the CIF value plus duty and charges, collected by Customs; reliefs include low-value air or postal imports (CIF S$400 or less). The Major Exporter Scheme, Import GST Deferment Scheme and Zero-GST or licensed warehouses suspend or defer import GST.
+
+*Source note: GSTA ss 13(4), 15 (held copy is the 1993 text, used only for these principles); IRAS pages 'Providing international services', 'Exporting of goods', 'Importing of goods' (GST Guide on Exports; GST Guide on Imports); Cyril-TX §1.2.1.*
+
 ## 3.III Share sale v asset sale
 
 - **Seller sells shares at a gain: taxable? capital v revenue; s 13W (20% for 24 months); GST?** → [3-9](#ccp-2-3-9)
@@ -1374,13 +1716,16 @@ Worked example (CL4 s31–32): infringement 1 Jan 2022–30 Jun 2024; relevant 2
 - **Asset/business sale: GST and transfer of a going concern; trading stock at market value; balancing charge on plant; s 24 election** → [3-11](#ccp-2-3-11)
 - **Stamp duty: 0.2% on shares (higher of price or value); immovable property; pay within 14/30 days; ACD for residential property-holding entities** → [3-12](#ccp-2-3-12)
 - **Tax due diligence; tax warranties; tax indemnity/tax deed; indirect transfer taxes abroad** → [3-13](#ccp-2-3-13)
+- **Tax incentive for buying shares: M&A allowance (25% of up to S$40m, over 5 years) and 200% deduction of transaction costs** → [3-24](#ccp-2-3-24)
 
 ### ccp-2-3-9 — Share sale: seller's tax and GST
-*Keywords: share sale, seller prefers share sale, buyer prefers asset sale, gain on disposal of shares, capital not taxable, revenue account taxable, s 13W safe harbour, at least 20% shareholding, 24 months continuous, ordinary shares, preference shares, switched off by s 10L, GST exempt supply transfer of shares, tax attributes*
+*Keywords: share sale, seller prefers share sale, buyer prefers asset sale, gain on disposal of shares, capital not taxable, revenue account taxable, s 13W safe harbour, at least 20% shareholding, 24 months continuous, ordinary shares, preference shares, switched off by s 10L, GST exempt supply transfer of shares, tax attributes, s 13W(8) exclusions, property companies, insurers, partnerships, s 13W(3) expenses, preference shares accounted as equity, Budget 2025, group-level 20%*
 
 **End point:** In a share sale the buyer takes the whole company with its assets and liabilities; in an asset sale it chooses what to take. Sellers usually prefer share sales; buyers asset sales. The seller's gain is not taxed if capital in nature (and s 10L does not apply); it is taxed if the shares were held on revenue account. Section 13W safe harbour: gains by a company on disposing of ordinary or preference shares in another company are exempt if, among other conditions, the seller (alone or with group companies) legally and beneficially owned at least 20% of the ordinary shares (or shares worth at least 20% of the paid-up ordinary and preference capital) for a continuous period of at least 24 months ending immediately before the disposal; s 13W does not apply where s 10L applies. A transfer of shares is generally an exempt supply for GST.
 
-*Source note: TX2 s3–5; Cyril-TX §2.2.1–2.2.2; IRAS e-Tax Guide "Certainty of Non-taxation of Companies' Gains on Disposal of Equity Investments" (4th ed) via KPMG/EY summaries, checked 11 Nov 2026. Conflict: Cyril-TX §2.2.1 says s 13W covers disposals up to 31 Dec 2027; Budget 2025 removed that sunset for disposals from 1 Jan 2026, so the scheme no longer has an end date.*
+**Statutory detail (held text, before the Budget 2025 change):** the holding test is 20% legally and beneficially owned throughout a continuous 24 months ending the day before disposal (s 13W(1)); expenses of producing the gain are not deductible (s 13W(3)). Excluded: insurers' gains (s 26); unlisted shares in companies trading in, holding or developing immovable property (in Singapore or, for disposals from 1 Jun 2022, elsewhere); disposals by partnerships with corporate partners (s 13W(8)). s 10L overrides s 13W. **2023 CCP 2 Q22** (30% ordinary shares plus preference shares): under the law then, preference shares were outside s 13W, so the exemption did not cover the whole gain; for disposals from 1 Jan 2026 it covers preference shares only if they are accounted for as equity.
+
+*Source note: TX2 s3–5; Cyril-TX §2.2.1–2.2.2; IRAS e-Tax Guide "Certainty of Non-taxation of Companies' Gains on Disposal of Equity Investments" (4th ed) via KPMG/EY summaries, checked 11 Nov 2026. Conflict: Cyril-TX §2.2.1 says s 13W covers disposals up to 31 Dec 2027; Budget 2025 removed that sunset for disposals from 1 Jan 2026, so the scheme no longer has an end date; ITA s 13W(1)–(9) (held consolidation to 1 Jan 2024); MOF Budget 2025 Annex H-2 and IRAS e-Tax Guide on certainty of non-taxation of companies' gains (4th ed, 30 Sep 2025), via firm summaries.*
 
 ### ccp-2-3-10 — Carry-over of tax attributes (ss 23, 37)
 *Keywords: tax attributes, unutilised losses, unabsorbed capital allowances, donations, carry forward, s 23 capital allowances, same business test, s 23(1), substantial shareholding test, 50% of issued shares held by same persons, last day of YA in which allowance arose, first day of YA of deduction, s 23(4), s 23(7), s 37 losses and donations, s 37(12), (14), last day of year loss incurred, Minister waiver, s 23(5), s 37(16), not for tax benefit, same business test still applies, s 23(6), s 37(17)*
@@ -1396,7 +1741,7 @@ Worked example (CL4 s31–32): infringement 1 Jan 2022–30 Jun 2024; relevant 2
 *Source note: TX2 s5–8; Cyril-TX §2.2.3.*
 
 ### ccp-2-3-11 — Asset/business sale: income tax and GST
-*Keywords: asset sale, business sale, no exit tax, each asset and liability, GST on sale of business assets, transfer of business as a going concern, TOGC, excluded transaction, GST (Excluded Transactions) Order, trading stock, s 32 valuation, consideration if buyer carries on trade in Singapore and deducts cost, otherwise open market value, capital assets, balancing charge, tax written down value, TWDV, clawback of capital allowances, s 24 election related parties, tax issues do not follow the sale*
+*Keywords: asset sale, business sale, no exit tax, each asset and liability, GST on sale of business assets, transfer of business as a going concern, TOGC, excluded transaction, GST (Excluded Transactions) Order, trading stock, s 32 valuation, consideration if buyer carries on trade in Singapore and deducts cost, otherwise open market value, capital assets, balancing charge, tax written down value, TWDV, clawback of capital allowances, s 24 election related parties, tax issues do not follow the sale, TOGC conditions, control of business, same kind of business, separate operation, business continues, transferee GST-registered, excluded transaction order*
 
 **End point:** There is no exit tax on a business transfer; tax follows each asset and liability. GST is payable on a taxable person's sale of business assets, unless the sale qualifies as a transfer of a business as a going concern (TOGC), which is an excluded transaction (SQ p42 Q9, key B). Trading stock (s 32 ITA) is valued at the consideration if sold to a person who carries on (or will carry on) a trade in Singapore and can deduct the cost; otherwise at open market value. Plant, machinery and other capital assets on which allowances were claimed trigger a balancing charge (taxable income, clawing back excess allowances) if the disposal value exceeds the tax written-down value (cost less allowances claimed); for certain related-party sales, buyer and seller may elect to use the TWDV as the sale price so no balancing charge arises (s 24).
 
@@ -1404,14 +1749,18 @@ Worked example (CL4 s31–32): infringement 1 Jan 2022–30 Jun 2024; relevant 2
 > - Share sale: often no income tax for the seller; tax attributes can carry over for the buyer; tax issues follow the company (so tax due diligence, warranties, indemnities); generally GST-exempt; stamp duty on the shares.
 > - Asset sale: no carry-over of tax attributes; no GST if a TOGC; tax issues stay behind; seller may face a balancing charge or tax on trading stock at market value; stamp duty depends on whether chargeable property is transferred.
 
-*Source note: TX2 s16–19; Cyril-TX §2.4; SQ p42 Q9 (key B, p116).*
+> **TOGC conditions (IRAS)** — all must be met: (1) the transferee gets control of a business, or a separately operable part, not just assets; (2) it uses the assets to carry on the same kind of business; (3) a transferred part can operate on its own; (4) the business continues after the transfer (only temporary closure); (5) the transferee is GST-registered or becomes registered because of the transfer. Both parties keep records of each asset's description and value. An amalgamation with a s 34C election between GST-registered companies is generally treated as a TOGC by concession (Cyril).
+
+*Source note: TX2 s16–19; Cyril-TX §2.4; SQ p42 Q9 (key B, p116); IRAS 'Transferring businesses' (GST (Excluded Transactions) Order; e-Tax Guide on TOGC, 7th ed); Cyril-TX §3.2.2.*
 
 ### ccp-2-3-12 — Stamp duty on transfers; ACD
-*Keywords: stamp duty, tax on instruments, chargeable property, First Schedule Stamp Duties Act 1929, shares in Singapore company, foreign company with share or branch register in Singapore, Singapore immovable property, leases, s 46 SDA, 14 days after execution in Singapore, 30 days after receipt in Singapore if executed abroad, 0.2% on higher of consideration or market value, net asset value proxy, additional conveyance duty, ACD, property-holding entity, Singapore residential property, more than 50% equity interest, mixed-use zoning*
+*Keywords: stamp duty, tax on instruments, chargeable property, First Schedule Stamp Duties Act 1929, shares in Singapore company, foreign company with share or branch register in Singapore, Singapore immovable property, leases, s 46 SDA, 14 days after execution in Singapore, 30 days after receipt in Singapore if executed abroad, 0.2% on higher of consideration or market value, net asset value proxy, additional conveyance duty, ACD, property-holding entity, Singapore residential property, more than 50% equity interest, mixed-use zoning, ACD rates, buyer ACD 65%, seller ACD 12% 16%, significant owner more than 50%, property-holding entity, Zhao Hui Fang, ABSD charitable purpose trust*
 
 **End point:** Stamp duty is a tax on instruments. It is generally imposed on instruments transferring (i) shares in a Singapore company or in a foreign company with a share or branch register in Singapore, or (ii) Singapore immovable property (including leases). It is payable within 14 days after execution if executed in Singapore, or within 30 days after receipt in Singapore if executed abroad (s 46 SDA). A share transfer bears 0.2% on the higher of the consideration or the market value of the shares; with no market value or valuation, IRAS administratively accepts net asset value as a proxy. Additional conveyance duty (ACD) may also apply, on top of stamp duty, to transfers of equity interests in an entity that holds Singapore residential property, or that directly or indirectly owns more than 50% of entities that do; "residential property" is defined broadly, including land zoned for mixed purposes one of which is residential.
 
-*Source note: TX2 s9–10; TX3 s11; Cyril-TX §2.2.4. Rate current per IRAS (11 Nov 2026).*
+> **ACD rates (IRAS)** — on the value of the underlying residential property, scaled by the shareholding: **buyer's ACD** = the buyer's stamp duty tiers (1% to 6%) plus a flat 65% (instruments on or after 27 Apr 2023); **seller's ACD** = 12% if the equity was acquired between 11 Mar 2017 and 3 Jul 2025 and sold within 3 years, or 16% if acquired from 4 Jul 2025 and sold within 4 years. Only significant owners (more than 50%) of property-holding entities are caught. *Zhao Hui Fang v Commissioner of Stamp Duties* [2017] 4 SLR 945: ABSD was not chargeable on residential property bought by trustees of a charitable purpose trust, as there was no identifiable beneficial owner.
+
+*Source note: TX2 s9–10; TX3 s11; Cyril-TX §2.2.4. Rate current per IRAS (11 Nov 2026); IRAS PHE pages (e-Tax Guide on Additional Conveyance Duties); *Zhao Hui Fang* [2017] SGHC 105 (eLitigation).*
 
 ### ccp-2-3-13 — Tax due diligence, warranties, indemnity; indirect transfers
 *Keywords: tax due diligence, potential tax liabilities, tax profile, tax returns, scope income tax GST stamp duty withholding tax transfer pricing incentives, statutory limitation periods, materiality, tax warranties, returns filed, provisions, disputes, no tax avoidance, arm's length, tax indemnity, tax deed, pre-completion tax liabilities, definition of tax liability, loss of tax asset, seller limitations, escrow, retention, indirect share transfer, China, Indonesia, see-through taxation, Pillar 2*
@@ -1419,6 +1768,13 @@ Worked example (CL4 s31–32): infringement 1 Jan 2022–30 Jun 2024; relevant 2
 **End point:** Tax due diligence looks for unnoticed liabilities, the target's current tax profile and future issues: review return positions, operations, restructurings and major transactions, across income tax, GST, stamp duty, withholding tax, transfer pricing and incentives, for periods still open, above a materiality threshold. Results drive further warranties, a tax deed/indemnity, price, retention or escrow, completion accounts, pre-deal restructuring and limitations (and, for in-scope groups, Pillar Two). Tax warranties give damages if the seller's statements are wrong (subject to proof of loss, remoteness and mitigation) and prompt disclosure: returns filed and correct; liabilities to the accounts date provided for; disputes and investigations; no tax avoidance; no foreign tax liability; no non-ordinary-course transactions since the accounts date; intra-group dealings at arm's length. A tax indemnity makes the seller pay, pound for pound, the target's tax liabilities from pre-completion income and events (and specific identified risks); its definition of "Tax Liability" (actual payments; loss of tax assets) is key; the seller narrows it with limitations and exclusions (provided for in accounts, buyer's breach, windfalls, financial and time limits). Indirect transfers: some countries (e.g. China, Indonesia) may tax the sale of a Singapore holding company as a transfer of the local subsidiary.
 
 *Source note: TX2 s11–15; Cyril-TX §2.3.*
+
+### ccp-2-3-24 — M&A allowance and transaction-cost deduction (s 37O)
+*Keywords: mergers and acquisitions scheme, M&A allowance, s 37O ITA, 25% of value of acquisition, capped S$40 million, S$10 million, 5 years straight-line, qualifying acquisition, 20% or more than 50% shareholding, acquiring subsidiary, Singapore company, local employees, not connected 2 years, double tax deduction transaction costs, 200%, S$100,000, extended to 31 Dec 2030, Income Tax (Deduction for Acquisition of Shares of Companies) Regulations 2012, stamp duty relief lapsed*
+
+**End point:** A Singapore company (directly or through a wholly-owned acquiring subsidiary) that buys ordinary shares in a qualifying acquisition may claim (a) an M&A allowance and (b) a deduction of twice the transaction costs (s 37O(1)–(1A) ITA, with the Income Tax (Deduction for Acquisition of Shares of Companies) Regulations 2012). Allowance: 25% of the value of the acquisition, with the value capped at S$40m (so at most S$10m), written off straight-line over 5 years and not deferrable. Transaction costs: 200% deduction up to S$100,000 a year. Qualifying acquisition: the buyer's holding goes from below 20% to at least 20%, or from 50% or less to more than 50% (the 20% route has extra conditions). The buyer must be Singapore-incorporated and tax resident, carry on business here with at least 3 local employees, and not be connected to the target for 2 years; the target must carry on business with at least 3 employees. Period: the held Act says acquisitions to 31 Dec 2025; Budget 2025 extended the scheme to 31 Dec 2030 (IRAS). The matching stamp duty relief (s 15A SDA) lapsed on 31 Mar 2020.
+
+*Source note: ITA s 37O(1)–(4) (held consolidation to 1 Jan 2024; section number confirmed in the held Act); IRAS 'Mergers & Acquisitions (M&A) allowance' (updated 31 Oct 2025) and e-Tax Guide 'Income Tax: Mergers and Acquisitions Scheme'. Conflict: the held Act ends the scheme on 31 Dec 2025; IRAS records the Budget 2025 extension to 31 Dec 2030, which is followed.*
 
 ## 3.IV Acquisition of IP and royalties
 
@@ -1453,37 +1809,58 @@ Worked example (CL4 s31–32): infringement 1 Jan 2022–30 Jun 2024; relevant 2
 *Source note: TX3 s3–5; Cyril-TX §3.1.*
 
 ### ccp-2-3-17 — Amalgamation: s 34C and GST
-*Keywords: corporate amalgamation, s 34C ITA election, tax neutral, net book value, surviving company steps into shoes, qualifying amalgamation s 34C(2), short form amalgamation s 215D Companies Act, vertical amalgamation parent and wholly-owned subsidiary s 215D(1), horizontal amalgamation wholly-owned subsidiaries of same corporation s 215D(2), pre-positioning share transfers, deemed disposal of shares at cost, trading stock at net book value, transfer of unabsorbed capital allowances losses donations, inherits tax liabilities, GST TOGC administrative concession, GST group*
+*Keywords: corporate amalgamation, s 34C ITA election, tax neutral, net book value, surviving company steps into shoes, qualifying amalgamation s 34C(2), short form amalgamation s 215D Companies Act, vertical amalgamation parent and wholly-owned subsidiary s 215D(1), horizontal amalgamation wholly-owned subsidiaries of same corporation s 215D(2), pre-positioning share transfers, deemed disposal of shares at cost, trading stock at net book value, transfer of unabsorbed capital allowances losses donations, inherits tax liabilities, GST TOGC administrative concession, GST group, 90 days election, irrevocable, original cost*
 
 **End point:** An amalgamation is generally tax neutral if a valid s 34C ITA election is made: assets and liabilities pass at net book value and the amalgamated company steps into the shoes of the amalgamating companies. It must be a "qualifying amalgamation" (s 34C(2)), which includes a short-form amalgamation under s 215D CA — either (vertical) a Singapore parent and its wholly-owned Singapore subsidiary (s 215D(1)) or (horizontal) two or more wholly-owned Singapore subsidiaries of the same corporation, wherever incorporated (s 215D(2)); pre-positioning share transfers may be needed and may themselves be taxed. Advantages: cancelled shares in one amalgamating company held by another are treated as disposed of at cost; trading stock can be taken over at net book value (no gain or loss); unabsorbed capital allowances, donations and losses transfer, subject to the same-business and shareholding tests (ss 23, 37). But the amalgamated company inherits all outstanding tax liabilities. GST: transfers would ordinarily bear GST, but where a s 34C election is made and both companies are GST-registered, the amalgamation is by administrative concession treated as a TOGC (excluded transaction), unless the survivor will be in a GST group.
 
-*Source note: TX3 s6–8; Cyril-TX §3.2.1–3.2.2.*
+Election: by the amalgamated company in writing within 90 days of the amalgamation (extendable), irrevocable (s 34C(4)–(5)); property passes at original cost, and capital allowance assets as under a s 24 election.
+
+*Source note: TX3 s6–8; Cyril-TX §3.2.1–3.2.2; ITA s 34C(4)–(8).*
 
 ### ccp-2-3-18 — Stamp duty on amalgamations and relief
-*Keywords: s 32C Stamp Duties Act, deemed conveyance on sale, notice of amalgamation, s 215F Companies Act, chargeable property, immovable property, shares registered in Singapore, s 15 SDA relief from ad valorem duty, reconstruction or amalgamation, transfer between associated entities, Reconstruction Rules, Associated Permitted Entities Rules 2014, APE Rules, bona fide commercial purpose, prescriptive conditions, application to IRAS within 14 days or 30 days, short form amalgamation most straightforward*
+*Keywords: s 32C Stamp Duties Act, deemed conveyance on sale, notice of amalgamation, s 215F Companies Act, chargeable property, immovable property, shares registered in Singapore, s 15 SDA relief from ad valorem duty, reconstruction or amalgamation, transfer between associated entities, Reconstruction Rules, Associated Permitted Entities Rules 2014, APE Rules, bona fide commercial purpose, prescriptive conditions, application to IRAS within 14 days or 30 days, short form amalgamation most straightforward, 90% ownership, 90% consideration in shares, 2 years holding, APE 75% voting capital, 12 months association, Clifford Development reconstruction, s 15A lapsed 31 Mar 2020*
 
 **End point:** On an amalgamation, stamp duty is triggered on the deemed conveyance on sale, under the notice of amalgamation (s 215F CA, treated as the instrument), of chargeable property — interests in Singapore immovable property and shares registered in Singapore — vesting in the amalgamated company (s 32C SDA). Relief from ad valorem duty is available if prescribed conditions are met for instruments (a) transferring an undertaking or shares under a scheme of reconstruction or amalgamation, or (b) transferring a beneficial interest in an asset between associated entities (s 15(1) SDA), under the Reconstruction Rules or the Associated Permitted Entities (APE) Rules 2014, to facilitate restructurings with a bona fide commercial purpose. The conditions are highly prescriptive; relief is most straightforward for a short-form amalgamation but possible for share and asset sales. Apply to IRAS with supporting documents within 14 days of execution in Singapore, or 30 days if executed entirely abroad.
 
-*Source note: TX3 s9–13; Cyril-TX §3.2.3.*
+> **Relief conditions (IRAS; Reconstruction Rules r 3; APE Rules 2014)**
+> - No relief where ACD applies (s 15(2)).
+> - Reconstruction or amalgamation: ownership substantially the same (owners keep at least 90%); the transferee acquires the undertaking or at least 90% of the target's voting shares; at least 90% of the consideration in transferee voting shares (cash allowed if wholly associated); no disposal of consideration shares, and assets kept, for 2 years; claim within 14 days (30 if executed abroad). Several conditions are waived for s 215D short-form amalgamations.
+> - Associated permitted entities: one holds at least 75% of the other's voting capital and more than 50% of its voting power (or a common parent holds both), for 12 months before; bona fide commercial purpose; remain associated and keep the asset for 2 years.
+> - *Clifford Development v Commissioner of Stamp Duties* [2009] SGCA 17: a "scheme for reconstruction" needs substantially the same persons keeping substantially the same shareholding and business; meeting the Rules' conditions alone is not enough, and relief was refused.
+> - The share-acquisition stamp relief under the M&A scheme (s 15A SDA) lapsed for instruments after 31 Mar 2020.
+
+*Source note: TX3 s9–13; Cyril-TX §3.2.3; IRAS stamp duty relief pages; SDA ss 15, 15A; *Clifford Development* [2009] SGCA 17 (eLitigation; the Learning Plan cites [2009] 3 SLR(R) 363).*
 
 ## 3.VI Borrowing costs and withholding tax on interest
 
 - **Is interest on a loan deductible? "capital employed in acquiring the income"; direct link test (Andermatt; JD — "the income" not "any income"); loan to buy capital assets/shares; non-interest borrowing costs (regulations)** → [3-19](#ccp-2-3-19)
 - **Paying interest to a foreign lender: 15% withholding (s 12(6)); treaty relief** → [3-20](#ccp-2-3-20)
+- **Is a hybrid instrument debt or equity for tax? legal form first, then the facts** → [3-25](#ccp-2-3-25)
 
 ### ccp-2-3-19 — Deductibility of interest and borrowing costs
-*Keywords: borrowing costs, interest expense, s 14(1)(a) ITA, sum payable in lieu of interest or for reduction, prescribed by regulations, Income Tax (Deductible Borrowing Costs) Regulations 2008, payable on capital employed in acquiring the income, direct link test, Andermatt Investments v Comptroller, shares of property company then property, dividend v rental income, JD Ltd v Comptroller, the income not any income, income-producing assets, s 15(1)(c) does not apply, interest on loan for capital expenditure deductible, machinery loan*
+*Keywords: borrowing costs, interest expense, s 14(1)(a) ITA, sum payable in lieu of interest or for reduction, prescribed by regulations, Income Tax (Deductible Borrowing Costs) Regulations 2008, payable on capital employed in acquiring the income, direct link test, Andermatt Investments v Comptroller, shares of property company then property, dividend v rental income, JD Ltd v Comptroller, the income not any income, income-producing assets, s 15(1)(c) does not apply, interest on loan for capital expenditure deductible, machinery loan, prescribed borrowing costs list, guarantee fees, front-end fees, prepayment fees, commitment, interest rate swap payments, discount on debt securities*
 
 **End point:** Interest, and prescribed sums payable in lieu of interest or to reduce it (Income Tax (Deductible Borrowing Costs) Regulations 2008), on money borrowed are deductible where the Comptroller is satisfied they are payable on capital employed in acquiring the income (s 14(1)(a) ITA). This requires a direct link between the money borrowed and the income produced (*Andermatt* [1995] 2 SLR(R) 866: interest on a loan to buy shares in a property company was not deductible against rent later earned after the company was liquidated and the property taken over — the asset and the income had changed). *JD Ltd* [2006] 1 SLR(R) 484 narrowed it further: the link is to "the income" — a particular source — so only interest attributable to income-producing assets is deductible. Because s 14(1)(a) is wider than the general formula, the s 15(1)(c) bar on capital does not apply: interest on a loan for capital expenditure (e.g. machinery) is deductible if s 14(1)(a) is met. SQ p42 Q8: I and III correct — not all borrowing costs are automatically deductible (key B).
 
-*Source note: TX3 s14–16; TX-LP p3 (Regulations); Cyril-TX §4; SQ p39 Q3 III, p42 Q8 (key B, p116).*
+> **Prescribed borrowing costs (Income Tax (Deductible Borrowing Costs) Regulations 2008, Schedule)**: guarantee fees; bank option fees; discounts and premiums on debt securities payable on maturity or early redemption; prepayment or early redemption fees; extension fees; increased costs; interest rate cap premiums; interest rate swap payments; conversion or amendment fees; cancellation fees; front-end or back-end fees. Only costs incurred in substitution for interest or to reduce interest, on borrowings used to produce income, qualify (IRAS).
+
+*Source note: TX3 s14–16; TX-LP p3 (Regulations); Cyril-TX §4; SQ p39 Q3 III, p42 Q8 (key B, p116); Regulations Schedule (S 115/2008); IRAS 'Tax treatment of business expenses: borrowing costs'; e-Tax Guide on borrowing costs other than interest.*
 
 ### ccp-2-3-20 — Withholding tax on interest
-*Keywords: withholding tax on interest, s 12(6) ITA, deemed Singapore-sourced interest, 15% rate, non-resident lender, double tax treaty reduction, gross-up*
+*Keywords: withholding tax on interest, s 12(6) ITA, deemed Singapore-sourced interest, 15% rate, non-resident lender, double tax treaty reduction, gross-up, ACC, interest rate swap payments, not interest, s 45 withholding*
 
 **End point:** Withholding tax at 15% may apply to interest paid to non-residents where the interest is deemed sourced in Singapore (s 12(6) ITA); as for royalties, an applicable double tax treaty may reduce the rate if its conditions are met.
 
-*Source note: TX3 s17; Cyril-TX §4. Rate current per IRAS withholding tax rate table (checked 11 Nov 2026).*
+*ACC v CIT* [2011] 1 SLR 1217: payments under interest rate swaps between the taxpayer and its overseas subsidiaries were not interest or payments in connection with a loan within s 12(6), so no withholding tax under s 45.
+
+*Source note: TX3 s17; Cyril-TX §4. Rate current per IRAS withholding tax rate table (checked 11 Nov 2026); *ACC v CIT* [2010] SGHC 316 (eLitigation).*
+
+### ccp-2-3-25 — Hybrid instruments: debt or equity
+*Keywords: hybrid instruments, debt or equity characterisation, perpetual securities, preference shares, legal form, facts and circumstances, fixed return, cumulative distributions, redemption, maturity date, ranking, voting rights, accounting treatment not determinative, distributions as interest or dividends, deductibility, withholding tax*
+
+**End point:** IRAS first looks at the instrument's legal form. If that does not settle it, it weighs all the facts and circumstances, such as the nature and certainty of the return (fixed or discretionary, cumulative or not), whether there is a maturity or redemption obligation, ranking on liquidation, voting and participation rights, and the issuer's ability to defer payments. No single factor decides, and the accounting treatment is not determinative. If treated as debt, distributions are interest (deductible under s 14(1)(a), withholding under s 12(6)); if equity, they are dividends.
+
+*Source note: IRAS e-Tax Guide 'Income Tax Treatment of Hybrid Instruments' (listed on TX-LP); the factor list follows professional summaries of the Guide's para 5, which was not read in full. Best-supported position; check the Guide's current edition if a question turns on a particular factor.*
 
 ## 3.VII Section 10L and Pillar Two
 
@@ -1498,8 +1875,10 @@ Worked example (CL4 s31–32): infringement 1 Jan 2022–30 Jun 2024; relevant 2
 *Source note: TX4 s3–5; TX1 s5; TX2 s5; Cyril-TX §5; SQ p41 Q6 (key B, p116).*
 
 ### ccp-2-3-22 — Pillar Two global minimum tax
-*Keywords: Pillar Two, global minimum tax, BEPS 2.0, OECD Two-Pillar solution, Pillar One reallocation, 15% effective tax rate, ETR, MNE groups annual revenue EUR 750 million in two of four preceding years, ultimate parent entity, UPE, Income Inclusion Rule, IIR, Qualified Domestic Minimum Top-up Tax, QDMTT, Undertaxed Payments Rule, UTPR reserved, Subject to Tax Rule, STTR, Multinational Enterprise (Minimum Tax) Act 2024, multinational enterprise top-up tax, MTT, domestic top-up tax, DTT, financial years from 1 January 2025, Net GloBE Income, top-up tax credited, worked example*
+*Keywords: Pillar Two, global minimum tax, BEPS 2.0, OECD Two-Pillar solution, Pillar One reallocation, 15% effective tax rate, ETR, MNE groups annual revenue EUR 750 million in two of four preceding years, ultimate parent entity, UPE, Income Inclusion Rule, IIR, Qualified Domestic Minimum Top-up Tax, QDMTT, Undertaxed Payments Rule, UTPR reserved, Subject to Tax Rule, STTR, Multinational Enterprise (Minimum Tax) Act 2024, multinational enterprise top-up tax, MTT, domestic top-up tax, DTT, financial years from 1 January 2025, Net GloBE Income, top-up tax credited, worked example, Pillar Two worked example, top-up tax $1,050, QDMTT $100, jurisdictional ETR*
 
 **End point:** Pillar Two (part of the OECD's BEPS 2.0) imposes a global minimum effective tax rate of 15% on MNE groups with annual consolidated revenue of EUR 750 million or more in at least two of the four preceding financial years (Pillar One reallocates profits to market jurisdictions; its timing is still under discussion). Its rules are the IIR, QDMTT, UTPR and STTR. Singapore has implemented the IIR (the multinational enterprise top-up tax, MTT) and a QDMTT (the domestic top-up tax, DTT) for financial years starting on or after 1 Jan 2025, under the Multinational Enterprise (Minimum Tax) Act 2024 and Regulations 2024, and has reserved its position on the UTPR. IIR: top-up tax on subsidiaries' income outside the UPE's jurisdiction, collected from the parent, on Net GloBE Income to the extent the jurisdictional ETR is below 15%. QDMTT: a jurisdiction collects top-up tax on its own group entities up to 15%, credited against IIR top-up tax. Example: a sub with Net GloBE Income $3,000 at 5% ETR → $3,000 × (15% − 5%) = $300 top-up tax. SQ p41 Q7: Pillar Two aims to ensure large MNE groups pay a minimum effective tax, reducing profit shifting (key C); it does not apply to every company or replace corporate income tax.
 
-*Source note: TX4 s6–8; TX-LP p4 (Act and Regulations 2024); Cyril-TX §5; SQ p41 Q7 (key C, p116).*
+> **Worked example (TX4 s8; HoldCo applies IIR; 2024)**: Country C sub: ETR 5% on GloBE income $3,000 → $3,000 × (15% − 5%) = $300. Singapore sub: ETR 0% (incentive) on $5,000 → $5,000 × 15% = $750. HoldCo's jurisdiction collects $1,050 under the IIR. Country B (ETR 10%, $2,000) has a QDMTT, so it collects $2,000 × 5% = $100 itself and nothing is due under the IIR. Countries A (22%) and D (24%) owe nothing.
+
+*Source note: TX4 s6–8; TX-LP p4 (Act and Regulations 2024); Cyril-TX §5; SQ p41 Q7 (key C, p116); TX4 s8.*

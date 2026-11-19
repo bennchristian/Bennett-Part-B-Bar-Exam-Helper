@@ -30,3 +30,15 @@ STATUS: DONE
 - 15 Nov 2026: model-questions.md built. 260 questions (139 real: SQ 40, 2023 CCP Paper 1 51, 2021 INS 32, ADM2 8, ADM1 8; 121 own), 14 Drills.
   196/196 Sub-points tagged; 0 TODO: verify. `check_model_qna.py ccp-1` exits 0; `build_pack.py ccp-1 --check` passes. No PDF built.
 - Left out (see the file's "Left out" note): 2023 Q23, Q34, Q38, Q41, Q54, Q56 (Q42, Q44, Q53 not held); 2021 INS Q1, Q32, Q34, Q36.
+
+## Audit fill (18–19 Nov 2026; Markdown only, no PDF — Bennett reviews first)
+- From `audits/ccp-1-audit.md`. 16 new Sub-points and blocks: ccp-1-0-55 (cross-border loans); ccp-1-1-52…55 (new Topic 1.XIV,
+  Listing Manual Chapter 12: Rules 1202–1206, 1207 incl. 1207(19), 1208–1212, read from page images of the scanned reading-list copy);
+  ccp-1-1-56…59 (Code Principles 1, 5, 6–7, 11–13); ccp-1-2-69 (ss 315, 318, 323; Mohd Zain v Chimbusco); non-core blue Insolvency
+  blocks ccp-1-2-70…75. Rothstar written into 2-48 (NIC-ANT), Mohd Zain into 2-8; s 440 block 2-63 sharpened (aircraft carve-out, winding up).
+- Model Q&A: 277 questions (140 real, 137 own). Added 2021 INS Q34 (s 440, answer C from s 440(5)(e), (6); no official key) and own
+  questions Q0-38, Q1-36…43, Q2-40…46 for the new Sub-points; Drills 1, 4–9 and 13 updated. No other real question exists for 1.I, 1.II,
+  1.VI, 1.XIII or 3.V in any held source.
+- About 33 blue Insolvency cases have no holding in any source and could not be read online; they are named, not stated, in the
+  Source notes of 2-70…2-75 (syllabus: blue = not tested).
+- 19 Nov 2026: `build_pack.py ccp-1 --check` passes (212 rows, 212 blocks); `check_model_qna.py ccp-1` 212/212; 0 TODO: verify.

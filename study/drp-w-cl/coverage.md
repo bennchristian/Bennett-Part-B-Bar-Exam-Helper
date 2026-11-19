@@ -10,22 +10,25 @@ with the syllabus paragraphs it comes from, e.g. `[36]`. *Tested* = the tier-1 Q
 Bank entries (`question-bank.md`) that raise it. *Covered by* = the Pre-write ID(s) in
 `prewrites.md`, or `item 4`, `TODO`, or `none: <reason>`.
 
-**What is left out.** Parts of the syllabus marked "Background information only" are not
-examinable (SYL p1; LP p5). They are listed below as `none` rows so you can see they were
-considered, not skipped. Past papers set before 2026 sometimes tested them; the Tested
-column still records that.
+**What is left out.** Nothing. Parts of the syllabus marked "Background information only"
+are not examinable (SYL p1; LP p5), but Bennett asked for them to be covered for lookup
+(18 Nov 2026). Their 8 rows (0.I.6 [3(c)], 0.II.6, 0.III.5, 0.VII.9, 0.VIII.6, 0.X.6, 0.XII.5,
+0.XIV.5) now point to short Pre-writes `drp-w-0-76` to `drp-w-0-83`, each titled and cued
+"(background only — not examinable per SYL p1)". They have no Model Q&A questions or Drills.
+Past papers set before 2026 sometimes tested them; the Tested column still records that.
 
-**Status (6 Nov 2026):** all 78 examinable Subject 0 Sub-points have a Pre-write (75
-blocks, `drp-w-0-1` to `drp-w-0-75`), and all 14 Topics have a Cheatsheet. The 8 `none` rows
-are background-only parts of the syllabus. Every Sub-point a past paper or the 2026 sample
-tested has a Pre-write. Three Sub-points come from past papers and lectures rather than
+**Status (18 Nov 2026):** all 87 Subject 0 Sub-points have a Pre-write (84 blocks): the 79
+examinable ones in `drp-w-0-1` to `drp-w-0-75` and `drp-w-0-84` (0.XII.8, State Courts
+appeals, added 18 Nov 2026 after the audit), and the 8 background-only ones in
+`drp-w-0-76` to `drp-w-0-83`. No `TODO: verify` is open. All 14 Topics have a Cheatsheet. Every Sub-point a past
+paper or the 2026 sample tested has a Pre-write. Three Sub-points come from past papers and lectures rather than
 syllabus paragraphs (0.XII.6, 0.XII.7, 0.XIV.6), and one is added because every deadline
 answer needs it (0.I.5).
 
-**PYP coverage (11 Nov 2026):** 56 of the 78 examinable Sub-points are tested by a past paper or
-the 2026 sample (Tested column). The 22 never tested are 0.I.2–0.I.5, 0.II.1, 0.III.1, 0.III.2,
+**PYP coverage (11 Nov 2026; 0.XII.8 added 18 Nov):** 56 of the 79 examinable Sub-points are tested by a past paper or
+the 2026 sample (Tested column). The 23 never tested are 0.I.2–0.I.5, 0.II.1, 0.III.1, 0.III.2,
 0.III.4, 0.V.7, 0.V.8, 0.VI.2, 0.VI.4, 0.VII.8, 0.VIII.5, 0.IX.1, 0.IX.5, 0.X.5, 0.XI.1, 0.XI.5,
-0.XII.1, 0.XIV.1 and 0.XIV.4; each has a Drill in `model-questions.md`.
+0.XII.1, 0.XII.8, 0.XIV.1 and 0.XIV.4; each has a Drill in `model-questions.md`.
 
 **Written Advocacy** has its own Reference Pack (decided by Bennett, 8 Nov 2026); this
 list covers Civil Litigation only.
@@ -37,11 +40,11 @@ list covers Civil Litigation only.
 | Key | Sub-point | Tested | Covered by |
 |---|---|---|---|
 | 0.I.1 | Supreme Court structure; the General Division's original civil jurisdiction (SCJA ss 3, 16–17A) [1]–[3] | QB-17, QB-32 | drp-w-0-1 |
-| 0.I.2 | Which court to sue in: State Courts limits (District Court, Magistrate's Court) and Small Claims Tribunals [4]–[6], [17] | — | drp-w-0-1 |
-| 0.I.3 | Powers of the General Division (SCJA s 18, First Schedule) and the Court's general powers (O 3 r 2); inherent jurisdiction [3(a)(ii)], [7] | — | drp-w-0-2 |
+| 0.I.2 | Which court to sue in: State Courts limits (District Court, Magistrate's Court), the District Court's specific jurisdiction (State Courts Act ss 3, 25–29, 54) and Small Claims Tribunals [4]–[6], [17] | — | drp-w-0-1 |
+| 0.I.3 | Powers of the General Division (SCJA ss 17B–17C, 18, First Schedule) and the Court's general powers (O 3 r 2); inherent jurisdiction [3(a)(ii)], [7] | — | drp-w-0-2 |
 | 0.I.4 | Sources of civil procedure; when ROC 2021 applies (O 1 r 2(3)); the Ideals (O 3 r 1) [8]–[12] | — | drp-w-0-3 |
 | 0.I.5 | Calculating, extending and shortening time (O 3 rr 3–4) — not a syllabus paragraph, but every deadline answer needs it | — | drp-w-0-4 |
-| 0.I.6 | Appellate jurisdiction of the General Division (SCJA ss 20–22); the SICC [3(b)–(c)] | — | none: [3(c)] SICC is background information only; [3(b)] is covered with appeals in 0.XII |
+| 0.I.6 | Appellate jurisdiction of the General Division (SCJA ss 20–22); the SICC [3(b)–(c)] | — | drp-w-0-76 (background only — not examinable per SYL p1) for [3(c)] SICC; [3(b)] SCJA ss 20–22 in drp-w-0-84 (row 0.XII.8) |
 
 ### 0.II Pre-action considerations (SYL p3–4)
 
@@ -52,7 +55,7 @@ list covers Civil Litigation only.
 | 0.II.3 | Amicable resolution: duty to consider it, offer before action, Court may order it (O 5 rr 1–3) [16(d)] | QB-18, QB-32 | drp-w-0-7 |
 | 0.II.4 | Dispute resolution clauses (exclusive or non-exclusive jurisdiction, arbitration) [18] | QB-2, QB-17, QB-32, QB-33, QB-47 | drp-w-0-8 |
 | 0.II.5 | Pre-action production of documents and information (O 11 r 11; *Ching Mun Fong*, *ED&F Man*, *Dorsey*, *Gillingham*) [21] | QB-1 | drp-w-0-9 |
-| 0.II.6 | Pre-action protocols; special status of a party (bankrupt, person lacking capacity, representative action, estate) [19]–[20] | — | none: background information only (SYL p3–4) |
+| 0.II.6 | Pre-action protocols; special status of a party (bankrupt, person lacking capacity, representative action, estate) [19]–[20] | — | drp-w-0-77 (background only — not examinable per SYL p1) |
 
 ### 0.III Commencing the action (SYL p4–5)
 
@@ -62,7 +65,7 @@ list covers Civil Litigation only.
 | 0.III.2 | Originating claim: form, general endorsement or statement of claim, personal injury annexures (O 6 r 5(1)–(4)) [24] | — | drp-w-0-11 |
 | 0.III.3 | Issue, validity and renewal of the originating process (O 6 rr 2–3; *Lim Hong Kan*, *Kleinwort Benson*) [25]–[26], [30]–[31] | QB-2, QB-10, QB-19 | drp-w-0-12 |
 | 0.III.4 | Originating application: form and supporting affidavit (O 6 rr 11, 13) [28]–[29] | — | drp-w-0-13 |
-| 0.III.5 | Converting an originating application to an originating claim (O 15 r 7(6)(c)) [32] | — | none: background information only (SYL p5) |
+| 0.III.5 | Converting an originating application to an originating claim (O 15 r 7(6)(c)) [32] | — | drp-w-0-78 (background only — not examinable per SYL p1) |
 
 ### 0.IV Service (SYL p5–7)
 
@@ -109,7 +112,7 @@ list covers Civil Litigation only.
 | 0.VII.6 | Amendment of pleadings: by agreement or with permission; timing; inferences (O 9 r 14(1)–(3), (5)–(6)) [90]–[92], [94]–[96] | QB-3, QB-12, QB-23, QB-24, QB-37, QB-38 | drp-w-0-37 |
 | 0.VII.7 | Amendment: when permission is granted (*Wang Piao*, *Maag*, *Sheagar*, *Review Publishing*) [93(a)] | QB-12, QB-23, QB-24, QB-37 | drp-w-0-38 |
 | 0.VII.8 | Amendment after the limitation period has expired (O 9 r 14(4); *Multistar*, *Mer Vue*) [93(b)] | — | drp-w-0-39 |
-| 0.VII.9 | Addition and removal of parties; consolidation, joint and consecutive trials, stays (O 9 rr 10–11); non-party security [79]–[82], [85] | — | none: background information only (SYL p11) |
+| 0.VII.9 | Addition and removal of parties; consolidation, joint and consecutive trials, stays (O 9 rr 10–11); non-party security [79]–[82], [85] | — | drp-w-0-79 (background only — not examinable per SYL p1); non-party security [85] in drp-w-0-34 |
 
 ### 0.VIII Striking out, summary judgment, questions of law (SYL p13–14)
 
@@ -120,7 +123,7 @@ list covers Civil Litigation only.
 | 0.VIII.3 | Summary judgment: when to apply and the affidavit timetable (O 9 r 17(1)–(6), (13); O 9 r 9(7)(g)) [100]–[102] | QB-4, QB-11, QB-25, QB-39 | drp-w-0-42 |
 | 0.VIII.4 | Summary judgment: the test, the orders, counterclaims (O 9 r 17(7), (9), (11)–(12); *Horizon Capital*, *M2B*, *Ling Yew Kong*, *Ritzland*) [103]–[106] | QB-4, QB-11, QB-25, QB-39 | drp-w-0-43 |
 | 0.VIII.5 | Determining a question of law or construction without a trial (O 9 r 19; *UOB v Lippo Marina*, *Babbobox*) [107]–[108] | — | drp-w-0-44 |
-| 0.VIII.6 | Judgment on admissions; third party proceedings (O 9 r 18; O 10) [109]–[116] | — | none: background information only (SYL p14–15) |
+| 0.VIII.6 | Judgment on admissions; third party proceedings (O 9 r 18; O 10) [109]–[116] | — | drp-w-0-80 (background only — not examinable per SYL p1) |
 
 ### 0.IX Production of documents (SYL p15–18)
 
@@ -143,7 +146,7 @@ list covers Civil Litigation only.
 | 0.X.3 | Order to attend court or produce documents: issue, service, setting aside, compliance, Riddick undertaking (O 15 r 4; PD 76; *Lao PDR v Sanum*) [146] | QB-41 | drp-w-0-53 |
 | 0.X.4 | Witness must attend for cross-examination; evidence by video link; letters of request; excluding witnesses (O 15 r 16(3); EA s 62A; O 15 rr 4(13)–(14), 5) [147] | QB-41 | drp-w-0-54 |
 | 0.X.5 | Absence of a party at trial (O 15 r 3; O 15 r 8(3)–(4)) [148] | — | drp-w-0-55 |
-| 0.X.6 | AEIC content, form, exchange and objections; experts' reports and duties; independent witnesses and independent counsel [143(c)–(f)], [144(d)–(e)], [145] | — | none: background information only (SYL p19–20) |
+| 0.X.6 | AEIC content, form, exchange and objections; experts' reports and duties; independent witnesses and independent counsel [143(c)–(f)], [144(d)–(e)], [145] | — | drp-w-0-81 (background only — not examinable per SYL p1) |
 
 ### 0.XI Interim relief before trial (SYL p23–25)
 
@@ -164,9 +167,10 @@ list covers Civil Litigation only.
 | 0.XII.2 | Which appeal track (O 18 or O 19); when time starts to run; no automatic stay (O 18 rr 1, 3, 6, 26; O 19 rr 1, 3, 4, 6, 24) [157]–[159(a)] | QB-15, QB-40, QB-43, QB-45 | drp-w-0-63 |
 | 0.XII.3 | Which appellate court: Appellate Division or Court of Appeal (SCJA s 29C, Sixth Schedule; *Noor Azlin*, *Seow Fook Sen*) [159(b)] | QB-8, QB-15, QB-28, QB-44 | drp-w-0-64 |
 | 0.XII.4 | No right of appeal, and permission to appeal (SCJA ss 29, 29A, Fourth and Fifth Schedules; *Telecom Credit*, *Zhu Su*, *VietJet*, *DRH v DRI*) [159(c)(i)–(ii)] | QB-6, QB-15, QB-29, QB-40 | drp-w-0-65 |
-| 0.XII.5 | Procedure for seeking permission to appeal (O 18 r 29; O 19 r 26; PD 126) [159(c)(iii)] | — | none: background information only (SYL p27–28) |
+| 0.XII.5 | Procedure for seeking permission to appeal (O 18 r 29; O 19 r 26; PD 126) [159(c)(iii)] | — | drp-w-0-82 (background only — not examinable per SYL p1) |
 | 0.XII.6 | Security for the costs of an appeal; the appeal papers (O 18 r 30; O 19 r 27) — not a syllabus paragraph; from L4 s17, s24–s25 | QB-15 | drp-w-0-66 |
 | 0.XII.7 | Appeal filed in the wrong appellate court: transfer between the Appellate Division and the Court of Appeal (SCJA ss 29D–29E; O 18 rr 40–41; O 19 rr 39–40) — not a syllabus paragraph; from L4 s29–s30 | QB-8 | drp-w-0-64 |
+| 0.XII.8 | Appeals from a District Court or Magistrate's Court to the General Division: appellate jurisdiction, permission, rehearing (SCJA ss 20–22, Third Schedule); O 18 Div 3, O 19 Div 2; the appeals map (O 18 r 1, O 19 r 1, O 20 r 1) [3(b)], [157(b)–(d)] | — | drp-w-0-84 |
 
 ### 0.XIII Enforcement of court orders (SYL p28–29)
 
@@ -186,4 +190,4 @@ list covers Civil Litigation only.
 | 0.XIV.3 | Departing from the usual order: O 21 r 4; unreasonable refusal of ADR (PD 53; *Tullio Planeta*, *De Beers*, *Lim Lie Hoa*, *Raffles Town Club*) [168(c)(ii)] | QB-7 | drp-w-0-73 |
 | 0.XIV.4 | Personal costs orders against solicitors; fictitious authorities and misuse of AI (O 21 r 6; *Nagaenthran*, *Tan Hai Peng Micheal*) [168(c)(ii)(4)] | — | drp-w-0-74 |
 | 0.XIV.6 | Offers to settle and their costs consequences (O 14) — not a syllabus paragraph; tested PYP21 Q7 | QB-7 | drp-w-0-75 |
-| 0.XIV.5 | Costs under legislation or contract; costs against non-parties; set-off, Bullock and Sanderson orders; fixed or assessed costs; standard and indemnity basis; assessment procedure [168(a)–(b)], [169]–[172] | — | none: background information only (SYL p30–33) |
+| 0.XIV.5 | Costs under legislation or contract; costs against non-parties; set-off, Bullock and Sanderson orders; fixed or assessed costs; standard and indemnity basis; assessment procedure [168(a)–(b)], [169]–[172] | — | drp-w-0-83 (background only — not examinable per SYL p1) |

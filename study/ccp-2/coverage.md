@@ -14,21 +14,26 @@ conflicts are recorded in each block's Source note.
 - *Tested* is `—`: PYP coverage mapping is Phase 2 (PRD §7). Sample Questions are cited in the blocks.
 - *Covered by* is the end-point block in `cheatsheets.md`.
 
-**Status (updated 11 Nov 2026):** every Topic has a Q&A Cheatsheet and every Sub-point an end point; no
+**Status (updated 18 Nov 2026):** every Topic has a Q&A Cheatsheet and every Sub-point an end point; no
 unwritten or `none` rows and no open verification flags. Statute sections were checked against the course copies of
 the Acts (SSO PDFs current at 6 Jan 2025); tax rates (17% CIT, 9% GST, 0.2% share stamp duty, 10%/15% withholding)
 and the s 13W change against IRAS (11 Nov 2026); Competition Core Knowledge cases whose slides are images only
 (SIA/ANA, iNova/Mundipharma, Times/Penguin) against the CCCS public register. Where course materials or seniors'
 notes conflict or are out of date, the block records a `Conflict:` in its Source note. The scanned textbook extract
-`Merger_Control_in_Singapore_(pages_69_to_97).pdf` could not be text-searched (no OCR available), so the merger
-control blocks rest on the slides, Cyril and the 2025 lecture transcript.
+`Merger_Control_in_Singapore_(pages_69_to_97).pdf` (`MCS`) was read page by page from rendered images on 18 Nov 2026
+(no OCR engine on this machine). Its pp 69–97 cover only the indicative thresholds and market definition, so it now
+feeds `ccp-2-2-10`, `ccp-2-2-17` and the new `ccp-2-2-26` and `ccp-2-2-27` (2.III.2–2.III.3). It does not reach the
+s 54 definition of a merger, the Fourth Schedule, the SLC theories of harm, notification or remedies; those blocks still
+rest on the slides, Cyril and the 2025 lecture transcript.
+
+**Audit fill (18–19 Nov 2026, from `audits/ccp-2-audit.md`):** every thin or missing item the audit confirmed was filled, core and optional-guide alike, giving 20 new Sub-points and 20 new blocks (`ccp-2-0-54`–`0-59`, `1-44`–`1-46`, `2-28`–`2-35`, `3-23`–`3-25`), with many existing blocks extended. New sources: the Acts (Companies Act 2020 Rev Ed, consolidation in force 1 Jul 2023; ITA consolidation to 1 Jan 2024; Competition Act consolidation in force 1 Apr 2022), the Take-over Code (24 Jan 2019 version), the CCCS Guidelines (`s34G`, `s47G`, `MDG`, `MG`), CCCS decisions in Nic's `4. CCCS Cases`, IRAS pages and e-Tax Guides, and the Taxation Learning Plan cases read on eLitigation. Where the held statute is older than current law (s 13W after Budget 2025; the M&A allowance extended to 31 Dec 2030), the block says so and follows the current position. Skipped as non-examinable: the three Taxation instruments the Learning Plan marks "for reference only" (Automation Equipment Rules, QDS and QPDS Regulations), slide content marked non-examinable, and the Competition texts the Learning Plan lists only as FYI or further reading (other Guidelines chapters, Whish & Bailey).
 
 | Subject | Topics | Rows | Covered by an ID | none | Unwritten |
 |---|---|---|---|---|---|
-| 0 Intellectual Property | 13 | 56 | 56 | 0 | 0 |
-| 1 Mergers & Acquisitions | 10 | 46 | 46 | 0 | 0 |
-| 2 Competition Law | 7 | 25 | 25 | 0 | 0 |
-| 3 Taxation | 7 | 22 | 22 | 0 | 0 |
+| 0 Intellectual Property | 13 | 62 | 62 | 0 | 0 |
+| 1 Mergers & Acquisitions | 10 | 49 | 49 | 0 | 0 |
+| 2 Competition Law | 7 | 35 | 35 | 0 | 0 |
+| 3 Taxation | 7 | 25 | 25 | 0 | 0 |
 
 ## Source key
 
@@ -78,8 +83,9 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | CL-LP | `Modules/Corporate & Commercial Practice/6. Competition Law /Competition_Law_Learning_Plan _(B26S2).pdf` (timetable pp3–4, Core Knowledge reading list pp4–5) |
 | CL1–CL4 | `…/6. Competition Law /Video Lecture & Slides/1. Antitrust_and_Merger_Control_Lecture 1.pdf`, `2.Antitrust_and_Merge_Control_Lecture_2.pdf`, `3.Antitrust_and_Merger_Contro_Lecture_3.pdf`, `4.Antitrust_and_Merger_Control_Lecture_4.pdf` |
 | CL-CS1 | `…/6. Competition Law /B26S2_Competition_Law_Contact_Session_1.pdf` |
-| CL-MCS | `…/6. Competition Law /Merger_Control_in_Singapore_(pages_69_to_97).pdf` — scanned image only; not text-searchable in this session, so not cited |
+| MCS | `…/6. Competition Law /Merger_Control_in_Singapore_(pages_69_to_97).pdf` — D Shiau & E Chen, *Merger Control in Singapore: Law and Practice* (1st ed, LexisNexis 2011), ch 3.2, pp 69–97 (Core Knowledge reading). Scanned; read from rendered page images. Cited by book page (`MCS p74`). Cyril's `Stuff/…/6. Competition/Merger Control in Singapore.pdf` is the same file |
 | Cyril-CL | `Seniors Notes/Cyril - Part B/For exam/finalised muggers/Corporate and Commercial Practice (CCP)/Paper 2 - Competition Law Master Notes.docx` (cited by section §) |
+| s34G, s47G, MDG, MG | `Seniors Notes/Nic_s Part B Package/4. Nic Exam Go Pack/4b. CCP 2/Competition/3. CCCS Guides/`: CCCS Guidelines on the s 34 Prohibition, the s 47 Prohibition and Market Definition (all in force 1 Feb 2022), and on the Substantive Assessment of Mergers (2016); cited by paragraph |
 | Cyril-CL-T | `Seniors Notes/Cyril - Part B/Stuff/6. Corporate and Commercial Practice (CCP)/6. Competition/Transcript of Video.pdf` (2025 Lecture 4 transcript, cited by timestamp) |
 | CCCS-Reg | CCCS public register and media releases (cccs.gov.sg), checked 11 Nov 2026, for Core Knowledge cases whose slides are images only |
 
@@ -107,6 +113,8 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | 0.I.4 | Practical considerations before registering; registration and opposition process | — | ccp-2-0-4 |
 | 0.I.5 | Absolute grounds: s 7(1)(b) devoid of distinctive character, s 7(1)(c) descriptive; acquired distinctiveness s 7(2) | — | ccp-2-0-5 |
 | 0.I.6 | Spectrum of marks (fanciful to generic); Han's, Love & Co, Marvelous | — | ccp-2-0-5 |
+| 0.I.7 | Why trade marks (origin, quality, just desserts); trade marks v patents v copyright compared | — | ccp-2-0-54 |
+| 0.I.8 | Certification and collective marks; who may file; no time limit; marks common to the trade, immoral or deceptive (TM Infopack) | — | ccp-2-0-55 |
 
 ### 0.II Trade marks: relative grounds and the Staywell test
 
@@ -164,6 +172,7 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | 0.VII.3 | Pre-filing: keep invention confidential, filing strategy, searches | — | ccp-2-0-29 |
 | 0.VII.4 | Employees' inventions (ss 49, 50) | — | ccp-2-0-30 |
 | 0.VII.5 | Patent as personal property; assignments, licences and registration (ss 41, 43, 75) | — | ccp-2-0-31 |
+| 0.VII.6 | First to file; foreign-filing authorisation (s 34); application contents; "patent pending" | — | ccp-2-0-56 |
 
 ### 0.VIII Patents: infringement, defences and revocation
 
@@ -192,6 +201,7 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | 0.X.3 | Infringement: Global Yellow Pages three questions; substantial part; causal connection; authorisation (RecordTV); commercial dealing (ss 146–148) | — | ccp-2-0-42 |
 | 0.X.4 | Permitted uses: fair use (ss 190–191); exclusion by contract (ss 186–187); examinations, judicial proceedings, legal advice | — | ccp-2-0-43 |
 | 0.X.5 | Limitation: 6 years (s 154) | — | ccp-2-0-42 |
+| 0.X.6 | Collective management organisations; © symbol; equitable remuneration for public performance of sound recordings | — | ccp-2-0-57 |
 
 ### 0.XI Remedies; defence and counterclaim
 
@@ -201,6 +211,7 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | 0.XI.2 | Additional damages (copyright s 307) and account of profits | — | ccp-2-0-45 |
 | 0.XI.3 | Election of remedies (s 305(2)–(3) CA, s 31(3)–(4) TMA, s 67(2) PA; Main-Line) | — | ccp-2-0-46 |
 | 0.XI.4 | Defence and counterclaim putting validity in issue | — | ccp-2-0-47 |
+| 0.XI.5 | Relief: injunction, delivery up, declaration (s 31 TMA, s 67 PA, s 305 CA); innocent copyright infringer (s 306) | — | ccp-2-0-58 |
 
 ### 0.XII Confidential information
 
@@ -209,6 +220,7 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | 0.XII.1 | Protecting confidential information: contract, access, awareness; NDA considerations | — | ccp-2-0-48 |
 | 0.XII.2 | Breach of confidence: Coco v Clark elements; I-Admin modified approach (Lim Oon Kuin) | — | ccp-2-0-49 |
 | 0.XII.3 | Damages for breach of confidence; Wrotham Park | — | ccp-2-0-50 |
+| 0.XII.4 | Trade secrets: qualities, Computer Misuse Act, confidentiality factors, employees, public interest, remedies | — | ccp-2-0-59 |
 
 ### 0.XIII IP in business
 
@@ -261,6 +273,8 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | 1.IV.2 | SIC waiver of the Code | — | ccp-2-1-19 |
 | 1.IV.3 | Sanctions for breach | — | ccp-2-1-20 |
 | 1.IV.4 | Other sources: Companies Act, SFA ss 139–140, Listing Manual rr 723, 1105, 1307–1309 | — | ccp-2-1-21 |
+| 1.IV.5 | Financial assistance (ss 76, 76A CA): who is caught, exceptions, whitewash, consequences | — | ccp-2-1-44 |
+| 1.IV.6 | Directors need prior approval to issue shares (s 161 CA) | — | ccp-2-1-46 |
 
 ### 1.V General offers: mandatory, voluntary and partial
 
@@ -281,6 +295,7 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | 1.VI.2 | Voluntary delisting (Listing Manual rr 1307, 1309): approvals, exit offer | — | ccp-2-1-29 |
 | 1.VI.3 | Amalgamation (ss 215A–215J CA) | — | ccp-2-1-30 |
 | 1.VI.4 | Approvals table: shareholder, Court, SIC | — | ccp-2-1-31 |
+| 1.VI.5 | Compulsory acquisition and sell-out (s 215 CA); schemes ss 211–212 | — | ccp-2-1-45 |
 
 ### 1.VII Concert parties
 
@@ -336,12 +351,16 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | 2.II.4 | Vertical agreements exclusion; hub-and-spoke; IP licences | — | ccp-2-2-7 |
 | 2.II.5 | Other Third Schedule exclusions; net economic benefit; block exemptions; guidance and decisions | — | ccp-2-2-8 |
 | 2.II.6 | Core cases: Broiler Chickens, Ferry Operators, Ball Bearings, SIA/ANA; pricing algorithms | — | ccp-2-2-9 |
+| 2.II.7 | s 34(2) list; Guidelines examples: trade association price recommendations, trading conditions, joint buying/selling, advertising, standards | — | ccp-2-2-28 |
 
 ### 2.III Market definition
 
 | Key | Sub-point | Tested | Covered by |
 |---|---|---|---|
 | 2.III.1 | Product and geographic market; SSNIP / hypothetical monopolist; demand- and supply-side substitution; SATS/SFI | — | ccp-2-2-10 |
+| 2.III.2 | Evidence of substitution; supply-side and geographic market; imports; CCS market-definition cases (CSH/SCS, Fresenius, Wacker, Kraft/Danone, Dubai Drydocks, SATS/SFI, F&N/King's) | — | ccp-2-2-26 |
+| 2.III.3 | Price discrimination, chains of substitution, temporal markets, aftermarkets (system, multiple, dual), captive sales | — | ccp-2-2-27 |
+| 2.III.4 | Asymmetric substitution; benchmark price and cellophane fallacy; differentiated products and bundles; multi-sided platforms and zero-price markets | — | ccp-2-2-30 |
 
 ### 2.IV Section 47: abuse of a dominant position
 
@@ -351,6 +370,7 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | 2.IV.2 | Forms of abuse: predation, rebates, exclusivity, tying, refusal to supply, margin squeeze | — | ccp-2-2-12 |
 | 2.IV.3 | Cases: SISTIC, Coca-Cola; loyalty rebates | — | ccp-2-2-13 |
 | 2.IV.4 | Objective justification; conduct not abusive; exclusions and guidance | — | ccp-2-2-14 |
+| 2.IV.5 | Abuse in related markets (four scenarios); counterfactual not a legal requirement (SISTIC CAB) | — | ccp-2-2-29 |
 
 ### 2.V Section 54: merger control — substance
 
@@ -361,6 +381,10 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | 2.V.3 | Indicative thresholds (40%; 20–40% with CR3 ≥ 70%) | — | ccp-2-2-17 |
 | 2.V.4 | SLC test: counterfactual; horizontal, vertical, conglomerate; non-coordinated and coordinated effects; foreclosure | — | ccp-2-2-18 |
 | 2.V.5 | Net economic efficiencies | — | ccp-2-2-19 |
+| 2.V.6 | Counterfactual; failing firm and failing division conditions | — | ccp-2-2-31 |
+| 2.V.7 | Horizontal non-coordinated effects (closest competitors, bidding markets, emerging competitor, buyer mergers); coordinated effects three conditions | — | ccp-2-2-32 |
+| 2.V.8 | Entry and expansion (likely, timely, sufficient); countervailing buyer power; rivalry-enhancing efficiencies | — | ccp-2-2-33 |
+| 2.V.9 | Vertical (input and customer foreclosure; ability, incentive, effect) and conglomerate mergers | — | ccp-2-2-34 |
 
 ### 2.VI Section 54: filing, remedies and core merger cases
 
@@ -369,6 +393,7 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | 2.VI.1 | Voluntary, non-suspensory regime; risks of not notifying; cross-border mergers | — | ccp-2-2-20 |
 | 2.VI.2 | Remedies: directions, commitments; structural v behavioural | — | ccp-2-2-21 |
 | 2.VI.3 | Cases: Grab/Uber, Grab/Delivery Hero, Pathology/Innovative/Quest, iNova/Mundipharma, Times/Penguin | — | ccp-2-2-22 |
+| 2.VI.4 | Merger procedure: s 55A advice, ss 57–58 notification, Ministerial exemption, s 58A interim measures, ss 59–60 immunity, ss 60A–60B commitments | — | ccp-2-2-35 |
 
 ### 2.VII Enforcement
 
@@ -399,6 +424,7 @@ The Learning Plan's case list (TX-LP pp4–5) is optional reading ("may read"); 
 | 3.II.1 | GST rate 9%; charging provision s 8(1) and its five elements; exempt v zero-rated | — | ccp-2-3-6 |
 | 3.II.2 | Compulsory and voluntary registration | — | ccp-2-3-7 |
 | 3.II.3 | Overseas Vendor Registration and Reverse Charge regimes | — | ccp-2-3-8 |
+| 3.II.4 | Place of supply (ss 13, 15); international services (s 21(3)); exports (60 days); imports and import GST schemes | — | ccp-2-3-23 |
 
 ### 3.III Share sale v asset sale
 
@@ -409,6 +435,7 @@ The Learning Plan's case list (TX-LP pp4–5) is optional reading ("may read"); 
 | 3.III.3 | Asset sale: no exit tax; GST and TOGC; trading stock (s 32); balancing charge and s 24 election | — | ccp-2-3-11 |
 | 3.III.4 | Stamp duty on share and property transfers; timing (s 46); ACD | — | ccp-2-3-12 |
 | 3.III.5 | Tax due diligence, tax warranties, tax indemnity; indirect share transfers | — | ccp-2-3-13 |
+| 3.III.6 | M&A allowance and 200% transaction-cost deduction (s 37O) | — | ccp-2-3-24 |
 
 ### 3.IV Acquisition of IP and royalties
 
@@ -431,6 +458,7 @@ The Learning Plan's case list (TX-LP pp4–5) is optional reading ("may read"); 
 |---|---|---|---|
 | 3.VI.1 | Interest deduction s 14(1)(a); direct link test (Andermatt; JD); interaction with s 15; other borrowing costs | — | ccp-2-3-19 |
 | 3.VI.2 | Withholding tax on interest (s 12(6), 15%) | — | ccp-2-3-20 |
+| 3.VI.3 | Hybrid instruments: debt or equity | — | ccp-2-3-25 |
 
 ### 3.VII Section 10L and Pillar Two
 

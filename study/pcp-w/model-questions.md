@@ -1189,7 +1189,7 @@ IN THE FAMILY JUSTICE COURTS OF THE REPUBLIC OF SINGAPORE — Originating Applic
 
 ### 1.III Nullity
 
-Sub-points 1.III.1–1.III.3. None tested. Own question F4 covers all three.
+Sub-points 1.III.1–1.III.3. None tested. Own question F4 covers all three; F14 (added 18 Nov) is a 7-mark question in the format of the short past-paper Q3 (marriage of convenience; wilful refusal and the s 107(1) bar; the three-year bar).
 
 ### 1.III.1 — Void and voidable marriages; void marriages
 
@@ -1212,6 +1212,38 @@ The issue for each client is whether the marriage is void (void from the beginni
 *(c) Eli.* Lack of valid consent through duress is a ground (s 106(c)), but for grounds (c)–(f) proceedings must be instituted within 3 years of the marriage (s 107(2)). Eli married in 2021, so the 3 years have passed and the claim is barred, whatever the merits of the duress. An improper motive for marrying is not itself a ground (*Tan Ah Thee*). His remedy is divorce on a s 95A fact (Pre-write 1-9).
 
 Therefore Anna's marriage is void and she should obtain a judgment of nullity; Chen may apply to annul his voidable marriage for wilful refusal; and Eli is out of time for nullity and should consider divorce.
+
+**Own question F14 facts** (past-paper style, set in the format of the short Family Q3 of PYP 2023 and 2025; not from a past paper). Priya, a Singapore citizen, met Kenji, a foreign national on a short-term pass, through a dating agency, and they married at the Registry of Marriages in Singapore in January 2025. Kenji has refused all sexual relations since the wedding, saying he is "not ready". In February 2026 Priya overheard Kenji telling a friend that the agency had paid him S$8,000 to marry a Singaporean so that he could get a long-term visit pass, and that he "never meant it to be a real marriage". Priya had believed the marriage was genuine. She confronted him; he begged her to stay married until his pass was renewed, and she agreed, telling him in writing in March 2026 that she would "not do anything about the marriage" for now. Relying on that, Kenji turned down a job offer in his home country. Priya now wants to end the marriage as quickly as possible.
+
+**Q1-F14-1** · `1.III.1` `1.III.2` `1.III.3` `1.IV.1` · own question, past-paper style (not from a past paper) · 3 marks · `pcp-w-1-8` `pcp-w-1-9` `pcp-w-1-10`
+
+(a) Advise Priya whether her marriage is void. (3 marks)
+
+**Answer.**
+
+The issue is whether the marriage is void as a marriage of convenience. It is likely void under s 11A WC, so Priya does not need to wait for the three-year bar to pass; she should seek a judgment of nullity for certainty.
+
+A marriage solemnised on or after 1 October 2016 is void if (a) a party enters it knowing or having reason to believe that its purpose is to assist a party to obtain an immigration advantage, and (b) any gratification is offered, given or received as an inducement or reward to a party for entering it (s 11A(1) WC); it is not void if both parties believed on reasonable grounds, when they married, that it would result in a genuine marital relationship (s 11A(2)). A marriage void under s 11A is void under s 105, whether or not a judgment is obtained, though either party may seek a judgment of nullity (s 104). An improper motive alone does not make a marriage void (*Tan Ah Thee v Lim Soo Foong* [2009] 3 SLR(R) 957); s 11A is the statutory exception (Pre-write 1-8).
+
+The marriage was solemnised in January 2025. Kenji entered it knowing that its purpose was to obtain a long-term visit pass (an immigration advantage), and he received S$8,000 from the agency as a reward for marrying (gratification). The s 11A(2) exception needs *both* parties to have believed it would be genuine; Priya did, but Kenji admits he never meant it to be a real marriage, so the exception fails. Priya must prove the facts: she should record what she overheard and look for evidence of the payment (bank records, messages with the agency); if Kenji is convicted under s 57C(1) Immigration Act, the marriage is deemed void (s 11A(3)). Because a judgment of nullity is not a divorce, the three-year bar in s 94 does not apply (Pre-write 1-10). She should apply for a judgment of nullity under s 104; the court has jurisdiction on her domicile as a citizen (s 93(1)(a), s 3(5)) (Pre-write 1-5).
+
+Therefore the marriage is likely void under s 11A read with s 105, and Priya should seek a judgment of nullity now.
+
+**Q1-F14-2** · `1.III.2` `1.III.3` `1.IV.1` · own question, past-paper style (not from a past paper) · 4 marks · `pcp-w-1-9` `pcp-w-1-10`
+
+(b) Assume Priya cannot prove the payment. Advise her whether she can have the marriage annulled on the ground of non-consummation, and what she can do if she cannot. (4 marks)
+
+**Answer.**
+
+The issue is whether the marriage is voidable for wilful refusal to consummate and whether a bar applies. It is voidable under s 106(b) WC, but Priya's written promise and Kenji's reliance on it may bar relief under s 107(1); if so, she cannot divorce until January 2028 unless she shows exceptional hardship or exceptional depravity.
+
+*Ground.* A marriage is voidable if it has not been consummated owing to the respondent's wilful refusal (s 106(b) WC) (Pre-write 1-9). Kenji's refusal of all sexual relations for over a year, without any medical reason, is wilful refusal. Priya must be candid: non-consummation is easily alleged, and a judgment obtained by deceiving the court can be rescinded (*Heng Joo See v Ho Pol Ling* [1993] 2 SLR(R) 763).
+
+*Bars.* The 3-year limit (s 107(2)) and the ignorance requirement (s 107(3)) do not apply to ground (b). But the court must not grant a judgment if the respondent satisfies it that (a) the applicant, knowing it was open to her to avoid the marriage, so conducted herself towards the respondent as to lead him reasonably to believe that she would not seek to do so, and (b) it would be unjust to the respondent to grant the judgment (s 107(1)). Priya knew of the refusal and the sham in March 2026 and told Kenji in writing that she would "not do anything about the marriage"; he relied on it by turning down a job. That satisfies limb (a). On limb (b), Priya can argue that it is not unjust to annul a marriage Kenji entered for money and an immigration advantage, and that her promise was "for now" and made under his pleading, so his reliance was unreasonable; the outcome is uncertain, and the burden is on Kenji.
+
+*If nullity fails.* Divorce cannot be filed until three years from the marriage (January 2028) unless she shows exceptional hardship suffered by her or exceptional depravity on his part (s 94 WC) (Pre-write 1-10). Exceptional hardship is "something quite out of the ordinary" (*Ng Kee Shee v Fu Gaofei* [2005] 4 SLR 762 at [23]); in *Ng Kee Shee* a wife who entered an arranged marriage capriciously, with "absolutely no regard for the union", was held to justify early filing, since making the husband wait would visit her wrongs on him ([21]), which supports Priya. When she files, the fact will be unreasonable behaviour (s 95A(1)(b)) (Pre-write 1-13).
+
+Therefore Priya should apply for nullity under s 106(b), expecting Kenji to raise the s 107(1) bar; in the alternative, she should seek permission to file for divorce within three years on the ground of exceptional hardship, relying on *Ng Kee Shee*.
 
 ### 1.III.2 — Voidable marriages
 
@@ -1353,7 +1385,7 @@ Therefore Celeste can file on adultery but should prefer divorce by mutual agree
 
 ### 1.V Children
 
-Sub-points 1.V.1–1.V.7. Tested: 1.V.1 (2022), 1.V.2 (2023, 2025), 1.V.3 (2021, 2023, 2025), 1.V.4 (2023), 1.V.6 (2021). Own question F7 covers 1.V.7; 1.V.5 is answered within PYP 2025 Q6 and 2022 Q1.
+Sub-points 1.V.1–1.V.7. Tested: 1.V.1 (2022), 1.V.2 (2023, 2025), 1.V.3 (2021, 2023, 2025), 1.V.4 (2023), 1.V.6 (2021). Own question F7 covers 1.V.7 and F12 (added 18 Nov, non-core) 1.V.6; 1.V.5 is answered within PYP 2025 Q6 and 2022 Q1.
 
 ### 1.V.1 — Child of the marriage; welfare as paramount; wishes of parents and child
 
@@ -1441,6 +1473,24 @@ Therefore the likely orders are sole care and control of both twins to Jenny and
 
 See Q2025-6 under 1.V.3 (a Custody Evaluation Report where a child resists one parent; judicial interview; no private assessment without leave) and Q2022F-1b under 1.V.1.
 
+**Own question F15 facts** (past-paper style; not from a past paper). In contested divorce proceedings, Rachel and Sean each seek care and control of their daughter Mia (11). Mia has told her school counsellor that she wants to live with her father "because Mum is always angry". Rachel believes Sean has been coaching Mia. Sean wants to take Mia to a private child psychologist next week so that he can file a report showing that Mia is closely attached to him. Rachel asks what evidence the court will consider about Mia, whether Mia's wishes will decide the matter, and whether she can stop Sean's plan.
+
+**Q1-F15-1** · `1.V.5` `1.V.1` · own question, past-paper style (not from a past paper) · 6 marks · `pcp-w-1-21` `pcp-w-1-17`
+
+Advise Rachel.
+
+**Answer.**
+
+The issue is how the court will find out what is best for Mia and how much weight her wishes carry. Mia's welfare is paramount; her wishes are relevant because she is 11 but will not decide the case; the court will rely on a welfare report and may interview her; and Sean may not have her examined by a psychologist for expert evidence without the court's permission.
+
+*Welfare and the child's wishes.* The welfare of the child is the paramount consideration; subject to it, the court has regard to the wishes of the child where the child is of an age to express an independent opinion (s 125(2)(b) WC) (Pre-write 1-17). Children should have a "voice", not necessarily a "choice"; the judge must be aware of the limitations of a child's expressed views, including coaching and loyalty conflicts, and give them appropriate weight (*AZB v AZC* [2016] SGHCF 1 at [11]–[12], [20], [25]). At 11, Mia can express a view, but if it reflects Sean's influence it will carry little weight.
+
+*Reports and interviews.* The court must have regard to the advice of a person trained or experienced in child welfare, though it is not bound by it (s 130 WC; *WKM v WKN* [2024] SGCA 1 at [67]). Rachel should ask for a Custody Evaluation Report by the Court Family Specialists, which can assess both homes and whether Mia has been coached (Pre-write 1-21). The judge may also interview Mia; the discretion is exercised for her welfare, judges are not compelled to interview, and alternatives include a Child Representative (*AZB v AZC* at [21], [24]; *ZO v ZP* [2011] SGCA 25). Given the coaching allegation, a Child Representative or the report may be better than an interview alone.
+
+*Sean's psychologist.* A party must not, without the court's permission, cause a child to be examined or assessed by a psychologist or other mental health professional to prepare expert evidence, and evidence from an unauthorised examination needs permission to be admitted (P 10 r 4 FJ(G)R 2024; previously r 35 FJR 2014); the application is made in Form 90 (FJC PD 2024 para 95). Subjecting a child to psychological assessment may not be in her best interests (*JAC v JAD* [2014] SGDC 379). Rachel's solicitors should write to Sean's solicitors objecting, and if he persists, raise it at the case conference; a report obtained without permission is unlikely to be admitted.
+
+Therefore the court will decide on Mia's welfare, listening to but not bound by her wishes; Rachel should seek a custody evaluation report (and possibly a Child Representative) and object to Sean's private assessment, which needs the court's permission.
+
 ### 1.V.6 — Taking a child out of Singapore and relocation (non-core)
 
 **Q2021F-1b** · `1.V.6` `1.V.3` `1.V.4` `1.V.2` · PYP 2021 FAM Q1 (children) · not mark-weighted · `pcp-w-1-22` `pcp-w-1-19` `pcp-w-1-20` `pcp-w-1-18`
@@ -1462,6 +1512,26 @@ The issue is what orders the court is likely to make for the twins and whether C
 *Relocation to Hong Kong.* While a custody or care and control order is in force, no one may take a child out of Singapore except with the written consent of both parents or the court's leave, save that the person with custody or care and control may do so for less than one month (s 126(3)–(4) WC); doing so otherwise is an offence (s 126(5)), and the court may restrain removal by injunction (s 131). On an application for leave to relocate, the welfare principle governs; the primary caregiver's reasonable wish to relocate is a factor, not a presumption, and the loss of the left-behind parent's relationship is important but not determinative (*BNS v BNT* [2015] SGCA 23). Christine's reasons are genuine (her family and support are in Hong Kong, her depression, the abuse here), but the twins have lived all their lives in Singapore, attend school here, and Ken's relationship with them would be greatly reduced. She would need a detailed plan for schooling, housing and Ken's continued contact (overseas and video access). She must not take the children to Hong Kong without consent or leave (Pre-write 1-22).
 
 Therefore Christine should seek joint custody (or sole custody if Ken's obstruction continues), care and control of both twins with conditions on Ken's access, an immediate interim order for Charlotte, and, if she still wishes to relocate, Ken's written consent or the court's leave with a full plan; she should not leave Charlotte behind or remove either child without consent or leave.
+
+**Own question F12 facts** (non-core; not from a past paper). Lena, an Australian, and Marc, a Singaporean, married in 2014 and moved to Singapore in 2016 for Marc's job; Lena gave up her teaching post in Melbourne. They have two children, Ella (9) and Sam (6). Interim judgment was granted last month; at the ancillary hearing Lena expects joint custody and care and control of both children, who have lived with her since the separation. Marc has had access every Wednesday evening and alternate weekends, which he has never missed, and he coaches Sam's football team. Lena has no family here, has been treated for depression since the separation, and has been offered a teaching job in Melbourne, where her parents will house them and the children have school places. She proposes that Marc have the children for most of the June and December school holidays and daily video calls, and offers to pay half the airfares. Lena asks: (a) whether she can take the children to Melbourne for two weeks over Christmas this year; and (b) whether she can move there with them for good, and what the court will consider.
+
+**Q1-F12-1** · `1.V.6` `1.V.4` · own question, not from a past paper · 10 marks · `pcp-w-1-22` `pcp-w-1-20`
+
+Advise Lena.
+
+**Answer.**
+
+The issue is whether Lena needs Marc's consent or the court's leave to take the children to Melbourne, first for a holiday and then for good. Once a care and control order is in force she may take them abroad for less than one month without anyone's consent, but a permanent move needs Marc's written consent or the court's leave; leave will be decided on the children's welfare with no presumption in her favour, and Marc's close, active bond with them is the main obstacle to her application.
+
+*(a) The Christmas holiday.* Where an order for custody or care and control is in force, no person may take the child out of Singapore except with the written consent of both parents or the leave of the court (s 126(3) WC), but this does not prevent the person given care and control from taking the child out of Singapore for less than one month (s 126(4)). If Lena is given care and control, a two-week holiday is within s 126(4); she should still give Marc the itinerary and contact details, as overseas access orders often require (Pre-write 1-20). Until the order is made, she should obtain Marc's written consent, because he may otherwise apply for an injunction restraining removal (s 131) (Pre-write 1-22).
+
+*(b) Relocation: the law.* A move to Melbourne needs Marc's written consent or the court's leave (s 126(3)); taking the children without either is an offence punishable with a fine of up to $5,000, imprisonment of up to 12 months, or both (s 126(5)), and, Australia being a Contracting State to the Hague Convention, could lead to an order for their return (Pre-write 1-23). On an application for leave, the welfare of the child is paramount and "ought to override any other consideration" (*BNS v BNT* [2015] SGCA 23 at [19]). There is no legal presumption in favour of relocation ([22]). The primary caregiver's reasonable wish to relocate is an important but not a singularly determinative factor, mattering chiefly where refusal would transfer her unhappiness and insecurity to the children ([20]–[21]); the loss of the children's relationship with the left-behind parent is an important consideration, not determinative, and "the stronger the bond, the larger the resultant void" ([25]–[26]). The court looks at the children's age, their attachment to each parent and their developmental needs, and relocation cases are very fact-specific (*UYK v UYJ* [2020] SGHCF 9 at [34], [37]) (Pre-write 1-22).
+
+*Application.* In Lena's favour: she is the children's primary caregiver; her wish is genuine and reasonable, since she came to Singapore only for Marc's career, has no family here and has a job, housing and family support in Melbourne (compare the "trailing spouse" in *UYK v UYJ* at [33]–[34]); her depression is relevant if refusing the move would leave her isolated and unwell in a way that affects the children (*BNS v BNT* [20]–[21]); and her plan is detailed, with school places, generous holiday access, daily video calls and shared airfares. Against her: Marc has never missed access and coaches Sam's team, so the bond is strong and the void would be large ([25]–[26]); Ella and Sam have spent most of their lives in Singapore, and a move would replace weekly contact with two long holidays a year. In *BNS v BNT* a strong, active relationship with the father, together with a poorly conceived plan, led the Court of Appeal to refuse relocation ([32], [35]); Lena's plan is much better prepared, but Marc's bond is at least as strong. The court will call for a welfare report (s 130) and may hear the children's views, Ella's in particular, if she is mature enough (s 125(2)(b)) (Pre-write 1-21).
+
+*Practical advice.* Lena should first ask Marc for his written consent, offering the contact plan in writing and through mediation; if he refuses, she should apply for leave with evidence of the job, school places, housing, her medical position and the proposed access, and keep facilitating his access meanwhile, since hostility to the other parent counts against her.
+
+Therefore Lena may take the children on a two-week Christmas holiday once she has care and control (with Marc's written consent before then), but she can move them to Melbourne only with Marc's written consent or the court's leave; leave is possible but uncertain, because her strong plan and reasons must be weighed against the children's close bond with Marc, with no presumption in her favour.
 
 ### 1.V.7 — International child abduction (non-core)
 
@@ -1551,7 +1621,7 @@ See Q1-F8-1 under 1.VI.2 (s 117; s 118; *Tan Bee Giok*; nominal orders after *AT
 
 ### 1.VII Division of matrimonial assets
 
-Sub-points 1.VII.1–1.VII.10. Tested: 1.VII.1 (2021, 2022, 2023, 2025), 1.VII.2 (2021, 2022, 2025), 1.VII.3 (2021, 2022), 1.VII.6 (2023, 2025), 1.VII.7 (2022, 2025), 1.VII.9 (2022), 1.VII.10 (2021, 2022). Own questions F9 (1.VII.4, 1.VII.5) and F10 (1.VII.8).
+Sub-points 1.VII.1–1.VII.10. Tested: 1.VII.1 (2021, 2022, 2023, 2025), 1.VII.2 (2021, 2022, 2025), 1.VII.3 (2021, 2022), 1.VII.6 (2023, 2025), 1.VII.7 (2022, 2025), 1.VII.9 (2022), 1.VII.10 (2021, 2022). Own questions F9 (1.VII.4, 1.VII.5), F10 (1.VII.8) and F13 (added 18 Nov, non-core: 1.VII.1 after a foreign divorce, 1.VII.8).
 
 ### 1.VII.1 — The power to divide: just and equitable; equal partnership
 
@@ -1635,6 +1705,22 @@ Therefore the pool is identified at 2 March 2026 and valued in November 2026 (ba
 
 See Q1-F9-1 under 1.VII.4 (when classification is justified, *UTQ v UTR*) and Q2023-6 under 1.VII.1 (global assessment for a dual-income couple).
 
+**Own question F16 facts** (past-paper style; not from a past paper). Ahmad and Lina were married for 18 years; both worked throughout. The pool comprises their HDB flat and CPF, built up jointly, worth S$900,000, and a trading portfolio worth S$2 million that Ahmad built during the marriage from a S$300,000 inheritance and his own trading on weekends, which Lina never contributed to. Ahmad also failed to explain withdrawals of S$400,000 from his bank accounts in the year before he filed for divorce.
+
+**Q1-F16-1** · `1.VII.5` `1.VII.10` `1.VII.6` · own question, past-paper style (not from a past paper) · 5 marks · `pcp-w-1-32` `pcp-w-1-37` `pcp-w-1-33`
+
+Advise Lina on how the court is likely to approach the division methodologically.
+
+**Answer.**
+
+The issue is whether the court will assess contributions across the whole pool (global assessment) or class by class (classification). Because the trading portfolio is a distinct class to which the parties contributed very differently, and there is a possible adverse inference about Ahmad's withdrawals, classification is likely to be considered, with the ANJ approach applied within each class.
+
+The global assessment methodology takes the net value of all the matrimonial assets and divides it justly and equitably; the classification methodology separates the assets into classes with individual apportionments, keeping indirect contributions constant across classes (*NK v NL* [2007] 3 SLR(R) 743) (Pre-write 1-32). Classification is appropriate where there are multiple classes of assets and some are not wholly the gains of the parties' cooperative partnership (*UTQ v UTR* [2019] SGHCF 13). The ANJ structured approach then applies, broad brush rather than arithmetically (*ANJ v ANK* [2015] 4 SLR 1043; *UYQ v UYP* [2020] SGCA 3 at [3]) (Pre-write 1-33).
+
+The flat and CPF are jointly funded and suit a single ratio. The portfolio was built from an inheritance and Ahmad's own efforts; the original S$300,000 is an excluded inheritance unless transformed (s 112(10)) (Pre-write 1-30), but its growth through his trading during the marriage is a matrimonial asset to which Lina's direct contribution is nil, so a separate class reflects that difference. Ahmad's unexplained withdrawals may justify an adverse inference, by adding the sum back or by an uplift in Lina's share (*UZN v UZM* [2021] 1 SLR 426) (Pre-write 1-37); an inference affecting one class also points to classification (*NK v NL*).
+
+Therefore Lina should expect the court to consider classification, with a lower share for her in the portfolio class but her indirect contributions held constant, and should press for an adverse inference over the S$400,000; if the court prefers a global assessment, she should argue that her indirect contributions over 18 years justify a substantial share of the whole pool.
+
 ### 1.VII.6 — The ANJ structured approach and the s 112(2) factors
 
 **PYP 2025 Family Q5 facts.** Vikram and Mira, both Singapore citizens, have been married about 15 years and have two sons aged 10 and 3; the younger has cerebral palsy, with severe movement limitations, needs a wheelchair and substantial support. Mira divorced Vikram on his alleged behaviour; Interim Judgment was granted by consent in July 2025, ancillary matters adjourned to chambers. Joint custody, care and control to Mira, liberal access to Vikram, and child and spousal maintenance are agreed. Division is unresolved. Vikram is a supervisor earning $12,000 a month gross. Mira was a teacher (Head of Department) earning $8,000 a month but stopped work 3 years ago to look after the younger child after his diagnosis. They live in a 5-room HDB flat in joint names (minimum occupation period fulfilled); both used CPF monies for the purchase, with a bank loan for the balance; they paid the initial capital payment equally and shared the mortgage equally from CPF until Mira stopped work, since when Vikram has paid it all by CPF and cash. Vikram owns an Aljunied apartment in his sole name, bought before the marriage, with no mortgage; the family lived there for about 2 years while awaiting the HDB keys, and Mira spent $20,000 of her savings renovating it for the family. It is now rented out; part of the rent services the HDB loan and Vikram keeps the rest. The other assets are their CPF accounts, a car in Mira's name and separate OCBC accounts in each of their sole names; there are no joint accounts. You act for Vikram.
@@ -1703,6 +1789,26 @@ In Ray's favour, both had independent legal advice and the agreement is clear. I
 If the parties settle, the agreed division can be recorded in a consent order; consent orders are encouraged, and are varied or set aside only in limited circumstances (*Surindar Singh v Sita Jaswant Kaur* [2014] 3 SLR 1284; *AYM v AYL* [2013] 1 SLR 924; *AOO v AON* [2011] 4 SLR 1169; *BMI v BMJ* [2018] 1 SLR 43).
 
 Therefore Ray is wrong that Quinn gets nothing: the agreement is one factor under s 112(2)(e), weakened by the change in their circumstances, and the court will divide the assets justly and equitably in light of her contributions as homemaker.
+
+**Own question F13 facts** (non-core; not from a past paper). Hana (Japanese) and Tom (Singaporean) married in Tokyo in 2010 after signing, each with independent Japanese lawyers, a pre-nuptial agreement under Japanese law that on divorce each keeps the property in his or her own name and that the children will live with Tom. They lived in Singapore from 2011 to 2024; Hana gave up her career in 2013 to raise their two children, and Tom bought a condominium in his sole name in 2015, which they lived in, and built up his CPF and bank savings here. In 2024 Hana returned to Tokyo with the children with Tom's agreement. In March 2026 a Tokyo court granted a divorce, recognised in Singapore, but made no order on the Singapore property; Japanese law gave Hana a right to claim a division of property, but its limitation period expired while she was ill. Tom, still living in Singapore, relies on the agreement.
+
+**Q1-F13-1** · `1.VII.1` `1.VII.8` `1.VII.2` · own question, not from a past paper · 10 marks · `pcp-w-1-28` `pcp-w-1-35` `pcp-w-1-29`
+
+Advise Hana whether she can claim a share of the Singapore assets and what effect the pre-nuptial agreement will have.
+
+**Answer.**
+
+The issue is whether Hana can obtain a division of the Singapore assets after a Japanese divorce, and whether the pre-nuptial agreement prevents it. She may apply under Chapter 4A of the Women's Charter with the court's permission; she is likely to show substantial ground and that Singapore is the appropriate forum. The agreement is not enforceable in itself; it is a factor that may carry significant weight, but its weight is reduced here by the change in the parties' circumstances, and its term on the children is presumed unenforceable.
+
+*Chapter 4A.* Where a marriage has been dissolved by proceedings in a foreign country and the divorce is entitled to recognition in Singapore, either party may apply for an order for financial relief (s 121B WC). The court has jurisdiction if one party was domiciled in Singapore, or habitually resident here for a continuous year, on the date of the application for permission or of the foreign divorce (s 121C): Tom, a Singaporean living here since 2011, satisfies this. No application may be made without the court's permission, which is not granted unless there is "substantial ground" for it (s 121D(1)–(2)). Before making an order the court must be satisfied that Singapore is an appropriate forum, having regard in particular to the parties' connection with Singapore and with Japan, any financial benefit Hana has received, any foreign order, any right she had to apply abroad and why she did not use it, the availability of assets here, enforceability and the time elapsed (s 121F(2)). If so, the court may make any order it could make under s 112 as if the divorce had been granted here (s 121G(1)) (*UFN v UFM* [2019] 2 SLR 650) (Pre-write 1-28).
+
+Hana has a strong case for permission and forum: the family lived in Singapore for 13 years; the condominium, CPF and savings are all here, so an order is enforceable; the Tokyo court made no order on them; she has received nothing; and she can explain why her Japanese claim lapsed (her illness). She applied within months of the divorce. Japan's connection, and her lapsed right there, are the points Tom will raise (s 121F(2)(b), (f)).
+
+*The pool.* The condominium, bought during the marriage and used as the family home, and Tom's CPF and savings acquired during the marriage, are matrimonial assets regardless of whose name they are in (s 112(10)(b); *USB v USA* [2020] 2 SLR 588) (Pre-write 1-29).
+
+*The pre-nuptial agreement.* The court has regard to any agreement on ownership and division made in contemplation of divorce (s 112(2)(e), applied by s 121G(2)). A valid foreign pre-nuptial agreement is not void, and its validity is governed by its proper law (*TQ v TR* [2009] SGCA 6 at [32]); here, Japanese law, under which Hana should check with Japanese counsel that it is valid. But it "cannot be enforced, in and of itself" ([77]), it cannot detract from the court's ultimate power under s 112 ([73]), and there is "no blanket rule" that it must be enforced to the exclusion of other circumstances ([80]); depending on the circumstances it may carry significant or even critical weight (*TQ v TR*). In Tom's favour, both had independent legal advice and the agreement is clear. In Hana's favour, it was made before the move to Singapore and before the children were born, she then gave up her career for 11 years, and the assets in Tom's name reflect his earnings while she kept the home; applying it literally would ignore her indirect contributions, which the court must recognise (Pre-write 1-33). The court is therefore likely to give it some, but reduced, weight. The term that the children live with Tom is presumed unenforceable unless clearly shown to be in their interests; their welfare decides (*TQ v TR* at [70]) (Pre-writes 1-35, 1-17).
+
+Therefore Hana should apply for permission under s 121D, showing substantial ground and addressing the s 121F factors, and then seek a just and equitable division of the condominium, CPF and savings under s 121G; the pre-nuptial agreement will be a factor against her but is not binding, and its weight is reduced by the children, her career sacrifice and the 16 years since it was signed.
 
 ### 1.VII.9 — Third-party interests in alleged matrimonial assets (non-core)
 

@@ -47,7 +47,7 @@ not yet confirmed against the current statute or an authoritative source.
 *Source note: PR-6a p3 (s 3 WA), p9 (para 3: assets not to be given by will); PR1 s19–20 (CPF, insurance, joint tenancy, trust property); Cyril-PR §1.5. WA: SSO lists the 2020 Revised Edition with amendments up to 1 Dec 2021; the text here follows the course copy.*
 
 ### pcp-m-0-3 — Joint tenancy: survivorship, severance
-*Keywords: joint tenancy, joint tenants, right of survivorship, jus accrescendi, severance, deed of declaration, instrument of declaration, s 66A(3) CLPA, s 53(5) Land Titles Act, Lau Siew Kim v Yeo Guan Chye, Chan Yuen Lan v See Fong Mun, Ong Chai Soon v Ong Chai Koon, tenancy in common, last survivor*
+*Keywords: joint tenancy, joint tenants, right of survivorship, jus accrescendi, severance, deed of declaration, instrument of declaration, s 66A(3) CLPA, s 53(5) Land Titles Act, Lau Siew Kim v Yeo Guan Chye, Chan Yuen Lan v See Fong Mun, Ong Chai Soon v Ong Chai Koon, tenancy in common, last survivor, beneficial interest, legal title, resulting trust, unequal contributions, presumption of advancement, common intention constructive trust, cannot impute intention, declaration of trust, HDB protected property, s 51(10) HDA, eligibility interpretation*
 
 **End point:** Survivorship applies to joint tenancy property, so it passes to the surviving joint tenant and not under the deceased's will. A will cannot sever a joint tenancy. Without prejudice to the general law on severance, a joint tenant may sever by a deed of declaration (unregistered land, s 66A(3) CLPA) or an instrument of declaration in the approved form (registered land, s 53(5) LTA), served personally or by registered post on the other joint tenants. On registration the severing tenant holds as tenant in common with the others (s 53(6) LTA). The ultimate survivor can dispose of the asset by will, e.g. "If I outlive my husband, I give [property] to my son" (*Lau Siew Kim v Yeo Guan Chye*). Joint tenancy property is not normally listed in the Schedule of Assets.
 
@@ -55,9 +55,24 @@ not yet confirmed against the current statute or an authoritative source.
 > - A will cannot sever a joint tenancy.
 > - Sever by a notice/deed or instrument of declaration (unregistered land: deed; registered land: instrument), served personally or by registered post on the other joint tenant(s).
 > - Effect: tenancy in common, so each share can then pass by will or on intestacy.
-> - The syllabus also lists *Chan Yuen Lan v See Fong Mun* [2014] 3 SLR 1048 (CA) and *Ong Chai Soon v Ong Chai Koon* [2022] 2 SLR 457 (CA) on joint tenancies; the Course Materials do not summarise them, and no holding is relied on here.
 
-*Source note: PR1 s20; PR5 s25 (joint assets not in Schedule of Assets); PR-SYL p2 item 6(a); Cyril-PR §1.5.1; CLPA s 66A(3) and LTA s 53(5)–(6) (SSO, current at 10 Nov 2026). Correction: the draft cited CLPA s 35 for severance; s 35 deals with devolution of land on death, not severance.*
+**Legal title does not settle the beneficial interest.** Survivorship works on a beneficial joint tenancy. Where co-owners contributed unequally and signed no declaration of trust, the court works out the beneficial shares step by step (*Chan Yuen Lan v See Fong Mun* [2014] 3 SLR 1048 (CA) at [160]). An eligible family member can also claim a trust over an HDB property (*Ong Chai Soon v Ong Chai Koon* [2022] 2 SLR 457 (CA)).
+
+> **Chan Yuen Lan v See Fong Mun [2014] 3 SLR 1048 (CA) at [160]: the steps**
+> - (a) Sufficient evidence of each party's contribution to the purchase price? Yes: presumed resulting trust in proportion to contributions. No: the beneficial interest is presumed to follow the legal title.
+> - (b) Either way, an express or inferred common intention to hold differently displaces (a). The court may not impute a common intention that did not exist.
+> - (c) No to (a) and (b): the beneficial interest follows the legal title.
+> - (d) Yes to (a), no to (b): did the larger contributor intend to give the other his whole payment? If so, it is a gift.
+> - (e) If not, does the presumption of advancement (e.g. husband to wife, parent to child) rebut the resulting trust? Yes: sole name, the other takes absolutely; joint names, they hold the beneficial interest jointly. No: they hold in proportion to contributions (not as beneficial joint tenants).
+> - (f) A later, sufficient and compelling express or inferred common intention can change the shares.
+> - Facts: the husband paid 84.17% of the price of a house in the wife's sole name; advancement did not apply given the state of the marriage, so the wife held 84.17% on resulting trust for him.
+
+> **Ong Chai Soon v Ong Chai Koon [2022] 2 SLR 457 (CA)**
+> - HDA s 51(10) ("no person shall become entitled to any protected property … under any resulting trust or constructive trust") bars only *ineligible* persons (the Eligibility Interpretation). The CA rejected the view that it bars every person without a pre-existing interest.
+> - So eligible family members can hold beneficial interests in HDB property under a resulting or common intention constructive trust.
+> - Facts: the eldest son was the sole registered owner of an HDB shophouse bought in the family's interest and had signed a note agreeing to share it equally. He held it on a common intention constructive trust for all six siblings equally.
+
+*Source note: PR1 s20; PR5 s25 (joint assets not in Schedule of Assets); PR-SYL p2 item 6(a); Cyril-PR §1.5.1; CLPA s 66A(3) and LTA s 53(5)–(6) (SSO, current at 10 Nov 2026). Correction: the draft cited CLPA s 35 for severance; s 35 deals with devolution of land on death, not severance. Chan Yuen Lan and Ong Chai Soon are listed in PR-SYL p2 item 6(a)(iii)–(iv) but not summarised in the Course Materials or seniors' notes; the propositions above are taken from the judgments ([2014] SGCA 36 at [1]–[4], [160]–[162]; [2022] SGCA 36 at [2]–[3], [7]–[17], [108], [125]), read on eLitigation on 18 Nov 2026.*
 
 ### pcp-m-0-4 — Joint bank accounts
 *Keywords: joint bank account, joint account, survivorship, presumption of resulting trust, presumption of advancement, Estate of Yang Chun v Yang Chia-Yin, Lim Chen Yeow Kelvin v Goh Chin Peng, Chye Seng Kait v Chye Seng Fong, gift to survivor*
@@ -118,14 +133,20 @@ not yet confirmed against the current statute or an authoritative source.
 *Source note: PR1 s2–3, s6; PR-6a p5 (s 19 quoted), p14 (s 2); PR-6d p1 (Ambulatory).*
 
 ### pcp-m-0-9 — Mutual wills, mirror wills, joint wills
-*Keywords: mutual wills, mirror wills, joint will, VTL v VTM, Hiroto Watanabe v Law Yen Yen, agreement not to revoke, constructive trust, reciprocal wills, spouses*
+*Keywords: mutual wills, mirror wills, joint will, VTL v VTM, Hiroto Watanabe v Law Yen Yen, agreement not to revoke, irrevocable, later will, mutual wills take precedence, constructive trust, reciprocal wills, spouses, medical memo, beneficiary present at execution*
 
 **End point:**
 - **Mirror wills:** reciprocal terms only, and each party can revoke freely.
 - **Mutual wills:** made under a legally binding agreement (intended to bind, supported by consideration) not to revoke without the other's consent. Once the first dies having kept his side, equity imposes a trust on the survivor's property. The survivor can still revoke, but the new dispositions are ineffective against the trust.
 - **Joint will:** one document executed by two or more persons, the survivor taking the whole. It is rare because of the problems on the first death or on revocation.
 
-*Source note: PR-SYL p1 item 1 (VTL v VTM [2021] SGHCF 30; joint wills); PR-6a p27–28 (para 15.2); Cyril-PR §1.1 (test from Hiroto Watanabe: prior agreement intended to be irrevocable on the first death, plus making the wills). VTL v VTM is not summarised in the Course Materials.*
+> **VTL v VTM [2021] SGHCF 30**
+> - Parents made mutual wills in 2001, each stating it was irrevocable. The father died in 2004. In 2017 the mother made a new will leaving everything to two daughters ($1 to each other child).
+> - The daughters alleged suspicious circumstances: parents with little English, a beneficiary son present, a GP's memo of sound mind dated 3 days before execution.
+> - Held: the mutual wills were validly made. The lawyer's standard practice (beneficiaries excluded, interpreter used) was accepted. No medical certificate is needed unless there are grounds to suspect unsoundness, and one dated days before execution suffices. A beneficiary's mere presence proves nothing.
+> - The mutual wills "take precedence over" the 2017 will; probate of the 2017 will was revoked. The judgment decides validity and does not analyse the trust mechanism.
+
+*Source note: PR-SYL p1 item 1 (VTL v VTM [2021] SGHCF 30; joint wills); PR-6a p27–28 (para 15.2); Cyril-PR §1.1 (test from Hiroto Watanabe: prior agreement intended to be irrevocable on the first death, plus making the wills). VTL v VTM is not summarised in the Course Materials; the box is taken from the judgment ([2021] SGHCF 30 at [1]–[16], eLitigation, read 18 Nov 2026).*
 
 ### pcp-m-0-10 — Who can make a will: age 21, s 27 exceptions, Muslims
 *Keywords: minimum age, 21 years, s 4 Wills Act, s 27, soldier in actual military service, mariner or seaman at sea, nuncupative will, privileged will, Muslim testator, one-third, AMLA, Mohamed Ismail bin Ibrahim v Mohd Taha, domicile, forced heirship*
@@ -139,7 +160,7 @@ not yet confirmed against the current statute or an authoritative source.
 *Source note: PR1 s4; PR-6a p3–5 (paras 2(2)(a), (f), (g)); PR-6d p2 (nuncupative will); PR-SYL p1 item 2 (Mohamed Ismail bin Ibrahim [2004] 4 SLR(R) 756); Cyril-PR §1.2 (s 60(1) AMLA one-third). Conflict: Cyril adds that s 27 also covers guardianship appointments and some real estate dispositions; the Course Materials state only the soldiers and mariners exception, which is followed.*
 
 ### pcp-m-0-11 — Testamentary capacity, knowledge and approval, undue influence
-*Keywords: testamentary capacity, sound mind, Banks v Goodfellow, Chee Mu Lin Muriel v Chee Ka Lin Caroline, ULV v ULW, WWI v WWJ, XBO v XBP, dementia, presumption of capacity, knowledge and approval, suspicious circumstances, undue influence, burden of proof, propounder, medical certificate, Mental Capacity Act ss 4 and 5*
+*Keywords: testamentary capacity, sound mind, Banks v Goodfellow, Chee Mu Lin Muriel v Chee Ka Lin Caroline, ULV v ULW, WWI v WWJ, Mini-Mental State Examination, MMSE, estate planners, rational will, XBO v XBP, dementia, presumption of capacity, knowledge and approval, suspicious circumstances, undue influence, burden of proof, propounder, medical certificate, Mental Capacity Act ss 4 and 5*
 
 **End point:** The propounder must prove capacity and knowledge and approval, on a balance of probabilities. Capacity is presumed if the will looks rational and was duly executed, and knowledge and approval is then presumed too, unless there are suspicious circumstances. To have capacity, the testator must:
 - understand the nature and effect of making a will;
@@ -154,7 +175,13 @@ Undue influence needs coercion that overpowers free will, which is a high bar (*
 > - See the testator alone if a beneficiary attends; probe reasons for leaving a child out (PR-6c sample note).
 > - Course links the test to MCA ss 4–5 (PR-6a p4).
 
-*Source note: PR1 s4; PR-6a p4, p26–27 (para 15.1, Chee Mu Lin Muriel [62]); PR-6c p1–7; PR-SYL p2 item 4 (Chee Mu Lin Muriel [2010] 4 SLR 373 at [37]–[62]; ULV v ULW [2019] 3 SLR 1270; WWI v WWJ [2024] SGFC 22; XBO v XBP [2024] SGHCF 36); Cyril-PR §1.2 (limbs, presumptions, burden, XBO). The limbs follow Cyril; the Course Materials cite the cases without setting out the limbs.*
+> **WWI v WWJ [2024] SGFC 22 (affirmed [2024] SGHCF 28)**
+> - The mother, nearly 90, scored 14/28 on a Mini-Mental State Examination; the doctor recommended a full assessment. Instead, a son took her to sign an LPA and a new (2nd) will leaving him everything, witnessed by two estate planners who asked cursory questions. The other son then had her make a 3rd will in his favour.
+> - Held: both later wills were invalid for lack of capacity and were made in suspicious circumstances; the 1st will stood. The court preferred the doctor who examined her most thoroughly (moderate dementia).
+> - A rational-looking will does not help if capacity is lacking: its terms may come from the beneficiary, not the testator.
+> - Practice point: where capacity is in doubt, get a full medical assessment before the will is signed.
+
+*Source note: PR1 s4; PR-6a p4, p26–27 (para 15.1, Chee Mu Lin Muriel [62]); PR-6c p1–7; PR-SYL p2 item 4 (Chee Mu Lin Muriel [2010] 4 SLR 373 at [37]–[62]; ULV v ULW [2019] 3 SLR 1270; WWI v WWJ [2024] SGFC 22; XBO v XBP [2024] SGHCF 36); Cyril-PR §1.2 (limbs, presumptions, burden, XBO). WWI v WWJ: the District Court decision of DJ Chiang (15 Jan 2024) was affirmed in [2024] SGHCF 28 (DCA 10/2024), whose account of the facts and findings at [5]–[22] the box follows (eLitigation, read 18 Nov 2026). The limbs follow Cyril; the Course Materials cite the cases without setting out the limbs.*
 
 ### pcp-m-0-12 — Formal validity of wills made abroad (s 5 WA)
 *Keywords: s 5 Wills Act, formal validity, internal law, place of execution, domicile, habitual residence, nationality, vessel, aircraft, immovable property lex situs, revocation, power of appointment, affidavit of foreign law, foreign will*
@@ -900,11 +927,18 @@ The Public Trustee gives no security (s 29(4)). Sureties may ordinarily be dispe
 *Source note: PR5 s41–46; PR3 s13–14; SQ p73 Q7 (key p128: B).*
 
 ### pcp-m-0-67 — Resealing a foreign grant (ss 47–49 PAA)
-*Keywords: resealing, reseal, foreign grant, Commonwealth, Hong Kong, s 47 PAA, s 47(2) same effect, s 47(4) domicile, s 49, P 3 r 13, FJC PD 211, WKR v WKQ, memorandum of resealing, sealed certified true copy of foreign grant, non-Commonwealth grant fresh application*
+*Keywords: resealing, reseal, foreign grant, Commonwealth, Hong Kong, s 47 PAA, s 47(2) same effect, s 47(4) domicile, s 49, P 3 r 13, FJC PD 211, WKR v WKQ, Vanuatu grant, discretion to refuse resealing, caveat against resealing, summary disposal, serious question to be tried, fraud, extrinsic fraud, intrinsic fraud, burden of proving domicile, memorandum of resealing, sealed certified true copy of foreign grant, non-Commonwealth grant fresh application*
 
-**End point:** A grant by a court of a Commonwealth country or Hong Kong may be resealed in Singapore (ss 47–49). Once resealed it has the same effect as a Singapore grant (s 47(2)). If the deceased was not domiciled within that court's jurisdiction, it is resealed only if it is a grant the High Court would have made (s 47(4)). File the sealed or certified foreign grant (or a digitally verifiable one with a solicitor's certificate) with an originating application. It must give domicile, the grant particulars, whether the deceased lived or did business in Singapore in the last 12 months, Singapore creditors, and Singapore property. The court issues a Memorandum of Resealing. A grant from elsewhere needs a fresh Singapore application. The syllabus also lists *WKR v WKQ* [2023] SGHC(A) 35 on resealing principles; the Course Materials do not summarise it, and no holding is relied on here.
+**End point:** A grant by a court of a Commonwealth country or Hong Kong may be resealed in Singapore (ss 47–49). Once resealed it has the same effect as a Singapore grant (s 47(2)). If the deceased was not domiciled within that court's jurisdiction, it is resealed only if it is a grant the High Court would have made (s 47(4)). File the sealed or certified foreign grant (or a digitally verifiable one with a solicitor's certificate) with an originating application. It must give domicile, the grant particulars, whether the deceased lived or did business in Singapore in the last 12 months, Singapore creditors, and Singapore property. The court issues a Memorandum of Resealing. A grant from elsewhere needs a fresh Singapore application. Resealing is discretionary and can be opposed by caveat (*WKR v WKQ* [2023] SGHC(A) 35).
 
-*Source note: PR5 s5, s47–56; PR-SYL p6 item 3(a)(iv)–(v). *
+> **WKR v WKQ [2023] SGHC(A) 35: resealing principles**
+> - Apply by ex parte originating application. The applicant must prove the deceased was domiciled in the jurisdiction of the grant (s 47(4)); if not, the court reseals only a grant it would itself have made. Domicile = residence plus intention to reside permanently or indefinitely.
+> - Even with domicile proved, the court has a discretion to refuse ("may", s 47(1)).
+> - A person interested may oppose by caveat (s 33 PAA). After a warning, appearance and summons for directions, the matter is contested. The judge may dispose of it summarily only if there is no serious question to be tried (the summary judgment test); otherwise he directs a probate action.
+> - Fraud: treated as for enforcing a foreign judgment. Extrinsic fraud may be raised; intrinsic fraud (already decided abroad) only on fresh evidence not obtainable with reasonable diligence.
+> - Facts: a widow resealed a Vanuatu grant; the father disputed her marriage and the deceased's Vanuatu domicile (Vanuatu citizenship bought under an investment programme; he had never entered Vanuatu). Triable issues on domicile and fraud: the resealing order was set aside and a contentious probate action directed.
+
+*Source note: PR5 s5, s47–56; PR-SYL p6 item 3(a)(iv)–(v). WKR v WKQ is not summarised in the Course Materials; the box is taken from the judgment ([2023] SGHC(A) 35 at [1]–[6], [39], [44]–[45], [50]–[63], [66]–[71], eLitigation, read 18 Nov 2026), which applied the FJR 2014 caveat rules (now FJ(PAOM)R 2024 P 6).*
 
 ### pcp-m-0-68 — Contentious probate: probate actions
 *Keywords: probate action, contentious probate, Part 7 Probate Rules, P 7 r 1, testamentary capacity dispute, undue influence, forgery, revoked by marriage, passing over executor s 8 PAA, revocation of grant s 32 PAA, originating claim P 7 r 2, intervener P 7 r 4, notice of action P 4 r 9, discontinuance P 7 r 16, administration pending trial s 20, P 7 r 21, costs P 16 r 3(5), solemn form*
@@ -915,7 +949,13 @@ The Public Trustee gives no security (s 29(4)). Sureties may ordinarily be dispe
 - Pending the action, the court may grant administration to someone who cannot distribute (s 20 PAA), applied for by summons in the pending action (P 7 r 21).
 - Costs: a party who only insists on proof in solemn form and cross-examines the will's witnesses is not ordered to pay the supporter's costs, unless there was no reasonable ground to oppose (P 16 r 3(5)).
 
-*Source note: PR-SYL p8–10 item 5(a)–(e); FJ(PAOM)R 2024 P 7 rr 2, 4, 5, 16, 21 and P 16 r 3(5) (SSO, current at 10 Nov 2026). Conflict: Cyril-PR §4.5 describes the 2014 procedure (writs, appearances); the 2024 Rules use originating claims and notices of intention to contest.*
+> **Administration pending trial and costs**
+> - s 20 PAA: pending any probate action, letters of administration may be granted to such person as the court may appoint, limited so that the administrator cannot distribute the estate, and subject to the court's control and directions.
+> - P 7 r 21: the application is made in the pending probate action (FJR 2014 r 271: by originating summons to the Registrar).
+> - P 16 r 3(5): no order that the opposing party pay the costs of the party supporting the will, if the opponent gave notice in the defence that he only insists on proof in solemn form and only intends to cross-examine the witnesses produced in support of the will.
+> - Exception: unless the court thinks there was no reasonable ground for opposing the will.
+
+*Source note: PR-SYL p8–10 item 5(a)–(e); PR-PAA s 20; Cyril-PR §4.5.3–4.5.4 (r 271 and r 855 FJR 2014, now P 7 r 21 and P 16 r 3); FJ(PAOM)R 2024 P 7 rr 2, 4, 5, 16, 21 and P 16 r 3(5) (SSO, current at 10 Nov 2026). Conflict: Cyril-PR §4.5 describes the 2014 procedure (writs, appearances); the 2024 Rules use originating claims and notices of intention to contest.*
 
 ### pcp-m-0-69 — Caveats
 *Keywords: caveat, s 33 PAA, P 6 r 34, Form 170, enter caveat, warning to caveat, Form 171, notice of intention to contest or not contest, Form 172, 14 days, summons for directions 21 days, caveat expires 6 months, P 6 r 34(3), caveat cease to have effect, withdraw caveat, P 6 r 37*
@@ -1158,7 +1198,7 @@ Professional deputies must register with the Public Guardian (s 25A). The court 
 *Source note: PR6 s53–54; PR-SYL p12 item 5(a)(i)–(ii); Cyril-PR §5.7. SQ p75 Q10: a 22-year-old daughter is an eligible deputy.*
 
 ### pcp-m-0-85 — Deputyship application procedure
-*Keywords: deputyship application, originating application, Form 59, supporting affidavit, Form 60, Form 63, permission to apply, s 38 MCA, related by blood or marriage no permission, P 5 r 7 General Rules, medical report not older than 6 months, examined within 12 months, doctor's affidavit Form 61, OPG search, Wills Registry search, relevant persons, serve within 1 week, Form 108B consent, notification of P, Form 81, litigation representative, TWD v UQE, costs P 22 r 4*
+*Keywords: deputyship application, originating application, Form 59, supporting affidavit, Form 60, Form 63, permission to apply, s 38 MCA, related by blood or marriage no permission, P 5 r 7 General Rules, medical report not older than 6 months, examined within 12 months, doctor's affidavit Form 61, OPG search, Wills Registry search, relevant persons, serve within 1 week, Form 108B consent, notification of P, Form 81, litigation representative, Director-General of Social Welfare, Public Trustee, P (by litigation representative), adverse interest, TWD v UQE, joinder, tortfeasor joined to deputyship, third-party intervention, costs P 22 r 4, P 22 r 10, remuneration of deputy*
 
 **End point:**
 - **Permission:** needed unless the applicant is related to P by blood or marriage (s 38; P 5 r 7). Ask for it in the main application.
@@ -1167,10 +1207,18 @@ Professional deputies must register with the Public Guardian (s 25A). The court 
 - **Medical report:** not more than 6 months old when filed, from an examination less than 12 months before the report, with a clear opinion on incapacity and prognosis, exhibited to the doctor's affidavit (Form 61). It must match the application on welfare or property.
 - **Relevant persons:** spouse, children and siblings 21 and above, parents, others interested or caring. Serve them, or file their consents (Form 108B). Serve a care home within 1 week. An objector applies to be joined.
 - **Notify P** in a suitable way (P 7 r 22; Form 81).
-- Third-party intervention: see *TWD v UQE* [2019] 3 SLR 662 at [56]–[84] (listed in the syllabus; the Course Materials do not summarise it).
-- **Costs** are paid from P's estate unless ordered otherwise (P 22 r 4).
+- **Third-party intervention:** the court has a discretion to join a person as a party (P 6 r 6), weighing the advantages and disadvantages of joinder. An alleged tortfeasor liable to P who wants to be joined to dispute P's capacity generally should not be joined: the disadvantages (delay, cost, access to P's information) outweigh the advantages (*TWD v UQE* [2019] 3 SLR 662 at [56]–[84]).
+- **Litigation representative for P** (where there is no deputy or donee): see the box.
+- **Costs** are paid by P or charged to P's estate unless the court otherwise directs (P 22 r 4); the court may order that a deputy or LPA donee be paid remuneration out of P's estate.
 
-*Source note: PR6 s55–67; PR-SYL p12 item 5(a)(iii); Cyril-PR §5.7; FJ(PAOM)R 2024 P 16 r 3(7) (SSO, current at 10 Nov 2026) (deputy or donee conducting proceedings for P gets costs out of P's estate unless the Court otherwise orders).*
+> **Litigation representative for P (P 6 rr 4, 10 General Rules; FJC PD paras 64, 67)**
+> - The supporting affidavit must satisfy the court that the applicant is competent and willing to conduct proceedings for P and has no interest adverse to P's (P 6 r 4(5)(a); FJC PD para 64(2)).
+> - If no one suitable: Director-General of Social Welfare (personal welfare only); Public Trustee (property and affairs only); for both, the Director-General alone or with the Public Trustee.
+> - The court may, on its own motion or on application, bar, terminate or replace a litigation representative.
+> - P is described as "P (by [his or her] litigation representative, [name])" (para 64(1)). The court may let P conduct the proceedings without one, on a medical report that P does not lack capacity to do so (P 6 r 4(2); para 64(3)).
+> - For a person under disability (P 6 r 11(3); para 67), the affidavit proves: that the person is under disability; that the proposed representative is willing, proper and has no adverse interest; due service of the originating application; and service of notice of the hearing date.
+
+*Source note: PR6 s55–67; PR-SYL p12 item 5(a)(iii); Cyril-PR §5.7.5–5.7.8 (litigation representative, r 184(5) FJR 2014; TWD v UQE; costs, r 190 FJR 2014 = P 22 r 4); FJC PD 2024 paras 64 and 67 (epd2024-familyjusticecourts.judiciary.gov.sg, Part 5, read 18 Nov 2026). The syllabus also cites P 22 r 10 for costs; its text could not be read (SSO unreachable 18 Nov 2026), so the costs line follows Cyril; FJ(PAOM)R 2024 P 16 r 3(7) (SSO, current at 10 Nov 2026) (deputy or donee conducting proceedings for P gets costs out of P's estate unless the Court otherwise orders).*
 
 ### pcp-m-0-86 — Deputy's powers and restrictions (ss 22, 23, 25)
 *Keywords: deputy powers, s 22 personal welfare, where P lives, contact, s 23 property and affairs, sell property, collect rent, carry on business, discharge debts, maintain spouse, parent, minor child, legal proceedings, s 25 restrictions, cannot prohibit contact, cannot change healthcare provider, cannot make gifts, cannot make CPF or insurance nomination, cannot execute will, life-sustaining treatment, Louise Pansy SQ*
@@ -2165,9 +2213,9 @@ The husband applies by talak. The wife may apply to register a talak or ask the 
 *Source note: MU2 s18, s22–23; MU-CS1 s19; SQ p67 Q1 (key p128: D).*
 
 ### pcp-m-2-16 — Talak
-*Keywords: talak, talaq, pronouncement by husband, I divorce you with one talak, s 46B AMLA, no need to prove fault, disputed pronouncement, certainty of words, BQ v BR, registration of divorce, s 46, valid only after registration by SYC, rujuk, revocation within 3 months, re-solemnise, third talak, cannot remarry unless wife marries another, 2008 amendments all divorces registered in court*
+*Keywords: talak, talaq, pronouncement by husband, I divorce you with one talak, s 46B AMLA, no need to prove fault, disputed pronouncement, wife denies talak, evidence of parties and witnesses, Mohamed Salleh v Habibah, AM v AN, certainty of words, BQ v BR, registration of divorce, s 46, valid only after registration by SYC, rujuk, revocation within 3 months, re-solemnise, third talak, cannot remarry unless wife marries another, 2008 amendments all divorces registered in court*
 
-**End point:** The most common divorce is talak, pronounced by the husband (e.g. "I divorce you with one talak") (s 46B). No fault need be proved. If the wife disputes it, the SYC hears the evidence and decides whether the words were certain and unequivocal (*BQ v BR* [2016] 7 SSAR 36). A talak pronounced outside court is valid only once registered by the SYC on either party's application (ss 46, 46B). Since the 2008 amendments, all divorces are registered at the SYC.
+**End point:** The most common divorce is talak, pronounced by the husband (e.g. "I divorce you with one talak") (s 46B). No fault need be proved. If the wife disputes it, the SYC gets the husband to confirm what he said and when, hears the evidence of the parties and witnesses (*Mohamed Salleh v Habibah* (1997) 1 SSAR 84; *AM v AN* [2012] 6 SSAR 202), and decides whether the words were certain and unequivocal (*BQ v BR* [2016] 7 SSAR 36). A talak pronounced outside court is valid only once registered by the SYC on either party's application (ss 46, 46B). Since the 2008 amendments, all divorces are registered at the SYC.
 - First or second talak: revocable by reconciliation (rujuk) within 3 months; after that, the parties must re-solemnise.
 - Third talak: the parties cannot remarry unless the wife has married another man and been widowed or divorced.
 
@@ -2287,7 +2335,7 @@ It is computed as a daily rate × the number of days from marriage to divorce (t
 *Source note: MU2 s35; MU-CS1 s23, s25.*
 
 ### pcp-m-2-26 — Children: custody, care and control, access
-*Keywords: custody, care and control, access, welfare of the child paramount, BQ v BR, joint custody norm, Zaini bin Ibrahim v Rafidah Rahman, CX v CY, AE v AF adultery does not disqualify mother, DH v DI, AY v AZ spiritual welfare, children under seven with mother, mother's remarriage, judicial interview above seven mumaiyiz, AA v AB, child expert CAPS, custody evaluation report HM v HL, AI v AJ access, DA v DC no orders for third parties, grandparents*
+*Keywords: custody, care and control, access, welfare of the child paramount, BQ v BR, joint custody norm, Zaini bin Ibrahim v Rafidah Rahman, CX v CY, AE v AF adultery does not disqualify mother, DH v DI, AY v AZ spiritual welfare, children under seven with mother, mother's remarriage, judicial interview above seven mumaiyiz, AA v AB, AZB v AZC, civil courts cautious about interviewing children, child coached, child expert CAPS, custody evaluation report HM v HL, AI v AJ access, DA v DC no orders for third parties, grandparents*
 
 **End point:** AMLA does not codify Muslim custody rules, and the SYC applies the child's welfare as paramount (*BQ v BR* [2016] 7 SSAR 36), often following civil cases.
 - **Joint custody** is the norm (*Zaini bin Ibrahim v Rafidah Rahman* [2007] 3 SSAR 135, adopting *CX v CY*).
@@ -2295,6 +2343,7 @@ It is computed as a daily rate × the number of days from marriage to divorce (t
 - **Spiritual welfare** counts but is not the sole factor (*AY v AZ* [2015] 6 SSAR 386: care and control to the Muslim mother in Singapore).
 - Children **under 7** are generally with the mother, subject to welfare.
 - Children **above 7** (mumaiyiz) of sufficient maturity are usually interviewed by the President with a CAPS child expert since 2022. Their wishes do not override welfare (*AA v AB* [2011] 6 SSAR 120).
+- **Contrast the civil courts:** they are more cautious about judicial interviews (judges are not trained to ascertain children's views, have no relationship of trust with the child, and the child may be intimidated or coached), but may interview a mature child who wishes to speak to the judge where it would not drag the child into the dispute (*AZB v AZC* [2016] SGHCF 1).
 - The court may call for a custody evaluation report (*HM v HL* [2021] 9 SSAR 316).
 - Access orders are like the FJC's (*AI v AJ* [2011] 6 SSAR 143).
 - s 52(3)(c) covers only the married couple, so the SYC cannot give custody, care and control to grandparents or other third parties (*DA v DC* [2020] 8 SSAR 72).
@@ -2304,13 +2353,13 @@ SQ: p68 Q5 (key B: no order for grandparents); p70 Q10 (key B: interview above 7
 *Source note: MU2 s37–50; SQ p68 Q5, p70 Q10 (key p128: B, B).*
 
 ### pcp-m-2-27 — Division of matrimonial assets
-*Keywords: matrimonial assets, s 52(14) AMLA definition, acquired during marriage, pre-marriage asset substantially improved, gift or inheritance excluded unless matrimonial home or improved, similar to s 112(10) Women's Charter, s 52(7) just and equitable, s 52(8) factors, s 112(2) WC, ANJ v ANK structured approach, CY v CZ, DZ v EA, TNL v TNK single income, broad brush, homemaker indirect contributions, no transfer to High Court above $5 million, no divorce no division*
+*Keywords: matrimonial assets, s 52(14) AMLA definition, acquired during marriage, pre-marriage asset substantially improved, gift or inheritance excluded unless matrimonial home or improved, similar to s 112(10) Women's Charter, s 52(7) just and equitable, s 52(8) factors, s 112(2) WC, ANJ v ANK structured approach, CY v CZ, DZ v EA, TNL v TNK single income, DR v DS, broad brush, homemaker indirect contributions, no transfer to High Court above $5 million, no divorce no division*
 
 **End point:** Without a divorce before the SYC, there is no power to divide assets (s 35(2)(d)). "Property" (s 52(14), like WC s 112(10)) is:
 - any asset acquired before marriage and substantially improved during it by the other or both; and
 - any other asset acquired during the marriage by either or both,
 
-but not a gift or inheritance (other than the matrimonial home) not substantially improved. The SYC divides in such proportions as are just and equitable (s 52(7)), guided by the non-exhaustive factors in s 52(8)(a)–(m), like WC s 112(2). It applies the *ANJ v ANK* [2015] 4 SLR 1043 structured approach for dual-income marriages (*CY v CZ* [2020] 8 SSAR 38; *DZ v EA* [2021] 8 SSAR 241). It also applies the single-income approach in *TNL v TNK* and the broad-brush approach where suitable. So a homemaker's indirect contributions count. There is no automatic transfer to the High Court for large estates (SQ p68 Q3 A and B wrong).
+but not a gift or inheritance (other than the matrimonial home) not substantially improved. The SYC divides in such proportions as are just and equitable (s 52(7)), guided by the non-exhaustive factors in s 52(8)(a)–(m), like WC s 112(2). It applies the *ANJ v ANK* [2015] 4 SLR 1043 structured approach for dual-income marriages (*CY v CZ* [2020] 8 SSAR 38; *DZ v EA* [2021] 8 SSAR 241). It also applies the single-income approach in *TNL v TNK* [2017] 1 SLR 609 and the broad-brush approach where suitable (*DR v DS* [2021] 8 SSAR). So a homemaker's indirect contributions count. There is no automatic transfer to the High Court for large estates (SQ p68 Q3 A and B wrong).
 
 *Source note: MU2 s52–58; SQ p68 Q3 (key p128: C).*
 
@@ -2650,11 +2699,11 @@ Hospitalisation leave is the lesser of the cap and the outpatient days plus the 
 *Source note: EM1 s13; SQ p82 Q6 (key p129: C); MOM pages "Maternity leave eligibility and entitlement", "Paternity leave" and "Shared parental leave" (mom.gov.sg, Nov 2026). Childcare leave days were not confirmed on MOM and are left out.*
 
 ### pcp-m-3-11 — Retirement, re-employment and the EAP
-*Keywords: Retirement and Re-employment Act, RRA, minimum retirement age 64, from 1 July 2026, raised from 63, re-employment up to 69, eligibility, Employment Assistance Payment, EAP, no suitable vacancy, s 8 RRA, dismissal on grounds of age prohibited, EAP is not retrenchment benefit*
+*Keywords: Retirement and Re-employment Act, RRA, minimum retirement age 64, from 1 July 2026, raised from 63, re-employment up to 69, eligibility, Employment Assistance Payment, EAP, no suitable vacancy, s 8 RRA, dismissal on grounds of age prohibited, EAP is not retrenchment benefit, retrenching a re-employed employee, Tripartite Guidelines for Re-employment of Older Workers, TAFEP*
 
-**End point:** The minimum retirement age is 64, raised from 63 on 1 Jul 2026. Employers must offer re-employment to eligible employees reaching 64, up to age 69. If there is no suitable vacancy, they must pay an Employment Assistance Payment (EAP). An employee may not be dismissed on the ground of age before the minimum retirement age (RRA s 8). Retrenchment is a different matter: SQ p81 Q3 (Richard, 63, department made redundant): he can be retrenched and has no statutory retrenchment benefit. The EAP is not a retrenchment payment (key D). Had Richard been 64, the answer would be the same: a department-wide redundancy is not dismissal on the ground of age, and the EAP is due only where an eligible employee reaching retirement age cannot be offered re-employment. TODO: verify whether the Tripartite Guidelines on re-employment call for an EAP where a re-employed employee (64–69) is later retrenched.
+**End point:** The minimum retirement age is 64, raised from 63 on 1 Jul 2026. Employers must offer re-employment to eligible employees reaching 64, up to age 69. If there is no suitable vacancy, they must pay an Employment Assistance Payment (EAP). An employee may not be dismissed on the ground of age before the minimum retirement age (RRA s 8). Retrenchment is a different matter: SQ p81 Q3 (Richard, 63, department made redundant): he can be retrenched and has no statutory retrenchment benefit. The EAP is not a retrenchment payment (key D). Had Richard been 64, the answer would be the same: a department-wide redundancy is not dismissal on the ground of age, and the EAP is due only where an eligible employee reaching retirement age cannot be offered re-employment. If a re-employed employee aged 64 or above is retrenched, the employer may follow the EAP recommendations in the Tripartite Guidelines for Re-employment of Older Workers instead of paying a retrenchment benefit, unless the collective agreement or contract provides retrenchment benefits (TAFEP). This is tripartite guidance, not a statutory entitlement.
 
-*Source note: EM1 s15, EM-CS1 s10 (64 / 69 from 1 Jul 2026); EM2 s25 (s 8 RRA); SQ p81 Q3 (key p129: D). Conflict: Cyril-EM §1.3.5 gives re-employment at 63 up to 68 (2025 law); the Course Materials (64 / 69 from 1 Jul 2026) are followed.*
+*Source note: EM1 s15, EM-CS1 s10 (64 / 69 from 1 Jul 2026); EM2 s25 (s 8 RRA); SQ p81 Q3 (key p129: D); TAFEP, "Responsible Retrenchment Practices" FAQ on EAP for re-employed employees (tal.sg, read 18 Nov 2026; its "until the age of 68" predates the 1 Jul 2026 rise to 69). Conflict: Cyril-EM §1.3.5 gives re-employment at 63 up to 68 (2025 law); the Course Materials (64 / 69 from 1 Jul 2026) are followed.*
 
 ### pcp-m-3-12 — Employee personal data (PDPA)
 *Keywords: Personal Data Protection Act 2012, PDPA, personal data defined, consent, exceptions, investigations and proceedings, evaluative purposes, course of employment, managing or terminating employment relationship, protection obligation*
@@ -3032,6 +3081,7 @@ A claimant may seek a pre-action interim payment. The defendant replies within 1
 - **Motor Claims Framework: 3 steps; report within 24 hours to a reporting centre or authorised workshop** → [4-6](#pcp-m-4-6)
 - **Minor accident, parties want to settle privately: still report? Fail or late to report** → disclaim cover; no-claim discount → [4-7](#pcp-m-4-7)
 - **What goes in the Singapore Accident Report? Police report needed?** → [4-8](#pcp-m-4-8)
+- **Accident before 1 Apr 2022: which protocol? (State Courts PD 2014 App C NIMA, App E PI)** → [4-34](#pcp-m-4-34)
 
 ### pcp-m-4-5 — Immediate steps after a collision
 *Keywords: immediate steps, stop vehicle, call police, ambulance, exchange particulars, photographs, do not admit fault, tow truck, insurer's hotline, other driver refuses particulars, licence plate, SQ Annette*
@@ -3132,6 +3182,7 @@ In *India International Insurance v Ho Chai Hong Joanne* [2013] SGDC 193, the in
 - **Defendant's response: acknowledgement 14 days; joint medical expert; substantive reply 8 weeks** → [4-16](#pcp-m-4-16)
 - **When can the claimant sue? 10 clear days' notice after 8 weeks** → [4-17](#pcp-m-4-17)
 - **Non-compliance: costs sanctions; good reasons; pre-action costs guide** → [4-18](#pcp-m-4-18)
+- **The older protocols: State Courts PD 2014 Appendix C (NIMA) and Appendix E (PI); what changed in 2021** → [4-34](#pcp-m-4-34)
 
 ### pcp-m-4-13 — Scope of the pre-action protocol
 *Keywords: pre-action protocol, State Courts Practice Directions 2021, Appendix B, personal injury claims, non-injury motor accident claims, NIMA, PIMA, motor accidents, industrial accidents, fatal accidents, medical negligence excluded, Magistrates' Courts, District Courts, 1 April 2022, High Court transferred to District Courts, no protocol in High Court, letter of demand, Appendix D benchmark loss of use, claims above $500,000*
@@ -3207,6 +3258,35 @@ For Magistrate's Court-value claims, he proposes experts (para 3.3). A non-resid
 | PI settled under $20,000 | $1,500–$2,500 |
 
 *Source note: PI-PD App B paras 13–15; PI3 s11.*
+
+### pcp-m-4-34 — State Courts PD 2014: Appendix C (NIMA) and Appendix E (PI)
+*Keywords: State Courts Practice Directions 2014, PD 2014, Appendix C, Pre-action Protocol for Non-Injury Motor Accident Cases, Appendix E, Pre-Action Protocol for Personal Injury Claims, Appendix B 2014 CDR guidelines, Appendix F benchmark rates, accidents on or after 1 April 2016, 1 December 2016 High Court transferred, at least 10 motor surveyors, notice of accident 3 working days, pre-repair survey, single joint expert, mixed claims, Motor Accident Guide, PD 2021 Appendix B merged protocol, 1 April 2022*
+
+**End point:** Before the 2021 Practice Directions, the pre-action rules sat in two appendices of the State Courts Practice Directions 2014: **Appendix C**, the Pre-action Protocol for Non-Injury Motor Accident Cases, and **Appendix E**, the Pre-Action Protocol for Personal Injury Claims. The 2021 PD merged them into one protocol, **Appendix B**, for actions contemplated from 1 Apr 2022 (→ [4-13](#pcp-m-4-13)). The steps are the same in substance, so an older-accident question is answered the same way, with the 2014 numbers.
+
+| | PD 2014 | PD 2021 |
+|---|---|---|
+| NIMA protocol | App C: accidents on or after 1 Apr 2016 (FIDReC, MC, DC); 1 Dec 2016 for HC claims transferred to the DC | App B (with PI) |
+| PI protocol | App E: PI, including motor, industrial and fatal accidents, on or after 1 Apr 2016 in the MC or DC; motor and industrial accidents from 1 Dec 2016 in the HC then transferred; not medical negligence | App B |
+| CDR guidelines | App B | App C |
+| Benchmark rental and loss-of-use rates | App F | App D |
+| Insurer's list of motor surveyors for the pre-repair survey | at least 10 | at least 3 |
+
+> **PD 2014 Appendix C (NIMA): pre-repair survey**
+> - Notice of accident to each potential defendant and insurer within 3 working days of the accident.
+> - Insurer replies within 2 working days; if it wants a pre-repair survey it lists at least 10 motor surveyors.
+> - Claimant agrees or objects within 2 working days (silence = deemed agreement); objecting to all, he proposes at least 10 of his own; the insurer has 2 working days to respond.
+> - The agreed surveyor is the single joint expert and must complete the survey within 2 working days of appointment.
+> - No agreement on repair cost after the survey: the claimant may repair; the insurer may ask for a post-repair inspection.
+> - Then a letter of claim with full particulars and the supporting documents.
+
+> **PD 2014 Appendix E (PI)**
+> - For mixed claims (PI and vehicle damage), App C's pre-repair survey and single-joint-expert rules apply, and the Motor Accident Guide is used to negotiate liability.
+> - Letter of claim: facts, nature of injuries, estimate of general and special damages by head, witnesses, investigating officer, results of prosecution or Coroner's verdict.
+> - Claims within the Magistrate's Court limit: the claimant proposes medical experts in the letter of claim; above it, the parties are encouraged to agree a medical expert.
+> - A non-resident claimant states the date he must leave Singapore, so the defendant can arrange a medical examination first.
+
+*Source note: PI-LP p4 ("At the Scene": SC PD 2014 App C and App E; "Pre-action Protocols for NIMA and PIMA – PD 2014 and PD 2021"); PI-PD2014 App C paras 1.2, 2.1–2.11, 3.1 and App E paras 1.2, 2.1, 3.1–3.5; PI-PD App B paras 1.2, 2 (2021). Neither the PIPD slides nor the seniors' notes set out the 2014 appendices; this block is taken from the PD text.*
 
 ## 4.V FIDReC Non-Injury Motor Accident scheme
 
@@ -3324,15 +3404,23 @@ There are no sanctions for good reasons (para 19.2), and the court may stay the 
 *Source note: PI4 s7; Cyril-PI; SCA s 23 (SSO, current at 10 Nov 2026) (the lecture's "s 23(a)" is s 23, limb (a) being a claim exceeding the District Court limit).*
 
 ### pcp-m-4-28 — Single joint experts
-*Keywords: single joint expert, SJE, Order 12 rule 3 Rules of Court 2021, High Court one common expert, not more than one expert per issue, simplified trial, court may appoint, CDR, case conference, single application pending trial, pre-action SJE, pre-repair survey, Lee Song Yam v Hafizah binte Abdul Rahman*
+*Keywords: single joint expert, SJE, Order 12 rule 3 Rules of Court 2021, High Court one common expert, not more than one expert per issue, simplified trial, court may appoint, CDR, case conference, single application pending trial, pre-action SJE, pre-repair survey, Lee Song Yam v Hafizah binte Abdul Rahman, parties cannot agree on expert, SJE affidavits, nominees, restructured hospital, court appoints own expert*
 
 **End point:** Parties should have one common expert (O 12 r 3 ROC 2021).
 - **High Court:** they must agree one common expert and may not rely on more than one expert per issue.
 - **State Courts simplified trials:** they must appoint an independent expert; if they cannot agree, the court may appoint one.
 
-This is usually dealt with at a CDR or case conference, or by a Single Application Pending Trial. The protocol also uses SJEs pre-action (pre-repair surveyors, medical experts). *Lee Song Yam v Hafizah binte Abdul Rahman* [2019] SGMC 24 is optional reading on SJEs.
+This is usually dealt with at a CDR or case conference, or by a Single Application Pending Trial. The protocol also uses SJEs pre-action (pre-repair surveyors, medical experts). Where the parties cannot agree, *Lee Song Yam v Hafizah binte Abdul Rahman* [2019] SGMC 24 sets the framework for the court's choice of SJE.
 
-*Source note: PI4 s14; PI-PD App B paras 2.7, 2.8, 4.5.*
+> **Choosing an SJE when parties cannot agree (Lee Song Yam)**
+> - Each party proposes nominees; the court may direct "SJE Affidavits" giving each expert's name, CV, fees and time to report, and hears brief submissions.
+> - Factors: the expert's area of expertise and experience; costs (examination, survey, documents, report, clarifications, attending trial); time to produce the report.
+> - PIMA: whether the doctor is from a restructured hospital and has examined the patient or the medical records.
+> - NIMA: whether the proposed expert did the pre-repair and post-repair inspection.
+> - Whether either party breached the pre-action protocol in a way that affects the choice; any allegations of claim inflation, causation, fraud or bias.
+> - If no nominee is suitable, the court appoints its own SJE.
+
+*Source note: PI4 s14; PI-PD App B paras 2.7, 2.8, 4.5; Cyril-PI (SJE framework, Lee Song Yam); PI-Cel p10 (the court's write-up on the SJE process). Conflict: PI4 s14 calls Lee Song Yam an "optional case", but PI-LP lists it under "At the Courts" in the core reading; it is treated as examinable.*
 
 ## 4.VIII Trials and assessment of damages
 

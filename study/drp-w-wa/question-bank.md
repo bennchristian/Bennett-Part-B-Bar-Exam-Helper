@@ -14,4 +14,4 @@ are `coverage.md` Sub-points. Source aliases are in `coverage.md`.
 | QB-6 | 2 | SN3 ¶29–33 | Reply to opposing counsel's letter about the setting-aside application and the enforcement order | — | 1.II.4 |
 | QB-7 | 2 | SN4 ¶21–22 | Defence to a claim for commissions under an oral agreement (Form 13) | — | 1.IV.5 |
 | QB-8 | 2 | SN4 ¶23–25 | Submissions on a stay for arbitration under O 9 r 7(2) | — | 1.V.1, 1.V.4 |
-| QB-9 | 2 | WE ¶7–19 | Loan of $90,000: letter of demand and O 5 offer, SOC, summary judgment affidavit, summary judgment submissions (SILE worked answers) | — | 1.II.1, 1.II.3, 1.IV.1, 1.III.5, 1.V.1, 1.V.3 |
+| QB-9 | 2 | WE ¶7–19 (Model Q&A drafts the SOC, affidavit and submissions: Q1-20, Q1-14, Q1-26; the letter of demand and O 5 offer are drilled on the 2024 facts, Q1-4 and Q1-7, with the WE letter quoted in drp-w-1-4) | Loan of $90,000: letter of demand and O 5 offer, SOC, summary judgment affidavit, summary judgment submissions (SILE worked answers) | — | 1.II.1, 1.II.3, 1.IV.1, 1.III.5, 1.V.1, 1.V.3 |

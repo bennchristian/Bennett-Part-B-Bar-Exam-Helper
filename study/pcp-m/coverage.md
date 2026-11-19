@@ -20,7 +20,7 @@ The Course Materials win on any point of law; conflicts are recorded in each blo
 checking) were checked against Singapore Statutes Online (current version at 10 Nov 2026), and rates
 and practice against IRAS, CPF Board, MOM, SLA, SAL and MAS; Source notes marked "SSO, current at
 10 Nov 2026" say which. Where course materials or seniors' notes were out of date, the block follows the
-current law and records a `Conflict:` in its Source note. No points remain flagged: the last one, CPF
+current law and records a `Conflict:` in its Source note. **18 Nov 2026:** the gaps in `audits/pcp-m-audit.md` were filled (syllabus cases now carry their holdings; new Sub-point 4.IV.7 for the PD 2014 protocols), and the last `TODO` (EAP on retrenching a re-employed employee, block 3-11) was resolved. No points remain flagged: the last one, CPF
 Board's sale-proceeds order (block 1-41), was checked against Memorandum IA/991901M as published on cpf.gov.sg.
 
 | Subject | Topics | Rows | Covered by an ID | none | TODO |
@@ -29,7 +29,7 @@ Board's sale-proceeds order (block 1-41), was checked against Memorandum IA/9919
 | 1 Real Estate (Conveyancing) | 9 | 52 | 52 | 0 | 0 |
 | 2 Muslim Family & Succession Law | 9 | 45 | 45 | 0 | 0 |
 | 3 Employment Law | 8 | 37 | 37 | 0 | 0 |
-| 4 PIPD | 9 | 33 | 33 | 0 | 0 |
+| 4 PIPD | 9 | 34 | 34 | 0 | 0 |
 
 ## Source key
 
@@ -61,6 +61,8 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | PR-6d | `…/Reference Materials/6d.Glossary_of_common_terms_in_Wills,_Probate_&_Administration.pdf` |
 | PR-PP1, PR-PP2 | `…/Practice Papers/Probate_Succession_Planning_Practice_Paper_1.pdf`, `…_Practice_Paper_2.pdf` |
 | Cyril-PR | `Seniors Notes/Cyril - Part B/For exam/finalised muggers/Private Client Practice (PCP)/PCP Paper 2 - Probate Master Notes.docx` (cited by section §) |
+| PR-PAA | `Seniors Notes/Nic_s Part B Package/4. Nic Exam Go Pack/2b. PCP 2/Probate Succession Planning/2. WPA Statutes/Probate and Administration Act 1934.pdf` (statute text) |
+| Judgments | Cases the syllabus lists but the Course Materials and seniors' notes do not summarise were read in full on eLitigation (`elitigation.sg/gd/gd/<year>_<court>_<no>/pdf`) on 18 Nov 2026; the Source note gives the neutral citation and paragraphs. FJC PD 2024 paragraphs were read on `epd2024-familyjusticecourts.judiciary.gov.sg` the same day |
 | Statutes | WA Wills Act 1838 · ISA Intestate Succession Act 1967 · PAA Probate and Administration Act 1934 · IFPA Inheritance (Family Provision) Act 1966 · MCA Mental Capacity Act 2008 · MCR Mental Capacity Regulations 2010 · CLA Civil Law Act 1909 · CLPA Conveyancing and Law of Property Act 1886 · LTA Land Titles Act 1993 · IA Insurance Act 1966 · RPA Residential Property Act 1976 · HDA Housing and Development Act 1959 · IRDA Insolvency, Restructuring and Dissolution Act 2018 · GIA Guardianship of Infants Act 1934 · MPA Maintenance of Parents Act 1995 · CPF Act 1953 · ACA Adoption of Children Act 2022 · PCR Legal Profession (Professional Conduct) Rules 2015 · "P n r m" = Family Justice (Probate and Other Matters) Rules 2024 (FJ(PAOM)R) unless "General Rules" / FJ(G)R = Family Justice (General) Rules 2024 · FJC PD = Family Justice Courts Practice Directions 2024. Sections as quoted in the Course Materials; currency checks are recorded in each Source note |
 
 ### Sources for Subject 1
@@ -116,6 +118,8 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | PI-PD | State Courts Practice Directions 2021, Appendix B (Pre-Action Protocol for PI and NIMA claims), read from `Seniors Notes/Nic_s Part B Package/4. Nic Exam Go Pack/2b. PCP 2/PIPD/2. PIPD Statutes/SCPD (Appendix B).pdf` (the PD the course's reading list names) |
 | PI-Statutes | `…/2b. PCP 2/PIPD/2. PIPD Statutes/Limitation Act 1959 (s24A).pdf` |
 | Cyril-PI | `Seniors Notes/Cyril - Part B/For exam/finalised muggers/Private Client Practice (PCP)/PCP Paper 2 - PIPD Master Notes.docx` |
+| PI-Cel | `Seniors Notes/Nic_s Part B Package/4. Nic Exam Go Pack/2b. PCP 2/PIPD/3. Peer Muggers/Cel- PIPD.pdf` |
+| PI-PD2014 | State Courts Practice Directions 2014, Appendices C and E, read on `epd2014-statecourts.judiciary.gov.sg/appendices` on 18 Nov 2026 (not held in `Bar Exam/`) |
 | Statutes | LA Limitation Act 1959 · SCA State Courts Act 1970 · MVA Motor Vehicles (Third-Party Risks and Compensation) Act 1960 · ROC Rules of Court 2021 · WICA Work Injury Compensation Act 2019 · Transfer Order = Supreme Court of Judicature (Transfer of Specified Proceedings to District Court) Order 2016 |
 
 ## 0 · Probate & Succession Planning
@@ -126,7 +130,7 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 |---|---|---|---|
 | 0.I.1 | Succession planning tools | — | pcp-m-0-1 |
 | 0.I.2 | What a will can and cannot dispose of | — | pcp-m-0-2 |
-| 0.I.3 | Joint tenancy: survivorship, severance | — | pcp-m-0-3 |
+| 0.I.3 | Joint tenancy: survivorship, severance; legal v beneficial interest (*Chan Yuen Lan*; *Ong Chai Soon*) | — | pcp-m-0-3 |
 | 0.I.4 | Joint bank accounts | — | pcp-m-0-4 |
 | 0.I.5 | CPF monies: nomination only | — | pcp-m-0-5 |
 | 0.I.6 | Insurance nominations and payment without grant | — | pcp-m-0-6 |
@@ -137,9 +141,9 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | Key | Sub-point | Tested | Covered by |
 |---|---|---|---|
 | 0.II.1 | What a will is; ambulatory nature | — | pcp-m-0-8 |
-| 0.II.2 | Mutual wills, mirror wills, joint wills | — | pcp-m-0-9 |
+| 0.II.2 | Mutual wills, mirror wills, joint wills (*VTL v VTM*) | — | pcp-m-0-9 |
 | 0.II.3 | Who can make a will: age 21, s 27 exceptions, Muslims | — | pcp-m-0-10 |
-| 0.II.4 | Testamentary capacity, knowledge and approval, undue influence | — | pcp-m-0-11 |
+| 0.II.4 | Testamentary capacity, knowledge and approval, undue influence (*WWI v WWJ*) | — | pcp-m-0-11 |
 | 0.II.5 | Formal validity of wills made abroad (s 5 WA) | — | pcp-m-0-12 |
 | 0.II.6 | Execution under s 6 WA | — | pcp-m-0-13 |
 | 0.II.7 | Who can witness a will (ss 9–12 WA) | — | pcp-m-0-14 |
@@ -225,8 +229,8 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | 0.VIII.10 | Filing the originating application: documents and timing | — | pcp-m-0-64 |
 | 0.VIII.11 | Supporting affidavit, Schedule of Assets and issue of the grant | — | pcp-m-0-65 |
 | 0.VIII.12 | Administration bond and sureties (s 29 PAA) | — | pcp-m-0-66 |
-| 0.VIII.13 | Resealing a foreign grant (ss 47–49 PAA) | — | pcp-m-0-67 |
-| 0.VIII.14 | Contentious probate: probate actions | — | pcp-m-0-68 |
+| 0.VIII.13 | Resealing a foreign grant (ss 47–49 PAA; *WKR v WKQ*) | — | pcp-m-0-67 |
+| 0.VIII.14 | Contentious probate: probate actions; administration pending trial (s 20); costs (P 16 r 3(5)) | — | pcp-m-0-68 |
 | 0.VIII.15 | Caveats | — | pcp-m-0-69 |
 | 0.VIII.16 | Citations | — | pcp-m-0-70 |
 | 0.VIII.17 | When personal representatives can act; acting jointly | — | pcp-m-0-71 |
@@ -248,7 +252,7 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | 0.IX.11 | Registering an LPA | — | pcp-m-0-82 |
 | 0.IX.12 | Revocation, termination and the court's powers over LPAs (ss 15–18) | — | pcp-m-0-83 |
 | 0.IX.13 | Deputies: when, who and the principles (ss 20, 21, 24, 25A) | — | pcp-m-0-84 |
-| 0.IX.14 | Deputyship application procedure | — | pcp-m-0-85 |
+| 0.IX.14 | Deputyship application procedure; litigation representative; third-party intervention (*TWD v UQE*); costs | — | pcp-m-0-85 |
 | 0.IX.15 | Deputy's powers and restrictions (ss 22, 23, 25) | — | pcp-m-0-86 |
 | 0.IX.16 | The Public Guardian (ss 31–32) | — | pcp-m-0-87 |
 
@@ -387,7 +391,7 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 |---|---|---|---|
 | 2.IV.1 | FJC v SYC divorce process | — | pcp-m-2-14 |
 | 2.IV.2 | Grounds of divorce: WC v AMLA | — | pcp-m-2-15 |
-| 2.IV.3 | Talak | — | pcp-m-2-16 |
+| 2.IV.3 | Talak; disputed pronouncement (*Mohamed Salleh*; *AM v AN*; *BQ v BR*) | — | pcp-m-2-16 |
 | 2.IV.4 | Cerai taklik | — | pcp-m-2-17 |
 | 2.IV.5 | Fasakh (s 49) | — | pcp-m-2-18 |
 | 2.IV.6 | Khuluk (divorce by redemption) | — | pcp-m-2-19 |
@@ -402,8 +406,8 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | 2.V.2 | Wife's maintenance during marriage | — | pcp-m-2-23 |
 | 2.V.3 | Nafkah iddah | — | pcp-m-2-24 |
 | 2.V.4 | Mutaah | — | pcp-m-2-25 |
-| 2.V.5 | Children: custody, care and control, access | — | pcp-m-2-26 |
-| 2.V.6 | Division of matrimonial assets | — | pcp-m-2-27 |
+| 2.V.5 | Children: custody, care and control, access; judicial interview, SYC v civil courts (*AZB v AZC*) | — | pcp-m-2-26 |
+| 2.V.6 | Division of matrimonial assets (*DR v DS*: *TNL v TNK*, broad brush) | — | pcp-m-2-27 |
 | 2.V.7 | Third-party claims to matrimonial assets | — | pcp-m-2-28 |
 
 ### 2.VI Enforcement of SYC orders
@@ -561,6 +565,7 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | 4.IV.4 | Potential defendant's response; joint medical experts | — | pcp-m-4-16 |
 | 4.IV.5 | When the claimant may commence proceedings | — | pcp-m-4-17 |
 | 4.IV.6 | Non-compliance: sanctions and costs guidelines | — | pcp-m-4-18 |
+| 4.IV.7 | State Courts PD 2014 Appendix C (NIMA) and Appendix E (PI); what PD 2021 changed | — | pcp-m-4-34 |
 
 ### 4.V FIDReC Non-Injury Motor Accident scheme
 
@@ -585,7 +590,7 @@ Paths are under `Bar Exam/` (`…` repeats the folder of the row above). Cite fo
 | 4.VII.1 | Deciding where to sue; the 2016 Transfer Order | — | pcp-m-4-25 |
 | 4.VII.2 | High Court and State Courts case management | — | pcp-m-4-26 |
 | 4.VII.3 | Enhanced jurisdiction by memorandum (s 23 SCA) | — | pcp-m-4-27 |
-| 4.VII.4 | Single joint experts | — | pcp-m-4-28 |
+| 4.VII.4 | Single joint experts (*Lee Song Yam*) | — | pcp-m-4-28 |
 
 ### 4.VIII Trials and assessment of damages
 

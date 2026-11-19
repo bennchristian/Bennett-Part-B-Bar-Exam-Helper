@@ -18,10 +18,11 @@ Paper session `ccp-2`, 10–11 Nov 2026. Resume: read this file, then coverage.m
 - none
 
 ## Known limits
-- `Merger_Control_in_Singapore_(pages_69_to_97).pdf` is a scanned image; no OCR on this machine, so not cited.
+- `Merger_Control_in_Singapore_(pages_69_to_97).pdf` (MCS) is scanned; read from rendered page images on 18 Nov 2026 and cited by page. Pp 69–97 cover thresholds and market definition only (new blocks `ccp-2-2-26`, `ccp-2-2-27`; Q2-21–Q2-23). The extract ends mid-sentence on p97 (captive sales).
 - Taxation Learning Plan lists the exam as Wed 9 Dec 2026; SCHEMA puts Taxation in ccp-2 (Thu 10 Dec). Main session may want to confirm.
 
 ## Last --check
+- 18 Nov 2026: passed; IP 56/56, M&A 46/46, Competition 27/27, Taxation 22/22; 145 blocks; 0 flags. PDFs not rebuilt (Bennett to review).
 - 11 Nov 2026: passed; IP 56/56, M&A 46/46, Competition 25/25, Taxation 22/22; 143 blocks; 0 flags.
 
 STATUS: DONE
@@ -29,7 +30,7 @@ STATUS: DONE
 ## Model Q&A (Markdown only, 15 Nov 2026)
 - `model-questions.md` built on Bennett's 14 Nov instruction. No PDF built (`--questions` waits for Phase 2).
 - 207 questions: 94 real (40 SQ with the official key; 54 from the 2023 CCP Paper 2, transcribed from Examplify screenshots, with no key) and 113 own. 12 Drills: 9 by Topic, using all 207 once, and 3 mixed mocks. Timing is 2 min/Q.
-- Sub-points: IP 56/56, M&A 46/46, Competition 25/25, Taxation 22/22 = 149/149. 0 TODO: verify.
+- Sub-points: IP 62/62, M&A 49/49, Competition 35/35, Taxation 25/25 = 171/171. 0 TODO: verify (19 Nov 2026, after the audit fill).
 - `check_model_qna.py ccp-2` exits 0, and `build_pack.py ccp-2 --check` passes. The builder's parse_questions finds 4 Subjects and 207 questions, every Key and end-point ID resolves, and every question has an Answer line.
 - 2023 questions left out: Q22, Q33, Q37, Q48, Q53, Q54 (the reasons are in the file header).
 - Three 2023 answers rest on the CCCS register rather than the course materials: Q41 Grab/Uber directions, Q42 LSEG/Refinitiv commitments, and Q36 (backed by the CL1 s6 slide). Two rest on elimination, where the sources contradict every other option: Q13 (I-Admin remedy) and Q28 (stamp duty paid upfront, per Cyril-TX §3.2.3).

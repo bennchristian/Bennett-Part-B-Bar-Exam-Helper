@@ -391,6 +391,24 @@ Not covered: topic 0.X (AI regulation), which is Non-Core and has no source; see
   - Unauthorised disclosure, improper use, re-identification; $5,000 and/or 2 years → [0-38](#clk-m-0-38)
 - **Case example**
   - SingHealth fined $250,000 and its DI IHiS $750,000; responsibility is not delegated → [0-39](#clk-m-0-39)
+- **Who is the PDPC and what does it do? (Part 2)**
+  - IMDA is designated as the PDPC (s 5); functions (s 6); advisory committees (s 7); Commissioner and delegation (s 8); PDPC officers prosecute with the PP's authorisation (s 9); cooperation agreements with other regulators (s 10) → [0-76](#clk-m-0-76)
+- **How does the PDPC give a direction or penalty, and how is it enforced?**
+  - Written notice first; at least 14 days to make representations before a penalty; takes effect on service; pay within at least 28 days (s 48K) → [0-77](#clk-m-0-77)
+  - Register the direction or penalty notice in a District Court, then enforce it like a court order (s 48M) → [0-77](#clk-m-0-77)
+- **Part 10 offences: what else is a crime under the PDPA?**
+  - Access, correction or porting request about another person without authority; destroying records to evade a request; obstructing the PDPC; false statements to it (s 51) → [0-78](#clk-m-0-78)
+  - No penalty stated: up to $10,000 and/or 3 years (s 56); District Court jurisdiction (s 54); composition (s 55) → [0-78](#clk-m-0-78)
+- **Is the employer or a director liable for what an employee did?**
+  - The employee's act in the course of employment is the employer's act too, with or without its knowledge (s 53(1)); for an offence, the employer has a "practicable steps" defence (s 53(2)) → [0-79](#clk-m-0-79)
+  - Officers who consented, connived or failed to take reasonable steps are guilty of the company's offence (s 52; s 52A for partnerships and associations) → [0-79](#clk-m-0-79)
+- **Re-identifying anonymised data: is testing a defence?**
+  - Yes, if the accused reasonably believed it was for a specified purpose (Eleventh Schedule: testing anonymisation or the security of anonymised data) and notified the PDPC or the organisation as soon as practicable (s 48F(2)(c)) → [0-80](#clk-m-0-80)
+- **How does the PDPC choose its enforcement outcome? (Guide on Active Enforcement)**
+  - Suspend or discontinue; voluntary undertaking; breach findings (no breach, warning, directions, penalty); expedited decision procedure on an upfront admission → [0-81](#clk-m-0-81)
+- **Optional reading: decisions**
+  - Spize Concepts: no DPO or policies, overseas vendor with no transfer safeguards; $20,000 → [0-82](#clk-m-0-82)
+  - RedMart [2023]: NRIC photos of suppliers; no valid consent, but legitimate interests later met → [0-83](#clk-m-0-83)
 
 ### clk-m-0-35 — PDPC investigation and enforcement powers
 *Keywords: PDPC, investigation, mediation, directions, voluntary undertaking, PDPA s 50, s 48G, s 48H, s 48I, s 48L*
@@ -427,6 +445,158 @@ Not covered: topic 0.X (AI regulation), which is Non-Core and has no source; see
 
 *Source note: SingH p7, p49; Nic-DP p7-8*
 
+### clk-m-0-76 — PDPC and administration (PDPA Part 2)
+*Keywords: Personal Data Protection Commission, PDPC, IMDA, Info-communications Media Development Authority, designated, functions of the Commission, advisory committee, Commissioner for Personal Data Protection, delegation, conduct of proceedings, cooperation agreement, foreign data protection body, PDPA s 5, s 6, s 7, s 8, s 9, s 10*
+
+**End point:** IMDA is designated as the PDPC, which administers the PDPA (s 5). Its functions include promoting awareness, advising the Government, representing Singapore internationally, and administering and enforcing the Act (s 6). It may appoint a Commissioner and other officers and delegate to them (s 8), conduct prosecutions with the Public Prosecutor's authorisation (s 9), and make cooperation agreements with other regulators (s 10).
+
+> **PDPA Part 2**
+> - s 5: IMDA is designated as the PDPC (s 5(1)); the PDPC administers the Act (s 5(2)).
+> - s 6: functions, including:
+>   - (a) promote awareness of data protection;
+>   - (b) provide consultancy and advisory services;
+>   - (c) advise the Government;
+>   - (d) represent the Government internationally;
+>   - (e) research and education;
+>   - (f) technical cooperation with foreign data protection authorities;
+>   - (g) administer and enforce the Act.
+> - s 7: the Minister may appoint advisory committees; the PDPC may consult them but is not bound.
+> - s 8: the PDPC may appoint the Commissioner, Deputy and Assistant Commissioners and inspectors. A delegated function is exercised in the Commissioner's name, and the PDPC may not exercise it while the delegation is in force (s 8(2)). An authorised officer must produce their authority on demand (s 8(3)).
+> - s 9: an authorised officer may conduct proceedings for a PDPA offence with the Public Prosecutor's authorisation; the PDPC's legal counsel may appear in civil proceedings.
+> - s 10: cooperation agreements with other regulators to share information, assist each other and avoid duplication. Information goes to a foreign data protection body only against its written undertaking on confidentiality (s 10(3)).
+
+*Source note: PDPA p14-17 (ss 5-10); DP-Plan p5 (Part 2 is core reading).*
+
+### clk-m-0-77 — Directions and penalties: procedure and enforcement (ss 48K, 48M)
+*Keywords: written notice, proposed direction, preliminary decision, written representations, 14 days, 28 days, instalments, interest, takes effect on service, registration in District Court, enforce direction, enforce financial penalty, PDPA s 48K, s 48M*
+
+**End point:** Before giving a direction or imposing a financial penalty, the PDPC must give written notice of the proposed action and allow written representations; for a penalty the window is at least 14 days (s 48K(1)-(2)). The decision takes effect only when served (s 48K(7)), and a penalty is payable by a date at least 28 days after the notice (s 48K(8)). To enforce a direction or penalty notice, the PDPC registers it in a District Court, after which it is enforceable as a District Court order (s 48M).
+
+> **PDPA s 48K: procedure**
+> - (1) Written notice first, stating:
+>   - (a) the intended action under s 48I or s 48J(1);
+>   - (b) the proposed direction;
+>   - (c) each instance of non-compliance or the reasons;
+>   - (d) the time for written representations.
+> - (2) Penalty: at least 14 days after service for representations. (3) Extension on written application, for exceptional circumstances.
+> - (4) Decide after considering representations, or when time expires with none.
+> - (5) No notice needed if the organisation or person has died, is bankrupt or has ceased to exist.
+> - (6) Notice of the decision goes to the organisation and to any complainant; (7) it takes effect only on service on the organisation.
+> - (8) Penalty due by a date not earlier than 28 days after the notice; (9) time may be extended or instalments allowed; (10) interest capped at the Rules of Court judgment-debt rate.
+>
+> **PDPA s 48M: enforcement**
+> - (1)-(2) The PDPC may apply to register in a District Court a direction under s 48H(2), 48I or 48L(4), or a written notice for a financial penalty (and interest).
+> - (3) From registration it has the same force as a District Court order.
+
+*Source note: PDPA p67-70 (ss 48K, 48M). Reconsideration and appeals: clk-m-0-37.*
+
+### clk-m-0-78 — Part 10 offences and penalties (ss 51, 54-56)
+*Keywords: offence, access request without authority, correction request without authority, data porting request without authority, evade a request, destroy records, falsify, obstruct the Commission, refuse to provide information, false or misleading statement, general penalty, $10,000, 3 years, District Court jurisdiction, composition, PDPA s 51, s 54, s 55, s 56*
+
+**End point:** Section 51 makes it an offence to make an access, correction or porting request about someone else without their authority, to dispose of or falsify records to evade an access or correction request, to obstruct the PDPC, to refuse without reasonable excuse to give it information or attend, or to give it false or misleading information. Where no penalty is stated, the general penalty is a fine up to $10,000 and/or up to 3 years' imprisonment (s 56). These are distinct from the Part 9B offences by individuals (clk-m-0-38).
+
+> **PDPA s 51 and Part 10 general provisions**
+> - s 51(1)-(2): requests without the other individual's authority, max $5,000 and/or 12 months:
+>   - (a) access request (s 21(1));
+>   - (b) correction request (s 22(1));
+>   - (c) data porting request (s 26H(1)), except an individual porting their own user activity or user-provided data that includes another person's data (s 51(1A)).
+> - s 51(3) offences by an organisation or person:
+>   - (a) with intent to evade an access or correction request, disposing of, altering, falsifying, concealing or destroying a record: individual $5,000 and/or 12 months; otherwise $50,000 (s 51(4));
+>   - (b) obstructing the PDPC, an inspector or authorised officer; (c) false or misleading statement or information: individual $10,000 and/or 12 months; otherwise $100,000 (s 51(5));
+>   - (ba) refusing without reasonable excuse to provide information or documents; (bb) refusing to attend: individual $5,000 and/or 6 months; otherwise $10,000 (s 51(6)).
+> - s 54: a District Court may try any PDPA offence and impose the full penalty.
+> - s 55: the PDPC may compound prescribed offences for up to the lower of half the maximum fine or $5,000 (Part 9 offences: up to $1,000).
+> - s 56: general penalty where none is stated: fine up to $10,000 and/or up to 3 years; continuing offence, up to $1,000 a day.
+
+*Source note: PDPA p78-80 (s 51), p85-86 (ss 54-56); DP-Plan p5 (Part 10 is core reading).*
+
+### clk-m-0-79 — Corporate officers and employer liability (ss 52, 52A, 53)
+*Keywords: employer liable for employee, vicarious liability, course of employment, with or without knowledge or approval, practicable steps defence, officer of the corporation, director, consented, connived, knowingly concerned, failed to take reasonable steps, state of mind of a corporation, partnership, unincorporated association, PDPA s 52, s 52A, s 53*
+
+**End point:** Anything an employee does in the course of employment is treated, for the PDPA, as done by the employer as well, whether or not the employer knew or approved (s 53(1)). For an offence, the employer has a defence if it proves it took such steps as were practicable to prevent the conduct (s 53(2)). When a corporation commits an offence, an officer or manager who consented, connived, was knowingly concerned, or knew or ought to have known and failed to take all reasonable steps to stop it, is guilty of the same offence (s 52(2)).
+
+> **PDPA ss 52-53**
+> - s 52(1): a corporation's state of mind is shown by an officer, employee or agent acting within actual or apparent authority with that state of mind.
+> - s 52(2): an officer, or an individual in management able to influence the conduct, who:
+>   - (i) consented or connived, or conspired, to effect the offence;
+>   - (ii) was knowingly concerned in or party to it; or
+>   - (iii) knew or ought reasonably to have known it would be or was being committed and failed to take all reasonable steps to prevent or stop it,
+> - is guilty of the same offence. The officer may rely on the corporation's defences (s 52(3)); the corporation's own liability is unaffected, and s 52(2) applies whether or not it is convicted (s 52(5)).
+> - s 52A: the same rules for unincorporated associations and partnerships (officers, committee members, partners).
+> - s 53(1): an act or conduct of an employee in the course of employment is treated as done by the employer as well as the employee, whether or not with the employer's knowledge or approval.
+> - s 53(2): in proceedings for an offence, the employer's defence is to prove it took such steps as were practicable to prevent the employee doing that act, or acts of that description.
+> - Contrast the employee's own position: an employee acting in the course of employment is not an "organisation" bound by Parts 3-6 (s 4(1)(b); clk-m-0-4).
+
+*Source note: PDPA p80-85 (ss 52, 52A, 53); DP-Plan p5.*
+
+### clk-m-0-80 — Re-identification defence: specified purposes (s 48F(2)(c), Eleventh Schedule)
+*Keywords: re-identification, anonymised information, specified purpose, Eleventh Schedule, testing anonymisation, testing integrity and confidentiality, security testing, notify the Commission, defence, balance of probabilities, PDPA s 48F*
+
+**End point:** Unauthorised re-identification of anonymised information is an offence (s 48F(1); clk-m-0-38). It is a defence, proved on a balance of probabilities, that the accused reasonably believed the re-identification was for a specified purpose and notified the PDPC or the organisation as soon as practicable (s 48F(2)(c)). The specified purposes in the Eleventh Schedule are all about testing anonymisation and the security of anonymised information.
+
+> **PDPA s 48F(2) defences and the Eleventh Schedule**
+> - s 48F(2), any of:
+>   - (a) the identity information was publicly available (and, if only because of an applicable contravention, the accused did not know and was not reckless as to that);
+>   - (b) the re-identification was permitted or required by another law, or authorised or required by a court order;
+>   - (c) the accused reasonably believed it was for a **specified purpose** and notified the PDPC or the organisation or public agency as soon as practicable;
+>   - (d) the accused reasonably believed, and was not reckless as to whether, they had a legal right to do it (other than for a specified purpose);
+>   - (e) other prescribed circumstances.
+> - Eleventh Schedule specified purposes (s 48F(4)):
+>   - 1. testing the effectiveness of the anonymisation of personal data held by an organisation or public agency;
+>   - 2. testing the integrity and confidentiality of anonymised information it holds;
+>   - 3. assessing, testing or evaluating its systems and processes for safeguarding the integrity and confidentiality of anonymised information it holds, sends or receives.
+
+*Source note: PDPA p58-60 (s 48F), p121 (Eleventh Sch); DP-Plan p5 (Eleventh Schedule is core reading).*
+
+### clk-m-0-81 — PDPC Guide on Active Enforcement (optional reading)
+*Keywords: Guide on Active Enforcement, enforcement outcomes, suspension, discontinuation, advisory notice, voluntary undertaking, remediation plan, breach findings, no breach, warning, directions, financial penalty, expedited decision procedure, EDP, upfront admission of liability, harm, culpability, aggravating, mitigating, first-time offender, cooperation*
+
+**End point:** After an investigation the PDPC may (1) suspend or discontinue it, usually where the impact is low, (2) accept a voluntary undertaking backed by a remediation plan, or (3) make breach findings: no breach, a warning, directions, a financial penalty, or both. Under the expedited decision procedure the organisation admits liability upfront, which shortens the process and counts in its favour on penalty. Penalties are assessed on harm and culpability, then adjusted for mitigation, past breaches, admission, cooperation and proportionality.
+
+> **Guide on Active Enforcement (revised 1 Oct 2022)**
+> - Enforcement outcomes (p13):
+>   - 1. suspension or discontinuation of the investigation (s 50(3)), often with an advisory notice, where impact is low or limited;
+>   - 2. voluntary undertaking (s 48L): possible where the organisation shows accountable policies and practices and has a remediation plan ready to implement at once. Acceptance is at the PDPC's discretion, and the undertaking is published (p18-20);
+>   - 3. breach findings: (i) no breach; (ii) warning; (iii) directions; (iv) financial penalties; (v) directions and financial penalties.
+> - Expedited decision procedure (p23-24), requiring early on:
+>   - an upfront voluntary admission of liability;
+>   - the relevant facts (e.g. forensic reports, remediation);
+>   - written confirmation of willingness to comply with directions or a penalty.
+>   - The admission is a favourable factor on penalty, except for a repeat offender.
+> - Financial penalties (p27-28): directions without a penalty are considered first; a penalty is imposed where needed to reflect seriousness. Cap: $1 million or 10% of Singapore turnover if it exceeds $10 million, from 1 Oct 2022 (clk-m-0-36). The method:
+>   - 1. assess harm (number affected, categories of data, duration) and culpability (nature of the breach, overall compliance);
+>   - 2. adjust for mitigation and its timeliness, previous non-compliance, voluntary admission (including under the EDP), cooperation, and first-time offending;
+>   - 3. check the likely impact on the organisation, proportionality and deterrence.
+
+*Source note: Outside the library. PDPC, Guide on Active Enforcement (revised 1 Oct 2022), pdpc.gov.sg, read 19 Nov 2026: p13-14, p18-20, p22-24, p27-28. Listed as optional reading [DP-Plan p6].*
+
+### clk-m-0-82 — Re Spize Concepts [2019] SGPDPC 22 (optional reading)
+*Keywords: Spize Concepts, Spize, online ordering, Call Center link, administrator account, password management, data protection officer, DPO, no policies, openness obligation, data intermediary overseas, Novadine, transfer limitation, comparable protection, contractual necessity, financial penalty $20,000, PDPA s 11(3), s 12, s 24, s 26*
+
+**End point:** A food-delivery business's online portal exposed about 148 customers' names, contact details and addresses because someone used the managing director's shared administrator account to make an internal link public. The Commissioner found breaches of the Protection Obligation (poor password and administrator-account controls), the then Openness Obligation (no DPO, no data protection policies), s 12(d)(i) (no information on how its US vendor processed data) and the Transfer Limitation Obligation (no assessment of comparable protection or contractual necessity before using a US data intermediary). Penalty: $20,000.
+
+> **Key points**
+> - s 24: password policies and control of administrator accounts are part of reasonable security arrangements ([15]-[17]).
+> - ss 11(3), 12(a): no DPO (appointed only after the PDPC's notice) and no policies = breach ([18]).
+> - s 26: using an overseas data intermediary is a transfer. The organisation must ensure comparable protection by assessing the foreign law or by contract, or document that a deeming provision (e.g. transfer necessary to perform the contract with the individual) applies ([25]-[27]).
+> - Directions: financial penalty of $20,000 within 30 days ([30]).
+
+*Source note: Outside the library. Re Spize Concepts Pte Ltd [2019] SGPDPC 22 (Tan Kiat How, Commissioner, 4 Jul 2019), pdpc.gov.sg, read 19 Nov 2026: [2], [4], [15]-[18], [25]-[27], [29]-[30]. The decision cites the old PDPR 2014 and s 29 numbering; the transfer rules are now in PDPR 2021 Part 3 and directions in s 48I. Listed as optional reading [DP-Plan p6].*
+
+### clk-m-0-83 — Re RedMart [2023] SGPDPC 1 (optional reading)
+*Keywords: RedMart, NRIC photographs, ID photographs, suppliers, visitors, warehouse, food safety, consent not appropriate, condition of entry, notification, deemed consent, national interest exception, investigations exception, legitimate interests exception, LIE assessment, no direction, PDPA s 13, s 14, s 15, s 18, s 20, First Schedule Part 3 para 1*
+
+**End point:** RedMart photographed suppliers' NRICs at its warehouses for food-safety reasons without notifying them of the purpose. Consent was not valid: the purpose was not notified, and photographing IDs as a condition of making deliveries for work was not consent to a product or service they chose. Deemed consent, the national interest exception and the investigations exception (which needs an ongoing, not a future, investigation) were all rejected. Legitimate interests could apply, and once RedMart did and documented a proper assessment with mitigating controls, no direction was needed.
+
+> **Key points**
+> - Consent failed: no notice of purpose (ss 14(1)(a), 18(b), 20); and consent is not the right basis for a condition of entry imposed on workers making deliveries ([5]).
+> - Legitimate interests exception (First Sch Pt 3 para 1, from 1 Feb 2021): before collecting, assess and document whether the interests outweigh any adverse effect, implement mitigating measures, and give reasonable access to information, e.g. in the public data protection policy ([6]-[7]).
+> - Rejected bases ([11]): national interest (food security at one's own warehouses is not national defence or security); investigations (must be an ongoing investigation, not a hypothetical future one); deemed consent (no real choice, and not obvious that ID images would be taken and stored).
+> - Outcome: RedMart's later assessment and controls (limited collection, restricted devices and access, one-year retention, notices at the security posts) satisfied the exception, so the proposed direction was not issued ([13]-[18]).
+> - Do not confuse with RedMart [2022] SGPDPC 8 (API key leak; $72,000 penalty under s 24).
+
+*Source note: Outside the library. Re RedMart Ltd [2023] SGPDPC 1 (Yeong Zee Kin, Deputy Commissioner, 18 Jan 2023), pdpc.gov.sg, read 19 Nov 2026: [1]-[18]. Legitimate interests rule: clk-m-0-17. Listed as optional reading [DP-Plan p7].*
+
 ## 0.VI Protection obligation and data breach notification
 
 - **What security must an organisation have? (s 24)**
@@ -439,6 +609,11 @@ Not covered: topic 0.X (AI regulation), which is Non-Core and has no source; see
   - The organisation notifies the PDPC within 3 calendar days of assessing the breach as notifiable, not of discovering it → [0-44](#clk-m-0-44)
   - The organisation notifies individuals on or after notifying the PDPC; harm-type breaches only, with exceptions → [0-45](#clk-m-0-45)
   - The DI does not notify the PDPC → [0-6](#clk-m-0-6)
+- **How should an organisation respond to a breach? (PDPC data breach guide)**
+  - C.A.R.E.: Contain, Assess, Report, Evaluate; assess whether notifiable within 30 calendar days of credible grounds → [0-86](#clk-m-0-86)
+- **Optional reading: decisions**
+  - Singtel (DP-2102-B7878): zero-day in a third-party file transfer appliance; patched within 5 days; no breach of s 24 → [0-84](#clk-m-0-84)
+  - Marina Bay Sands [2025]: API identifier dropped in a software migration, 665,495 patrons exposed; negligent breach; $315,000 → [0-85](#clk-m-0-85)
 
 ### clk-m-0-40 — The Protection Obligation
 *Keywords: protection obligation, reasonable security arrangements, storage medium, ISO 27001, administrative, technical, physical, PDPA s 24*
@@ -482,6 +657,42 @@ Not covered: topic 0.X (AI regulation), which is Non-Core and has no source; see
 
 *Source note: PDPA p36-37 (s 26D(2), (5)-(7)); DP-2 p49-50. Conflict: Nic-DP p6 says "concurrently"; the Act says on or after.*
 
+### clk-m-0-84 — Singtel, PDPC Case DP-2102-B7878: no breach (optional reading)
+*Keywords: Singtel, Singapore Telecommunications, no breach, zero-day vulnerability, third-party file transfer appliance, FTA, Accellion, vendor-controlled source code, patching within five days, reasonable security arrangements, Protection Obligation, PDPA s 24*
+
+**End point:** Threat actors exploited two zero-day vulnerabilities in a third-party file transfer appliance that Singtel licensed, exfiltrating personal data of 163,370 individuals. Only the developer (Accellion) had the source code and could find and fix the flaws, and Singtel patched the appliance within five days of each update. The Deputy Commissioner held Singtel had made reasonable security arrangements and could not be liable for zero-day vulnerabilities in a third party's system: no breach of s 24, no enforcement action.
+
+*Source note: Outside the library. PDPC, Summary of the Decision, Case No DP-2102-B7878, Singapore Telecommunications Ltd (published 19 May 2022), pdpc.gov.sg, read 19 Nov 2026: paras 1-7. Listed as optional reading [DP-Plan p7]. Compare SingHealth (clk-m-0-39), where the organisation's own measures fell short.*
+
+### clk-m-0-85 — Re Marina Bay Sands [2025] SGPDPC 6 (optional reading)
+*Keywords: Marina Bay Sands, MBS, software migration, API identifier omitted, single employee, no second-layer check, six months undetected, 665,495 patrons, dark web, negligent breach, standard of negligence, reasonably foreseeable risk, recklessness distinguished, revised penalty cap 10% of turnover, financial penalty $315,000, PDPA s 24, s 48J*
+
+**End point:** During a large software migration, one API identifier was left out, so a webpage lost its security policies and 665,495 patrons' data was exfiltrated and offered for sale. One employee had compiled the API list manually with no second check, and the gap went unnoticed for six months. The Commissioner held this a negligent breach of the Protection Obligation and imposed $315,000, crediting MBS's voluntary admission and immediate remediation. Negligence under s 48J is objective: if the risk was reasonably foreseeable and the arrangements fell below what a reasonable organisation would have done, the breach is negligent; it need not be reckless.
+
+> **Key points**
+> - Standard ([44]-[47]): negligence is not limited to conduct that would necessarily cause the harm. That conflates it with recklessness (failing to address blatant or obvious risks). Ask objectively (a) what risks to the data were reasonably foreseeable, and (b) what security arrangements the organisation should reasonably have had.
+> - Risk factors ([46]): volume, type and nature of the data; how it is processed; the form in which it is held; impact on data subjects of unauthorised access.
+> - Penalty: $315,000 under the revised framework (cap 10% of Singapore turnover above $10 million from 1 Oct 2022) ([120], [123]).
+
+*Source note: Outside the library. Re Marina Bay Sands Pte Ltd [2025] SGPDPC 6 (Lew Chuen Hong, Commissioner, 28 Oct 2025) and PDPC executive summary, pdpc.gov.sg, read 19 Nov 2026: [44]-[47], [120], [123]. Listed as optional reading [DP-Plan p7].*
+
+### clk-m-0-86 — PDPC Guide on Managing and Notifying Data Breaches (optional reading)
+*Keywords: Guide on Managing and Notifying Data Breaches, data breach management plan, C.A.R.E., CARE, contain, assess, report, evaluate, root cause, 30 calendar days to assess, reasonable and expeditious steps, document the assessment, data intermediary notifies the organisation, significant harm, significant scale, 500 individuals, 3 calendar days*
+
+**End point:** The PDPC's guide frames breach response as C.A.R.E.: Contain the breach and mitigate harm, Assess its cause and effect, Report to the PDPC (mandatory if notifiable) and affected individuals, and Evaluate the response to prevent recurrence. Once it has credible grounds to believe a breach occurred, the organisation must take reasonable and expeditious steps to assess whether it is notifiable, normally within 30 calendar days, and document those steps. A notifiable breach must then be reported to the PDPC within 3 calendar days (clk-m-0-44).
+
+> **Guide (revised 15 Mar 2021)**
+> - C.A.R.E. (p5, p13):
+>   - **Contain**: stop further compromise; mitigate harm after an initial appraisal;
+>   - **Assess**: root cause and effectiveness of containment;
+>   - **Report**: to the PDPC (mandatory if notifiable; voluntary otherwise) and to affected individuals if required;
+>   - **Evaluate**: review the response and prevent future breaches.
+> - Assessment (p21-22): starts when the organisation has credible grounds to believe a breach occurred (self-discovery, public alert, or a data intermediary's notice). It must take reasonable and expeditious steps to assess within 30 calendar days, and be ready to explain any longer time; unreasonable delay is itself a breach of the DBN Obligation. All steps must be documented.
+> - Data intermediaries notify the organisation they act for, which assesses and notifies (p21; clk-m-0-6).
+> - Notifiable: likely significant harm, or significant scale, i.e. 500 or more individuals (p23-24; clk-m-0-42).
+
+*Source note: Outside the library. PDPC, Guide on Managing and Notifying Data Breaches under the PDPA (revised 15 Mar 2021), pdpc.gov.sg, read 19 Nov 2026: p5, p13, p21-24. Listed as optional reading [DP-Plan p6].*
+
 ## 0.VII Cybersecurity Act — critical information infrastructure
 
 - **What is a "computer" or "computer system"?**
@@ -501,6 +712,13 @@ Not covered: topic 0.X (AI regulation), which is Non-Core and has no source; see
   - Board expertise, a risk register, policies reviewed every 12 months, owner responsible despite outsourcing → [0-53](#clk-m-0-53)
 - **What can the Commissioner do in an incident?**
   - s 19 investigation powers; s 20 serious-incident powers → [0-54](#clk-m-0-54)
+- **Emergency cybersecurity measures (s 23), technical experts (s 22), ID cards (s 21)** → [0-87](#clk-m-0-87)
+  - The Minister, by certificate, may direct any person to take measures against a serious and imminent threat; non-compliance or obstruction: up to $50,000 and/or 10 years → [0-87](#clk-m-0-87)
+- **Which services are "essential services"? (First Schedule)** → [0-88](#clk-m-0-88)
+  - 11 sectors: energy, info-communications, water, healthcare, banking and finance, security and emergency services, aviation, land transport, maritime, functioning of Government, media → [0-88](#clk-m-0-88)
+- **Optional reading: CSA reports**
+  - Singapore Cybersecurity Strategy 2021: three pillars and two enablers → [0-89](#clk-m-0-89)
+  - Singapore Cyber Landscape 2021: ransomware 137 cases (+54%), 55,000 phishing URLs → [0-90](#clk-m-0-90)
 
 ### clk-m-0-46 — Designation of CII
 *Keywords: critical information infrastructure, CII, provider-owned CII, designation, essential service, 5 years, outside Singapore, Cybersecurity Act s 7, s 7(1A), First Schedule*
@@ -552,9 +770,9 @@ The designation lasts at most one year (s 17(2)(d)). The owner must then furnish
 >   - (b) an operational technology system, e.g. an industrial control system, programmable logic controller, SCADA system or distributed control system.
 > - For most of the Act, including Part 3 (other than s 7(1A)) and Parts 3A–3B, "computer" and "computer system" include virtual ones (s 2).
 > - The CII designation criteria are in clk-m-0-46.
-> - The Computer Misuse Act is not on the CLK reading list and is not in the library. `TODO: verify` whether its definition of "computer" is the same.
+> - Computer Misuse Act 1993 s 2(1) (not on the CLK reading list) is wider in one way and narrower in another. It also covers "a group of such interconnected or related devices", and it expressly excludes automated typewriters or typesetters, portable hand-held calculators and similar non-programmable devices or devices with no data storage. The CYSA definition leaves out both and excludes only devices the Minister prescribes. For a CYSA question, use the CYSA definition.
 
-*Source note: SSO-CYSA s 2 ("computer", "computer system", virtual computers); Drill 1 DP15*
+*Source note: SSO-CYSA s 2 ("computer", "computer system", virtual computers); Drill 1 DP15. CMA comparison: Computer Misuse Act 1993 s 2(1), SSO current version (sso.agc.gov.sg/Act/CMA1993), read 19 Nov 2026; outside the library.*
 
 ### clk-m-0-47 — Reporting changes — 30 days and 7 days
 *Keywords: material change, change in ownership, 30 days, 7 days, Cybersecurity Act s 10, s 13*
@@ -631,6 +849,71 @@ The owner must also report any other incident the Commissioner specifies, and ke
 
 *Source note: CYSA p28-34 (ss 19-20); DP-2 p29-31*
 
+### clk-m-0-87 — Emergency measures, technical experts and ID cards (CYSA ss 21-23)
+*Keywords: emergency cybersecurity measures, certificate under the Minister's hand, serious and imminent threat, essential service, national security, specified person, real-time information, overrides contract and professional rules, legal privilege, $50,000, 10 years, immunity for good faith, cybersecurity technical expert, identification card, incident response officer, Cybersecurity Act s 21, s 22, s 23*
+
+**End point:** If satisfied it is necessary to prevent, detect or counter a serious and imminent threat to an essential service or to Singapore's national security, defence, foreign relations, economy, public health, safety or order, the Minister may by certificate authorise or direct any specified person or organisation to take measures or meet requirements (s 23(1)). These include providing information, including real-time information, and override contract and professional confidentiality, but not legal privilege (s 23(2)-(3)). Failing to comply or obstructing is an offence (up to $50,000 and/or 10 years), and good-faith compliance carries immunity (s 23(4)-(6)). The Commissioner may appoint cybersecurity technical experts to advise incident response officers in ss 19-20 investigations (s 22), and officers must declare their office and show ID on demand (s 21).
+
+> **Cybersecurity Act ss 21-23**
+> - s 21: an incident response officer exercising Part 4 powers must declare their office and produce an ID card on demand.
+> - s 22: the Commissioner may appoint as a cybersecurity technical expert, for a specified period, (a) a public officer or statutory-board employee, (b) a suitably qualified individual, or (c) a full-time national serviceman. They give technical advice in ss 19-20 investigations and must carry an ID card.
+> - s 23(1): threat to (a) the provision of an essential service, or (b) national security, defence, foreign relations, economy, public health, public safety or public order. The Minister's certificate may authorise or direct a specified person to take measures or comply with requirements.
+> - s 23(2) measures include: Criminal Procedure Code powers; requiring others to give information on the design, configuration, operation or cybersecurity of computers; giving the Minister or Commissioner information (including real-time); reporting breaches or attempted breaches.
+> - s 23(3): no right to legally privileged information; otherwise it overrides any law, contract or professional conduct rule.
+> - s 23(4)-(5): failure without reasonable excuse, or obstruction, is an offence: up to $50,000 and/or 10 years.
+> - s 23(6): no civil or criminal liability for acts done in good faith in compliance.
+
+*Source note: SSO-CYSA ss 21-23; `study/clk-m/authorities/0 Data Protection/Cybersecurity Act 2018 (SSO current).pdf` p76-79. Part 4 is core reading [DP-Plan p5]. Investigation powers in ss 19-20: clk-m-0-54.*
+
+### clk-m-0-88 — Essential services (CYSA First Schedule)
+*Keywords: essential services, First Schedule, sectors, energy, electricity, gas, info-communications, telephony, broadband, domain name registry, water, healthcare, acute hospital, banking, payments, securities, currency issuance, civil defence, police, immigration, prison, aviation, air navigation, airport, land transport, MRT, bus, road traffic, maritime, port, bunker, pilotage, Government services, media, broadcasting, newspapers, security printing*
+
+**End point:** CII must be necessary for the continuous delivery of an "essential service", meaning a service listed in the First Schedule (s 2(1); clk-m-0-46). The Schedule lists 46 services in 11 sectors: energy, info-communications, water, healthcare, banking and finance, security and emergency services, aviation, land transport, maritime, functioning of Government, and media.
+
+> **CYSA First Schedule (by sector, items)**
+> - Energy (1-2): electricity generation, transmission or distribution; natural gas supply for electricity generation.
+> - Info-communications (3-6): fixed and mobile telephony; broadband internet access; national domain name registry.
+> - Water (7-9): water supply; used water collection and treatment; stormwater management.
+> - Healthcare (10-11): acute hospital care; disease surveillance and response.
+> - Banking and finance (12-18): banking; payments clearing and settlement; securities; derivatives; monetary and financial stability; currency issuance; Government cash management and payments.
+> - Security and emergency services (19-23): civil defence; police and security; immigration; national registration; prisons.
+> - Aviation (24-28): air navigation; airport passenger control; baggage and cargo handling; aerodrome operations; flight operations.
+> - Land transport (29-33): licensed rapid transit and bus services, and their monitoring and management; road traffic management.
+> - Maritime (34-41): shipping traffic management; container, general and bulk cargo and cruise or ferry terminals; pilotage, towage and water supply; bunker supply; salvage; passenger ferries.
+> - Functioning of Government (42-43): electronic delivery of Government services; electronic processing of internal Government functions.
+> - Media (44-46): free-to-air broadcasting; newspaper publication; security printing.
+
+*Source note: SSO-CYSA First Sch; `study/clk-m/authorities/0 Data Protection/Cybersecurity Act 2018 (SSO current).pdf` p118-121. The First Schedule is core reading [DP-Plan p5].*
+
+### clk-m-0-89 — The Singapore Cybersecurity Strategy 2021 (optional reading)
+*Keywords: Singapore Cybersecurity Strategy 2021, CSA, strategic pillars, foundational enablers, build resilient infrastructure, enable a safer cyberspace, enhance international cyber cooperation, vibrant cybersecurity ecosystem, robust cyber talent pipeline, beyond CII, voluntary non-binding norms*
+
+**End point:** CSA's Strategy 2021 (5 Oct 2021, refreshing the 2016 strategy) has three strategic pillars: build resilient infrastructure, enable a safer cyberspace, and enhance international cyber cooperation. It has two foundational enablers: a vibrant cybersecurity ecosystem and a robust cyber talent pipeline. It flagged expanding the Cybersecurity Act beyond CII, which the 2024 amendments did (clk-m-0-69, clk-m-0-70).
+
+> **Strategy 2021**
+> - Pillar 1, build resilient infrastructure: a coordinated national approach with CII at its core; secure Government systems; safeguard important entities and systems beyond CII; regulation remains a key lever, alongside a risk-management mindset.
+> - Pillar 2, enable a safer cyberspace: secure digital infrastructure, devices and applications; safeguard cyberspace activities; a cyber-savvy population.
+> - Pillar 3, enhance international cyber cooperation: voluntary, non-binding norms alongside international law; capacity-building and interoperable standards; fight cross-border threats.
+> - Enablers: develop a vibrant cybersecurity ecosystem (research, innovation, market); grow a robust cyber talent pipeline (youths, women, mid-career).
+> - A later Strategy 2026 (13 Oct 2026) has replaced it; the reading list names the 2021 version.
+
+*Source note: Outside the library. CSA, The Singapore Cybersecurity Strategy 2021 (5 Oct 2021), csa.gov.sg, read 19 Nov 2026: p1-3 (overview, pillars and enablers). Listed as optional reading [DP-Plan p6].*
+
+### clk-m-0-90 — Singapore Cyber Landscape 2021 (optional reading)
+*Keywords: Singapore Cyber Landscape 2021, SCL, CSA, SingCERT, ransomware, phishing URLs, command and control servers, botnet drones, website defacements, cybercrime, online cheating, Computer Misuse Act cases, spoofed brands*
+
+**End point:** CSA's review of 2021 (published 29 Aug 2022) reported rising threats: 137 ransomware cases reported to SingCERT (up 54% from 89), about 55,000 Singapore-linked phishing URLs (up from 47,000), and 3,300 unique C&C servers (more than triple 2020's 1,026). Cybercrime was 48% of all crime, mainly online cheating (18,068 cases).
+
+> **Headline figures (2021)**
+> - Ransomware: 137 cases reported to SingCERT (2020: 89).
+> - Phishing: ~55,000 Singapore-linked phishing URLs (2020: 47,000); social networking the most spoofed sector, then financial, then online/cloud services.
+> - C&C servers: 3,300 unique (2020: 1,026); botnet drones: ~4,800 a day (2020: 6,600).
+> - Website defacements: 419 (2020: 495).
+> - Cybercrime: 48% of overall crime; online cheating 18,068 (2020: 12,242); Computer Misuse Act cases 3,731 (2020: 3,482).
+> - Cases handled by SingCERT: 7,342 (2020: 9,080).
+
+*Source note: Outside the library. CSA, Singapore Cyber Landscape 2021 (29 Aug 2022), csa.gov.sg, read 19 Nov 2026: p4 (key figures). Listed as optional reading [DP-Plan p6].*
+
 ## 0.VIII POHA — offences and civil remedies
 
 - **Which harassment offence?**
@@ -642,6 +925,10 @@ The owner must also report any other incident the Commissioner specifies, and ke
 - **What civil remedy?**
   - Damages under the s 11 statutory tort, and s 11A enhanced damages; the common-law tort is abolished → [0-60](#clk-m-0-60)
   - Protection order: contravention, likely to continue, just and equitable → [0-61](#clk-m-0-61)
+- **Protection order refused because the harassment has stopped? (*Lai Kwok Kin v Teo Zien Jackson*)**
+  - All three s 12(2) limbs must be met; no presumption once a contravention is shown; the court may weigh conduct after filing, giving less weight to de-escalation that only "games the system" → [0-91](#clk-m-0-91)
+- **Who can never get a protection order made against them? (Exempt Class of Persons Order)**
+  - Network access, data transmission and search-index providers acting automatically, not originating or selecting the audience, not modifying the content → [0-92](#clk-m-0-92)
 
 ### clk-m-0-55 — Intentionally causing harassment, alarm or distress (s 3)
 *Keywords: intentional harassment, humiliation, sexual or indecent, doxxing, identity information, related person, POHA s 3*
@@ -713,6 +1000,34 @@ Enhanced damages are separate from punitive and aggravated damages.
 
 *Source note: SSO-POHA s 12; POHA p24-26 (s 12); DP-3 p17, p24. Since 29 Jun 2026 a protection order can also require the respondent to stop publishing an offending communication (s 12(2B)(b)).*
 
+### clk-m-0-91 — Lai Kwok Kin v Teo Zien Jackson [2020] SGHC 95 (optional reading)
+*Keywords: Lai Kwok Kin, Teo Zien Jackson, WeR1, protection order, likely to continue, just and equitable, conjunctive requirements, pre-emptive approach rejected, conduct after filing, expedited protection order, de-escalation, genuine contrition, game the system, without prejudice, POHA s 12(2)*
+
+**End point:** A former employee harassed his ex-employer's managing director by email and online posts, but the conduct stopped and the posts were taken down. The High Court (See Kee Oon J) upheld the refusal of a protection order. The three s 12(2) requirements (a contravention; likely to continue or recur; just and equitable) are conjunctive, and there is no "starting position" that an order follows once a contravention is shown. The court may consider the respondent's conduct after the application is filed: escalation supports an order, while de-escalation gets weight only if it reflects genuine contrition rather than an attempt to "game the system".
+
+> **Key points**
+> - s 12(2)(a)-(c) are cumulative; a "pre-emptive" approach would shift the burden to the respondent and make s 12(2)(b) otiose ([26], [49]).
+> - Conduct during the proceedings or while an expedited protection order is in force is relevant to whether a contravention is likely to continue ([56]-[57]).
+> - Weight depends on the facts; less weight to de-escalating acts without genuine contrition or done under an EPO ([61]).
+> - "Without prejudice" correspondence was privileged and could not be waived unilaterally ([82]-[84]).
+> - Appeal dismissed ([85]).
+
+*Source note: Outside the library. Lai Kwok Kin v Teo Zien Jackson [2020] SGHC 95 (See Kee Oon J, 12 May 2020), elitigation.sg, read 19 Nov 2026: [1]-[4], [26], [49], [56]-[57], [61], [82]-[85]. Listed as optional reading under DPCR [DP-Plan p7]; it is a POHA case, not a PDPA one. Protection order rule: clk-m-0-61.*
+
+### clk-m-0-92 — POHA (Exempt Class of Persons) Order 2014 (non-core)
+*Keywords: Exempt Class of Persons Order, exempt class, no protection order, no expedited protection order, network access, transmission or routing of data, search engine, index of search results, automatic manner, technical input only, not the originator, does not select recipients, does not modify content, POHA s 21(2)*
+
+**End point:** No protection order or expedited protection order may be made against a person who provides network access, data transmission or routing, or a search-results index, and who publishes the offending communication only in the course of that service, automatically and with technical input only, without originating it, selecting its audience or modifying it.
+
+> **Order para 2: all of these must apply**
+> - (a) in the business of providing: (i) network access facilities; (ii) transmission or routing of data or connections for it; or (iii) an index of search results linking to content stored elsewhere;
+> - (b) publishes the offending communication or statement electronically in the course of that service;
+> - (c) is not its originator;
+> - (d) does not select who may perceive it; and
+> - (e) performs the service automatically (technical input only) without modifying the content.
+
+*Source note: POHA (Exempt Class of Persons) Order 2014 (S 751/2014, as amended by S 219/2020 wef 1 Apr 2020) para 2; `study/clk-m/authorities/0 Data Protection/POHA (Exempt Class of Persons) Order.pdf` p1-2. Non-core [DP-Plan p6].*
+
 ## 0.IX False statements — POHA orders and POFMA
 
 - **Is it POHA or POFMA?**
@@ -734,11 +1049,21 @@ Enhanced damages are separate from punitive and aggravated damages.
   - The respondent is prescribed: a prescribed newspaper, broadcaster, telco or internet intermediary (POHA Regs reg 4). An ordinary blogger never is.
   - The statement has caused, or is likely to cause, serious harm to the subject's reputation. No other order has this requirement.
   - The respondent need not have published the statement.
-  - Serious harm: the Act gives no test, only two illustrations (a lawyer losing clients; a widely shared adultery allegation). `TODO: verify` any case-law test.
+  - Serious harm: the Act gives no test, only two illustrations (a lawyer losing clients; a widely shared adultery allegation). No reported judgment applies s 15E (eLitigation search, 19 Nov 2026), so argue from the illustrations.
 - **Trap words**
   - "Specific correction order": there is no such order. The intermediary order is the *targeted* correction order → [0-65](#clk-m-0-65), [0-67](#clk-m-0-67)
   - The slides label s 15B "(SPO)" and s 15C "correction order (DO)". Use the statute's names → [0-63](#clk-m-0-63), [0-64](#clk-m-0-64)
   - "Direction" means POFMA, not POHA → [0-68](#clk-m-0-68)
+- **Which intermediaries are prescribed? (POHA Prescribed Internet Intermediaries Regulations, non-core)**
+  - Disabling and targeted correction orders: Facebook, Instagram, Twitter, HardwareZone, WeChat, YouTube; general correction order: SPH, Mediacorp and others, telcos, and Facebook, Instagram, Twitter, HardwareZone, Google Search, Baidu → [0-93](#clk-m-0-93)
+- **POFMA in detail (non-core)**
+  - Offence of communicating a known falsehood (s 7: up to $50,000 and/or 5 years); Part 3 directions to the communicator: correction and stop communication (ss 10-16) → [0-94](#clk-m-0-94)
+  - Part 4 directions to intermediaries and mass media: targeted correction, disabling, general correction (ss 20-28) → [0-95](#clk-m-0-95)
+  - Declared online locations (3 or more directed statements, at least 3 within 6 months) and account restriction directions (ss 32-34, 40-43) → [0-96](#clk-m-0-96)
+  - Codes of practice; the Prominence Code (s 48) → [0-97](#clk-m-0-97)
+  - POFMA Regulations regs 3-8: who is prescribed; what a direction must contain → [0-98](#clk-m-0-98)
+- **The Online Safety (Relief and Accountability) Act 2025 (non-core)**
+  - Commissioner of Online Safety; victim reports; Part 5 directions; new statutory torts; in force in part from 29 Jun 2026 → [0-99](#clk-m-0-99)
 
 ### clk-m-0-62 — Stop publication order (s 15A)
 *Keywords: stop publication order, publisher, POHA s 15A*
@@ -810,9 +1135,9 @@ An administrator is whoever develops, maintains or manages the location, control
 > - **How "serious harm" is assessed.** The Act gives no test, only two illustrations of serious harm:
 >   - (a) X falsely says Y, a lawyer, misappropriated client money, and Y's clients end their contracts;
 >   - (b) a false allegation that Y committed adultery is widely published on social media.
-> - `TODO: verify` whether any case or the course materials set a test for serious harm.
+> - **No case-law test.** Neither the course materials nor any reported judgment sets one: an eLitigation search on 19 Nov 2026 for "general correction order" and "targeted correction order" found 0 judgments. Best-supported position: "serious" means more than ordinary reputational harm, judged on the facts, by analogy with the two illustrations (actual loss of business; wide circulation of a grave allegation).
 
-*Source note: SSO-POHA s 15E and illustrations (unchanged by Acts 21 and 23 of 2025); POHA p42-43 (s 15E); POHA Regs p3 (reg 4(4)); Drill 1 DP14. Conflict: Cyril-Exam DP §4.1.5 lists WeChat and YouTube as prescribed for s 15E; reg 4(4) lists Facebook/Instagram, Twitter, HardwareZone, Google Search and Baidu.*
+*Source note: SSO-POHA s 15E and illustrations (unchanged by Acts 21 and 23 of 2025); POHA p42-43 (s 15E); POHA Regs p3 (reg 4(4)); Drill 1 DP14. Conflict: Cyril-Exam DP §4.1.5 lists WeChat and YouTube as prescribed for s 15E; reg 4(4) lists Facebook/Instagram, Twitter, HardwareZone, Google Search and Baidu. WeChat and YouTube are prescribed only for disabling and targeted correction orders (regs 2-3; clk-m-0-93). No reported case applies s 15E (eLitigation search, 19 Nov 2026).*
 
 ### clk-m-0-67 — Requirements common to the false-statement orders
 *Keywords: false statement of fact, balance of probabilities, just and equitable, does not know it is false, specific correction order, POHA s 15*
@@ -827,6 +1152,252 @@ An administrator is whoever develops, maintains or manages the location, control
 **End point:** POFMA works through ministerial directions (correction, stop communication, access blocking, directions to intermediaries) rather than court orders; s 7 makes it an offence to communicate a known falsehood likely to cause specified harms.
 
 *Source note: DP-3 p27; POFMA p13-15; DP-Plan p6*
+
+### clk-m-0-93 — POHA (Prescribed Internet Intermediaries and Others) Regulations 2020 (non-core)
+*Keywords: prescribed internet intermediary, prescribed respondent, disabling order identical copies, targeted correction order, general correction order, Facebook, Instagram, Twitter, HardwareZone, WeChat, YouTube, Google Search, Baidu, Singapore Press Holdings, Mediacorp, StarHub Cable Vision, SingNet, Singtel Mobile, StarHub Mobile, M1, POHA Regs reg 2, reg 3, reg 4*
+
+**End point:** The Regulations name the intermediaries and others that are "prescribed" for the POHA false-statement orders. For a disabling order (identical copies) and a targeted correction order (notifying past viewers) these are Facebook, Instagram, Twitter, HardwareZone, WeChat and YouTube (regs 2-3). For a general correction order they are SPH, four broadcasters, three telcos, and Facebook, Instagram, Twitter, HardwareZone, Google Search and Baidu (reg 4). WeChat and YouTube are not prescribed for s 15E.
+
+> **POHA Regs (S 217/2020; current version on SSO as at 18 Nov 2026)**
+> - reg 2 (s 15C(2)(b), disabling order, identical copies): Facebook and Instagram (Facebook, Inc.); Twitter; HardwareZone.com (SPH Magazines); WeChat; YouTube (Google LLC).
+> - reg 3 (s 15D(2)(b), targeted correction order to past viewers): the same five.
+> - reg 4 (s 15E, general correction order):
+>   - (1) newspaper permit-holder: Singapore Press Holdings Ltd;
+>   - (2) broadcasting licensees: Mediacorp Pte Ltd; Mediacorp TV Singapore; StarHub Cable Vision; SingNet;
+>   - (3) telecommunications licensees: Singtel Mobile; StarHub Mobile; M1;
+>   - (4) internet intermediaries: Facebook and Instagram; Twitter; HardwareZone.com; Google Search; Baidu.
+
+*Source note: POHA (Prescribed Internet Intermediaries and Others) Regulations 2020 (S 217/2020) regs 2-4; `study/clk-m/authorities/0 Data Protection/POHA (Prescribed Internet Intermediary) Regulations.pdf` p1-3; checked against SSO (sso.agc.gov.sg/SL/PHA2014-S217-2020) on 19 Nov 2026, unchanged. Non-core [DP-Plan p6]. This explains the clk-m-0-66 conflict: WeChat and YouTube are prescribed only for regs 2-3.*
+
+### clk-m-0-94 — POFMA offences and Part 3 directions (ss 7-16) (non-core)
+*Keywords: POFMA s 7, communication of false statement of fact, knowing or having reason to believe, public interest, security, public health, public tranquillity, friendly relations, election, enmity, public confidence in Government, bots s 8, services s 9, Part 3 Direction, Correction Direction, Stop Communication Direction, Minister, Competent Authority, amended or ceased, non-compliance offence, access blocking order, POFMA s 10, s 11, s 12, s 15, s 16*
+
+**End point:** It is an offence to communicate in Singapore a statement knowing or having reason to believe it is a false statement of fact likely to harm specified public interests (s 7: individual up to $50,000 and/or 5 years; otherwise up to $500,000). Separately, any Minister may instruct the Competent Authority to issue a Part 3 Direction to the person who communicated a false statement of fact, if the Minister thinks it in the public interest (s 10). This can be a Correction Direction (publish a correction notice, s 11) or a Stop Communication Direction (s 12). Non-compliance is an offence (s 15), and the IMDA may be directed to order access blocking (s 16).
+
+> **POFMA ss 7-16**
+> - s 7(1): communicating in Singapore a statement known or believed to be false that is likely to: (i) prejudice security; (ii) prejudice public health, safety, tranquillity or finances; (iii) prejudice friendly relations; (iv) influence an election or referendum; (v) incite enmity between groups; or (vi) diminish public confidence in the Government or a statutory board.
+> - ss 8-9: offences of making or altering bots, and providing services, for communicating false statements.
+> - s 10: conditions for a Part 3 Direction: (a) a false statement of fact has been or is being communicated in Singapore; (b) a Minister thinks it in the public interest. It may issue even if the statement was amended or has ceased (s 10(2)).
+> - s 11: Correction Direction: publish a correction notice, including in a specified online location or next to every copy.
+> - s 12: Stop Communication Direction: stop communicating it, and substantially similar statements; may also require a correction notice.
+> - s 15: non-compliance without reasonable excuse: individual up to $20,000 and/or 12 months; otherwise up to $500,000. Another legal duty or a pending variation application or appeal is no defence.
+> - s 16: if a Part 3 Direction is not complied with, the Minister may direct the IMDA to order internet access providers to block the online location.
+> - Appeals lie to the High Court (s 17) after an application to the Minister to vary or cancel (s 19).
+
+*Source note: POFMA p13-22 (ss 7-16); DP-3 p27; DP-Plan p6 (POFMA ss 7-16 are non-core reading).*
+
+### clk-m-0-95 — POFMA Part 4 directions to intermediaries and mass media (ss 20-28) (non-core)
+*Keywords: Part 4 Direction, internet intermediary, mass media, Targeted Correction Direction, Disabling Direction, General Correction Direction, prescribed internet intermediary, identical copies, newspaper, broadcaster, telecommunications licensee, correction notice easily perceived, remedial order, non-compliance $1 million, $100,000 a day, access blocking, POFMA s 20, s 21, s 22, s 23, s 24, s 27, s 28*
+
+**End point:** If a Minister thinks it in the public interest that material containing a false statement of fact communicated in Singapore be dealt with, Part 4 Directions may go to intermediaries and the mass media (s 20). There are three kinds: a Targeted Correction Direction (an internet intermediary notifies its Singapore users who accessed the material, s 21), a Disabling Direction (disable Singapore users' access, s 22), and a General Correction Direction to prescribed intermediaries, newspapers, broadcasters or telcos (s 23). Non-compliance: individual up to $20,000 and/or 12 months; otherwise up to $1 million plus $100,000 a day (s 27). An access blocking order may follow (s 28).
+
+> **POFMA ss 20-28**
+> - s 20: conditions: (a) subject material containing a false statement of fact has been or is being communicated in Singapore; (b) public interest. Also available after amendment or removal (s 20(2)).
+> - s 21: Targeted Correction Direction to the intermediary whose service carried it, to notify all Singapore end-users who access it after a specified time; prescribed intermediaries may be required to do more.
+> - s 22: Disabling Direction to disable Singapore end-users' access; prescribed intermediaries may also have to disable identical copies and send correction notices.
+> - s 23: General Correction Direction to (a) a prescribed internet intermediary, (b) a prescribed newspaper permit-holder, (c) a prescribed broadcaster, (d) a prescribed telecoms licensee, or (e) another prescribed person, to publish a correction notice to its users or audience (who is prescribed: clk-m-0-98).
+> - s 24: correction notices must be easily perceived.
+> - s 27: non-compliance offence (as above); failing only s 24 is not non-compliance.
+> - s 28: access blocking order where a Part 4 Direction is not complied with.
+
+*Source note: POFMA p25-31 (ss 20-28); DP-Plan p6.*
+
+### clk-m-0-96 — POFMA declared online locations and account restriction (ss 32-34, 40-43) (non-core)
+*Keywords: declared online location, Declaration, 3 or more statements, active directions, 6 months, 2 years, access blocking, internet intermediary disable access, Account Restriction Direction, inauthentic online account, bot, coordinated inauthentic behaviour, POFMA s 32, s 33, s 34, s 40, s 42, s 43*
+
+**End point:** The Minister may declare an online location if three or more different statements subject to active Part 3 or 4 Directions have been communicated on it, at least three of them first communicated there within the previous six months (s 32(1)). A Declaration lasts at most two years and may require the operator to tell users (s 32(3)). Access may then be blocked, and intermediaries ordered to disable access (ss 33-34). Separately, a prescribed intermediary may be directed to restrict specified accounts used for a false statement or coordinated inauthentic behaviour, where the account is inauthentic or bot-controlled (s 40). Non-compliance is an offence (s 42) and access blocking may follow (s 43).
+
+> **POFMA ss 32-43**
+> - s 32(1): (a) 3 or more different statements subject to active Part 3 and/or Part 4 Directions communicated on the location; (b) at least 3 first communicated there within 6 months before the Declaration.
+> - s 32(3): the Declaration must give the URL or identifier, reproduce the Directions, state its start and expiry (not later than 2 years), and may require the operator to notify users.
+> - ss 33-34: access blocking orders, and orders to internet intermediaries to disable access to the declared location. ss 36-38: no deriving benefit, paid content or financial support for declared locations.
+> - s 40: Account Restriction Direction to a prescribed internet intermediary to (a) stop the service being used to communicate through specified accounts, or (b) stop those accounts interacting with Singapore users. Conditions: the account is with that intermediary; a false statement of fact or coordinated inauthentic behaviour was carried out with it; the Minister has determined it is inauthentic or bot-controlled; and it is in the public interest.
+> - ss 42-43: non-compliance offence; access blocking.
+
+*Source note: POFMA p36-50 (ss 32-43); DP-Plan p6.*
+
+### clk-m-0-97 — POFMA codes of practice and the Prominence Code (s 48) (non-core)
+*Keywords: code of practice, POFMA s 48, Competent Authority, POFMA Office, IMDA, political paid content, sponsor disclosure, coordinated inauthentic behaviour, give prominence to credible sources, Code of Practice for Giving Prominence to Credible Online Sources of Information, Prominence Code, due diligence, annual report*
+
+**End point:** The Competent Authority (the POFMA Office in IMDA) may issue codes of practice to prescribed intermediaries on disclosing political paid content, countering inauthentic behaviour, giving prominence to credible sources, and not giving prominence to declared locations or directed material (s 48). Under the Prominence Code (in force 2 Oct 2019), prescribed intermediaries must have reasonable due diligence measures that prioritise authoritative information, give contextual information, keep declared and directed material out of promotional sections, and provide Government reporting channels. They must report annually to the POFMA Office.
+
+> **Prominence Code**
+> - Applies to prescribed internet intermediaries (para 4): give prominence to credible online sources, and not give prominence to declared online locations or material subject to a Part 3 or Part 4 Direction.
+> - Due diligence measures must include (para 5):
+>   - (a) prioritising relevant and authoritative information, or reducing the visibility of directed material, in automatically ranked channels;
+>   - (b) contextual information on sources (trustworthiness indicators, media ownership, verified identity);
+>   - (c) keeping declared locations and directed material out of sections meant to promote viewership;
+>   - (d) Government reporting channels, acted on as soon as practicable.
+> - Annual report to the POFMA Office (para 6).
+
+*Source note: POFMA p55 (s 48); POFMA Office, Code of Practice for Giving Prominence to Credible Online Sources of Information (2 Oct 2019) paras 2-6, `Seniors Notes/Nic_s Part B Package/4. Nic Exam Go Pack/5. CLK/PDPA/2. PDPA Statutes/POFMA_Office,_Code_of_Practice_for_Giving_Prominence_to_Credible.pdf` p1-2. Non-core [DP-Plan p6].*
+
+### clk-m-0-98 — POFMA Regulations 2019, regs 3-8 (non-core)
+*Keywords: POFMA Regulations, prescribed internet intermediaries, Google Search, Facebook, Instagram, Messenger, WhatsApp, X, Twitter, HardwareZone, Baidu, TikTok, YouTube, WeChat, SPH Media, Mediacorp, StarHub, SingNet, Singtel Mobile, M1, digital advertising intermediaries, Google Ads, Audience Network, contents of a direction, public interest statement, basis of falsity, regs 3-8*
+
+**End point:** The Regulations name the prescribed intermediaries and media for POFMA directions and set what a direction must contain. Targeted correction, disabling and general correction directions: Google Search, Facebook, Instagram, X, HardwareZone, Baidu and TikTok, plus YouTube and WeChat for ss 21-22 (reg 3(1)-(2)). Account restriction directions also cover Messenger and WhatsApp (reg 3(3)). Prescribed media for general correction directions are SPH Media, four broadcasters and three telcos (reg 4). Every Part 3 or 4 Direction must state the online location, the basis on which the statement is false, and that the Minister thinks it in the public interest (reg 6).
+
+> **POFMA Regulations 2019 (version in force from 24 Aug 2023)**
+> - reg 3(1) (ss 21(2), 22(2), 23(1)(a)): Google Search; Facebook and Instagram (Meta); X; HardwareZone.com (SPH Media); Baidu; TikTok.
+> - reg 3(2) (ss 21(2), 22(2) only): YouTube; WeChat.
+> - reg 3(3) (s 40, account restriction): YouTube; Facebook, Messenger and Instagram; WhatsApp; X; HardwareZone.com; WeChat; TikTok.
+> - reg 4: newspaper permit-holder SPH Media; broadcasters Mediacorp Pte Ltd, Mediacorp TV Singapore, StarHub Cable Vision, SingNet; telcos Singtel Mobile, StarHub Mobile, M1.
+> - reg 5: digital advertising intermediaries: Google Ads; Meta's Audience Network.
+> - reg 6: a Part 3 or Part 4 Direction must contain (a) the online location; (b) the basis on which the statement is false; (c) a statement that the Minister thinks it is in the public interest; (d)-(e) how and where to apply to the Minister to vary or cancel it.
+> - reg 7: a Declaration must state how to apply to suspend, vary or cancel it.
+> - reg 8: an Account Restriction Direction must give the account details, the basis of falsity or coordinated inauthentic behaviour, the basis for finding the account inauthentic or a bot, and the public interest statement.
+
+*Source note: POFMA Regulations 2019 (S 662/2019, version in force from 24/8/2023) regs 3-8; `study/clk-m/authorities/0 Data Protection/POFMA Regulations.pdf` p2-7. Non-core [DP-Plan p6].*
+
+### clk-m-0-99 — Online Safety (Relief and Accountability) Act 2025 (non-core)
+*Keywords: Online Safety (Relief and Accountability) Act, OSRAA, Online Safety (Relief and Accountability) Bill 2025, Act 23 of 2025, Commissioner of Online Safety, Online Safety Commission, OSC, online harmful activity, online harassment, doxxing, online stalking, intimate image abuse, image-based child abuse, online impersonation, inauthentic material abuse, false material, statement harmful to reputation, incitement of enmity, incitement of violence, report, Part 5 direction, stop communication direction, access disabling direction, right-of-reply direction, labelling direction, account restriction direction, engagement reduction direction, access blocking order, app removal order, statutory torts, administrators, online service providers, online harm notice*
+
+**End point:** Passed on 5 Nov 2025, the Act (No 23 of 2025) commenced in part on 29 Jun 2026. It creates a Commissioner of Online Safety to whom a victim (a citizen, PR or person with a prescribed connection; a parent for a child) may report online harmful activity. On "reason to suspect" such activity, even from the report alone, the Commissioner may give Part 5 directions to anyone, in or outside Singapore: stop communication, restraining, access disabling, right-of-reply, labelling, account restriction and engagement reduction directions. Non-compliance can lead to access blocking or app removal orders and is an offence. The Act also creates statutory torts against perpetrators, administrators and online service providers that fail to respond reasonably to an online harm notice. It also made the POHA amendments now in force (e.g. administrator orders, clk-m-0-71).
+
+> **OSRAA 2025**
+> - Online harmful activities (Part 3; s 3(1)): online harassment (s 9), doxxing (s 10), non-consensual disclosure of private information (s 11), online stalking (s 12), intimate image abuse (s 13), image-based child abuse (s 14), online impersonation (s 15), inauthentic material abuse (s 16), publication of false material (s 17), statement harmful to reputation (s 18), online instigation of disproportionate harm (s 19), incitement of enmity (s 20), incitement of violence (s 21). Only those brought into operation count; from 29 Jun 2026 these include ss 9, 10, 12, 13 and 14.
+> - Online harassment (s 9): online material a reasonable person would conclude is threatening, abusive, insulting, sexual or indecent, and likely to cause harassment, alarm, distress or humiliation (excluding material with a legitimate scientific, medical, educational or artistic purpose).
+> - Reports (Part 4): eligible victims (s 22) report to the Commissioner, subject to prescribed preconditions (s 23).
+> - Directions (Part 5): given on reason to suspect, possibly on the report alone (s 26(1)-(2)), to any individual or entity in or outside Singapore (s 26(3)). For false material, only right-of-reply directions, unless the falsehood ties the victim to a trade, investment or fundraising (s 26(5)). On non-compliance: access blocking order (s 44) or app removal order (s 45) (s 43).
+> - Reconsideration and appeal to the Online Safety Appeal Panel (Part 7); offences of non-compliance (ss 71-72).
+> - Torts (Parts 10-12): e.g. intimate image abuse (s 83), image-based child abuse (s 84), online impersonation (s 85); administrators facilitating harm or failing to respond reasonably to an online harm notice (ss 90-91); online service providers failing to respond reasonably (s 94). Remedies include damages, enhanced damages and orders (Part 13).
+
+*Source note: Outside the library. Online Safety (Relief and Accountability) Act 2025 (No 23 of 2025), SSO current version as at 18 Nov 2026 (sso.agc.gov.sg/Act/OSRAA2025), read 19 Nov 2026: commencement note, ss 2, 3, 9, 22, 26, 43-45, 83-94. The reading list names the Bill [DP-Plan p6]; it has since been enacted. Non-core.*
+
+## 0.X AI regulation
+
+- **Non-core; outside course materials.** The learning plan lists this topic "in brief" only, and the library has no slides for it. These blocks use the PDPC's own published guidance → [0-73](#clk-m-0-73)
+- **What is the Model AI Governance Framework? Is it binding?** → [0-73](#clk-m-0-73)
+  - Voluntary, not law: PDPC/IMDA guidance, 2nd ed 21 Jan 2020 (1st ed 23 Jan 2019)
+  - Two guiding principles: AI decision-making should be explainable, transparent and fair; AI solutions should be human-centric
+  - Four areas: internal governance structures and measures; level of human involvement in AI-augmented decision-making; operations management; stakeholder interaction and communication
+  - Algorithm-, technology-, sector-, scale- and business-model-agnostic. Not aimed at off-the-shelf software that happens to include AI
+- **How much human oversight should the AI decision have?** → [0-73](#clk-m-0-73)
+  - Human-in-the-loop: the human keeps full control and the AI only recommends (doctor choosing a diagnosis)
+  - Human-out-of-the-loop: no human oversight and no override (product recommendations, airline scheduling)
+  - Human-over-the-loop (human-on-the-loop): the human monitors and can take over (GPS route the driver can change)
+  - Choose using the probability-severity of harm matrix, plus nature and reversibility of harm and operational feasibility
+- **Does the PDPA apply when an organisation trains or deploys an AI system?** Yes → [0-74](#clk-m-0-74)
+  - Training or testing a model on customer data without consent: Business Improvement Exception (improve a product, recommendation engine, HR shortlisting, job assignment to platform workers, bias assessment) → [0-74](#clk-m-0-74), [0-19](#clk-m-0-19)
+  - Commercial research with no product roadmap, clear public benefit, joint research with an unrelated company: Research Exception → [0-74](#clk-m-0-74), [0-20](#clk-m-0-20)
+  - Deployed AI making recommendations, predictions or decisions about users: consent and notification, unless deemed consent or an exception applies → [0-74](#clk-m-0-74)
+  - AI used to detect fraud or illegal activity without consent: legitimate interests exception → [0-74](#clk-m-0-74), [0-17](#clk-m-0-17)
+  - What to tell users: the feature, the types of data, why the data is relevant, which data most influences the output → [0-74](#clk-m-0-74)
+  - Written policies on AI safeguards (Accountability, s 12) → [0-74](#clk-m-0-74)
+  - A vendor or systems integrator building a bespoke AI system with the client's data is a data intermediary → [0-74](#clk-m-0-74), [0-6](#clk-m-0-6)
+- **AI ethics and data governance: what good practice looks like** → [0-75](#clk-m-0-75)
+  - Data minimisation; pseudonymise or anonymise; anonymised data is outside the PDPA but can be re-identified
+  - Data lineage and provenance record; data quality; selection and measurement bias; separate training, testing and validation datasets
+  - Explainability, or repeatability where explainability is impracticable; robustness; traceability; reproducibility; auditability
+  - Tell stakeholders: general disclosure, opt-out option, feedback channels and review of decisions
+
+### clk-m-0-73 — Model AI Governance Framework (non-core; outside course materials)
+*Keywords: Model AI Governance Framework, Model Framework, MAIGF, PDPC, IMDA, voluntary, not binding, guiding principles, explainable, transparent, fair, human-centric, human-in-the-loop, human-out-of-the-loop, human-over-the-loop, human-on-the-loop, probability-severity of harm matrix, internal governance, operations management, stakeholder interaction, ISAGO, Compendium of Use Cases, AI governance, artificial intelligence*
+
+**End point:** The Model AI Governance Framework is voluntary PDPC/IMDA guidance, not law (2nd ed, 21 Jan 2020). It rests on two principles: AI decision-making should be explainable, transparent and fair, and AI solutions should be human-centric. It turns them into practices in four areas. The level of human oversight (in, out of, or over the loop) is chosen mainly by the probability and severity of harm.
+
+> **Model AI Governance Framework (2nd ed)**
+> - Nature (paras 1.1, 2.2–2.3):
+>   - voluntary and "living"; adopting it does not absolve an organisation from complying with current laws, but helps show accountability-based practices (para 2.12);
+>   - algorithm-, technology-, sector-, scale- and business-model-agnostic;
+>   - aimed at organisations deploying AI at scale, not at those buying off-the-shelf software that now includes AI.
+> - Two guiding principles (para 2.7):
+>   - (a) organisations using AI in decision-making should ensure the process is explainable, transparent and fair;
+>   - (b) AI solutions should be human-centric: human well-being and safety are the primary considerations.
+> - Four areas (Part 3):
+>   - internal governance structures and measures: clear roles, risk management and internal controls, ethics review boards, board-level sponsorship (paras 3.5–3.7);
+>   - determining the level of human involvement in AI-augmented decision-making (paras 3.14–3.18);
+>   - operations management: data for model development, and explainability, repeatability, robustness, traceability, reproducibility and auditability (paras 3.19–3.44; clk-m-0-75);
+>   - stakeholder interaction and communication: general disclosure, opt-out, feedback channels (paras 3.45–3.62; clk-m-0-75).
+> - Three approaches to human involvement (para 3.14):
+>   - (a) human-in-the-loop: active human oversight; the human keeps full control and the AI only recommends (a doctor deciding the diagnosis);
+>   - (b) human-out-of-the-loop: no human oversight over executing the decision; the AI has full control with no human override (product recommendations; airline scheduling);
+>   - (c) human-over-the-loop (human-on-the-loop): the human monitors or supervises and can take over when the model meets unexpected events (a GPS route the driver can alter).
+> - Choosing the approach (paras 3.15–3.18):
+>   - a matrix of the probability of harm against the severity of harm to the individual or organisation;
+>   - not the only factors: also the nature and reversibility of harm and operational feasibility;
+>   - for safety-critical systems, a person should be able to assume control or safely shut the system down.
+> - Companion documents: the Implementation and Self-Assessment Guide for Organisations (ISAGO) and a Compendium of Use Cases (para 2.4).
+
+*Source note: Outside the library. PDPC/IMDA, Model Artificial Intelligence Governance Framework, 2nd ed (21 Jan 2020), pdpc.gov.sg, read 18 Nov 2026: Summary of updates p4; paras 1.1 (p10-11), 2.2-2.4 (p13-14), 2.7 (p15), 2.12, 3.5-3.7 (p21-22), 3.14-3.18 (p30-31). The course library only names the topic and the Framework [DP-Plan p4 (S/N 5), p6 (reading list); `Seniors Notes/Cyril - Part B/Stuff/5. Contemporary Legal Knowledge and Practice (CLK)/1. Data Protection and Cyber Regulation/Slides/1. Introduction.pdf` p4].*
+
+### clk-m-0-74 — Application of the PDPA to AI systems (non-core; outside course materials)
+*Keywords: AI system, machine learning, training data, train a model, develop, test, monitor, deploy, recommendation, prediction, decision, Advisory Guidelines on Use of Personal Data in AI Recommendation and Decision Systems, 1 Mar 2024, not legally binding, Business Improvement Exception, Research Exception, bias assessment, consent, notification, meaningful consent, legitimate interests, fraud detection, Accountability Obligation, written policies, model card, system card, service provider, systems integrator, bespoke AI, data intermediary, data mapping, labelling, provenance record, First Schedule Part 5, Second Schedule Part 2, s 12, s 20, s 24, s 25, s 26C*
+
+**End point:** The PDPA applies to all collection and use of personal data to develop, test, monitor and deploy AI systems. Training needs consent unless an exception applies, usually Business Improvement (improving an existing product or service) or Research (no product roadmap, clear public benefit). A deployed system needs consent and notification unless deemed consent or an exception (e.g. legitimate interests for fraud detection) applies. A vendor building a bespoke system on the client's data is a data intermediary, and the client stays primarily responsible.
+
+> **PDPC Advisory Guidelines on Use of Personal Data in AI Recommendation and Decision Systems (1 Mar 2024)**
+> - Status: advisory, not legally binding on the PDPC or anyone; the PDPA prevails on any inconsistency (para 2.2).
+> - The PDPA applies to all collection and use of personal data, including to develop, test and monitor AI systems and to deploy them (para 2.1).
+> - **Development, testing, monitoring.** Consent, or one of two exceptions (paras 4.2, 5–6):
+>   - Business Improvement Exception (First Sch Pt 5; Second Sch Pt 2 Div 2 for sharing within a group): use without consent, of data collected in accordance with the PDPA, for (para 5.1):
+>     - (a) improving or enhancing goods or services, or developing new ones;
+>     - (b) improving or developing methods or processes for business operations;
+>     - (c) learning or understanding individuals' behaviour and preferences;
+>     - (d) identifying suitable goods or services, or personalising them;
+>     - provided (para 5.2): (a) the purpose cannot reasonably be achieved without identifiable data; and (b) a reasonable person would consider the use appropriate.
+>     - Examples (para 5.4): social media recommendation engines; job assignment to platform workers; HR systems giving a first cut of candidates. It also covers testing (para 5.6) and bias assessment (paras 5.8–5.10).
+>   - Research Exception (Second Sch Pt 2 Div 3): broader R&D with no immediate product application (para 6.1), if (para 6.2):
+>     - (a) identifiable data is needed for the research;
+>     - (b) there is a clear public benefit;
+>     - (c) the results will not be used to make decisions affecting the individual; and
+>     - (d) published results do not identify the individual.
+>     - Disclosure to another company for joint research also needs consent to be impracticable (para 6.3).
+> - **Deployment (B2C).** Consent is needed unless deemed consent or an exception applies (para 9.1):
+>   - Notification (s 20) supports meaningful consent; it should be proportionate to the risk and the AI's autonomy (paras 9.2–9.4). Tell users, as far as practicable (para 9.5):
+>     - (a) the product function that needs the data;
+>     - (b) the types of data;
+>     - (c) how the data is relevant to the feature;
+>     - (d) which data features most influence the output.
+>   - Layered notices, pop-ups, model cards and system cards may be used; commercially sensitive detail may be withheld if the decision is justified and documented internally (paras 9.6–9.8).
+>   - Legitimate interests exception: e.g. AI used to detect or prevent illegal activity. The interests must outweigh any adverse effect, and the organisation must tell individuals it relies on the exception (paras 9.9–9.11; clk-m-0-17).
+>   - Accountability (ss 11–12): written policies on the practices and safeguards for fairness and reasonableness, proportionate to the risk, available on request (s 12(d)) and ideally published (paras 10.2–10.8). Re HSBC [2021] SGPDPC 3: HSBC met its obligations by explaining how it used personal data and AI in credit assessments (para 10.3 n 18).
+> - **Procurement (B2B).** A service provider (e.g. a systems integrator) developing a bespoke AI system with the client's personal data is a data intermediary (paras 11.1–11.2):
+>   - it owes the Protection (s 24) and Retention (s 25) Obligations, and must notify the client of a breach (s 26C);
+>   - good practice: data mapping and labelling, and a provenance record of the training data's lineage (paras 11.2–11.3);
+>   - it should help the client meet its consent, notification and accountability obligations, but the client bears primary responsibility (paras 11.4–11.8).
+>   - Not relevant to in-house development or to off-the-shelf products that use AI (para 11.1).
+
+*Source note: Outside the library. PDPC, Advisory Guidelines on Use of Personal Data in AI Recommendation and Decision Systems (1 Mar 2024), pdpc.gov.sg, read 18 Nov 2026: paras 1.3-1.5 (p3), 2.1-2.2 (p4), 4.2 (p5-6), 5.1-5.10 (p6-8), 6.1-6.3 (p9), 9.1-9.11 (p12-16), 10.1-10.8 (p16-18), 11.1-11.8 (p19-21). Exception wording in the PDPA itself: clk-m-0-19, clk-m-0-20 [PDPA p103-108]. Topic listed only [DP-Plan p4 (S/N 5)].*
+
+### clk-m-0-75 — AI ethics and data governance (non-core; outside course materials)
+*Keywords: AI ethics, data governance, data accountability, data minimisation, pseudonymise, de-identify, anonymise, anonymised data, re-identification, model inversion attack, privacy by design, data protection impact assessment, DPIA, data lineage, data provenance, data quality, bias, selection bias, measurement bias, omission bias, stereotype bias, training testing validation datasets, explainability, repeatability, robustness, traceability, reproducibility, auditability, algorithm audit, general disclosure, opt-out, feedback channel, AI Verify*
+
+**End point:** Good AI data governance means using as little personal data as possible: minimise it, and pseudonymise or anonymise it where possible. Anonymised data is outside the PDPA but still carries re-identification risk. Organisations should also know where the data came from (lineage and provenance), check its quality and bias, and make models explainable, or at least repeatable, traceable and auditable. They should tell stakeholders how AI is used and give them channels to give feedback or ask for a review.
+
+> **Data protection in development** (AI Guidelines paras 7.1–7.12):
+> - data minimisation: use only the attributes and volume needed (para 7.1);
+> - pseudonymise or de-identify as a basic control; if raw data must be used (e.g. facial images), the Protection Obligation (s 24) applies to the development environment, and a DPIA is encouraged (paras 7.2–7.3);
+> - privacy by design against privacy attacks such as model inversion (para 7.6);
+> - anonymise as far as possible. Anonymised data is outside the PDPA but can be re-identified, so controls are still needed. Where personal data is used instead, document why and decide at senior level (paras 7.8–7.9);
+> - data is effectively anonymised when there is no serious possibility of re-identification (para 7.10).
+>
+> **Data accountability for model development** (Model Framework paras 3.22–3.24):
+> - biased, inaccurate or non-representative data raises the risk of discriminatory decisions (para 3.22);
+> - practices (para 3.23):
+>   - (a) understand data lineage and keep a data provenance record;
+>   - (b) ensure data quality: accuracy, completeness, veracity, recency, relevance, integrity, usability, human interventions;
+>   - (c) minimise inherent bias: selection bias (including omission and stereotype bias) and measurement bias;
+>   - (d) use different datasets for training, testing and validation;
+>   - (e) periodically review and update datasets;
+> - the same practices apply even if only non-personal or anonymised data is used (para 3.24).
+>
+> **Algorithm and model** (Model Framework paras 3.25–3.44):
+> - explainability: explain how the model's algorithms work and how they reach a decision (paras 3.26–3.29);
+> - repeatability: where explainability is impracticable, show the model consistently gives the same result in the same scenario (para 3.30);
+> - robustness: the system copes with errors during execution and with erroneous input (paras 3.31–3.35);
+> - traceability: decisions and the data and processes behind them are documented (paras 3.36–3.38);
+> - reproducibility: an independent party can obtain the same results (paras 3.39–3.40);
+> - auditability: the system is ready for an assessment of its algorithms, data and design processes by internal or external auditors (paras 3.41–3.44; Annex B algorithm audits).
+>
+> **Stakeholder interaction** (Model Framework paras 3.45–3.62):
+> - general disclosure of whether and how AI is used (para 3.46);
+> - consider whether to offer an option to opt out (paras 3.52–3.53);
+> - feedback channels, and a way to ask for a review of material AI decisions; where a fully autonomous decision materially affects a consumer, a human review is reasonable (para 3.54).
+>
+> **Tools:** AI Verify can test explainability, fairness, robustness and other claims made in notices (AI Guidelines para 10.10).
+
+*Source note: Outside the library. PDPC, Advisory Guidelines on Use of Personal Data in AI Recommendation and Decision Systems (1 Mar 2024) paras 7.1-7.12 (p10-12), 10.10 (p18-19); PDPC/IMDA, Model AI Governance Framework, 2nd ed (21 Jan 2020) paras 3.22-3.24 (p36-40), 3.25-3.44 (p43-51), 3.45-3.54 (p53-57), Annex B (p67); both read 18 Nov 2026 on pdpc.gov.sg. Cyril's 2025 slides name the topic "Data ethics and future regulatory models / issues" but give no content [`Seniors Notes/Cyril - Part B/Stuff/5. Contemporary Legal Knowledge and Practice (CLK)/1. Data Protection and Cyber Regulation/Slides/1. Introduction.pdf` p4].*
 
 ## 1.I What law and technology is
 
@@ -965,6 +1536,8 @@ An administrator is whoever develops, maintains or manages the location, control
   - Norms (jaywalking stigma), architecture (roads) and law all shifted; a US account → [1-15](#clk-m-1-15)
 - **What is the lesson?**
   - Lessig's theory "nearly note for note": ask who has power over code → [1-16](#clk-m-1-16)
+- **Who is liable when an automated vehicle crashes? (Soh, control-centric account)**
+  - Control means influence over risk, not physical driving, so AVs are legally controllable; manufacturers, software developers, fleet operators and users all share in creating the risk; existing tort principles can cope → [1-62](#clk-m-1-62)
 
 ### clk-m-1-13 — The law of the metal horse
 *Keywords: law of the metal horse, horse-carriage cases, negligence, driver, Model T*
@@ -993,6 +1566,13 @@ An administrator is whoever develops, maintains or manages the location, control
 **End point:** The history follows Lessig "nearly note for note": markets are held by corporations, law by governments and norms by communities — so ask who has power over code, and look for "we've handled this before".
 
 *Source note: LT-3 p9*
+
+### clk-m-1-62 — Soh: a control-centric account of tort liability for automated vehicles
+*Keywords: Jerrold Soh, Towards a Control-Centric Account of Tort Liability for Automated Vehicles, Torts Law Journal 2021, automated vehicle, AV, self-driving car, driver-centric, control, metaphysical risk, risk creation, manufacturer, software developer, fleet operator, consumer, machine learning, existing tort principles*
+
+**End point:** Motor accident law is "driver-centric", which seems to suggest it cannot apply to automated vehicles. Soh argues the tort concept of control should be understood as influence over risk, not over a physical object. On that view AVs are legally controllable in theory despite having no human driver, and legally controlled in practice despite machine learning. Manufacturers, software developers, fleet operators and consumers all participate in creating vehicular risk, so existing tort principles are better equipped to allocate AV liability than they first appear.
+
+*Source note: Jerrold Soh, "Towards a Control-Centric Account of Tort Liability for Automated Vehicles" (2021) Torts Law Journal, abstract at ink.library.smu.edu.sg/sol_research/3217, read 19 Nov 2026. LT-Plan p5 (reading list); the CS1 notes set "my Automated Vehicles piece, p 9–11 only" as a starred reading [`Bar Exam/Modules/Contemporary Legal Knowledge & Practice/2. Law and Technology/Video Lecture & Slides/Compiled_Lecture_Notes_CS 1_(B26S2).pdf` p4]. The full text (SSRN and the SMU repository) sits behind bot checks, so this block follows the author's abstract, not pp 9-11. The course's own automobiles content is clk-m-1-13 to 1-16.*
 
 ## 1.IV Electronic transactions
 
@@ -1264,6 +1844,8 @@ The slides summarise this as wills, trusts and real property. Negotiable instrum
   - Businesses running pages risk liability → [1-48](#clk-m-1-48)
 - **Is the platform itself liable?**
   - Open: adoption, acquiescence once notified, architecture; Singapore has no s 230 equivalent → [1-49](#clk-m-1-49)
+- **Online defamation across borders: where is it published, and whose law applies? (*Dow Jones v Gutnick*)**
+  - Published where downloaded and read, so in Victoria; Victoria not a clearly inappropriate forum; Gary Chan proposes tiered connecting factors → [1-63](#clk-m-1-63)
 
 ### clk-m-1-46 — Lee Hsien Loong v Leong Sze Hian
 *Keywords: Lee Hsien Loong v Leong Sze Hian, sharing a link, publication, Facebook*
@@ -1292,6 +1874,13 @@ The slides summarise this as wills, trusts and real property. Negotiable instrum
 **End point:** Open questions are adoption, acquiescence once notified, and how far the architecture facilitates the defamatory meaning; Singapore has no s 230 equivalent and no platform-defamation case.
 
 *Source note: LT-5 p30; LT-CS2n p2-3*
+
+### clk-m-1-63 — Dow Jones v Gutnick: where online defamation happens
+*Keywords: Dow Jones v Gutnick, Gutnick v Jones, Barron's Online, internet defamation, place of publication, downloaded, comprehended by the reader, server in New Jersey, single publication rule rejected, multiple publication, lex loci delicti, choice of law, forum non conveniens, Victoria, Gary Chan, habitual residence, connecting factors*
+
+**End point:** A Barron's Online article written in New York and hosted on New Jersey servers defamed a Victorian resident who sued in Victoria only for his reputation there. The High Court of Australia held that defamation occurs where the material is downloaded and comprehended, so it was published in Victoria. Victoria was not a clearly inappropriate forum and its law applied. The US single publication rule (publication at the server) was rejected. Gary Chan notes that the place of publication can produce several applicable laws, and proposes tiered choice-of-law rules built on the convergence of the place of publication, the place of damage to reputation and the plaintiff's habitual residence.
+
+*Source note: Gary Chan Kok Yew, "Internet Defamation and Choice of Law in Dow Jones & Company Inc v Gutnick" [2003] Sing JLS 483, `Bar Exam/Modules/Contemporary Legal Knowledge & Practice/2. Law and Technology/Reading List/Internet_Defamation_and_Choice_of_Law in_Dow_Jones_and_Company_Inc. v Gutnick.pdf` p3-7 (facts, jurisdiction), p19-21 (place of publication), p35-37 (recommended rules); LT-1 (teaser slide "Gutnick v Jones"). The CS1 notes make Chan an "optional skim". For Singapore choice of law in tort see clk-m-3-6 to 3-11.*
 
 ## 1.IX Blockchain and crypto assets
 
@@ -1474,6 +2063,9 @@ The slides summarise this as wills, trusts and real property. Negotiable instrum
   - Gap-fillers: words over figures, lowest amount, the Thai text prevails (ss 10–14) → [2-13](#clk-m-2-13)
   - Unexpressed intention does not count; implied terms do → [2-14](#clk-m-2-14)
   - Pre-contract negotiations: admitted much more readily than at common law → [2-15](#clk-m-2-15)
+- **Can SMM invalidate the contract? Defects of consent (fact pattern Q1(b))**
+  - Indonesia: error as to the substance, duress, or fraud (Arts 1321-1328); the claim to nullify lies for 5 years (Arts 1449, 1454) → [2-46](#clk-m-2-46)
+  - Thailand: mistake (ss 156-158), fraud (s 159), and intentional silence deemed fraud (s 162); avoid within 1 year of when ratification became possible (s 181); exclusion of liability for fraud is void (s 373) → [2-47](#clk-m-2-47)
 
 ### clk-m-2-8 — Formation — no consideration
 *Keywords: formation, consent, capacity, lawful and certain content, consideration, public order*
@@ -1531,6 +2123,42 @@ The slides summarise this as wills, trusts and real property. Negotiable instrum
 
 *Source note: Cmp-2 p6; Cmp-2T p5*
 
+### clk-m-2-46 — Indonesia: defects of consent (Arts 1321-1328, 1449-1454)
+*Keywords: defects of consent, wilsgebreken, error, mistake, dwaling, duress, dwang, fraud, bedrog, nullification, voidable, substance of the subject matter, identity of the person, fraud must be proven, five years, restitution, Indonesian Civil Code Art 1320, Art 1321, Art 1322, Art 1323, Art 1328, Art 1449, Art 1452, Art 1454*
+
+**End point:** Consent is defective if given by mistake or obtained by duress or fraud (Art 1321). Mistake counts only if it goes to the substance of the subject matter, or to the identity of the other party where the contract was made for that person (Art 1322). Fraud must be such that the other party would never have contracted without it, and it must be proved, not presumed (Art 1328). The contract is not void automatically: the affected party must claim nullification (Art 1449), generally within five years (Art 1454), and the parties are restored to their prior position (Art 1452).
+
+> **Indonesian Civil Code**
+> - Art 1321: no valid consent if given by mistake or obtained by duress or fraud.
+> - Art 1322: mistake invalidates only if it concerns the substance of the subject matter; a mistake as to the person invalidates only if the contract was concluded for that specific person.
+> - Arts 1323-1327: duress (including by a third party, or against a spouse or relatives) is a ground for nullification; it is lost if the contract is affirmed after the duress ends.
+> - Art 1328: fraud is a ground only if, without the deceit, the other party would clearly never have contracted; fraud is not presumed and must be proven.
+> - Art 1449: a contract made under duress, error or fraud gives a legal claim to nullify it.
+> - Art 1452: nullification restores the parties to their pre-contract position; Art 1453: costs, damages and interest may also be awarded.
+> - Art 1454: the claim must be brought within five years, unless a shorter period applies.
+> - Apply (fact pattern): mere silence about Ms Moreau's plans would have to amount to deceit without which SMM would never have contracted, proved by SMM (Art 1328); the contract here is governed by Thai law (cl 17.1), so see clk-m-2-47.
+
+*Source note: Indonesian Civil Code (trilingual), `study/clk-m/authorities/2 Comparative/Indonesian Civil Code (trilingual).pdf` p291-292 (Arts 1321-1328), p315 (Arts 1449-1454). The course slides do not cover defects of consent [Cmp-2]; the fact pattern raises the issue [Fact p3 Q1(b)]. Outside the slides.*
+
+### clk-m-2-47 — Thailand: mistake, fraud and intentional silence (CCC ss 156-163, 181, 373)
+*Keywords: mistake as to an essential element, void, mistake as to quality of the person, voidable, gross negligence, fraud, voidable, incidental fraud, compensation only, intentional silence, non-disclosure, bilateral juristic act, deemed fraud, ratification, one year, ten years, exclusion of liability for fraud void, entire agreement, non-reliance clause, clause 15, Thai Civil and Commercial Code s 156, s 157, s 158, s 159, s 161, s 162, s 163, s 181, s 373*
+
+**End point:** Under Thai law a declaration made under a mistake as to an essential element is void (s 156), and one made under a mistake as to an essential quality of the person is voidable (s 157), unless the mistaken party was grossly negligent (s 158). A declaration induced by fraud is voidable only if, without the fraud, the act would not have been made (s 159); incidental fraud gives only compensation (s 161). In a bilateral act, intentional silence about a fact the other party does not know is deemed fraud if, without it, the act would not have been made (s 162). A voidable act must be avoided within one year of when it could be ratified and within ten years of the act (s 181). An advance agreement excluding liability for one's own fraud or gross negligence is void (s 373).
+
+> **Thai CCC**
+> - s 156: mistake as to an essential element (the character of the act, the person who is party, the property) makes the declaration void.
+> - s 157: mistake as to a quality of the person, essential in ordinary dealings and without which the act would not have been made: voidable.
+> - s 158: no reliance on ss 156-157 if the mistake was due to one's own gross negligence.
+> - s 159: fraud makes the declaration voidable only if, without it, the act would not have been made; third-party fraud only if the other party knew or ought to have known.
+> - s 161: incidental fraud (only more onerous terms): compensation only.
+> - s 162: intentional silence by one party about a fact or quality the other does not know is deemed fraud, if it is proved that without it the act would not have been made.
+> - s 163: if both acted fraudulently, neither can rely on it.
+> - s 181: a voidable act cannot be avoided later than one year from when ratification could have been made, or ten years from the act.
+> - s 373: an agreement made in advance exempting a debtor from liability for its own fraud or gross negligence is void.
+> - Apply (fact pattern, Thai law under cl 17.1): SP's intentional silence about Ms Moreau's planned departure is deemed fraud under s 162 only if SMM proves it would not have contracted without it; Ms Ahmad's evidence that Moreau was not "essential" goes to that. If it was incidental, SMM gets compensation only (s 161). On the best reading of s 373, the cl 15.2-15.3 non-reliance and exclusion wording cannot protect SP against liability for its own fraud.
+
+*Source note: Thai Civil and Commercial Code Book 1 (English translation, ThaiLaws.com 2008 edition) ss 156-163 p23-25, s 181 p26; s 373 from thailawonline.com/thai-civil-code/section-373 (unofficial plain-English summary), both read 19 Nov 2026. Outside the course slides and library; the fact pattern raises the issue [Fact p3 Q1(b)]. Applying s 373 to cl 15 is this pack's reading; the course materials do not decide it. Good faith and abuse of rights: clk-m-2-16 to 2-19.*
+
 ## 2.III Good faith (Thailand)
 
 - **What role does good faith play?**
@@ -1577,6 +2205,8 @@ The slides summarise this as wills, trusts and real property. Negotiable instrum
   - Contributory fault versus mitigation; no general duty to mitigate in France → [2-23](#clk-m-2-23)
   - Notice of default and a last chance first → [2-24](#clk-m-2-24)
   - Election: renounce performance to claim damages; silence means insisting on performance → [2-25](#clk-m-2-25)
+- **Can SMM simply terminate on its own? Indonesia (fact pattern Q1(a))**
+  - No: a breach is an implied dissolving condition, but dissolution must be requested from the court (Art 1266) → [2-48](#clk-m-2-48)
 
 ### clk-m-2-20 — Specific performance is preferred
 *Keywords: specific performance, impossible, damages adequate*
@@ -1619,6 +2249,19 @@ The slides summarise this as wills, trusts and real property. Negotiable instrum
 **End point:** The code prescribes the relief after termination, and the obligee must immediately renounce performance to claim positive damages (as if performed) or negative damages (as if never made); staying silent means being deemed to insist on performance, with only delay damages (Turkish case study; Indonesian and Thai codes are "similar").
 
 *Source note: Cmp-2 p9-11; Cmp-2T p10-11; SampleQs p101 Q10, key p130*
+
+### clk-m-2-48 — Indonesia: termination must be requested from the court (Art 1266)
+*Keywords: termination, dissolution, unilateral termination, implied dissolving condition, reciprocal agreement, non-performance, court, judge, grace period, one month, Indonesian Civil Code Art 1266*
+
+**End point:** In a reciprocal contract, non-performance is deemed a dissolving condition, but the contract is not void by law: dissolution must be requested from the court, even if the contract expressly provides for termination on non-performance (Art 1266). If the contract has no termination clause, the judge may give the defendant up to one month to perform. So under Indonesian law SMM cannot terminate unilaterally; it must go to court (or, with an arbitration clause, the tribunal; clk-m-2-49).
+
+> **Indonesian Civil Code Art 1266**
+> - A dissolving condition is deemed included in reciprocal agreements where one party fails to perform.
+> - The agreement is not void by law; dissolution must be requested from the court.
+> - The request is needed even if the agreement states the conditions of dissolution on non-performance.
+> - If it does not, the judge may, at the defendant's request, fix a period of at most one month to perform.
+
+*Source note: Indonesian Civil Code (trilingual), `study/clk-m/authorities/2 Comparative/Indonesian Civil Code (trilingual).pdf` p281 (Art 1266). Outside the course slides; the fact pattern asks it [Fact p3 Q1(a)]. Material breach generally: clk-m-2-21.*
 
 ## 2.V Delict (non-contractual claims)
 
@@ -1681,6 +2324,12 @@ The slides summarise this as wills, trusts and real property. Negotiable instrum
   - International arbitral awards: district courts register, set aside and enforce only → [2-34](#clk-m-2-34)
 - **Thailand: which court?**
   - Where the cause arose or the defendant is domiciled (CPC s 4); the specialised courts → [2-35](#clk-m-2-35)
+- **The contract has an arbitration clause: can the Jakarta court hear the claim, or SP's counterclaim? (fact pattern Q4(a)-(b))**
+  - No: the District Court has no jurisdiction over disputes between parties bound by an arbitration agreement (Arbitration Law Arts 3, 11) → [2-49](#clk-m-2-49)
+- **The claim names the wrong party: what should the defendant do? (Q4(a))**
+  - Raise an exception (error in persona) asking the court to declare the claim inadmissible, alongside the competence exception → [2-50](#clk-m-2-50)
+- **Can SP recover its legal costs? (Q4(d))**
+  - Court costs follow the event; lawyers' fees are generally not recoverable in Indonesian courts → [2-51](#clk-m-2-51)
 
 ### clk-m-2-32 — Relative competence and the exception
 *Keywords: relative competence, domicile, HIR Art 118(1), exception, decided before the merits*
@@ -1709,6 +2358,33 @@ The slides summarise this as wills, trusts and real property. Negotiable instrum
 **End point:** Sue where the cause of action arose or the defendant is domiciled (CPC s 4); four specialised first-instance courts have nationwide jurisdiction (Labour, with 8 regional branches; IP and International Trade; Tax; Bankruptcy), with most appeals going straight to the Supreme Court.
 
 *Source note: Cmp-4 p5*
+
+### clk-m-2-49 — Indonesia: an arbitration clause ousts the District Court (Arbitration Law Arts 3, 11)
+*Keywords: arbitration agreement, arbitration clause, District Court has no jurisdiction, absolute competence, eliminate the right to go to court, refuse and not interfere, counterclaim, exception, Law No 30 of 1999, Arbitration Law Art 3, Art 11, HK-seated ICC arbitration*
+
+**End point:** The District Court has no jurisdiction to try disputes between parties bound by an arbitration agreement (Art 3), and a written arbitration agreement removes the parties' right to take the dispute to the District Court, which must refuse to intervene (Art 11). On the fact pattern, cl 18 (HK-seated ICC arbitration) means the Central Jakarta District Court should decline the claim. SP should raise the arbitration clause as an absolute-competence exception (clk-m-2-33) rather than counterclaim for the fees there. A counterclaim also falls within cl 18, so the court can refuse to award it even if the contract is valid; SP should claim the fees in the arbitration.
+
+> **Law No 30 of 1999 on Arbitration and ADR**
+> - Art 3: the District Court has no jurisdiction to try disputes between parties bound by an arbitration agreement.
+> - Art 11(1): a written arbitration agreement eliminates the parties' right to resolve the dispute through the District Court.
+> - Art 11(2): the District Court must refuse, and not interfere in, a dispute that has been determined by arbitration, except where the Act provides.
+> - The courts' role is limited to registering, setting aside and enforcing awards (clk-m-2-34).
+
+*Source note: Law No 30 of 1999 on Arbitration and Alternative Dispute Resolution, Arts 3, 11 (English translation, acerislaw.com copy; official translation also at peraturan.go.id), read 19 Nov 2026. Outside the course slides; Cmp-4 p4 states only the courts' limited role over awards. Applying it to the fact pattern [Fact p3 Q4(a)-(b), cl 18] is this pack's reading; another basis for refusing the fees would be good faith or abuse of rights (clk-m-2-18, 2-19).*
+
+### clk-m-2-50 — Indonesia: the wrong party named in the claim (error in persona)
+*Keywords: wrong party, wrongly identified defendant, error in persona, exceptio in persona, exception, eksepsi, claim inadmissible, niet ontvankelijk verklaard, tidak dapat diterima, HIR Art 136, decided with the merits*
+
+**End point:** A claim that names the wrong defendant is defective in form. The defendant raises an error in persona exception, asking the court to declare the claim inadmissible (niet ontvankelijk verklaard), which ends the case without deciding the merits. Exceptions other than competence are decided together with the merits (HIR Art 136), whereas a competence exception is decided first (clk-m-2-32, 2-33). On the fact pattern SP should raise both the arbitration clause (absolute competence; clk-m-2-49) and the error in persona. The wrong naming alone does not make the court lack jurisdiction.
+
+*Source note: Outside the course materials. Hukumonline, "Tentang Error in Persona dan Error in Objecto" (klinik, read 19 Nov 2026), citing M Yahya Harahap; Leks & Co blog on formal exceptions and HIR Art 136 (read 19 Nov 2026). These are secondary sources: no statute or Supreme Court decision was located. Best-supported position, to be weighed accordingly. The fact pattern asks it [Fact p3 Q4(a)].*
+
+### clk-m-2-51 — Indonesia: costs (court costs versus lawyers' fees)
+*Keywords: legal costs, lawyers' fees, attorney fees, court costs, court fees, losing party pays, costs follow the event, not recoverable, each party bears its own fees, HIR Art 181*
+
+**End point:** In Indonesian civil litigation the losing party is ordered to pay the court costs (court fees, operational costs, stamp duty), set by the judges in the judgment (HIR Art 181). Each party generally bears its own lawyers' fees: there is no general rule shifting them, and recovery is rare. On the fact pattern, SP can expect court costs if it wins but should not expect to recover its legal fees in the Jakarta proceedings. In the ICC arbitration, the tribunal can award costs, including legal fees.
+
+*Source note: Outside the course materials. Secondary practice guides read 19 Nov 2026: Chambers Global Practice Guides, Litigation 2026 (Indonesia) and Litigation 2025 (Indonesia); Makarim & Taira S, Litigation & Dispute Resolution 2019 (Global Legal Insights); Mulawarman Law Review article on recovery of lawyers' fees. HIR Art 181 itself was not read; it is cited as these guides describe the rule. The ICC point relies on the ICC Rules (not read here). The fact pattern asks it [Fact p3 Q4(d)].*
 
 ## 2.VII Ex aequo et bono
 
@@ -2027,9 +2703,14 @@ The slides summarise this as wills, trusts and real property. Negotiable instrum
 - **Is it non-exclusive?**
   - Naming Singapore: strong cause → [3-27](#clk-m-3-27)
   - Naming a foreign court: the natural forum test; the clause is only a factor → [3-28](#clk-m-3-28)
-- **Service and treaties**
+- **Does the clause provide for service out?**
   - A clause providing for service out: no Court approval needed (O 8 r 1(3)) → [3-29](#clk-m-3-29)
-  - Hague Choice of Court (COCAA): not covered → [3-30](#clk-m-3-30)
+- **Hague Choice of Court Agreements Act 2016 (COCAA): not covered in the course, "good to know in practice"** → [3-30](#clk-m-3-30)
+  - Does COCAA apply? International case, exclusive choice of court agreement, civil or commercial matter; not consumers, employment, arbitration or the s 9(2) list → [3-30](#clk-m-3-30)
+  - A clause naming the courts of one Contracting State is deemed exclusive unless the parties expressly say otherwise → [3-30](#clk-m-3-30)
+  - Singapore is the chosen court: it must hear the case and cannot decline on forum non conveniens → [3-30](#clk-m-3-30)
+  - Singapore is not the chosen court: it must stay or dismiss, unless one of five exceptions applies (s 12(1)) → [3-30](#clk-m-3-30)
+  - Enforcing a judgment of a chosen foreign court: the High Court must recognise it with no review of the merits; mandatory and discretionary refusal grounds (ss 13–16) → [3-30](#clk-m-3-30)
 
 ### clk-m-3-25 — Exclusive Singapore clause — strong cause
 *Keywords: exclusive jurisdiction clause, strong cause, Vinmar, abuse of process, party autonomy*
@@ -2067,11 +2748,56 @@ The slides summarise this as wills, trusts and real property. Negotiable instrum
 *Source note: CoL-3 p23-24*
 
 ### clk-m-3-30 — Hague Choice of Court (COCAA) — not covered
-*Keywords: Choice of Court Agreements Act 2016, COCAA, Hague Convention 2005*
+*Keywords: Choice of Court Agreements Act 2016, COCAA, Hague Convention on Choice of Court Agreements 2005, Hague Convention 2005, Contracting State, exclusive choice of court agreement, deemed exclusive, unless expressly provided otherwise, international case, civil or commercial matter, consumer, employment, chosen court, must exercise jurisdiction, cannot decline, forum non conveniens, non-chosen court, must stay or dismiss, null and void, capacity, manifest injustice, public policy, cannot reasonably be performed, chosen court decided not to hear, recognition and enforcement, foreign judgment, no review of merits, refuse recognition, fraud in connection with procedure, inconsistent judgment, punitive damages, non-compensatory damages, judicial settlement, interim measures, severability, COCAA s 3, s 8, s 9, s 11, s 12, s 13, s 14, s 15, s 16*
 
-**End point:** Under COCAA a clause choosing one Convention state is deemed exclusive and the chosen court must hear the case; the slide flags this as not covered in the course.
+**End point:** The slide flags COCAA as not covered in the course but "good to know in practice". It applies to an exclusive choice of court agreement in an international civil or commercial case. A clause naming the courts of one Contracting State is deemed exclusive unless the parties expressly say otherwise. A chosen Singapore court must hear the case unless the agreement is null and void under Singapore law, and cannot decline on forum non conveniens. A non-chosen Singapore court must stay or dismiss unless one of five exceptions applies. The High Court must recognise and enforce a chosen foreign court's judgment without reviewing the merits, subject to the refusal grounds in ss 14–16.
 
-*Source note: CoL-3 p28*
+> **Choice of Court Agreements Act 2016 (gives effect to the Hague Convention of 30 Jun 2005; in force 1 Oct 2016)**
+> - **Scope (s 8):** every international case where there is an exclusive choice of court agreement concluded in a civil or commercial matter, subject to ss 9, 10 and 22.
+>   - "International case" for jurisdiction (s 4(1)): unless the parties reside in the same Contracting State and everything except the chosen court's location is connected only with that State. For recognition, any foreign judgment case is international (s 4(2)).
+>   - Excluded agreements (s 9(1)): (a) a party is an individual acting primarily as a consumer; (b) employment contracts and collective agreements.
+>   - Excluded matters (s 9(2)), e.g. status and capacity of individuals, family law, succession, insolvency, carriage of passengers and goods, competition, personal injury or death, non-contractual tort claims for damage to tangible property, rights in rem in immovables, validity of legal persons, validity and (non-contractual) infringement of IP other than copyright, public registers. A matter raised only as a preliminary question does not take the case outside the Act (s 9(5)).
+>   - Arbitration and related proceedings are excluded (s 9(3)); so are interim measures, which a Singapore court may still grant (s 10).
+>   - Not retrospective: no application to a Singapore-court agreement concluded before 1 Oct 2016, or to a foreign-court agreement concluded before the Convention entered into force for that State (s 24).
+> - **Exclusivity (s 3):**
+>   - (1) exclusive agreement: in writing or another accessible form, designating the courts (or specific courts) of one Contracting State to the exclusion of all others;
+>   - (2) deemed exclusive: a written agreement designating the courts of one Contracting State is deemed exclusive unless the parties expressly provide otherwise;
+>   - a clause in a contract is independent of the contract, so the contract's invalidity alone does not invalidate it (s 5).
+> - **Singapore is the chosen court (s 11):**
+>   - (1) it has jurisdiction unless the agreement is null and void under Singapore law;
+>   - (2) it cannot decline on the ground that the dispute should be decided in another State's court (no forum non conveniens stay);
+>   - (3) except in circumstances prescribed by regulations.
+>   - A designation of the High Court includes the SICC unless a contrary intention appears (s 2(2)–(3)).
+> - **Singapore is not the chosen court (s 12(1)):** it must stay or dismiss, unless it determines that:
+>   - (a) the agreement is null and void under the law of the chosen court's State;
+>   - (b) a party lacked capacity under Singapore law;
+>   - (c) giving effect to it would lead to manifest injustice or be manifestly contrary to Singapore public policy;
+>   - (d) it cannot reasonably be performed for exceptional reasons beyond the parties' control; or
+>   - (e) the chosen court has decided not to hear the case.
+>   - The court may still stay or dismiss on other grounds (s 12(2)).
+> - **Recognition and enforcement (s 13):** apply to the General Division of the High Court.
+>   - The judgment is recognised only if it has effect, and enforced only if it is enforceable, in the State of origin (s 13(2)).
+>   - No review of the merits; the court is bound by the origin court's jurisdictional findings of fact unless the judgment was by default (s 13(3)).
+>   - The court must recognise and enforce, except on the refusal grounds below (s 13(4)).
+>   - "Judgment" covers final decisions on the merits, consent and default judgments, and costs (s 2(1)); a severable part may be enforced (s 19).
+> - **Must refuse (s 14):**
+>   - (a) the defendant was not notified of the originating document in time to defend, unless the defendant appeared and argued the case without challenging notification where the origin State's law allowed a challenge;
+>   - (b) the judgment was obtained by fraud in connection with a matter of procedure;
+>   - (c) recognition would be manifestly incompatible with Singapore public policy, including fundamental principles of procedural fairness.
+> - **May refuse (s 15(1)):**
+>   - (a) the agreement is null and void under the chosen court's law, unless the chosen court held it valid;
+>   - (b) a party lacked capacity under Singapore law;
+>   - (c) notification was incompatible with Singapore's fundamental principles on service;
+>   - (d) the judgment is inconsistent with a Singapore judgment between the same parties;
+>   - (e) it is inconsistent with an earlier recognisable judgment of another State between the same parties on the same cause of action;
+>   - (f) other prescribed circumstances.
+> - **Other grounds:**
+>   - refuse or postpone while the judgment is under review or appeal, or the time for one has not expired (s 15(2));
+>   - refuse against a party that objected in time to a transfer by the chosen court (s 15(4));
+>   - refuse to the extent the damages, including exemplary or punitive damages, exceed compensation for actual loss (s 16).
+> - Judicial settlements are enforced like judgments, on the same refusal grounds (s 20). Where the Act does not apply, the common law rules continue (s 21).
+
+*Source note: CoL-3 p28 (slide: "not covered in this course, but good to know in practice"; deemed exclusive; chosen court must exercise jurisdiction; non-chosen court must not, "unless the clause is invalid"). Statute: Choice of Court Agreements Act 2016 (2020 Rev Ed, operative 31 Dec 2021), `study/clk-m/authorities/3 Conflicts/Choice of Court Agreements Act 2016 (SSO current).pdf`, ss 2-5, 8-16, 19-21, 24. CoL-3 p28 shortens the s 12(1) exceptions to "unless the clause is invalid"; the Act lists five. The library does not list the Contracting States; the pack states no list, so check the HCCH status table if a question turns on it.*
 
 ## 3.VII Submission by conduct
 

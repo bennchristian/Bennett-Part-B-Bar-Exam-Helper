@@ -2,7 +2,7 @@
 
 Paper `ccp-1`, CCP Paper 1 (MCQ), Wed 9 Dec 2026, 2:30–4:30pm, open book. Subjects: 0 Banking & Fundraising · 1 Corporate Governance · 2 Insolvency & Corporate Restructuring · 3 Admiralty. Written 15 Nov 2026 as Markdown only, on Bennett's instruction of 14 Nov; no PDF is built until Phase 2 (`python3 tools/build_pack.py ccp-1 --questions`).
 
-**How the file runs.** *Part 1* holds the questions by Subject → Topic → Sub-point, in `coverage.md` order. Each real question sits under the Sub-point it mainly tests; any other Sub-point it tests is named in its tag line and carries a "See also" line. Where no real question reaches a Sub-point, an own question fills the gap. Every one of the 196 Sub-points has at least one question whose tag line names it. *Part 2* holds the Drills: timed sets built from Part 1 questions, by Topic or mixed, each with a time limit and an answer key.
+**How the file runs.** *Part 1* holds the questions by Subject → Topic → Sub-point, in `coverage.md` order. Each real question sits under the Sub-point it mainly tests; any other Sub-point it tests is named in its tag line and carries a "See also" line. Where no real question reaches a Sub-point, an own question fills the gap. Every one of the 212 Sub-points has at least one question whose tag line names it. *Part 2* holds the Drills: timed sets built from Part 1 questions, by Topic or mixed, each with a time limit and an answer key.
 
 **How to read a question.** The tag line gives the question ID · the Sub-point Keys it raises (`coverage.md`) · the source · the end-point block(s) in `cheatsheets.md` that hold the rule. The answer follows the options: why the right option is right, why each other option is wrong, then the cite. Cites use the source aliases in `coverage.md` → "Source key" and statute sections (IRDA-2018 = Nic's copy of the Act as gazetted). Cover the answer, answer it, then check; log every miss in `weak-spots.md` under its Key.
 
@@ -20,15 +20,15 @@ Paper `ccp-1`, CCP Paper 1 (MCQ), Wed 9 Dec 2026, 2:30–4:30pm, open book. Subj
 
 Self-study only: never use this file with a live quiz, the Mock Exam or another assessment (Handbook §7.11).
 
-**Left out.** 2023 Q38 (the options are below the fold on the screenshot), Q42, Q44 and Q53 (not held), Q54 (stem cut off at the top) and these, because the pack cannot settle one answer: 2023 Q23 (turns on the Listing Manual definition of "associated company", which the pack does not hold), Q34 (the interested persons are directors and the CEO of the unlisted associate, not of the issuer, so the intended answer is unclear), Q41 (on the facts given every option reads as true), Q56 (options B and C both state the law correctly); 2021 INS Q1 (directors' duties to creditors) and Q32 (scheme managers' duties), which are outside the course materials the pack uses, and Q34 (s 440 and an aircraft maintenance contract after a creditors' voluntary winding up: options B and C both lead to "can terminate"). The written 2021 Advanced Corporate Practice paper (board composition under the pre-2023 two-tier vote) and 2021 INS Q36 (a five-question client checklist) are not reproduced.
+**Left out.** 2023 Q38 (the options are below the fold on the screenshot), Q42, Q44 and Q53 (not held), Q54 (stem cut off at the top) and these, because the pack cannot settle one answer: 2023 Q23 (turns on the Listing Manual definition of "associated company", which the pack does not hold), Q34 (the interested persons are directors and the CEO of the unlisted associate, not of the issuer, so the intended answer is unclear), Q41 (on the facts given every option reads as true), Q56 (options B and C both state the law correctly); 2021 INS Q1 (directors' duties to creditors) and Q32 (scheme managers' duties), which are outside the course materials the pack uses. The written 2021 Advanced Corporate Practice paper (board composition under the pre-2023 two-tier vote) and 2021 INS Q36 (a five-question client checklist) are not reproduced.
 
 | Subject | Real questions | Own questions | Total |
 |---|---|---|---|
-| 0 Banking & Fundraising | 28 (SQ 10; 2023 18) | 37 | 65 |
-| 1 Corporate Governance | 27 (SQ 10; 2023 17) | 35 | 62 |
-| 2 Insolvency & Corporate Restructuring | 56 (SQ 10; 2023 14; 2021 INS 32) | 39 | 95 |
+| 0 Banking & Fundraising | 28 (SQ 10; 2023 18) | 38 | 66 |
+| 1 Corporate Governance | 27 (SQ 10; 2023 17) | 43 | 70 |
+| 2 Insolvency & Corporate Restructuring | 57 (SQ 10; 2023 14; 2021 INS 33) | 46 | 103 |
 | 3 Admiralty | 28 (SQ 10; 2023 2; ADM2 8; ADM1 8) | 10 | 38 |
-| **Total** | **139** (SQ 40; 2023 51; 2021 INS 32; ADM2 8; ADM1 8) | **121** | **260** |
+| **Total** | **140** (SQ 40; 2023 51; 2021 INS 33; ADM2 8; ADM1 8) | **137** | **277** |
 
 Part 2 has 14 Drills.
 
@@ -264,7 +264,7 @@ D. The information memorandum is the arranger's own document, for which the borr
 
 ### 0.III The facility agreement
 
-Sub-points 0.III.1–0.III.8. Real questions: QSQ-B3 (0.III.2), QSQ-B4, Q23-5 (0.III.6). Own questions Q0-6 to Q0-11.
+Sub-points 0.III.1–0.III.9. Real questions: QSQ-B3 (0.III.2), QSQ-B4, Q23-5 (0.III.6). Own questions Q0-6 to Q0-11, Q0-38.
 
 ### 0.III.1 — Four categories of clauses
 
@@ -399,6 +399,20 @@ D. A transfer always needs a court order.
 
 **Answer: B.** Lender transfers are usually expressly allowed, subject to the borrower paying no more or to its consent not withheld without good reason. A and D: no. C: assignment and transfer is boilerplate.
 *Cite: BF1 s20; RL-XB p8–9; `ccp-1-0-17`*
+
+### 0.III.9 — Cross-border loans: local law checks, governing law and jurisdiction, withholding tax
+
+**Q0-38** · `0.III.9` · own question · `ccp-1-0-55`
+
+A Singapore company borrows from a lender resident in Germany under an English-law facility agreement. Interest payable to the lender is deemed Singapore-sourced. Which statement is correct?
+
+A. Governing law has no effect on whether the borrower's promise to pay without deduction works; the clause always binds.
+B. The interest is generally subject to Singapore withholding tax when paid to the non-resident lender, and a lender's transfer of the loan is usually allowed only if the borrower will not have to pay more (e.g. because of different withholding tax).
+C. A choice of jurisdiction clause should be left out of a cross-border facility, because arbitration is always required.
+D. Legal opinions are never a condition precedent in a cross-border loan.
+
+**Answer: B.** Payments of interest deemed derived from Singapore under ITA s 12(6) are generally subject to withholding tax when paid to non-residents (RL-DCM p23), and transfers are usually permitted on condition the borrower pays no more, for example in withholding tax (RL-XB p8). A is wrong: the no-deduction clause works only as far as the governing law allows (RL-XB p9). C is wrong: the agreement should choose a jurisdiction wherever possible; arbitration is an alternative that may suit some jurisdictions (RL-XB p9). D is wrong: legal opinions are a usual condition precedent (RL-XB p2).
+*Cite: RL-XB p2, p8–9; RL-DCM p23; `ccp-1-0-55`*
 
 ### 0.IV Taking security
 
@@ -1585,7 +1599,7 @@ D. Ask SGX for a waiver.
 
 ### 1.IX The Code of Corporate Governance and comply-or-explain
 
-Sub-points 1.IX.1–1.IX.2. Real questions: QSQ-G9, Q23-29 (1.IX.1); Q23-22 (1.IX.1, under 1.X.3). Own question Q1-24.
+Sub-points 1.IX.1–1.IX.5. Real questions: QSQ-G9, Q23-29 (1.IX.1); Q23-22 (1.IX.1, under 1.X.3). Own questions Q1-24, Q1-36 to Q1-38.
 
 ### 1.IX.1 — Status of the Code; Rule 710; Principles, Provisions, Practice Guidance
 
@@ -1631,6 +1645,48 @@ D. Managing stakeholder relationships.
 
 **Answer: C.** The Code's five sections: board matters (1–5), remuneration matters (6–8), accountability and audit (9–10), shareholder rights and engagement (11–12), managing stakeholder relationships (13).
 *Cite: CG4 s3; CODE pp4–18; `ccp-1-1-35`*
+
+### 1.IX.3 — Principle 1: the Board's conduct of affairs (Provisions 1.1–1.7)
+
+**Q1-36** · `1.IX.3` · own question · `ccp-1-1-56`
+
+Under the Code of Corporate Governance 2018, which of the following is NOT a Provision under Principle 1?
+
+A. Directors facing conflicts of interest recuse themselves from discussions and decisions involving the conflict.
+B. The number of Board and committee meetings and each director's attendance are disclosed in the annual report.
+C. The appointment and removal of the company secretary is a decision of the Board as a whole.
+D. The CEO alone decides which matters need Board approval and keeps that list confidential.
+
+**Answer: D.** The Board decides which matters need its approval, tells Management in writing, and discloses those matters in the annual report (Provision 1.3). A is Provision 1.1, B is Provision 1.5 and C is Provision 1.7.
+*Cite: CODE p4–5; `ccp-1-1-56`*
+
+### 1.IX.4 — Principle 5: Board performance and annual evaluation (Provisions 5.1–5.2)
+
+**Q1-37** · `1.IX.4` · own question · `ccp-1-1-57`
+
+A listed company used an outside consultant, whose partner is the brother of a director, to run its board evaluation. Under the Code, what must the annual report disclose?
+
+A. Nothing; board evaluations are confidential.
+B. How the assessments of the Board, its committees and each director were conducted, including the identity of the external facilitator and its connection with the company or any director.
+C. Only the overall score the Board gave itself.
+D. Only whether the AC approved the consultant's fee.
+
+**Answer: B.** Provision 5.2. The NC recommends the evaluation criteria and process for the Board's approval (Provision 5.1); the assessment covers the Board as a whole, each committee and each director, every year (Principle 5).
+*Cite: CODE p9; `ccp-1-1-57`*
+
+### 1.IX.5 — Principles 11–13: shareholder rights, general meetings, engagement
+
+**Q1-38** · `1.IX.5` · own question · `ccp-1-1-58`
+
+At its AGM a listed company plans to put the re-election of two directors and an amendment to its constitution to shareholders as one resolution. Which statement reflects the Code?
+
+A. Bundling is always prohibited.
+B. Separate resolutions should be tabled on each substantially separate issue unless the issues are interdependent and linked into one significant proposal; if bundled, the notice of meeting explains the reasons and material implications.
+C. Bundling is allowed if the Chairman approves it.
+D. The Code says nothing about resolutions; only the Companies Act applies.
+
+**Answer: B.** Provision 11.2. The Provisions under Principle 11 also require all directors to attend general meetings with the external auditors present (11.3), absentia voting (11.4), minutes on the website (11.5) and a dividend policy (11.6).
+*Cite: CODE p16; `ccp-1-1-58`*
 
 ### 1.X Directors: independence and board composition
 
@@ -1851,7 +1907,7 @@ D. Only whether the CEO is satisfied with the controls.
 
 ### 1.XII Remuneration disclosure
 
-Sub-points 1.XII.1–1.XII.2. Real questions: QSQ-G1, Q23-20 (1.XII.2). Own question Q1-29.
+Sub-points 1.XII.1–1.XII.3. Real questions: QSQ-G1, Q23-20 (1.XII.2). Own questions Q1-29, Q1-39.
 
 ### 1.XII.1 — Principle 8; Provisions 8.1–8.3
 
@@ -1900,6 +1956,20 @@ D. I and III only.
 
 **Answer: A.** Same rule as QSQ-G1 (Rule 1207(10D), mandatory from FYs ending on or after 31 Dec 2024).
 *Cite: LM r 1207(10D); `ccp-1-1-46`*
+
+### 1.XII.3 — Principles 6–7: remuneration procedure, level and mix
+
+**Q1-39** · `1.XII.3` · own question · `ccp-1-1-59`
+
+Which statement is consistent with Principles 6 and 7 of the Code?
+
+A. Each executive director may set his own bonus if the RC is informed.
+B. Non-executive directors should receive the same performance-based bonus as executive directors.
+C. A significant and appropriate proportion of executive directors' and key management personnel's pay is linked to corporate and individual performance, while non-executive directors' pay reflects effort, time spent and responsibilities.
+D. A company need not disclose its use of remuneration consultants.
+
+**Answer: C.** Provisions 7.1 and 7.2. A is wrong: no director decides his or her own remuneration (Principle 6). B is wrong: Provision 7.2 ties non-executive pay to contribution. D is wrong: the engagement of remuneration consultants and their independence is disclosed (Provision 6.4).
+*Cite: CODE p10–11; `ccp-1-1-59`*
 
 ### 1.XIII Market conduct (SFA Part 12)
 
@@ -1987,6 +2057,66 @@ D. Twice the profit gained.
 **Answer: B.** s 232(1)–(3), on a balance of probabilities, brought with the Public Prosecutor's consent within 6 years (s 233). A and C are the criminal maxima (ss 204, 221). Contemporaneous traders may also claim compensation (s 234).
 *Cite: SFA12 p29–32 (ss 232–234); `ccp-1-1-51`*
 
+### 1.XIV Circulars, annual reports and electronic communications (Listing Manual Chapter 12)
+
+Sub-points 1.XIV.1–1.XIV.4. No real question; own questions Q1-40 to Q1-43.
+
+### 1.XIV.1 — Circulars and notices of meeting (Rules 1202–1206)
+
+**Q1-40** · `1.XIV.1` · own question · `ccp-1-1-52`
+
+A listed company wants to change its auditors and will put the resolution to an EGM. Which statement is correct?
+
+A. The notice of meeting may be sent to shareholders at once; SGX reviews it afterwards.
+B. The notice must be submitted to SGX for review and may not be circulated until SGX has no objection; it should include, among other things, the outgoing auditors' confirmation whether they know of professional reasons why the new auditors should not accept, and the specific reasons for the change.
+C. Only a circular for an issue of securities needs SGX review.
+D. SGX must complete its review within 5 business days.
+
+**Answer: B.** Rules 1203(5) and 1204. C is wrong: Rule 1203 also covers notices of meeting with the listed resolutions, and Rule 1202 covers circulars on transactions as well as issues of securities. D is wrong: review normally takes 4 weeks and may take longer (Rule 1204).
+*Cite: LM-Ch12 p1; `ccp-1-1-52`*
+
+### 1.XIV.2 — Annual report contents (Rule 1207)
+
+**Q1-41** · `1.XIV.2` · own question · `ccp-1-1-53`
+
+A listed company's controlling shareholder lent S$5 million to its subsidiary during the year, and the loan is still outstanding. What must the annual report contain about it under Rule 1207?
+
+A. Nothing, because the loan is an internal group matter.
+B. Particulars of the material contract, including the names of the lender and borrower, their relationship, the amount, the interest rate, the repayment terms and the security provided.
+C. Only the amount of the loan.
+D. Only a statement that the AC approved it.
+
+**Answer: B.** Rule 1207(8): material contracts involving the interests of the CEO, any director or controlling shareholder, with the loan particulars in (a)–(f); if there are none, a negative statement. (The IPT rules in Chapter 9 may also apply: see `ccp-1-1-30`.)
+*Cite: LM-Ch12 p3; `ccp-1-1-53`*
+
+### 1.XIV.3 — Dealings in securities: black-out periods (Rule 1207(19))
+
+**Q1-42** · `1.XIV.3` · own question · `ccp-1-1-54`
+
+A listed company reports half-yearly only. Its full-year results will be announced on 28 February. Under the best practice that Rule 1207(19) requires it to report on, from when should its officers stop dealing in its shares?
+
+A. 14 January (six weeks before).
+B. 28 January (one month before).
+C. 14 February (two weeks before).
+D. There is no black-out period for half-yearly reporters.
+
+**Answer: B.** For an issuer that does not announce quarterly statements, the period begins one month before the half-year and full-year results (Rule 1207(19)(c)). The two-week period applies to the first three quarters' results of a quarterly reporter.
+*Cite: LM-Ch12 p5; `ccp-1-1-54`*
+
+### 1.XIV.4 — Electronic communications with shareholders (Rules 1208–1212)
+
+**Q1-43** · `1.XIV.4` · own question · `ccp-1-1-55`
+
+A listed company's constitution provides for electronic communications, and it relies on Rule 1209 to put its documents on its website. Which document must it still send to shareholders in physical form?
+
+A. The annual report.
+B. A circular referred to in the notice of meeting.
+C. The notice of the AGM.
+D. None; website publication covers everything.
+
+**Answer: C.** Rule 1210(2): notices of meeting (excluding the circulars or letters they refer to) are sent as physical copies, as are forms and acceptance letters, takeover and rights issue documents and the Rule 1211–1212 notices. The issuer must also send a physical notification of the website publication (Rule 1212).
+*Cite: LM-Ch12 p5–6; `ccp-1-1-55`*
+
 ## 2 · Insolvency & Corporate Restructuring
 
 ### 2.I Liquidation: overview
@@ -2023,7 +2153,7 @@ D. 3 weeks after a statutory demand is served on the debtor.
 
 ### 2.II Compulsory winding up: standing and grounds
 
-Sub-points 2.II.1–2.II.7. Real questions: Q21I-26 (2.II.1), Q21I-3 (2.II.2), QSQ-I3, QSQ-I7, Q23-45, Q21I-17 (2.II.4), QSQ-I1, QSQ-I2, Q23-43 (2.II.6). Own questions Q2-2 to Q2-4.
+Sub-points 2.II.1–2.II.8. Real questions: Q21I-26 (2.II.1), Q21I-3 (2.II.2), QSQ-I3, QSQ-I7, Q23-45, Q21I-17 (2.II.4), QSQ-I1, QSQ-I2, Q23-43 (2.II.6). Own questions Q2-2 to Q2-4, Q2-40.
 
 ### 2.II.1 — Who may apply (s 124(1)); contingent and prospective creditors
 
@@ -2200,6 +2330,20 @@ D. Yes, unless the shareholders object.
 
 **Answer: B.** *BNP Paribas v Jurong Shipyard* at [19]; C overstates it; D has no basis.
 *Cite: INS1 s18; INS-CS1 p15; `ccp-1-2-9`*
+
+### 2.II.8 — Non-core (blue) liquidation cases
+
+**Q2-40** · `2.II.8` · own question · `ccp-1-2-72`
+
+A liquidator adopts a suit the company had started before liquidation and loses. The successful defendant obtains a costs order. Which statement is correct (non-core: blue case)?
+
+A. The defendant's costs rank as an unsecured claim, pari passu with other creditors.
+B. The estate costs rule applies only to suits the liquidator starts, not ones he adopts.
+C. The defendant's costs rank ahead of other liquidation expenses, including the liquidator's remuneration (*Lim Siew Soo v Sembawang Engineers and Constructors* [2021] SGHC 32).
+D. The liquidator's remuneration is always paid first.
+
+**Answer: C.** The rule covers adopted as well as commenced litigation, so B is wrong, and the costs rank ahead of other expenses and unsecured claims, so A and D are wrong. The core rule is in `ccp-1-2-18`.
+*Cite: eLit 2021_SGHC_32 at [7]–[8]; INS1 s35; `ccp-1-2-72`*
 
 ### 2.III Voluntary winding up
 
@@ -2481,7 +2625,7 @@ D. 12 months
 
 ### 2.VII Bankruptcy: application and administration
 
-Sub-points 2.VII.1–2.VII.7. Real questions: Q21I-8 (2.VII.1), QSQ-I5, Q23-47, Q23-48, Q21I-9 (2.VII.2), Q21I-14, Q21I-24 (2.VII.4), Q21I-19 (2.VII.6). Own questions Q2-20 to Q2-22.
+Sub-points 2.VII.1–2.VII.9. Real questions: Q21I-8 (2.VII.1), QSQ-I5, Q23-47, Q23-48, Q21I-9 (2.VII.2), Q21I-14, Q21I-24 (2.VII.4), Q21I-19 (2.VII.6). Own questions Q2-20 to Q2-22, Q2-41, Q2-42.
 
 ### 2.VII.1 — Court's jurisdiction over the debtor (s 310)
 
@@ -2623,6 +2767,34 @@ D. The number of creditors who voted for the trustee.
 **Answer: D.** The fourth factor is the value and nature of the estate's assets. The OA declares and distributes dividends whenever he has sufficient funds (s 385).
 *Cite: INS2 s19, s21; `ccp-1-2-31`*
 
+### 2.VII.8 — Bankruptcy hearing: stay, dismissal, adjournment, withdrawal
+
+**Q2-41** · `2.VII.8` · own question · `ccp-1-2-69`
+
+At the hearing of a creditor's bankruptcy application, the debtor says the debt is disputed and produces evidence raising a triable issue, though his case is thin. Which statement is correct?
+
+A. The Court must make the bankruptcy order unless the debtor proves the debt is not owed.
+B. The debtor need only raise triable issues to obtain a stay or dismissal; if his case is "shadowy", the Court may stay on conditions (*Mohd Zain bin Abdullah v Chimbusco* [2014] 2 SLR 446).
+C. The creditor may withdraw the application at any time without leave.
+D. A bankruptcy application cannot be stayed once filed.
+
+**Answer: B.** Bankruptcy is not a way to enforce a disputed debt, so the standard is triable issues (s 315; *Mohd Zain*). C is wrong: withdrawal needs the Court's leave (s 323). D is wrong: s 315 allows a stay at any time for sufficient reason.
+*Cite: Cel-INS p36, p38; IRDA-2018 ss 315, 323; `ccp-1-2-69`*
+
+### 2.VII.9 — Non-core (blue) bankruptcy cases and rules
+
+**Q2-42** · `2.VII.9` · own question · `ccp-1-2-70`
+
+An undischarged bankrupt files an appeal without first obtaining the Official Assignee's sanction. Halfway through, the OA purports to sanction it. What is the effect (non-core: blue case)?
+
+A. The later sanction validates the appeal retrospectively.
+B. The appeal is valid because a bankrupt may always appeal his own judgments.
+C. The bankrupt lacked standing: s 401(1)(a) requires the OA's previous sanction, which cannot be given retrospectively (*Aathar Ah Kong Andrew v OUE Lippo Healthcare* [2021] SGCA 48; *Standard Chartered Bank v Loh Chong Yong Thomas* [2010] 2 SLR 569).
+D. The appeal is valid if the creditors do not object.
+
+**Answer: C.** "Previous sanction" means prior sanction.
+*Cite: eLit 2021_SGCA_48 at [27]–[38]; `ccp-1-2-70`*
+
 ### 2.VIII Bankruptcy: annulment, discharge and alternatives
 
 Sub-points 2.VIII.1–2.VIII.6. Real questions: Q23-49, Q21I-5 (2.VIII.6). Own questions Q2-23 to Q2-27.
@@ -2730,7 +2902,7 @@ D. III and IV.
 
 ### 2.IX Judicial management
 
-Sub-points 2.IX.1–2.IX.7. Real questions: QSQ-I10, Q23-50 (2.IX.2), QSQ-I9, Q21I-22 (2.IX.3), Q21I-11 (2.IX.5), Q21I-10, Q23-52 (2.IX.6), Q21I-15, Q21I-16, Q23-51, Q21I-30 (2.IX.7). Own questions Q2-28, Q2-29.
+Sub-points 2.IX.1–2.IX.8. Real questions: QSQ-I10, Q23-50 (2.IX.2), QSQ-I9, Q21I-22 (2.IX.3), Q21I-11 (2.IX.5), Q21I-10, Q23-52 (2.IX.6), Q21I-15, Q21I-16, Q23-51, Q21I-30 (2.IX.7). Own questions Q2-28, Q2-29, Q2-43.
 
 ### 2.IX.1 — Aims and features; which companies
 
@@ -2909,9 +3081,23 @@ D. a liquidator can commence a legal proceeding on behalf of the company; a judi
 **Answer: A.** A JM has power to carry on the company's business (First Schedule); a liquidator may do so only so far as necessary for the beneficial winding up (s 144(1)(a)). B: the JM can also apply to set aside preferences and undervalues (ss 224–227). C and D: both officeholders have these powers.
 *Cite: IRDA-2018 s 144(1)(a), First Schedule; INS3 s21; `ccp-1-2-44`, `ccp-1-2-17`, `ccp-1-2-64`*
 
+### 2.IX.8 — Non-core (blue) JM: nominee, interim JM, remuneration and expenses
+
+**Q2-43** · `2.IX.8` · own question · `ccp-1-2-71`
+
+A company applies for judicial management and nominates its own auditor as JM. A majority in number and value of creditors oppose the nominee and propose another licensed insolvency practitioner. Which statement is correct (non-core: blue)?
+
+A. The Court must appoint the company's nominee.
+B. The auditor cannot be nominated, and the Court may appoint the creditors' nominee.
+C. Only the Official Receiver may be appointed.
+D. Creditors have no say in who becomes JM.
+
+**Answer: B.** The nominee must be a licensed insolvency practitioner who is not the company's auditor; where the company nominates, a majority in number and value of creditors may oppose and the Court may appoint their nominee (s 91(3)).
+*Cite: IRDA-2018 pp110–111; Cel-INS p52–53; `ccp-1-2-71`*
+
 ### 2.X Avoidance of antecedent transactions; officers' liability
 
-Sub-points 2.X.1–2.X.9. Real questions: Q21I-26 (2.X.1, under 2.II.1), Q21I-4 (2.X.2), Q23-55, Q21I-28 (2.X.4), Q21I-7 (2.X.5), Q23-57, Q21I-33 (2.X.6), Q21I-12 (2.X.9). Own questions Q2-30 to Q2-33.
+Sub-points 2.X.1–2.X.10. Real questions: Q21I-26 (2.X.1, under 2.II.1), Q21I-4 (2.X.2), Q23-55, Q21I-28 (2.X.4), Q21I-7 (2.X.5), Q23-57, Q21I-33 (2.X.6), Q21I-12 (2.X.9). Own questions Q2-30 to Q2-33, Q2-44.
 
 ### 2.X.1 — Unfair preference: elements (s 225)
 
@@ -3065,9 +3251,23 @@ D. Yaz will not be liable for wrongful trading under section 239 of the IRDA unl
 **Answer: A.** An insolvent company that incurs debts without reasonable prospect of meeting them trades wrongfully, and a person knowingly party may be made personally liable (s 239). B: dishonesty is for fraudulent trading. C: liability attaches to being party to the trading, not to holding office at the winding up. D: no conviction is needed.
 *Cite: IRDA s 239; INS4 s28–29; `ccp-1-2-53`*
 
+### 2.X.10 — Non-core (blue) avoidance cases
+
+**Q2-44** · `2.X.10` · own question · `ccp-1-2-73`
+
+A bank pressed an insolvent company hard for repayment, and the company paid the bank ahead of other creditors. In a later unfair preference claim, which statement reflects *Rabobank v Jurong Technologies* [2011] 4 SLR 977 (non-core: blue case)?
+
+A. Creditor pressure always negates a desire to prefer.
+B. A desire to prefer may still be found despite the creditor's pressure; a genuine commercial purpose is sufficient, but not necessary, to rebut it.
+C. A payment to a bank can never be a preference.
+D. Desire to prefer must be the dominant intention.
+
+**Answer: B.** The test is whether the decision was influenced by a desire to prefer; it need not be the dominant intention (D is wrong).
+*Cite: INS4 s13; NIC-INS p25; `ccp-1-2-73`, `ccp-1-2-45`*
+
 ### 2.XI Schemes of arrangement
 
-Sub-points 2.XI.1–2.XI.8. Real questions: Q23-58, Q21I-23 (2.XI.2), Q23-59, QSQ-I8 (2.XI.5), Q21I-6 (2.XI.6), Q23-60 (2.XI.7, 2.XI.3), Q21I-20 (2.XI.8). Own questions Q2-34, Q2-35.
+Sub-points 2.XI.1–2.XI.9. Real questions: Q23-58, Q21I-23 (2.XI.2), Q23-59, QSQ-I8 (2.XI.5), Q21I-6 (2.XI.6), Q23-60 (2.XI.7, 2.XI.3), Q21I-20 (2.XI.8). Own questions Q2-34, Q2-35, Q2-45.
 
 ### 2.XI.1 — What a scheme is; which companies; key steps
 
@@ -3203,9 +3403,23 @@ D. approved by the directors of the company.
 **Answer: A.** The order takes effect when a copy is lodged with the Registrar (or from an earlier date the Court specifies) (s 210(5) CA). (The candidate's selection, B, is wrong; the candidate's own note says "Needs to be lodged".)
 *Cite: INS5 s18–22; `ccp-1-2-61`*
 
+### 2.XI.9 — Non-core (blue) scheme cases
+
+**Q2-45** · `2.XI.9` · own question · `ccp-1-2-74`
+
+A company's scheme of arrangement is sanctioned. It says nothing about the personal guarantees its directors gave to a creditor. Can the creditor still sue the directors on the guarantees (non-core: blue case)?
+
+A. No; a scheme automatically releases all guarantors.
+B. Yes; third-party liabilities such as directors' guarantees are not discharged unless the scheme expressly says so (*Econ Piling v Sambo E&C* [2010] 3 SLR 764).
+C. No, because the creditor voted for the scheme.
+D. Only with the leave of the scheme manager.
+
+**Answer: B.** A scheme can alter or extinguish third-party rights or liabilities only if it says so (*Daewoo Singapore v CEL Tractors* [2001] 2 SLR(R) 791).
+*Cite: NIC-INS p34; Timo p101; `ccp-1-2-74`*
+
 ### 2.XII Rescue financing and ipso facto clauses
 
-Sub-points 2.XII.1–2.XII.2. No real question kept (2021 INS Q34 is left out); own questions Q2-36, Q2-37.
+Sub-points 2.XII.1–2.XII.2. Real question: Q21I-34 (2.XII.2). Own questions Q2-36, Q2-37.
 
 ### 2.XII.1 — Rescue financing and super priority (ss 67, 101)
 
@@ -3235,6 +3449,18 @@ D. Yes, if it gives 30 days' notice.
 **Answer: B.** s 440(1)–(3) covers scheme, moratorium and JM proceedings (not winding up, so C is wrong); the Court may disapply it for significant financial hardship (s 440(4)), and certain contracts and companies are excluded (s 440(5)).
 *Cite: IRDA s 440; INS-CS1 p62; `ccp-1-2-63`*
 
+**Q21I-34** · `2.XII.2` · 2021 INS Q34 · `ccp-1-2-63`
+
+Company Z entered into a contract with Company Alpha for the maintenance of aircraft equipment. After Company Z commenced a creditors' voluntary liquidation, Company Alpha wishes to rely on a term in the contract which allows it to terminate the contract solely because of the liquidation of Company Z. Which of the following is correct?
+
+A. Company Alpha cannot do so because of section 440 of the IRDA.
+B. Company Alpha can do so because section 440 of the IRDA does not apply to contracts for the maintenance of aircraft equipment.
+C. Company Alpha can do so because such right of termination is stated in the contract.
+D. Company Alpha cannot do so if Company Z can show it would suffer significant financial hardship.
+
+**Answer: C** (no official key; this project's answer from the statute). Section 440 protects only against termination because restructuring "proceedings" have begun, and s 440(6) defines these as a scheme application (s 210(1) CA or s 71), a moratorium application (ss 64–65), a JM application or an interim JM's appointment. A winding up, voluntary or compulsory, is not among them, so the contractual right can be used. A and D are wrong for the same reason; D also misdescribes s 440(4), under which the *counterparty* may ask the Court to disapply the section for its own hardship. B gives the wrong reason: the s 440(5)(e) carve-out is for agreements within the meaning of the Cape Town Convention (International Interests in Aircraft Equipment Act), i.e. interests in aircraft objects, not a maintenance contract. (The earlier candidate's selection, B, is not a key.)
+*Cite: IRDA-2018 s 440(4)–(6) (p463–464); INS-CS1 p62; `ccp-1-2-63`*
+
 ### 2.XIII Choosing a procedure
 
 Sub-point 2.XIII.1. Real question: Q21I-30 (under 2.IX.7). Own question Q2-38.
@@ -3257,7 +3483,7 @@ D. A creditors' voluntary winding up.
 
 ### 2.XIV Cross-border insolvency
 
-Sub-points 2.XIV.1–2.XIV.4. Real questions: Q21I-13, Q21I-29 (2.XIV.1), QSQ-I6 (2.XIV.2), Q21I-31 (2.XIV.4). Own question Q2-39.
+Sub-points 2.XIV.1–2.XIV.5. Real questions: Q21I-13, Q21I-29 (2.XIV.1), QSQ-I6 (2.XIV.2), Q21I-31 (2.XIV.4). Own questions Q2-39, Q2-46.
 
 ### 2.XIV.1 — UNCITRAL Model Law: recognition, COMI, main and non-main proceedings, relief
 
@@ -3326,6 +3552,20 @@ D. if it has chosen Singapore law to govern its loan agreements.
 
 **Answer: D.** A foreign company may use JM if it is liable to be wound up in Singapore, i.e. has a substantial connection (s 88 IRDA "company"; s 246), and choosing Singapore law to govern a loan is a substantial-connection factor (s 246(3)(e)). B: COMI is one factor, not a requirement. A and C have no basis.
 *Cite: IRDA ss 88, 246(3); INS6 s15–18; `ccp-1-2-68`*
+
+### 2.XIV.5 — Non-core (blue) cross-border cases
+
+**Q2-46** · `2.XIV.5` · own question · `ccp-1-2-75`
+
+A Malaysian winding-up is recognised in Singapore as a foreign main proceeding. A bank with apparent security over the company's Singapore assets wants to continue its Singapore action. Which statement reflects *United Securities v UOB* [2021] SGCA 78 (non-core: blue case)?
+
+A. Recognition bars the bank's action absolutely.
+B. The Article 20 stay works like a Singapore winding-up stay, so a prima facie secured creditor may be given leave to proceed.
+C. Recognition is refused whenever a secured creditor objects.
+D. Secured creditors are never affected by recognition.
+
+**Answer: B.** The Art 20 stay is equivalent to the stay in a Singapore winding up, so a secured creditor can get leave to continue.
+*Cite: eLit 2021_SGCA_78 at [30]–[48]; `ccp-1-2-75`, `ccp-1-2-65`*
 
 ## 3 · Admiralty
 
@@ -3884,30 +4124,30 @@ D) Le Blues will not be entitled to an award of damages for wrongful arrest beca
 
 # Part 2 — Drills
 
-Timed sets built only from Part 1 questions; find each by its ID (Ctrl-F the ID). Sit the set closed-book first, then check against the answer key and the explanation in Part 1, and log every miss in `weak-spots.md` under its Key. **Time limits** use the real exam's pace: the 2023 CCP Paper 1 instruction sheet gives 60 MCQs in two hours, so each Drill allows 2 minutes per question, rounded up to the next 5 minutes. Drills 1–10 run by Topic and together use every one of the 260 questions in Part 1 once. Drills 11–14 re-use them as mixed mocks: Drill 11 is the 40 Sample Questions with the official key; Drill 12 is the 51 held questions of the 2023 paper in their original order (its Subject split was Banking 18, Corporate Governance 19, Admiralty 5, Insolvency 18), the closest thing to a full sitting; Drill 13 is the 2021 Insolvency MCQs; Drill 14 samples the own questions across all four Subjects.
+Timed sets built only from Part 1 questions; find each by its ID (Ctrl-F the ID). Sit the set closed-book first, then check against the answer key and the explanation in Part 1, and log every miss in `weak-spots.md` under its Key. **Time limits** use the real exam's pace: the 2023 CCP Paper 1 instruction sheet gives 60 MCQs in two hours, so each Drill allows 2 minutes per question, rounded up to the next 5 minutes. Drills 1–10 run by Topic and together use every one of the 277 questions in Part 1 once. Drills 11–14 re-use them as mixed mocks: Drill 11 is the 40 Sample Questions with the official key; Drill 12 is the 51 held questions of the 2023 paper in their original order (its Subject split was Banking 18, Corporate Governance 19, Admiralty 5, Insolvency 18), the closest thing to a full sitting; Drill 13 is the 2021 Insolvency MCQs; Drill 14 samples the own questions across all four Subjects.
 
 | Drill | Covers | Questions | Time |
 |---|---|---|---|
-| 1 | Banking & Fundraising: corporate finance, bank lending, facility agreement, security (0.I–0.IV) | 33 | 70 min |
+| 1 | Banking & Fundraising: corporate finance, bank lending, facility agreement, security (0.I–0.IV) | 34 | 70 min |
 | 2 | Banking & Fundraising: bonds, prospectus exemptions, private equity, IPO (0.V–0.IX) | 32 | 65 min |
 | 3 | Corporate Governance: introduction, disclosure, announcements, reporting (1.I–1.VI) | 21 | 45 min |
-| 4 | Corporate Governance: interested person transactions and the Code (1.VII–1.IX) | 17 | 35 min |
-| 5 | Corporate Governance: directors, committees, remuneration, market conduct (1.X–1.XIII) | 24 | 50 min |
-| 6 | Insolvency: liquidation, winding up, liquidator, distribution (2.I–2.VI) | 36 | 75 min |
-| 7 | Insolvency: bankruptcy and its alternatives (2.VII–2.VIII) | 18 | 40 min |
-| 8 | Insolvency: judicial management and avoidance (2.IX–2.X) | 24 | 50 min |
-| 9 | Insolvency: schemes, rescue financing, ipso facto, choosing a procedure, cross-border (2.XI–2.XIV) | 17 | 35 min |
+| 4 | Corporate Governance: interested person transactions and the Code (1.VII–1.IX) | 20 | 40 min |
+| 5 | Corporate Governance: directors, committees, remuneration, market conduct, Chapter 12 (1.X–1.XIV) | 29 | 60 min |
+| 6 | Insolvency: liquidation, winding up, liquidator, distribution (2.I–2.VI) | 37 | 75 min |
+| 7 | Insolvency: bankruptcy and its alternatives (2.VII–2.VIII) | 20 | 40 min |
+| 8 | Insolvency: judicial management and avoidance (2.IX–2.X) | 26 | 55 min |
+| 9 | Insolvency: schemes, rescue financing, ipso facto, choosing a procedure, cross-border (2.XI–2.XIV) | 20 | 40 min |
 | 10 | Admiralty: all Topics (3.I–3.VII) | 38 | 80 min |
 | 11 | Mixed mock: all 40 Sample Questions, official key | 40 | 80 min |
 | 12 | Mixed mock: the 2023 CCP Paper 1 questions held, in paper order | 51 | 105 min |
-| 13 | Insolvency mock: the 2021 INS MCQs held, in paper order | 32 | 65 min |
+| 13 | Insolvency mock: the 2021 INS MCQs held, in paper order | 33 | 70 min |
 | 14 | Mixed mock: own questions across all four Subjects | 43 | 90 min |
 
-### Drill 1 — Banking & Fundraising: corporate finance, bank lending, facility agreement, security (0.I–0.IV) · 33 questions · 70 minutes
+### Drill 1 — Banking & Fundraising: corporate finance, bank lending, facility agreement, security (0.I–0.IV) · 34 questions · 70 minutes
 
-**Questions:** Q0-1, Q0-2, QSQ-B1, QSQ-B6, Q23-1, Q23-2, Q0-3, QSQ-B2, Q23-3, Q23-4, Q0-4, QSQ-B10, Q23-7, Q0-5, Q0-6, QSQ-B3, Q0-7, Q0-8, Q0-9, QSQ-B4, Q23-5, Q0-10, Q0-11, QSQ-B8, Q0-12, QSQ-B9, Q0-13, Q23-6, Q0-14, Q0-15, Q0-16, Q0-17, Q0-18.
+**Questions:** Q0-1, Q0-2, QSQ-B1, QSQ-B6, Q23-1, Q23-2, Q0-3, QSQ-B2, Q23-3, Q23-4, Q0-4, QSQ-B10, Q23-7, Q0-5, Q0-6, QSQ-B3, Q0-7, Q0-8, Q0-9, QSQ-B4, Q23-5, Q0-10, Q0-11, QSQ-B8, Q0-12, QSQ-B9, Q0-13, Q23-6, Q0-14, Q0-15, Q0-16, Q0-17, Q0-18, Q0-38.
 
-**Answer key:** Q0-1 D · Q0-2 B · QSQ-B1 A · QSQ-B6 A · Q23-1 A · Q23-2 C · Q0-3 B · QSQ-B2 A · Q23-3 C · Q23-4 C · Q0-4 B · QSQ-B10 A · Q23-7 D · Q0-5 C · Q0-6 C · QSQ-B3 A · Q0-7 B · Q0-8 B · Q0-9 B · QSQ-B4 A · Q23-5 C · Q0-10 B · Q0-11 B · QSQ-B8 D · Q0-12 B · QSQ-B9 A · Q0-13 B · Q23-6 D · Q0-14 B · Q0-15 B · Q0-16 B · Q0-17 B · Q0-18 B.
+**Answer key:** Q0-1 D · Q0-2 B · QSQ-B1 A · QSQ-B6 A · Q23-1 A · Q23-2 C · Q0-3 B · QSQ-B2 A · Q23-3 C · Q23-4 C · Q0-4 B · QSQ-B10 A · Q23-7 D · Q0-5 C · Q0-6 C · QSQ-B3 A · Q0-7 B · Q0-8 B · Q0-9 B · QSQ-B4 A · Q23-5 C · Q0-10 B · Q0-11 B · QSQ-B8 D · Q0-12 B · QSQ-B9 A · Q0-13 B · Q23-6 D · Q0-14 B · Q0-15 B · Q0-16 B · Q0-17 B · Q0-18 B · Q0-38 B.
 
 ### Drill 2 — Banking & Fundraising: bonds, prospectus exemptions, private equity, IPO (0.V–0.IX) · 32 questions · 65 minutes
 
@@ -3921,41 +4161,41 @@ Timed sets built only from Part 1 questions; find each by its ID (Ctrl-F the ID)
 
 **Answer key:** Q1-1 C · Q1-2 B · Q1-3 B · Q1-4 B · Q1-5 B · Q1-6 B · Q1-7 B · Q23-19 D · QSQ-G7 B · Q1-8 B · QSQ-G2 D · QSQ-G10 D · Q1-9 B · Q1-10 B · QSQ-G3 B · Q23-21 C · Q1-11 A · Q23-27 C · Q23-25 C · Q1-12 B · Q1-13 B.
 
-### Drill 4 — Corporate Governance: interested person transactions and the Code (1.VII–1.IX) · 17 questions · 35 minutes
+### Drill 4 — Corporate Governance: interested person transactions and the Code (1.VII–1.IX) · 20 questions · 40 minutes
 
-**Questions:** Q1-14, Q1-15, QSQ-G5, Q23-30, Q23-32, QSQ-G8, Q1-16, Q1-17, Q1-18, Q1-19, Q1-20, Q1-21, Q1-22, Q1-23, QSQ-G9, Q23-29, Q1-24.
+**Questions:** Q1-14, Q1-15, QSQ-G5, Q23-30, Q23-32, QSQ-G8, Q1-16, Q1-17, Q1-18, Q1-19, Q1-20, Q1-21, Q1-22, Q1-23, QSQ-G9, Q23-29, Q1-24, Q1-36, Q1-37, Q1-38.
 
-**Answer key:** Q1-14 B · Q1-15 D · QSQ-G5 D · Q23-30 A · Q23-32 B · QSQ-G8 B · Q1-16 B · Q1-17 B · Q1-18 B · Q1-19 B · Q1-20 B · Q1-21 B · Q1-22 B · Q1-23 B · QSQ-G9 B · Q23-29 A · Q1-24 C.
+**Answer key:** Q1-14 B · Q1-15 D · QSQ-G5 D · Q23-30 A · Q23-32 B · QSQ-G8 B · Q1-16 B · Q1-17 B · Q1-18 B · Q1-19 B · Q1-20 B · Q1-21 B · Q1-22 B · Q1-23 B · QSQ-G9 B · Q23-29 A · Q1-24 C · Q1-36 D · Q1-37 B · Q1-38 B.
 
-### Drill 5 — Corporate Governance: directors, committees, remuneration, market conduct (1.X–1.XIII) · 24 questions · 50 minutes
+### Drill 5 — Corporate Governance: directors, committees, remuneration, market conduct, Chapter 12 (1.X–1.XIV) · 29 questions · 60 minutes
 
-**Questions:** Q1-25, QSQ-G4, QSQ-G6, Q23-24, Q23-28, Q23-22, Q23-31, Q1-26, Q1-27, Q23-35, Q23-33, Q23-37, Q23-36, Q23-26, Q1-28, Q1-29, QSQ-G1, Q23-20, Q1-30, Q1-31, Q1-32, Q1-33, Q1-34, Q1-35.
+**Questions:** Q1-25, QSQ-G4, QSQ-G6, Q23-24, Q23-28, Q23-22, Q23-31, Q1-26, Q1-27, Q23-35, Q23-33, Q23-37, Q23-36, Q23-26, Q1-28, Q1-29, QSQ-G1, Q23-20, Q1-30, Q1-31, Q1-32, Q1-33, Q1-34, Q1-35, Q1-39, Q1-40, Q1-41, Q1-42, Q1-43.
 
-**Answer key:** Q1-25 B · QSQ-G4 D · QSQ-G6 D · Q23-24 C · Q23-28 C · Q23-22 B · Q23-31 A · Q1-26 B · Q1-27 C · Q23-35 D · Q23-33 B · Q23-37 C · Q23-36 B · Q23-26 D · Q1-28 B · Q1-29 B · QSQ-G1 A · Q23-20 A · Q1-30 A · Q1-31 A · Q1-32 B · Q1-33 B · Q1-34 B · Q1-35 B.
+**Answer key:** Q1-25 B · QSQ-G4 D · QSQ-G6 D · Q23-24 C · Q23-28 C · Q23-22 B · Q23-31 A · Q1-26 B · Q1-27 C · Q23-35 D · Q23-33 B · Q23-37 C · Q23-36 B · Q23-26 D · Q1-28 B · Q1-29 B · QSQ-G1 A · Q23-20 A · Q1-30 A · Q1-31 A · Q1-32 B · Q1-33 B · Q1-34 B · Q1-35 B · Q1-39 C · Q1-40 B · Q1-41 B · Q1-42 B · Q1-43 C.
 
-### Drill 6 — Insolvency: liquidation, winding up, liquidator, distribution (2.I–2.VI) · 36 questions · 75 minutes
+### Drill 6 — Insolvency: liquidation, winding up, liquidator, distribution (2.I–2.VI) · 37 questions · 75 minutes
 
-**Questions:** Q2-1, Q21I-25, Q21I-26, Q2-2, Q21I-3, Q2-3, Q2-4, QSQ-I3, Q23-45, Q21I-17, QSQ-I7, Q2-5, QSQ-I1, Q23-43, QSQ-I2, Q2-6, Q2-7, Q21I-21, Q2-8, Q2-9, Q2-10, QSQ-I4, Q23-46, Q21I-18, Q21I-35, Q2-11, Q2-12, Q2-13, Q2-14, Q2-15, Q2-16, Q2-17, Q2-18, Q21I-2, Q2-19, Q21I-27.
+**Questions:** Q2-1, Q21I-25, Q21I-26, Q2-2, Q21I-3, Q2-3, Q2-4, QSQ-I3, Q23-45, Q21I-17, QSQ-I7, Q2-5, QSQ-I1, Q23-43, QSQ-I2, Q2-6, Q2-7, Q21I-21, Q2-8, Q2-9, Q2-10, QSQ-I4, Q23-46, Q21I-18, Q21I-35, Q2-11, Q2-12, Q2-13, Q2-14, Q2-15, Q2-16, Q2-17, Q2-18, Q21I-2, Q2-19, Q21I-27, Q2-40.
 
-**Answer key:** Q2-1 B · Q21I-25 A · Q21I-26 B · Q2-2 B · Q21I-3 C · Q2-3 D · Q2-4 B · QSQ-I3 A · Q23-45 B · Q21I-17 C · QSQ-I7 D · Q2-5 B · QSQ-I1 C · Q23-43 D · QSQ-I2 D · Q2-6 B · Q2-7 B · Q21I-21 A · Q2-8 B · Q2-9 B · Q2-10 B · QSQ-I4 D · Q23-46 D · Q21I-18 D · Q21I-35 C · Q2-11 B · Q2-12 B · Q2-13 B · Q2-14 B · Q2-15 B · Q2-16 B · Q2-17 C · Q2-18 C · Q21I-2 A · Q2-19 B · Q21I-27 D.
+**Answer key:** Q2-1 B · Q21I-25 A · Q21I-26 B · Q2-2 B · Q21I-3 C · Q2-3 D · Q2-4 B · QSQ-I3 A · Q23-45 B · Q21I-17 C · QSQ-I7 D · Q2-5 B · QSQ-I1 C · Q23-43 D · QSQ-I2 D · Q2-6 B · Q2-7 B · Q21I-21 A · Q2-8 B · Q2-9 B · Q2-10 B · QSQ-I4 D · Q23-46 D · Q21I-18 D · Q21I-35 C · Q2-11 B · Q2-12 B · Q2-13 B · Q2-14 B · Q2-15 B · Q2-16 B · Q2-17 C · Q2-18 C · Q21I-2 A · Q2-19 B · Q21I-27 D · Q2-40 C.
 
-### Drill 7 — Insolvency: bankruptcy and its alternatives (2.VII–2.VIII) · 18 questions · 40 minutes
+### Drill 7 — Insolvency: bankruptcy and its alternatives (2.VII–2.VIII) · 20 questions · 40 minutes
 
-**Questions:** Q21I-8, QSQ-I5, Q23-47, Q21I-9, Q23-48, Q2-20, Q21I-14, Q21I-24, Q2-21, Q21I-19, Q2-22, Q2-23, Q2-24, Q2-25, Q2-26, Q2-27, Q21I-5, Q23-49.
+**Questions:** Q21I-8, QSQ-I5, Q23-47, Q21I-9, Q23-48, Q2-20, Q21I-14, Q21I-24, Q2-21, Q21I-19, Q2-22, Q2-23, Q2-24, Q2-25, Q2-26, Q2-27, Q21I-5, Q23-49, Q2-41, Q2-42.
 
-**Answer key:** Q21I-8 A · QSQ-I5 C · Q23-47 B · Q21I-9 A · Q23-48 D · Q2-20 B · Q21I-14 B · Q21I-24 C · Q2-21 B · Q21I-19 C · Q2-22 D · Q2-23 B · Q2-24 B · Q2-25 B · Q2-26 C · Q2-27 B · Q21I-5 D · Q23-49 D.
+**Answer key:** Q21I-8 A · QSQ-I5 C · Q23-47 B · Q21I-9 A · Q23-48 D · Q2-20 B · Q21I-14 B · Q21I-24 C · Q2-21 B · Q21I-19 C · Q2-22 D · Q2-23 B · Q2-24 B · Q2-25 B · Q2-26 C · Q2-27 B · Q21I-5 D · Q23-49 D · Q2-41 B · Q2-42 C.
 
-### Drill 8 — Insolvency: judicial management and avoidance (2.IX–2.X) · 24 questions · 50 minutes
+### Drill 8 — Insolvency: judicial management and avoidance (2.IX–2.X) · 26 questions · 55 minutes
 
-**Questions:** Q2-28, QSQ-I10, Q23-50, QSQ-I9, Q21I-22, Q2-29, Q21I-11, Q21I-10, Q23-52, Q21I-15, Q21I-16, Q23-51, Q21I-30, Q2-30, Q21I-4, Q2-31, Q21I-28, Q23-55, Q21I-7, Q23-57, Q21I-33, Q2-32, Q2-33, Q21I-12.
+**Questions:** Q2-28, QSQ-I10, Q23-50, QSQ-I9, Q21I-22, Q2-29, Q21I-11, Q21I-10, Q23-52, Q21I-15, Q21I-16, Q23-51, Q21I-30, Q2-30, Q21I-4, Q2-31, Q21I-28, Q23-55, Q21I-7, Q23-57, Q21I-33, Q2-32, Q2-33, Q21I-12, Q2-43, Q2-44.
 
-**Answer key:** Q2-28 B · QSQ-I10 D · Q23-50 D · QSQ-I9 C · Q21I-22 B · Q2-29 B · Q21I-11 C · Q21I-10 D · Q23-52 B · Q21I-15 B · Q21I-16 A · Q23-51 C · Q21I-30 A · Q2-30 B · Q21I-4 D · Q2-31 B · Q21I-28 B · Q23-55 A · Q21I-7 B · Q23-57 A · Q21I-33 C · Q2-32 B · Q2-33 B · Q21I-12 A.
+**Answer key:** Q2-28 B · QSQ-I10 D · Q23-50 D · QSQ-I9 C · Q21I-22 B · Q2-29 B · Q21I-11 C · Q21I-10 D · Q23-52 B · Q21I-15 B · Q21I-16 A · Q23-51 C · Q21I-30 A · Q2-30 B · Q21I-4 D · Q2-31 B · Q21I-28 B · Q23-55 A · Q21I-7 B · Q23-57 A · Q21I-33 C · Q2-32 B · Q2-33 B · Q21I-12 A · Q2-43 B · Q2-44 B.
 
-### Drill 9 — Insolvency: schemes, rescue financing, ipso facto, choosing a procedure, cross-border (2.XI–2.XIV) · 17 questions · 35 minutes
+### Drill 9 — Insolvency: schemes, rescue financing, ipso facto, choosing a procedure, cross-border (2.XI–2.XIV) · 20 questions · 40 minutes
 
-**Questions:** Q2-34, Q23-58, Q21I-23, Q2-35, QSQ-I8, Q23-59, Q21I-6, Q23-60, Q21I-20, Q2-36, Q2-37, Q2-38, Q21I-13, Q21I-29, QSQ-I6, Q2-39, Q21I-31.
+**Questions:** Q2-34, Q23-58, Q21I-23, Q2-35, QSQ-I8, Q23-59, Q21I-6, Q23-60, Q21I-20, Q2-36, Q2-37, Q2-38, Q21I-13, Q21I-29, QSQ-I6, Q2-39, Q21I-31, Q2-45, Q21I-34, Q2-46.
 
-**Answer key:** Q2-34 B · Q23-58 B · Q21I-23 B · Q2-35 B · QSQ-I8 D · Q23-59 B · Q21I-6 C · Q23-60 C · Q21I-20 A · Q2-36 B · Q2-37 B · Q2-38 B · Q21I-13 C · Q21I-29 C · QSQ-I6 A · Q2-39 B · Q21I-31 D.
+**Answer key:** Q2-34 B · Q23-58 B · Q21I-23 B · Q2-35 B · QSQ-I8 D · Q23-59 B · Q21I-6 C · Q23-60 C · Q21I-20 A · Q2-36 B · Q2-37 B · Q2-38 B · Q21I-13 C · Q21I-29 C · QSQ-I6 A · Q2-39 B · Q21I-31 D · Q2-45 B · Q21I-34 C · Q2-46 B.
 
 ### Drill 10 — Admiralty: all Topics (3.I–3.VII) · 38 questions · 80 minutes
 
@@ -3975,11 +4215,11 @@ Timed sets built only from Part 1 questions; find each by its ID (Ctrl-F the ID)
 
 **Answer key:** Q23-1 A · Q23-2 C · Q23-3 C · Q23-4 C · Q23-5 C · Q23-6 D · Q23-7 D · Q23-8 D · Q23-9 B · Q23-10 A · Q23-11 D · Q23-12 C · Q23-13 A · Q23-14 D · Q23-15 D · Q23-16 C · Q23-17 D · Q23-18 B · Q23-19 D · Q23-20 A · Q23-21 C · Q23-22 B · Q23-24 C · Q23-25 C · Q23-26 D · Q23-27 C · Q23-28 C · Q23-29 A · Q23-30 A · Q23-31 A · Q23-32 B · Q23-33 B · Q23-35 D · Q23-36 B · Q23-37 C · Q23-39 A · Q23-40 C · Q23-43 D · Q23-45 B · Q23-46 D · Q23-47 B · Q23-48 D · Q23-49 D · Q23-50 D · Q23-51 C · Q23-52 B · Q23-55 A · Q23-57 A · Q23-58 B · Q23-59 B · Q23-60 C.
 
-### Drill 13 — Insolvency mock: the 2021 INS MCQs held, in paper order · 32 questions · 65 minutes
+### Drill 13 — Insolvency mock: the 2021 INS MCQs held, in paper order · 33 questions · 70 minutes
 
-**Questions:** Q21I-2, Q21I-3, Q21I-4, Q21I-5, Q21I-6, Q21I-7, Q21I-8, Q21I-9, Q21I-10, Q21I-11, Q21I-12, Q21I-13, Q21I-14, Q21I-15, Q21I-16, Q21I-17, Q21I-18, Q21I-19, Q21I-20, Q21I-21, Q21I-22, Q21I-23, Q21I-24, Q21I-25, Q21I-26, Q21I-27, Q21I-28, Q21I-29, Q21I-30, Q21I-31, Q21I-33, Q21I-35.
+**Questions:** Q21I-2, Q21I-3, Q21I-4, Q21I-5, Q21I-6, Q21I-7, Q21I-8, Q21I-9, Q21I-10, Q21I-11, Q21I-12, Q21I-13, Q21I-14, Q21I-15, Q21I-16, Q21I-17, Q21I-18, Q21I-19, Q21I-20, Q21I-21, Q21I-22, Q21I-23, Q21I-24, Q21I-25, Q21I-26, Q21I-27, Q21I-28, Q21I-29, Q21I-30, Q21I-31, Q21I-33, Q21I-34, Q21I-35.
 
-**Answer key:** Q21I-2 A · Q21I-3 C · Q21I-4 D · Q21I-5 D · Q21I-6 C · Q21I-7 B · Q21I-8 A · Q21I-9 A · Q21I-10 D · Q21I-11 C · Q21I-12 A · Q21I-13 C · Q21I-14 B · Q21I-15 B · Q21I-16 A · Q21I-17 C · Q21I-18 D · Q21I-19 C · Q21I-20 A · Q21I-21 A · Q21I-22 B · Q21I-23 B · Q21I-24 C · Q21I-25 A · Q21I-26 B · Q21I-27 D · Q21I-28 B · Q21I-29 C · Q21I-30 A · Q21I-31 D · Q21I-33 C · Q21I-35 C.
+**Answer key:** Q21I-2 A · Q21I-3 C · Q21I-4 D · Q21I-5 D · Q21I-6 C · Q21I-7 B · Q21I-8 A · Q21I-9 A · Q21I-10 D · Q21I-11 C · Q21I-12 A · Q21I-13 C · Q21I-14 B · Q21I-15 B · Q21I-16 A · Q21I-17 C · Q21I-18 D · Q21I-19 C · Q21I-20 A · Q21I-21 A · Q21I-22 B · Q21I-23 B · Q21I-24 C · Q21I-25 A · Q21I-26 B · Q21I-27 D · Q21I-28 B · Q21I-29 C · Q21I-30 A · Q21I-31 D · Q21I-33 C · Q21I-34 C · Q21I-35 C.
 
 ### Drill 14 — Mixed mock: own questions across all four Subjects · 43 questions · 90 minutes
 
