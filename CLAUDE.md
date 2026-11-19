@@ -37,9 +37,12 @@ tracker** artifact (<https://claude.ai/artifact/QKBF5HvcsMUjirCfmZAMzK>), which 
 - **Phases (`PRD.md` §7):** Phase 1 (Markdown packs) and Phase 2 (PDFs, Model Q&A,
   Practice Packs) are both done for all 8 papers (Bennett, 18 Nov). Bennett practises from
   the PDFs, so any Markdown fix now means: run `build_pack.py <paper-id> --check`, rebuild
-  the affected PDF, and save it as the next version beside the old one
-  (e.g. `drpm-reference-pack-v2.pdf` → `-v3.pdf`; the builder writes `reference-pack.pdf`,
-  so rename it). For `drp-w` use the pack folder, `drp-w-cl` or `drp-w-wa`.
+  the affected PDF, save it as the next version and delete the old one (Bennett, 19 Nov)
+  (e.g. `drpm-reference-pack-v3.pdf` → `-v4.pdf`, `drpm-model-questions-v1.pdf` → `-v2.pdf`;
+  the builder writes `reference-pack.pdf` / `model-questions.pdf`, so rename them). Practice
+  PDFs (`<paper-id>-practice.pdf`) are unversioned and overwritten. For `drp-w` use the pack
+  folder, `drp-w-cl` or `drp-w-wa`; `--questions` needs `model-questions.md`, so copy
+  `cl-`/`wa-model-questions.md` to that name for the build and delete the copy.
 - **Building a Reference Pack (Phase 2):** `python3 tools/build_pack.py <paper-id>` — the only
   builder; paper sessions run it, never edit it. The PDF is generated and git-ignored. `--questions` builds `model-questions.pdf` from
   `model-questions.md` the same way. Every paper gets both PDFs (Bennett, 5 Nov). For `eth-w`, `model-questions.md` is generated:
